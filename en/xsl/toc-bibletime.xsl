@@ -246,7 +246,7 @@
 					<xsl:with-param name="page" select="$target"/>
 					<xsl:with-param name="relpath" select="$relpath"/>
 					<xsl:with-param name="linktext">
-						<img src="{$preceding-icon}" alt="{$preceding-text}" border="0"/>
+						<img src="{$preceding-icon}" alt="{$preceding-text}"/>
 					</xsl:with-param>
 				</xsl:call-template>
 			</xsl:when>
