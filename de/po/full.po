@@ -25,13 +25,14 @@
 # Joachim Ansorg, 2004.
 # Joachim Ansorg, 2004.
 # Joachim Ansorg, 2004.
+# Joachim Ansorg, 2004.
 # Martin Gruner <mg.pub@gmx.net>, 2004.
 # Joachim Ansorg, 2004.
 msgid ""
 msgstr ""
 "Project-Id-Version: full\n"
 "POT-Creation-Date: 2001-02-09 01:25+0100\n"
-"PO-Revision-Date: 2004-04-16 21:02+0200\n"
+"PO-Revision-Date: 2004-04-18 20:20+0200\n"
 "Last-Translator: Joachim Ansorg\n"
 "Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -2143,7 +2144,7 @@ msgstr "Einige Module enthalten nur den Text des Alten oder Neuen Testamentes. N
 #: software_gallery.xml:16
 #, no-c-format
 msgid "This page refers to BibleTime 1.2 and needs to be updated soon, as display quality has improved a lot in the meantime."
-msgstr ""
+msgstr "Diese Seite bezieht sich noch auf BibleTime 1.2 und benötigt ein Update, da die Anzeigequalität in der Zwischenzeit verbessert werden konnte."
 
 #. Tag: para
 #: software_gallery.xml:19
@@ -4042,3 +4043,4 @@ msgstr "Wenn eine Übersetzung des Handbuches in ihrer Sprache noch nicht existi
 #, fuzzy
 #~ msgid "Sword CD order sent"
 #~ msgstr "Überprüfen Sie ihre Sword-CD Bestellung"
+

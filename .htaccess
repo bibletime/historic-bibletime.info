@@ -22,17 +22,21 @@ RewriteRule	^images/banner_small.jpg?$	/images/banner/small.jpg
 #  rewrite rules for old pages of www.bibletime.de
 RewriteRule	^([a-z-]{2,5}/)?about.s?html?$		/$1bibletime_about.html [R,L]
 RewriteRule	^([a-z-]{2,5}/)?assistance.s?html?$	/$1development.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)?gallery.s?html?$	/$1software_gallery.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)?index.shtml$		/$1index.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)?index.cgi$		/$1index.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?gallery.s?html?$		/$1software_gallery.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?index.shtml$			/$1index.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?index.cgi$			/$1index.html [R,L]
 RewriteRule	^([a-z-]{2,5}/)?installation.s?html?$	/$1documentation_installation.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)?license.s?html?$	/$1software_license.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)?link-us.s?html?$	/$1software_linkus.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?license.s?html?$		/$1software_license.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?link-us.s?html?$		/$1software_linkus.html [R,L]
 RewriteRule	^([a-z-]{2,5}/)?links.s?html?$		/$1software_links.html [R,L]
 RewriteRule	^([a-z-]{2,5}/)?mailinglist.s?html?$	/$1development_mailinglists.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)?news.s?html?$		/$1software_news.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?news.s?html?$			/$1software_news.html [R,L]
 
-RewriteRule	^([a-z-]{2,5}/)?modules.s?html?$		/$1software_installation.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?documentation_installation_bibletime.html?$		/$1software_installation.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?documentation.html?$		/$1software_installation.html [R,L]
+
+
+RewriteRule	^([a-z-]{2,5}/)?modules.s?html?$			/$1software_installation.html [R,L]
 RewriteRule	^([a-z-]{2,5}/)?modules_ger.s?html?$		/$1software_installation.html [R,L]
 RewriteRule	^([a-z-]{2,5}/)?modules_bibles.s?html?$		/$1software_installation.html [R,L]
 RewriteRule	^([a-z-]{2,5}/)?modules_books.s?html?$		/$1software_installation.html [R,L]
@@ -42,7 +46,7 @@ RewriteRule	^([a-z-]{2,5}/)?modules_lexicons.s?html?$ 	/$1software_installation.
 RewriteRule	^([a-z-]{2,5}/)?press_coverage.s?html?$		/$1software_press.html [R,L]
 RewriteRule	^([a-z-]{2,5}/)?screenshots.s?html?$		/$1software_screenshots.html [R,L]
 RewriteRule	^([a-z-]{2,5}/)?screenshots_old.s?html?$	/$1software_screenshots.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)?sword_cd.s?html?$		/$1modules_swordcd.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?sword_cd.s?html?$			/$1modules_swordcd.html [R,L]
 
 RewriteRule	^screenshots/(.*)$	/images/screenshots/$1
 
