@@ -24,7 +24,7 @@ msgstr "De BibleTime-ontwikkelaars - www.bibletime.info"
 msgid "Error"
 msgstr "Foutmelding"
 
-#: index.docbook:9 index.docbook:66 index.docbook:14
+#: index.docbook:9
 #, no-c-format
 msgid "BibleTime"
 msgstr "BibleTime"
@@ -49,103 +49,77 @@ msgstr "Schermafdrukken"
 msgid "Gallery"
 msgstr "Galerie"
 
-#: index.docbook:27 index.docbook:10
-#, no-c-format
-msgid "Download"
-msgstr "Download"
-
-#: index.docbook:31 index.docbook:10 index.docbook:15
-#, no-c-format
-msgid "In the press"
-msgstr "In de media"
-
-#: index.docbook:35 index.docbook:10
-#, no-c-format
-msgid "Contact"
-msgstr "Contact"
-
-#: index.docbook:39 index.docbook:9 index.docbook:19
-#, no-c-format
-msgid "Guestbook"
-msgstr "Gastenboek"
-
-#: index.docbook:43 index.docbook:9
-#, no-c-format
-msgid "Links"
-msgstr "Links"
-
-#: index.docbook:47 index.docbook:9
-#, no-c-format
-msgid "Link to us"
-msgstr "Link naar ons"
-
-#: index.docbook:51 index.docbook:9 index.docbook:14
-#, no-c-format
-msgid "License"
-msgstr "Licentie"
-
-#: index.docbook:56 index.docbook:9
-#, no-c-format
-msgid "Documentation"
-msgstr "Documentatie"
-
-#: index.docbook:59 index.docbook:10
-#, no-c-format
-msgid "Requirements"
-msgstr "Benodigdheden"
-
-#: index.docbook:63 index.docbook:9 index.docbook:36
+#: index.docbook:27 index.docbook:36 index.docbook:12
 #, no-c-format
 msgid "Installation"
 msgstr "Installatie"
 
-#: index.docbook:70 index.docbook:9
-#, no-c-format
-msgid "Sword"
-msgstr "Sword"
-
-#: index.docbook:74 index.docbook:84 index.docbook:90 index.docbook:9
-#: index.docbook:10
-#, no-c-format
-msgid "Modules"
-msgstr "Modules"
-
-#: index.docbook:79 index.docbook:9
+#: index.docbook:31 index.docbook:9
 #, no-c-format
 msgid "<title>FAQ</title>"
 msgstr "<title>FAQ</title>"
 
-#: index.docbook:87 index.docbook:10
+#: index.docbook:35 index.docbook:10
 #, no-c-format
 msgid "Sword CD"
 msgstr "Sword CD"
 
-#: index.docbook:92 index.docbook:9
+#: index.docbook:39 index.docbook:9
+#, no-c-format
+msgid "Links"
+msgstr "Links"
+
+#: index.docbook:43 index.docbook:9
+#, no-c-format
+msgid "Link to us"
+msgstr "Link naar ons"
+
+#: index.docbook:47 index.docbook:9 index.docbook:19
+#, no-c-format
+msgid "Guestbook"
+msgstr "Gastenboek"
+
+#: index.docbook:51 index.docbook:10 index.docbook:15
+#, no-c-format
+msgid "In the press"
+msgstr "In de media"
+
+#: index.docbook:55 index.docbook:10
+#, no-c-format
+msgid "Contact"
+msgstr "Contact"
+
+#: index.docbook:59 index.docbook:9 index.docbook:14
+#, no-c-format
+msgid "License"
+msgstr "Licentie"
+
+#: index.docbook:64 index.docbook:9
 #, fuzzy, no-c-format
 msgid "Translation"
 msgstr "Installatie"
 
-#: index.docbook:96 index.docbook:10
+#: index.docbook:68 index.docbook:10
 #, no-c-format
 msgid "Development"
 msgstr "Ontwikkeling"
 
-#: index.docbook:99 index.docbook:10
+#: index.docbook:71 index.docbook:10
 #, no-c-format
 msgid "Help us"
 msgstr "Help ons"
 
-#: index.docbook:103 index.docbook:10
+#: index.docbook:75 index.docbook:10
 #, no-c-format
 msgid "Join us"
 msgstr "Doe mee!"
 
-#: index.docbook:107 index.docbook:10
+#: index.docbook:79 index.docbook:10
 #, no-c-format
 msgid "Mailinglists"
 msgstr "Mailinglijsten"
 
-#: index.docbook:112 index.docbook:18
+#: index.docbook:84 index.docbook:18
 #, no-c-format
 msgid "Biblestudy HowTo"
 msgstr "Bijbelstudie HowTo"
@@ -429,320 +403,6 @@ msgstr "Deze pagina's beschrijven hoe u mee kunt werken aan de ontwikkeling van 
 #, no-c-format
 msgid "Please read the following pages very carefully to see whether you can help us with the development!"
 msgstr "Lees de volgende pagina's goed om te zien of u ons kunt helpen met de ontwikkeling!"
-
-#: index.docbook:14
-#, no-c-format
-msgid "Frequently Asked Questions"
-msgstr "Veel gestelde vragen (FAQ)"
-
-#: index.docbook:17
-#, no-c-format
-msgid "Installation problems"
-msgstr "Installatieproblemen"
-
-#: index.docbook:20
-#, no-c-format
-msgid "Why is the toolbar missing?"
-msgstr "Waarom is er geen werkbalk?"
-
-#: index.docbook:23
-#, no-c-format
-msgid "Please run configure with the parameter --prefix=&lt;your KDE directory&gt;. Then run make and make install as usual. The KDE directories for the widely used Linux distributions are: <orderedlist> <listitem>RedHat: /usr</listitem> <listitem>SuSE: /opt/kde3</listitem> <listitem>Mandrake: /usr</listitem> </orderedlist> Alternatively you can run the command \"kde-config --prefix\" to get your KDE directory. The commands are:"
-msgstr "Voer configure uit met de parameter --prefix =&lt;uw KDE-map&gt;. Voer daarna als gewoonlijk make en make install uit. De KDE-mappen voor de meestgebruikte Linux-distributies zijn: <orderedlist> <listitem>RedHat: /usr</listitem> <listitem>SuSE: /opt/kde3</listitem> <listitem>Mandrake: /usr</listitem> </orderedlist> Eventueel kunt u het commando \"kde-config --prefix\" uitvoeren om uw KDE-map te vinden. De commando's zijn:"
-
-#: index.docbook:23
-#, no-c-format
-msgid "./configure --prefix=&lt;your KDE directory&gt;"
-msgstr "./configure --prefix=&lt;uw KDE-map&gt;"
-
-#: index.docbook:23
-#, no-c-format
-msgid "make"
-msgstr "make"
-
-#: index.docbook:23
-#, no-c-format
-msgid "make install"
-msgstr "make install"
-
-#: index.docbook:46
-#, no-c-format
-msgid "The translations are missing!"
-msgstr "De vertalingen ontbreken!"
-
-#: index.docbook:49
-#, no-c-format
-msgid "Please install the package bibletime-i18n which contains the translations of the daily tips, the handbook, the installation instructions and the Bible study howto."
-msgstr "Installeer het pakket bibletime-i18n, dat de vertalingen van de dagelijkse tips, het handboek de installatie-instructies en de Bijbelstudie HowTo bevat."
-
-#: index.docbook:57
-#, no-c-format
-msgid "Usage problems"
-msgstr "Gebruiksproblemen"
-
-#: index.docbook:60
-#, no-c-format
-msgid "Is it possible to search for a specific Strong number?"
-msgstr "Is het mogelijk om naar een specifiek Strong-nummer te zoeken?"
-
-#: index.docbook:66
-#, no-c-format
-msgid "You need at least BibleTime 1.1 for this. Turn on the default usage of Strong's numbers in the optionsdialog (Sword-&gt;Filter settings). Then open the seachdialog and search for &lt;0120&gt; or any other Strong code."
-msgstr "U heeft ten minste BibleTime 1.1 nodig om dit te doen. Zet in het instellingenvenster (Sword &gt; Filterinstellingen) het standaard gebruik van Strong's-nummers aan. Open hierna het zoekvenster en zoek naar &lt;0120&gt; of een andere Strong-code."
-
-#: index.docbook:74
-#, no-c-format
-msgid "Why do I see only question marks instead of Unicode text?"
-msgstr "Waarom zie ik alleen maar vraagtekens in plaats van Unicode-tekst?"
-
-#: index.docbook:80
-#, no-c-format
-msgid "First make sure you have the latest version of the module which has the problems! Check <ulink url=\"www.crosswire.org/sword\">www.crosswire.org/sword</ulink> for this."
-msgstr "Controleer eerst of u de laatste versie van de module met de problemen heeft! Ga hiervoor naar <ulink url=\"www.crosswire.org/sword\">www.crosswire.org/sword</ulink>."
-
-#: index.docbook:83
-#, no-c-format
-msgid "You have to install an unicode font like Code2000, Arial Unicode MS or Bitstream Cyberbit to display the special unicode characters. Check the section \"Configuring BibleTime->Options Dialog->Fonts\" in the handbook of BibleTime how to setup Unicode fonts under Linux."
-msgstr "U moet een Unicode-lettertype als Code2000, Arial Unicode MS of Bitstream Cyberbit installeren om de speciale Unicode-karakters weer te geven. Zie de sectie \"Configuring BibleTime ->Options Dialog->Fonts\" in het BibleTime-handboek voor informatie over het installeren van Unicode-lettertypen onder Linux."
-
-#: index.docbook:93
-#, no-c-format
-msgid "The KJV shows no Strongs numbers in the NT!"
-msgstr "De KJV heeft geen Strong's-nummers in het NT!"
-
-#: index.docbook:97
-#, no-c-format
-msgid "Due to copyright problems the old KJV module which contained all Strongs numbers had to be removed. The project KJV2003 was started to create a public domain text with all Strong numbers in it. At this time it's not yet finished so the numbers are not available in all verses of the NT. The status of the project is available at Crosswire."
-msgstr "Vanwege problemen met het auteursrecht moest de oude KJV-module, die alle Strong's-nummers bevatte verwijderd worden. Met als doel een auteursrechtenvrije tekst met alle Strong's-nummers te maken werd het KJV2003-project gestart. Op het moment is dit nog niet af, waardoor de nummers niet in alle verzen van het NT beschikbaar zijn. De status van het project is beschikbaar bij Crosswire."
-
-#: index.docbook:105
-#, no-c-format
-msgid "Where can I write down my personal notes?"
-msgstr "Waar kan ik mijn eigen notities opschrijven?"
-
-#: index.docbook:109
-#, no-c-format
-msgid "You have to install the module \"Personal\", which is available as a commentary on <ulink url=\"http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Personal\">Crosswire</ulink>. See our commentary page for more information: Commentaries."
-msgstr "U moet de module \"Personal\" installeren, deze is als commentaar beschikbaar op <ulink url=\"http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Personal\">Crosswire</ulink>. Zie onze commentaren-pagina voor meer informatie: Commentaren."
-
-#: index.docbook:118
-#, no-c-format
-msgid "Why is one of the two testaments of a Bible module empty?"
-msgstr "Waarom is één van de twee testamenten van een bijbelmodule leeg?"
-
-#: index.docbook:122
-#, no-c-format
-msgid "Some modules only contain the text of the old or new testament. Recent versions of BibleTime should only offer the testament which has some te"
-msgstr "Sommige modules bevatten alleen de tekst van het oude of het nieuwe testament. Nieuwere versies van BibleTime zouden alleen het testament met tekst moeten aanbieden."
-
-#: index.docbook:19
-#, no-c-format
-msgid "Installation of BibleTime"
-msgstr "BibleTime-installatie"
-
-#: index.docbook:20
-#, no-c-format
-msgid "This page explains how BibleTime should be installed. Please follow these steps to get a working installation of BibleTime quickly."
-msgstr "Deze pagina beschrijft hoe BibleTime te installeren. Volg deze stappen om snel een werkende installatie van BibleTime te krijgen."
-
-#: index.docbook:24
-#, no-c-format
-msgid "The two ways to install BibleTime"
-msgstr "De twee manieren om BibleTime te installeren"
-
-#: index.docbook:25
-#, no-c-format
-msgid "There are two possibilities to install BibleTime on your system:"
-msgstr "Er zijn twee mogelijkheden om BibleTime op uw systeem te installeren:"
-
-#: index.docbook:25
-#, no-c-format
-msgid "Install using prebuilt binary packages, like RPM or DEB"
-msgstr "Installatie met gebruik van binaire pakketten als RPM of DEB"
-
-#: index.docbook:25
-#, no-c-format
-msgid "Compile BibleTime from sources on your own system"
-msgstr "Het compileren van BibleTime uit bronnen op uw eigen systeem"
-
-#: index.docbook:33
-#, no-c-format
-msgid "We recommend the installation using the binary packages. It's the simplest way."
-msgstr "We bevelen de installatie met binaire pakketten aan. Dit is het gemakkelijkst."
-
-#: index.docbook:38
-#, no-c-format
-msgid "Prebuilt binary packages"
-msgstr "Voorgebouwde binaire pakketten"
-
-#: index.docbook:39
-#, no-c-format
-msgid "We try to provide packages for the most important Linux distributions. These include RedHat, Mandrake and SuSE."
-msgstr "We proberen voor de belangrijkste Linux-distributies pakketten te leveren. Dit zijn onder andere RedHat, Mandrake en SuSE."
-
-#: index.docbook:43
-#, fuzzy, no-c-format
-msgid "First download the binary package for your Linux distribution. For example: You want to download BibleTime 1.2.2 for SuSE Linux 8.1. In this case you have to download the package &quot;bibletime-1.2.2-1suse8.1.i586.rpm&quot;. Please don't forgot to download the package bibletime-i18n to get the documentation and the translations, which are available for BibleTime."
-msgstr "Download eerst het binaire pakket voor uw Linux-distributie. U wilt bijvoorbeeld BibleTime 1.2.2 voor SuSE Linux 8.1 downloaden. In dit geval downloadt u het pakket \"bibletime-1.2.2-1suse8.1.i586.rpm\". Vergeet niet ook het pakket bibletime-i18n, met de documentatie en vertalingen beschikbaar voor BibleTime, te downloaden."
-
-#: index.docbook:50
-#, no-c-format
-msgid "As you can see each package name contains the Linux distribution and version is was built for. Please don't try to install a package on another system as it was built for."
-msgstr "Zoals u kunt zien bevat iedere pakketnaam de Linux-distributie en -versie waar deze voor gebouwd werd. Probeer alstublieft niet een pakket te installeren op een andere systeem dan waarvoor het gebouwd werd."
-
-#: index.docbook:54
-#, no-c-format
-msgid "You can download BibleTime here: <olink targetdocent=\"software_download\">Download BibleTime</olink>. Don't forget to install some text modules after you installed BibleTime: <olink targetdocent=\"documentation_installation_modules\">How to install the text modules</olink>."
-msgstr "U kunt BibleTime hier downloaden: <olink targetdocent=\"software_download\">Download BibleTime</olink>. Vergeet niet enkele tekstmodules te installeren nadat u BibleTime heeft geïnstalleerd: <olink targetdocent=\"documentation_installation_modules\">Hoe tekstmodules te installeren</olink>."
-
-#: index.docbook:61
-#, no-c-format
-msgid "Compilation from source code"
-msgstr "Compilatie van broncode"
-
-#: index.docbook:62
-#, fuzzy, no-c-format
-msgid ""
-"Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources: <orderedlist> <listitem> Install the required software: <olink targetdocent=\"documentation_requirements\">BibleTime's requirements</olink> </listitem> <listitem> Get the source code package of BibeTime: <olink targetdocent=\"software_download\">Download</olink> </listitem> <listitem> Compile and install BibleTime: <programlisting>\n"
-"<![CDATA[\n"
-"\t./configure --prefix=<your KDE directory>\n"
-"\tmake\n"
-" \tmake install\n"
-"]]>\n"
-"\t\t\t</programlisting> You can get your KDE directory by running the command <command>kde-config --prefix</command>. If you get problems please read the <olink targetdocent=\"documentation_faq\">FAQ</olink>. If there's no solution of your problem, please contact us at <email>info@bibletime.info</email> </listitem> </orderedlist> Don't forget to install some text modules after you installed BibleTime: <olink targetdocent=\"documentation_installation_modules\">How to install the text modules</olink>."
-msgstr ""
-"Het installeren van BibleTime met gebruik van de broncode is moeilijker dan bij het gebruik van binaire pakketten. Volg de stappen hieronder als u besluit BibleTime uit bronnen te installeren: <orderedlist> <listitem> Installeer de vereiste software: <olink targetdocent=\"documentation_requirements\">BibleTime's benodigdheden</olink> </listitem> <listitem> Download BibleTime's broncodepakket: <olink targetdocent=\"software_download\">Download</olink> </listitem> <listitem> Compileer en installeer BibleTime: <programlisting>\n"
-"<![CDATA[\n"
-"\t./configure --prefix=<uw KDE map>\n"
-"\tmake\n"
-" \tmake install\n"
-"]]>\n"
-"\t\t\t</programlisting> U kunt uw KDE-map vinden door het commando <command>kde-config --prefix</command> uit te voeren. Als u hierbij problemen ondervindt lees dan de FAQ: <olink targetdocent=\"documentation_faq\">FAQ</olink>. Als er geen oplossing voor uw probleem in staat, neem dan contact met ons op via<email>info@bibletime.info</email> </listitem> </orderedlist> Vergeet niet enkele tekstmodules te installeren nadat u BibleTime heeft geïnstalleerd: <olink targetdocent=\"documentation_installation_modules\">Hoe tekstmodules te installeren</olink>."
-
-#: index.docbook:14
-#, no-c-format
-msgid "Installation of Sword's text modules"
-msgstr "Installatie van Sword-tekstmodules"
-
-#: index.docbook:16
-#, no-c-format
-msgid "This page explains how to add the text modules, which are available from Crosswire, to the BibleTime software to make it really useful."
-msgstr "Deze pagina beschrijft hoe de tekstmodules, welke beschikbaar zijn bij Crosswire, aan de BibleTime-software toe te voegen, zodat deze echt nuttig wordt."
-
-#: index.docbook:20
-#, no-c-format
-msgid "The modules are available as ZIP files from the Crosswire Bible society. Have a look into the \"Modules\" section of the BibleTime web pages to get an overview of the available modules."
-msgstr "De modules zijn als ZIP-bestanden beschikbaar bij de Crosswire Bible Society. Neem een kijkje in de \"Modules\"-sectie van de BibleTime webpagina's om een overzicht te krijgen van de beschikbare modules."
-
-#: index.docbook:24
-#, no-c-format
-msgid "Before you start installing modules please make sure BibleTime is installed!"
-msgstr "Controleer voordat u begint met het installeren van de modules of BibleTime is geïnstalleerd!"
-
-#: index.docbook:28
-#, no-c-format
-msgid "First you have to find the directory, which we'll call now \"Sword directory\", on your system. The Sword directory contains all Sword data, i.e. it contains at least the sub-directories \"modules/\" and \"mods.d/\"."
-msgstr "Vind eerst de Sword-map op uw systeem. De Sword-map bevat alle Sword-data en bevat tenminste de submappen \"modules/\" en \"mods.d/\"."
-
-#: index.docbook:32
-#, no-c-format
-msgid "Then you have to unzip the downloaded ZIP file(s) into the Sword directory to populate the two subdirectories we mentioned."
-msgstr "Pak daarna de gedownloade ZIP-bestanden uit naar de Sword-map om de twee genoemde submappen te vullen."
-
-#: index.docbook:36
-#, no-c-format
-msgid "After restarting BibleTime the modules should appear in the main index on the left side of the main window."
-msgstr "Na het herstarten van BibleTime zouden de modules in de hoofdindex aan de linkerzijde van het hoofdscherm weergegeven moeten worden ."
-
-#: index.docbook:40
-#, no-c-format
-msgid "The installation instructions made by the Sword team are available here:"
-msgstr "De door het Sword-team gemaakte (Engelstalige) installatie-instructies vindt u hier:"
-
-#: index.docbook:44
-#, no-c-format
-msgid "<ulink url=\"http://www.crosswire.org/sword/modules/moduleinstall.jsp\">www.crosswire.org/sword/modules/moduleinstall.jsp</ulink>."
-msgstr "<ulink url=\"http://www.crosswire.org/sword/modules/moduleinstall.jsp\">www.crosswire.org/sword/modules/moduleinstall.jsp</ulink>."
-
-#: index.docbook:48
-#, no-c-format
-msgid "If you get into troubles please read the answers to the frequently asked questions. The FAQ is available on the left side of this page."
-msgstr "Als u in de problemen komt, lees dan de antwoorden op de veelgestelde vragen (FAQ). De FAQ is beschikbaar aan de linkerzijde van deze pagina."
-
-#: index.docbook:14
-#, no-c-format
-msgid "Installation of Sword"
-msgstr "Installatie van Sword"
-
-#: index.docbook:15
-#, no-c-format
-msgid "This page explains how to install the Sword library, which is required by BibleTime."
-msgstr "Deze pagina beschrijft de installatie van de Sword-bibliotheek, welke nodig is voor BibleTime."
-
-#: index.docbook:19
-#, no-c-format
-msgid "The installation of the Sword library is only required if you compile BibleTime from sources yourself! If you install using prebuilt binary packages please don't install Sword from source code. It's included in each BibleTime binary package!"
-msgstr "De installatie van de Sword-bibliotheek is alleen nodig als u BibleTime zelf uit bronnen compileert! Als u een voorgebouwd binair pakket gebruikt, installeer dan Sword niet uit broncode: het wordt meegeleverd in ieder binair BibleTime-pakket!"
-
-#: index.docbook:26
-#, no-c-format
-msgid "Installation process"
-msgstr "Installatieproces"
-
-#: index.docbook:27
-#, no-c-format
-msgid "The basic installation is described on the pages of the Crosswire Bible Society:"
-msgstr "De algemene installatie wordt beschreven op de pagina's op de pagina's van de Crosswire Bible Society:"
-
-#: index.docbook:31
-#, no-c-format
-msgid "http://www.crosswire.org/sword/software/index.jsp"
-msgstr "http://www.crosswire.org/sword/software/index.jsp"
-
-#: index.docbook:14
-#, no-c-format
-msgid "BibleTime's documemtation"
-msgstr "BibleTime-documentatie"
-
-#: index.docbook:16
-#, no-c-format
-msgid "Since you have to know how to install and use BibleTime we provide here some useful documentation pages and links. Since many users have the same problems with BibleTime please be sure to check the answers in the FAQ if you have problem."
-msgstr "Omdat u moet weten hoe BibleTime te installeren en te gebruiken vindt u hier wat nuttige documentatiepagina's en links. Omdat veel gebruikers dezelfde problemen hebben met BibleTime, raden wij u aan de antwoorden in de FAQ te raadplegen als u een probleem heeft."
-
-#: index.docbook:15
-#, no-c-format
-msgid "Requirements for BibleTime 1.1"
-msgstr "Benodigdheden voor BibleTime 1.1"
-
-#: index.docbook:16
-#, no-c-format
-msgid "<ulink url=\"http://www.kde.org/\">KDE 2</ulink>: At least the libraries and the base package. KDE 2 is shipped with many (older) Linux distributions. Very often it's installed by default."
-msgstr "<ulink url=\"http://www.kde.org/\">KDE 2</ulink>: Tenminste de bibliotheken en het basispakket. KDE 2 wordt geleverd bij veel (oudere) Linux-distributies. Vaak wordt het standaard geïnstalleerd."
-
-#: index.docbook:16
-#, fuzzy, no-c-format
-msgid "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.3</ulink>. Only required if do not install a precompiled binary package. Installation instructions for Sword are available here: <olink targetdocent=\"documentation_installation_sword\">Sword's installation</olink>"
-msgstr "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.3</ulink> Alleen benodigd als u geen voorgebouwd binair pakket installeert.Installatie-instructies voor Sword vindt u hier: <olink targetdocent=\"documentation_installation_sword\">Sword's installatie</olink>"
-
-#: index.docbook:31
-#, fuzzy, no-c-format
-msgid "Requirements for BibleTime 1.4"
-msgstr "Benodigdheden voor BibleTime 1.1"
-
-#: index.docbook:32
-#, no-c-format
-msgid "<ulink url=\"http://www.kde.org/\">KDE 3</ulink>: At least the libraries and the base package. KDE 3 is shipped with many Linux distributions. Very often it's installed by default."
-msgstr "<ulink url=\"http://www.kde.org/\">KDE 3</ulink>: Tenminste de bibliotheken en het basispakket. KDE 2 wordt geleverd bij veel Linux-distributies. Vaak wordt het standaard geïnstalleerd."
-
-#: index.docbook:32
-#, fuzzy, no-c-format
-msgid "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.7</ulink>. Installation instructions for Sword are available here: <olink targetdocent=\"documentation_installation_sword\">Sword's installation</olink>"
-msgstr "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.6</ulink> Installatie-instructies voor Sword vindt u hier: <olink targetdocent=\"documentation_installation_sword\">Sword's installatie</olink>"
-
-#: index.docbook:32
-#, no-c-format
-msgid "<ulink url=\"http://curl.sourceforge.net/\">Curl >= 7.10</ulink>. This is necessary for the remote installation features of the new Sword Setup Dialog."
-msgstr ""
 
 #: index.docbook:14
 #, no-c-format
@@ -1871,111 +1531,6 @@ msgstr "De rentmeester wordt geloofd om zijn scherpzinnigheid betreffende het ve
 msgid "Welcome to BibleTime!"
 msgstr "Welkom bij BibleTime!"
 
-#: index.docbook:15
-#, no-c-format
-msgid "Module addons for BibleTime"
-msgstr "Aanvulmodules voor BibleTime"
-
-#: index.docbook:17
-#, no-c-format
-msgid "A module is a text which can be read within the BibleTime application. There are different module types: Bibles, commentaries, lexicons, daily devotionals and books."
-msgstr "Een module is een tekst die binnen het BibleTime-programma gelezen kan worden. Er zijn verschillende moduletypes: bijbels, commentaren, lexicons, dagelijkse overdenkingen en boeken."
-
-#: index.docbook:21
-#, fuzzy, no-c-format
-msgid "Please read the following page to see how to install the downloaded modules: <ulink url=\"/documentation/installation/modules\">Installation of text modules</ulink>."
-msgstr "Lees de volgende pagina om te zien hoe de gedownloade modules te installeren:"
-
-#: index.docbook:26
-#, no-c-format
-msgid "Available types of modules"
-msgstr "Beschikbare moduletypes"
-
-#: index.docbook:26
-#, no-c-format
-msgid "Bibles"
-msgstr "Bijbels"
-
-#: index.docbook:26
-#, no-c-format
-msgid "Commentaries"
-msgstr "Commentaren"
-
-#: index.docbook:26
-#, no-c-format
-msgid "Lexicons / Dictionaries"
-msgstr "Lexicons / Woordenboeken"
-
-#: index.docbook:26
-#, no-c-format
-msgid "Books"
-msgstr "Boeken"
-
-#: index.docbook:15
-#, no-c-format
-msgid "What is the Sword CD?"
-msgstr "Wat is de Sword CD?"
-
-#: index.docbook:16
-#, no-c-format
-msgid "The Sword project offers a CD which contains all the software for Windows, Linux and Mac OS X. The CD is freely available like all the other things the Crosswire Bible society is offering for you! See below how to download the CD. If you can't download the CD, for example because you don't have a fast connection, you can order the CD. If you're living in Europe the BibleTime developers send out the CDs to you. In this case please fill out the form below and send it away."
-msgstr "Het Sword-project bied een CD met alle software voor Windows, Linux en Mac OS X aan. De CD wordt, net als al het andere dat de Crosswire Bible Society u aanbied, gratis beschikbaar gesteld. Kijk hieronder om te zien hoe de CD te downloaden. Als u de CD niet kunt downloaden, bijvoorbeeld omdat u geen snelle verbinding heeft, kunt u de CD bestellen. Als u in Europa woont sturen de BibleTime-ontwikkelaars deze CDs naar u. In dit geval vult u het formulier hieronder in, en verstuurt u het."
-
-#: index.docbook:22
-#, no-c-format
-msgid "What can I do with the CD?"
-msgstr "Wat kan ik met de CD?"
-
-#: index.docbook:23
-#, no-c-format
-msgid "You can do several important things with the CD:"
-msgstr "U kunt enkele belangrijke dingen doen met de CD:"
-
-#: index.docbook:23
-#, no-c-format
-msgid "Study the Bible!"
-msgstr "De Bijbel bestuderen!"
-
-#: index.docbook:23
-#, no-c-format
-msgid "Use all the bibles, commentaries, lexicons, glossaries and books to study God's word! We hope, that the CD helps you to study the word in a more efficient way!"
-msgstr "Gebruik alle bijbels, commentaren, lexicons overzichten en boeken om Gods woord te bestuderen! Wij hopen dat de CD u helpt het woord efficiënter te bestuderen!"
-
-#: index.docbook:23
-#, no-c-format
-msgid "Make copies of the CD!"
-msgstr "Kopieer de CD!"
-
-#: index.docbook:23
-#, no-c-format
-msgid "Please copy the CD and share it with many others! If you can, please do this for free. If you can't, please demand only the money to cover your expenses, otherwise it woudn't be possible to distribute some of the texts on the CD."
-msgstr "Kopieer alstublieft de CD en deel hem met vele anderen! Indien mogelijk doet u dit gratis. Indien niet mogelijk vraag dan alstublieft alleen geld om uw kosten te dekken, omdat het anders niet mogelijk zou zijn sommige teksten op de CD te verspreiden."
-
-#: index.docbook:45
-#, no-c-format
-msgid "I want to download the Sword CD!"
-msgstr "Ik wil de Sword CD downloaden!"
-
-#: index.docbook:46
-#, no-c-format
-msgid "No problem! Please download the file with the latest date from <ulink url=\"ftp://ftp.crosswire.org/pub/sword/iso/\">ftp.crosswire.org/pub/sword/iso/</ulink>. Don't forget that the file is over 600 MB large and that you should have a fast connection to download it."
-msgstr "Geen probleem! Download het bestand met de laatste datum van <ulink url=\"ftp://ftp.crosswire.org/pub/sword/iso/\">ftp.crosswire.org/pub/sword/iso/</ulink>. Vergeet niet dat het bestand meer dan 600 MB groot is en dat u de beschikking moet hebben over een snelle verbinding om het te downloaden."
-
-#: index.docbook:51
-#, no-c-format
-msgid "I want to order the Sword CD!"
-msgstr "Ik wil de Sword CD bestellen!"
-
-#: index.docbook:52
-#, no-c-format
-msgid "If you're NOT living in Europe please go to the Crosswire's CD order page and order the CD there. If you're living somewhere in Europe the BibleTime developers will send you the CD. Please fill in the required information in the form below and send it. The BibleTime developers will send you the CDs for free."
-msgstr "Indien u NIET in Europa woont gaat u naar bestelpagina voor de Crosswire CD en bestelt u de CD daar. Als u ergens in Europa woont zullen de BibleTime-ontwikkelaars u de CD toezenden. Vult u de benodigde informatie in het onderstaande formulier in en verstuur het. De BibleTime-ontwikkelaars zullen u de CD gratis toezenden."
-
-#: index.docbook:57
-#, no-c-format
-msgid "The Sword CD"
-msgstr "De Sword CD"
-
 #: index.docbook:14
 #, no-c-format
 msgid "The history of BibleTime"
@@ -2071,6 +1626,11 @@ msgstr "Meld een websiteprobleem"
 msgid "If you have problem with the webpages or if you have some ideas how to improve them please write it down using the link!"
 msgstr "Als u een probleem heeft met de webpagina's of als u een idee heeft om ze te verbeteren schrijf ze dan op via deze link!"
 
+#: index.docbook:10
+#, no-c-format
+msgid "Download"
+msgstr "Download"
+
 #: index.docbook:15
 #, no-c-format
 msgid "How to get BibleTime"
@@ -2095,6 +1655,116 @@ msgstr "U kunt BibleTime downloaden op <ulink url=\"http://sourceforge.net/proje
 #, no-c-format
 msgid "Please read the <olink targetdocent=\"documentation_installation_bibletime\">installation instructions</olink>."
 msgstr "Lees alstublieft de <olink targetdocent=\"documentation_installation_bibletime\">installatie instructies</olink>."
+
+#: index.docbook:14
+#, no-c-format
+msgid "Frequently Asked Questions"
+msgstr "Veel gestelde vragen (FAQ)"
+
+#: index.docbook:17
+#, no-c-format
+msgid "Installation problems"
+msgstr "Installatieproblemen"
+
+#: index.docbook:20
+#, no-c-format
+msgid "Why is the toolbar missing?"
+msgstr "Waarom is er geen werkbalk?"
+
+#: index.docbook:23
+#, no-c-format
+msgid "Please run configure with the parameter --prefix=&lt;your KDE directory&gt;. Then run make and make install as usual. The KDE directories for the widely used Linux distributions are: <orderedlist> <listitem>RedHat: /usr</listitem> <listitem>SuSE: /opt/kde3</listitem> <listitem>Mandrake: /usr</listitem> </orderedlist> Alternatively you can run the command \"kde-config --prefix\" to get your KDE directory. The commands are:"
+msgstr "Voer configure uit met de parameter --prefix =&lt;uw KDE-map&gt;. Voer daarna als gewoonlijk make en make install uit. De KDE-mappen voor de meestgebruikte Linux-distributies zijn: <orderedlist> <listitem>RedHat: /usr</listitem> <listitem>SuSE: /opt/kde3</listitem> <listitem>Mandrake: /usr</listitem> </orderedlist> Eventueel kunt u het commando \"kde-config --prefix\" uitvoeren om uw KDE-map te vinden. De commando's zijn:"
+
+#: index.docbook:23
+#, no-c-format
+msgid "./configure --prefix=&lt;your KDE directory&gt;"
+msgstr "./configure --prefix=&lt;uw KDE-map&gt;"
+
+#: index.docbook:23
+#, no-c-format
+msgid "make"
+msgstr "make"
+
+#: index.docbook:23
+#, no-c-format
+msgid "make install"
+msgstr "make install"
+
+#: index.docbook:46
+#, no-c-format
+msgid "The translations are missing!"
+msgstr "De vertalingen ontbreken!"
+
+#: index.docbook:49
+#, no-c-format
+msgid "Please install the package bibletime-i18n which contains the translations of the daily tips, the handbook, the installation instructions and the Bible study howto."
+msgstr "Installeer het pakket bibletime-i18n, dat de vertalingen van de dagelijkse tips, het handboek de installatie-instructies en de Bijbelstudie HowTo bevat."
+
+#: index.docbook:57
+#, no-c-format
+msgid "Usage problems"
+msgstr "Gebruiksproblemen"
+
+#: index.docbook:60
+#, no-c-format
+msgid "Is it possible to search for a specific Strong number?"
+msgstr "Is het mogelijk om naar een specifiek Strong-nummer te zoeken?"
+
+#: index.docbook:66
+#, no-c-format
+msgid "You need at least BibleTime 1.1 for this. Turn on the default usage of Strong's numbers in the optionsdialog (Sword-&gt;Filter settings). Then open the seachdialog and search for &lt;0120&gt; or any other Strong code."
+msgstr "U heeft ten minste BibleTime 1.1 nodig om dit te doen. Zet in het instellingenvenster (Sword &gt; Filterinstellingen) het standaard gebruik van Strong's-nummers aan. Open hierna het zoekvenster en zoek naar &lt;0120&gt; of een andere Strong-code."
+
+#: index.docbook:74
+#, no-c-format
+msgid "Why do I see only question marks instead of Unicode text?"
+msgstr "Waarom zie ik alleen maar vraagtekens in plaats van Unicode-tekst?"
+
+#: index.docbook:80
+#, no-c-format
+msgid "First make sure you have the latest version of the module which has the problems! Check <ulink url=\"www.crosswire.org/sword\">www.crosswire.org/sword</ulink> for this."
+msgstr "Controleer eerst of u de laatste versie van de module met de problemen heeft! Ga hiervoor naar <ulink url=\"www.crosswire.org/sword\">www.crosswire.org/sword</ulink>."
+
+#: index.docbook:83
+#, no-c-format
+msgid "You have to install an unicode font like Code2000, Arial Unicode MS or Bitstream Cyberbit to display the special unicode characters. Check the section \"Configuring BibleTime->Options Dialog->Fonts\" in the handbook of BibleTime how to setup Unicode fonts under Linux."
+msgstr "U moet een Unicode-lettertype als Code2000, Arial Unicode MS of Bitstream Cyberbit installeren om de speciale Unicode-karakters weer te geven. Zie de sectie \"Configuring BibleTime ->Options Dialog->Fonts\" in het BibleTime-handboek voor informatie over het installeren van Unicode-lettertypen onder Linux."
+
+#: index.docbook:90
+#, no-c-format
+msgid "Modules"
+msgstr "Modules"
+
+#: index.docbook:93
+#, no-c-format
+msgid "The KJV shows no Strongs numbers in the NT!"
+msgstr "De KJV heeft geen Strong's-nummers in het NT!"
+
+#: index.docbook:97
+#, no-c-format
+msgid "Due to copyright problems the old KJV module which contained all Strongs numbers had to be removed. The project KJV2003 was started to create a public domain text with all Strong numbers in it. At this time it's not yet finished so the numbers are not available in all verses of the NT. The status of the project is available at Crosswire."
+msgstr "Vanwege problemen met het auteursrecht moest de oude KJV-module, die alle Strong's-nummers bevatte verwijderd worden. Met als doel een auteursrechtenvrije tekst met alle Strong's-nummers te maken werd het KJV2003-project gestart. Op het moment is dit nog niet af, waardoor de nummers niet in alle verzen van het NT beschikbaar zijn. De status van het project is beschikbaar bij Crosswire."
+
+#: index.docbook:105
+#, no-c-format
+msgid "Where can I write down my personal notes?"
+msgstr "Waar kan ik mijn eigen notities opschrijven?"
+
+#: index.docbook:109
+#, no-c-format
+msgid "You have to install the module \"Personal\", which is available as a commentary on <ulink url=\"http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Personal\">Crosswire</ulink>. See our commentary page for more information: Commentaries."
+msgstr "U moet de module \"Personal\" installeren, deze is als commentaar beschikbaar op <ulink url=\"http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Personal\">Crosswire</ulink>. Zie onze commentaren-pagina voor meer informatie: Commentaren."
+
+#: index.docbook:118
+#, no-c-format
+msgid "Why is one of the two testaments of a Bible module empty?"
+msgstr "Waarom is één van de twee testamenten van een bijbelmodule leeg?"
+
+#: index.docbook:122
+#, no-c-format
+msgid "Some modules only contain the text of the old or new testament. Recent versions of BibleTime should only offer the testament which has some te"
+msgstr "Sommige modules bevatten alleen de tekst van het oude of het nieuwe testament. Nieuwere versies van BibleTime zouden alleen het testament met tekst moeten aanbieden."
 
 #: index.docbook:16
 #, no-c-format
@@ -2215,6 +1885,168 @@ msgstr "BibleTime's gastenboek"
 #, no-c-format
 msgid "This page shows BibleTime's guestbook. Please post your own comments if you like. Please write your comments in English if possible! HTML is not allowed and will be removed. You may use normal line breaks to divide into paragraphs."
 msgstr "Deze pagina geeft het BibleTime-gastenboek weer. Plaats alstublieft uw opmerkingen als u wilt. Schrijf uw opmerkingen indien mogelijk in het Engels! HTML is niet toegestaan en zal worden verwijderd. Normale regeleinden om in alinea's te verdelen zijn toegestaan."
+
+#: index.docbook:17
+#, no-c-format
+msgid "Installation of BibleTime"
+msgstr "BibleTime-installatie"
+
+#: index.docbook:18
+#, no-c-format
+msgid "This page explains how to Install BibleTime on your system. Basically there are two ways to install it: Either by using prebuilt binary packages or by compiling from source code. Installing BibleTime using prebuilt packages is the easiest way."
+msgstr ""
+
+#: index.docbook:22
+#, no-c-format
+msgid "Prebuilt binary packages"
+msgstr "Voorgebouwde binaire pakketten"
+
+#: index.docbook:23
+#, no-c-format
+msgid "We try to provide packages for the most important Linux distributions. These include RedHat, Mandrake and SuSE."
+msgstr "We proberen voor de belangrijkste Linux-distributies pakketten te leveren. Dit zijn onder andere RedHat, Mandrake en SuSE."
+
+#: index.docbook:26
+#, fuzzy, no-c-format
+msgid "First download the binary package for your Linux distribution. For example: You want to download <application>BibleTime 1.4</application> for <productname>SuSE Linux 9.0</productname>. In this case you have to download the package <filename>bibletime-1.4-1.suse9.0.i586.rpm</filename>. Please download the package &quot;bibletime-i18n&quot; package, too. This package contains the available translations of the BibleTime user interface and handbook."
+msgstr "Download eerst het binaire pakket voor uw Linux-distributie. U wilt bijvoorbeeld BibleTime 1.2.2 voor SuSE Linux 8.1 downloaden. In dit geval downloadt u het pakket \"bibletime-1.2.2-1suse8.1.i586.rpm\". Vergeet niet ook het pakket bibletime-i18n, met de documentatie en vertalingen beschikbaar voor BibleTime, te downloaden."
+
+#: index.docbook:29
+#, fuzzy, no-c-format
+msgid "Packages can be downloaded from <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">SourceForge</ulink>."
+msgstr "U kunt BibleTime downloaden op <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">onze sourceforge projectpagina's</ulink>"
+
+#: index.docbook:31
+#, no-c-format
+msgid "If there are now packages for your Linux you have to install from source code. Please see below how to do that."
+msgstr ""
+
+#: index.docbook:35
+#, fuzzy, no-c-format
+msgid "Installation from source code"
+msgstr "Compilatie van broncode"
+
+#: index.docbook:36
+#, no-c-format
+msgid "Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources:"
+msgstr ""
+
+#: index.docbook:36
+#, no-c-format
+msgid "At first make sure the required software is installed on your system."
+msgstr ""
+
+#: index.docbook:36
+#, fuzzy, no-c-format
+msgid "<ulink url=\"http://www.kde.org/\">KDE 3</ulink>."
+msgstr "<ulink url=\"http://www.logos.com/\">Logos</ulink>."
+
+#: index.docbook:36
+#, fuzzy, no-c-format
+msgid "At least the libraries and the base package. KDE 3 is shipped with many Linux distributions. Very often it's installed by default."
+msgstr "<ulink url=\"http://www.kde.org/\">KDE 3</ulink>: Tenminste de bibliotheken en het basispakket. KDE 2 wordt geleverd bij veel Linux-distributies. Vaak wordt het standaard geïnstalleerd."
+
+#: index.docbook:36
+#, fuzzy, no-c-format
+msgid "<ulink url=\"http://curl.sourceforge.net/\">Curl >= 7.9</ulink>."
+msgstr "<ulink url=\"http://www.sourceforge.net/\">SourceForge</ulink>."
+
+#: index.docbook:36
+#, no-c-format
+msgid "This is necessary for the remote installation features of the new Sword Setup Dialog. Curl has to be installed before Sword."
+msgstr ""
+
+#: index.docbook:36
+#, fuzzy, no-c-format
+msgid "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.7</ulink>."
+msgstr "<ulink url=\"http://www.crosswire.org/sword/\">Sword for Windows</ulink>."
+
+#: index.docbook:36
+#, no-c-format
+msgid "Installation instructions are available on <ulink url=\"http://www.crosswire.org/sword/software/index.jsp\">www.crosswire.org/sword/software</ulink>. Basically the installation steps are"
+msgstr ""
+
+#: index.docbook:36
+#, no-c-format
+msgid ""
+"<command>./usrinst.sh --enable-shared --with-curl --without-clucene</command>\n"
+"\t\t\t\t\t\t\t\t<command>make</command>\n"
+"\t\t\t\t\t\t\t\t<command>make install</command>\n"
+"\t\t\t\t\t\t\t\t<command>make install_config</command>"
+msgstr ""
+
+#: index.docbook:36
+#, no-c-format
+msgid "Please note that this list is only valid for the latest version of BibleTime, older versions may require other software."
+msgstr ""
+
+#: index.docbook:36
+#, fuzzy, no-c-format
+msgid "<ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">Get the source code package</ulink> of BibeTime."
+msgstr "U kunt BibleTime downloaden op <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">onze sourceforge projectpagina's</ulink>"
+
+#: index.docbook:36
+#, fuzzy, no-c-format
+msgid "Compile and install BibleTime:"
+msgstr "De twee manieren om BibleTime te installeren"
+
+#: index.docbook:36
+#, no-c-format
+msgid ""
+"<command>./configure --prefix=&lt;your KDE directory&gt;</command>\n"
+"\t\t\t\t\t\t<command>make</command>\n"
+"\t\t\t\t\t\t<command>make install</command>"
+msgstr ""
+
+#: index.docbook:36
+#, no-c-format
+msgid "You can get your KDE directory by running the command <command>kde-config --prefix</command>. If you get problems please read our <olink targetdocent=\"software_faq\">FAQ</olink>. If there's no solution of your problem, please contact us at <email>info@bibletime.info</email>."
+msgstr ""
+
+#: index.docbook:96
+#, fuzzy, no-c-format
+msgid "Install Sword modules"
+msgstr "Installatie van Sword-tekstmodules"
+
+#: index.docbook:97
+#, no-c-format
+msgid "You need Sword modules to work with BibleTime. Since version 1.4 BibleTime offers a userfriendly dialog to manage Sword modules. We strongly recommend this way to install modules on your computer."
+msgstr ""
+
+#: index.docbook:101
+#, fuzzy, no-c-format
+msgid "Instructions for manual module installation is available on <ulink url=\"http://www.crosswire.org/sword/modules/moduleinstall.jsp\">www.crosswire.org/sword/modules</ulink>."
+msgstr "<ulink url=\"http://www.crosswire.org/sword/modules/moduleinstall.jsp\">www.crosswire.org/sword/modules/moduleinstall.jsp</ulink>."
+
+#: index.docbook:105
+#, no-c-format
+msgid "Available types of modules"
+msgstr "Beschikbare moduletypes"
+
+#: index.docbook:106
+#, no-c-format
+msgid "Here is a list of available module types and where to get more information about the available module types:"
+msgstr ""
+
+#: index.docbook:108
+#, no-c-format
+msgid "Bibles"
+msgstr "Bijbels"
+
+#: index.docbook:108
+#, no-c-format
+msgid "Commentaries"
+msgstr "Commentaren"
+
+#: index.docbook:108
+#, no-c-format
+msgid "Lexicons / Dictionaries"
+msgstr "Lexicons / Woordenboeken"
+
+#: index.docbook:108
+#, no-c-format
+msgid "Books"
+msgstr "Boeken"
 
 #: index.docbook:15
 #, no-c-format
@@ -3308,6 +3140,71 @@ msgstr "Nieuwe zoekdialoog"
 msgid "The search dialog of previous versions wasn't easy to use. This is the new search dialog together with the new module chooser window on the right. <ulink url=\"/images/screenshots/2-large.jpg\">Large screenshot</ulink>"
 msgstr "De zoekdialoog in eerdere versies was niet makkelijk te gebruiken. Dit is de nieuwe zoekdialoog samen met rechts het nieuwe modulekiesscherm. <ulink url=\"/screenshots/2-large.jpg\">Grote schermafdruk</ulink>"
 
+#: index.docbook:15
+#, no-c-format
+msgid "What is the Sword CD?"
+msgstr "Wat is de Sword CD?"
+
+#: index.docbook:16
+#, no-c-format
+msgid "The Sword project offers a CD which contains all the software for Windows, Linux and Mac OS X. The CD is freely available like all the other things the Crosswire Bible society is offering for you! See below how to download the CD. If you can't download the CD, for example because you don't have a fast connection, you can order the CD. If you're living in Europe the BibleTime developers send out the CDs to you. In this case please fill out the form below and send it away."
+msgstr "Het Sword-project bied een CD met alle software voor Windows, Linux en Mac OS X aan. De CD wordt, net als al het andere dat de Crosswire Bible Society u aanbied, gratis beschikbaar gesteld. Kijk hieronder om te zien hoe de CD te downloaden. Als u de CD niet kunt downloaden, bijvoorbeeld omdat u geen snelle verbinding heeft, kunt u de CD bestellen. Als u in Europa woont sturen de BibleTime-ontwikkelaars deze CDs naar u. In dit geval vult u het formulier hieronder in, en verstuurt u het."
+
+#: index.docbook:22
+#, no-c-format
+msgid "What can I do with the CD?"
+msgstr "Wat kan ik met de CD?"
+
+#: index.docbook:23
+#, no-c-format
+msgid "You can do several important things with the CD:"
+msgstr "U kunt enkele belangrijke dingen doen met de CD:"
+
+#: index.docbook:23
+#, no-c-format
+msgid "Study the Bible!"
+msgstr "De Bijbel bestuderen!"
+
+#: index.docbook:23
+#, no-c-format
+msgid "Use all the bibles, commentaries, lexicons, glossaries and books to study God's word! We hope, that the CD helps you to study the word in a more efficient way!"
+msgstr "Gebruik alle bijbels, commentaren, lexicons overzichten en boeken om Gods woord te bestuderen! Wij hopen dat de CD u helpt het woord efficiënter te bestuderen!"
+
+#: index.docbook:23
+#, no-c-format
+msgid "Make copies of the CD!"
+msgstr "Kopieer de CD!"
+
+#: index.docbook:23
+#, no-c-format
+msgid "Please copy the CD and share it with many others! If you can, please do this for free. If you can't, please demand only the money to cover your expenses, otherwise it woudn't be possible to distribute some of the texts on the CD."
+msgstr "Kopieer alstublieft de CD en deel hem met vele anderen! Indien mogelijk doet u dit gratis. Indien niet mogelijk vraag dan alstublieft alleen geld om uw kosten te dekken, omdat het anders niet mogelijk zou zijn sommige teksten op de CD te verspreiden."
+
+#: index.docbook:45
+#, no-c-format
+msgid "I want to download the Sword CD!"
+msgstr "Ik wil de Sword CD downloaden!"
+
+#: index.docbook:46
+#, no-c-format
+msgid "No problem! Please download the file with the latest date from <ulink url=\"ftp://ftp.crosswire.org/pub/sword/iso/\">ftp.crosswire.org/pub/sword/iso/</ulink>. Don't forget that the file is over 600 MB large and that you should have a fast connection to download it."
+msgstr "Geen probleem! Download het bestand met de laatste datum van <ulink url=\"ftp://ftp.crosswire.org/pub/sword/iso/\">ftp.crosswire.org/pub/sword/iso/</ulink>. Vergeet niet dat het bestand meer dan 600 MB groot is en dat u de beschikking moet hebben over een snelle verbinding om het te downloaden."
+
+#: index.docbook:51
+#, no-c-format
+msgid "I want to order the Sword CD!"
+msgstr "Ik wil de Sword CD bestellen!"
+
+#: index.docbook:52
+#, no-c-format
+msgid "If you're NOT living in Europe please go to the Crosswire's CD order page and order the CD there. If you're living somewhere in Europe the BibleTime developers will send you the CD. Please fill in the required information in the form below and send it. The BibleTime developers will send you the CDs for free."
+msgstr "Indien u NIET in Europa woont gaat u naar bestelpagina voor de Crosswire CD en bestelt u de CD daar. Als u ergens in Europa woont zullen de BibleTime-ontwikkelaars u de CD toezenden. Vult u de benodigde informatie in het onderstaande formulier in en verstuur het. De BibleTime-ontwikkelaars zullen u de CD gratis toezenden."
+
+#: index.docbook:57
+#, no-c-format
+msgid "The Sword CD"
+msgstr "De Sword CD"
+
 #: index.docbook:14
 #, no-c-format
 msgid "Help translate BibleTime into your language"
@@ -3357,6 +3254,130 @@ msgstr ""
 #, no-c-format
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
 msgstr ""
+
+#~ msgid "Documentation"
+#~ msgstr "Documentatie"
+
+#~ msgid "Requirements"
+#~ msgstr "Benodigdheden"
+
+#~ msgid "Sword"
+#~ msgstr "Sword"
+
+#~ msgid "This page explains how BibleTime should be installed. Please follow these steps to get a working installation of BibleTime quickly."
+#~ msgstr "Deze pagina beschrijft hoe BibleTime te installeren. Volg deze stappen om snel een werkende installatie van BibleTime te krijgen."
+
+#~ msgid "There are two possibilities to install BibleTime on your system:"
+#~ msgstr "Er zijn twee mogelijkheden om BibleTime op uw systeem te installeren:"
+
+#~ msgid "Install using prebuilt binary packages, like RPM or DEB"
+#~ msgstr "Installatie met gebruik van binaire pakketten als RPM of DEB"
+
+#~ msgid "Compile BibleTime from sources on your own system"
+#~ msgstr "Het compileren van BibleTime uit bronnen op uw eigen systeem"
+
+#~ msgid "We recommend the installation using the binary packages. It's the simplest way."
+#~ msgstr "We bevelen de installatie met binaire pakketten aan. Dit is het gemakkelijkst."
+
+#~ msgid "As you can see each package name contains the Linux distribution and version is was built for. Please don't try to install a package on another system as it was built for."
+#~ msgstr "Zoals u kunt zien bevat iedere pakketnaam de Linux-distributie en -versie waar deze voor gebouwd werd. Probeer alstublieft niet een pakket te installeren op een andere systeem dan waarvoor het gebouwd werd."
+
+#~ msgid "You can download BibleTime here: <olink targetdocent=\"software_download\">Download BibleTime</olink>. Don't forget to install some text modules after you installed BibleTime: <olink targetdocent=\"documentation_installation_modules\">How to install the text modules</olink>."
+#~ msgstr "U kunt BibleTime hier downloaden: <olink targetdocent=\"software_download\">Download BibleTime</olink>. Vergeet niet enkele tekstmodules te installeren nadat u BibleTime heeft geïnstalleerd: <olink targetdocent=\"documentation_installation_modules\">Hoe tekstmodules te installeren</olink>."
+
+#, fuzzy
+#~ msgid ""
+#~ "Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources: <orderedlist> <listitem> Install the required software: <olink targetdocent=\"documentation_requirements\">BibleTime's requirements</olink> </listitem> <listitem> Get the source code package of BibeTime: <olink targetdocent=\"software_download\">Download</olink> </listitem> <listitem> Compile and install BibleTime: <programlisting>\n"
+#~ "<![CDATA[\n"
+#~ "\t./configure --prefix=<your KDE directory>\n"
+#~ "\tmake\n"
+#~ " \tmake install\n"
+#~ "]]>\n"
+#~ "\t\t\t</programlisting> You can get your KDE directory by running the command <command>kde-config --prefix</command>. If you get problems please read the <olink targetdocent=\"documentation_faq\">FAQ</olink>. If there's no solution of your problem, please contact us at <email>info@bibletime.info</email> </listitem> </orderedlist> Don't forget to install some text modules after you installed BibleTime: <olink targetdocent=\"documentation_installation_modules\">How to install the text modules</olink>."
+#~ msgstr ""
+#~ "Het installeren van BibleTime met gebruik van de broncode is moeilijker dan bij het gebruik van binaire pakketten. Volg de stappen hieronder als u besluit BibleTime uit bronnen te installeren: <orderedlist> <listitem> Installeer de vereiste software: <olink targetdocent=\"documentation_requirements\">BibleTime's benodigdheden</olink> </listitem> <listitem> Download BibleTime's broncodepakket: <olink targetdocent=\"software_download\">Download</olink> </listitem> <listitem> Compileer en installeer BibleTime: <programlisting>\n"
+#~ "<![CDATA[\n"
+#~ "\t./configure --prefix=<uw KDE map>\n"
+#~ "\tmake\n"
+#~ " \tmake install\n"
+#~ "]]>\n"
+#~ "\t\t\t</programlisting> U kunt uw KDE-map vinden door het commando <command>kde-config --prefix</command> uit te voeren. Als u hierbij problemen ondervindt lees dan de FAQ: <olink targetdocent=\"documentation_faq\">FAQ</olink>. Als er geen oplossing voor uw probleem in staat, neem dan contact met ons op via<email>info@bibletime.info</email> </listitem> </orderedlist> Vergeet niet enkele tekstmodules te installeren nadat u BibleTime heeft geïnstalleerd: <olink targetdocent=\"documentation_installation_modules\">Hoe tekstmodules te installeren</olink>."
+
+#~ msgid "This page explains how to add the text modules, which are available from Crosswire, to the BibleTime software to make it really useful."
+#~ msgstr "Deze pagina beschrijft hoe de tekstmodules, welke beschikbaar zijn bij Crosswire, aan de BibleTime-software toe te voegen, zodat deze echt nuttig wordt."
+
+#~ msgid "The modules are available as ZIP files from the Crosswire Bible society. Have a look into the \"Modules\" section of the BibleTime web pages to get an overview of the available modules."
+#~ msgstr "De modules zijn als ZIP-bestanden beschikbaar bij de Crosswire Bible Society. Neem een kijkje in de \"Modules\"-sectie van de BibleTime webpagina's om een overzicht te krijgen van de beschikbare modules."
+
+#~ msgid "Before you start installing modules please make sure BibleTime is installed!"
+#~ msgstr "Controleer voordat u begint met het installeren van de modules of BibleTime is geïnstalleerd!"
+
+#~ msgid "First you have to find the directory, which we'll call now \"Sword directory\", on your system. The Sword directory contains all Sword data, i.e. it contains at least the sub-directories \"modules/\" and \"mods.d/\"."
+#~ msgstr "Vind eerst de Sword-map op uw systeem. De Sword-map bevat alle Sword-data en bevat tenminste de submappen \"modules/\" en \"mods.d/\"."
+
+#~ msgid "Then you have to unzip the downloaded ZIP file(s) into the Sword directory to populate the two subdirectories we mentioned."
+#~ msgstr "Pak daarna de gedownloade ZIP-bestanden uit naar de Sword-map om de twee genoemde submappen te vullen."
+
+#~ msgid "After restarting BibleTime the modules should appear in the main index on the left side of the main window."
+#~ msgstr "Na het herstarten van BibleTime zouden de modules in de hoofdindex aan de linkerzijde van het hoofdscherm weergegeven moeten worden ."
+
+#~ msgid "The installation instructions made by the Sword team are available here:"
+#~ msgstr "De door het Sword-team gemaakte (Engelstalige) installatie-instructies vindt u hier:"
+
+#~ msgid "If you get into troubles please read the answers to the frequently asked questions. The FAQ is available on the left side of this page."
+#~ msgstr "Als u in de problemen komt, lees dan de antwoorden op de veelgestelde vragen (FAQ). De FAQ is beschikbaar aan de linkerzijde van deze pagina."
+
+#~ msgid "Installation of Sword"
+#~ msgstr "Installatie van Sword"
+
+#~ msgid "This page explains how to install the Sword library, which is required by BibleTime."
+#~ msgstr "Deze pagina beschrijft de installatie van de Sword-bibliotheek, welke nodig is voor BibleTime."
+
+#~ msgid "The installation of the Sword library is only required if you compile BibleTime from sources yourself! If you install using prebuilt binary packages please don't install Sword from source code. It's included in each BibleTime binary package!"
+#~ msgstr "De installatie van de Sword-bibliotheek is alleen nodig als u BibleTime zelf uit bronnen compileert! Als u een voorgebouwd binair pakket gebruikt, installeer dan Sword niet uit broncode: het wordt meegeleverd in ieder binair BibleTime-pakket!"
+
+#~ msgid "Installation process"
+#~ msgstr "Installatieproces"
+
+#~ msgid "The basic installation is described on the pages of the Crosswire Bible Society:"
+#~ msgstr "De algemene installatie wordt beschreven op de pagina's op de pagina's van de Crosswire Bible Society:"
+
+#~ msgid "http://www.crosswire.org/sword/software/index.jsp"
+#~ msgstr "http://www.crosswire.org/sword/software/index.jsp"
+
+#~ msgid "BibleTime's documemtation"
+#~ msgstr "BibleTime-documentatie"
+
+#~ msgid "Since you have to know how to install and use BibleTime we provide here some useful documentation pages and links. Since many users have the same problems with BibleTime please be sure to check the answers in the FAQ if you have problem."
+#~ msgstr "Omdat u moet weten hoe BibleTime te installeren en te gebruiken vindt u hier wat nuttige documentatiepagina's en links. Omdat veel gebruikers dezelfde problemen hebben met BibleTime, raden wij u aan de antwoorden in de FAQ te raadplegen als u een probleem heeft."
+
+#~ msgid "Requirements for BibleTime 1.1"
+#~ msgstr "Benodigdheden voor BibleTime 1.1"
+
+#~ msgid "<ulink url=\"http://www.kde.org/\">KDE 2</ulink>: At least the libraries and the base package. KDE 2 is shipped with many (older) Linux distributions. Very often it's installed by default."
+#~ msgstr "<ulink url=\"http://www.kde.org/\">KDE 2</ulink>: Tenminste de bibliotheken en het basispakket. KDE 2 wordt geleverd bij veel (oudere) Linux-distributies. Vaak wordt het standaard geïnstalleerd."
+
+#, fuzzy
+#~ msgid "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.3</ulink>. Only required if do not install a precompiled binary package. Installation instructions for Sword are available here: <olink targetdocent=\"documentation_installation_sword\">Sword's installation</olink>"
+#~ msgstr "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.3</ulink> Alleen benodigd als u geen voorgebouwd binair pakket installeert.Installatie-instructies voor Sword vindt u hier: <olink targetdocent=\"documentation_installation_sword\">Sword's installatie</olink>"
+
+#, fuzzy
+#~ msgid "Requirements for BibleTime 1.4"
+#~ msgstr "Benodigdheden voor BibleTime 1.1"
+
+#, fuzzy
+#~ msgid "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.7</ulink>. Installation instructions for Sword are available here: <olink targetdocent=\"documentation_installation_sword\">Sword's installation</olink>"
+#~ msgstr "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.6</ulink> Installatie-instructies voor Sword vindt u hier: <olink targetdocent=\"documentation_installation_sword\">Sword's installatie</olink>"
+
+#~ msgid "Module addons for BibleTime"
+#~ msgstr "Aanvulmodules voor BibleTime"
+
+#~ msgid "A module is a text which can be read within the BibleTime application. There are different module types: Bibles, commentaries, lexicons, daily devotionals and books."
+#~ msgstr "Een module is een tekst die binnen het BibleTime-programma gelezen kan worden. Er zijn verschillende moduletypes: bijbels, commentaren, lexicons, dagelijkse overdenkingen en boeken."
+
+#, fuzzy
+#~ msgid "Please read the following page to see how to install the downloaded modules: <ulink url=\"/documentation/installation/modules\">Installation of text modules</ulink>."
+#~ msgstr "Lees de volgende pagina om te zien hoe de gedownloade modules te installeren:"
 
 #~ msgid "Installation of text modules"
 #~ msgstr "Installatie van tekstmodules"

@@ -1,0 +1,141 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+	<!NOTATION XML SYSTEM "xml">
+
+	<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+  <!ENTITY bibletime '<application
+>BibleTime</application
+>'>
+  <!ENTITY kapp "&bibletimehandbook;">
+  <!ENTITY % addindex "IGNORE">
+
+  <!-- user entities -->
+  <!ENTITY how2-chap1 SYSTEM "how2-importance.docbook">
+  <!ENTITY how2-chap2 SYSTEM "how2-basics.docbook">
+  <!ENTITY how2-chap3 SYSTEM "how2-interpretation.docbook">
+
+]>
+
+<webpage id="biblehowto">
+<head>
+	<title
+>바이블스터디 하우투</title>
+	<summary
+>The BibleTime Biblestudy HowTo</summary>
+	<keywords
+>BibleTime, Screenshots, Software, About, Introduction</keywords>
+</head>
+
+
+<book>
+
+<bookinfo>
+<title
+>바이블스터디 하우투</title>
+
+<authorgroup>
+<author
+> <firstname
+>밥(Bob)</firstname
+> <surname
+>하먼(Harman)</surname
+> </author>
+</authorgroup>
+
+<othercredit role="translator"
+><firstname
+>Seunghyun</firstname
+><surname
+>Cho</surname
+><affiliation
+><address
+><email
+>s970501@hotmail</email
+></address
+></affiliation
+><contrib
+></contrib
+></othercredit>
+
+<copyright>
+<year
+>2001</year
+><year
+>2002</year
+><year
+>2003</year>
+<holder
+>&bibletime;팀, info@bibletime.info</holder>
+</copyright
+><copyright>
+<year
+>2001</year
+><year
+>2002</year
+><year
+>2003</year>
+<holder
+>밥(Bob) 하먼(Harman)</holder>
+</copyright>
+
+<legalnotice
+><para
+> 이 텍스트의 판권은 저자 밥(Bob) 하먼(Harman)에게 있습니다. The text was adapted for publication with BibleTime by Fred Saalbach.</para>
+
+<para
+> Non exclusive serial rights for this distribution of this document with the &bibletime; Software have been made. Redistribution as part of the Bibletime software without modification and limited reproduction as provided by the "fair use" provisions of the US copyright code are also permitted.</para>
+
+<para
+> 바이블타임의 자료 사용을 위한 질문은 Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. Hampton VA 23666 USA <email
+>ncc@ncchampton.org</email
+>으로 해주시기 바랍니다.</para>
+
+<para
+>인용된 성경 구절들은 특별히 명시되지 않았다면 개역한글성경(영문 성구는 New American Standard Bible)의 것들입니다.</para>
+</legalnotice>
+
+
+<date
+>10/23/2001</date>
+<releaseinfo
+>1.01.00</releaseinfo>
+
+
+<abstract>
+<title
+>개요</title>
+<para
+> <application
+>바이블스터디 하우투</application
+>는 성경공부를 위한 길잡이입니다. </para>
+<para
+>이 하우투문서가 독자들이 성경이 말씀하고자 하는 것을 공부하는데 도움이 되길 &bibletime;팀은 소망합니다. 이 스터디 가이드는 특정 종파의 교리에 종속되는 부분들을 제하여 만들어졌습니다. 성경이 말씀하는 바를 알기위해서 말씀을 읽고 공부하시기를 소망합니다. 주님께서 말씀으로 여러분의 마음 속에 심으시기를 사모하는 마음으로 시작하신다면, 그분께서는 당신을 실망시키지 않을 것 입니다.</para>
+</abstract>
+
+<keywordset>
+<keyword
+>성경</keyword>
+<keyword
+>공부</keyword>
+<keyword
+>하우투</keyword>
+</keywordset>
+
+</bookinfo>
+
+&how2-chap1;
+&how2-chap2;
+&how2-chap3;
+
+</book>
+<!--
+Local Variables:
+mode: sgml
+sgml-minimize-attributes:nil
+sgml-general-insert-case:lower
+sgml-indent-step:0
+sgml-indent-data:nil
+End:
+-->
+
+</webpage>
+

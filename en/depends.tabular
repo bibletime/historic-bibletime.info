@@ -1,4 +1,4 @@
-website: ./index.html ./software_about.html ./software_screenshots.html ./software_gallery.html ./software_installation.html ./software_faq.html ./software_press.html ./software_contact.html ./software_guestbook.shtml ./software_swordcd.shtml ./software_links.html ./software_linkus.html ./software_license.html ./translation.shtml ./development.html ./development_help.html ./development_join.html ./development_mailinglists.html ./biblehowto.html ./no_index.html ./error404.html 
+website: ./index.html ./software_about.html ./software_screenshots.html ./software_gallery.html ./software_installation.html ./software_faq.html ./software_swordcd.shtml ./software_links.html ./software_linkus.html ./software_guestbook.shtml ./software_press.html ./software_contact.html ./software_license.html ./translation.shtml ./development.html ./development_help.html ./development_join.html ./development_mailinglists.html ./biblehowto.html ./no_index.html ./error404.html 
 
 ./no_index.html: index.xml
 ./index.html: software.xml
@@ -7,12 +7,12 @@ website: ./index.html ./software_about.html ./software_screenshots.html ./softwa
 ./software_gallery.html: software_gallery.xml
 ./software_installation.html: software_installation.xml
 ./software_faq.html: software_faq.xml
-./software_press.html: software_press.xml
-./software_contact.html: software_contact.xml
-./software_guestbook.shtml: software_guestbook.xml
 ./software_swordcd.shtml: software_swordcd.xml
 ./software_links.html: software_links.xml
 ./software_linkus.html: software_linkus.xml
+./software_guestbook.shtml: software_guestbook.xml
+./software_press.html: software_press.xml
+./software_contact.html: software_contact.xml
 ./software_license.html: software_license.xml
 ./translation.shtml: translation.xml
 ./development.html: development.xml
@@ -26,5 +26,5 @@ distclean: clean
 	rm -f autolayout.xml depends.tabular
 
 clean:
-	rm -f ./index.html ./software_about.html ./software_screenshots.html ./software_gallery.html ./software_installation.html ./software_faq.html ./software_press.html ./software_contact.html ./software_guestbook.shtml ./software_swordcd.shtml ./software_links.html ./software_linkus.html ./software_license.html ./translation.shtml ./development.html ./development_help.html ./development_join.html ./development_mailinglists.html ./biblehowto.html ./no_index.html ./error404.html 
+	rm -f ./index.html ./software_about.html ./software_screenshots.html ./software_gallery.html ./software_installation.html ./software_faq.html ./software_swordcd.shtml ./software_links.html ./software_linkus.html ./software_guestbook.shtml ./software_press.html ./software_contact.html ./software_license.html ./translation.shtml ./development.html ./development_help.html ./development_join.html ./development_mailinglists.html ./biblehowto.html ./no_index.html ./error404.html 
 

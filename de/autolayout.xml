@@ -23,21 +23,17 @@
 <title>Galerie</title>
 <summary>Gallery of BibleTime</summary>
 </tocentry>
-<tocentry page="software_download.xml" id="software_download" filename="software_download.html">
-<title>Herunterladen</title>
-<summary>Download BibleTime</summary>
+<tocentry page="software_installation.xml" id="documentation_installation_bibletime" filename="software_installation.html">
+<title>Installation</title>
+<summary>Installation to the BibleTime software</summary>
 </tocentry>
-<tocentry page="software_press.xml" id="software_press" filename="software_press.html">
-<title>In der &#xD6;ffentlichkeit</title>
-<summary>BibleTime in the press</summary>
+<tocentry page="software_faq.xml" id="documentation_ifaq" filename="software_faq.html">
+<title>FAQ</title>
+<summary>FAQ about BibleTime</summary>
 </tocentry>
-<tocentry page="software_contact.xml" id="contact" filename="software_contact.html">
-<title>Kontakt</title>
-<summary>How to contact us</summary>
-</tocentry>
-<tocentry page="software_guestbook.xml" id="software_guestbook" filename="software_guestbook.shtml">
-<title>G&#xE4;stebuch</title>
-<summary>BibleTime's guestbook</summary>
+<tocentry page="software_swordcd.xml" id="software_swordcd" filename="software_swordcd.shtml">
+<title>Sword CD</title>
+<summary>Get the Sword CD</summary>
 </tocentry>
 <tocentry page="software_links.xml" id="software_links" filename="software_links.html">
 <title>Verweise</title>
@@ -47,45 +43,21 @@
 <title>Auf uns verweisen</title>
 <summary>How to link to www.bibletime.info</summary>
 </tocentry>
+<tocentry page="software_guestbook.xml" id="software_guestbook" filename="software_guestbook.shtml">
+<title>G&#xE4;stebuch</title>
+<summary>BibleTime's guestbook</summary>
+</tocentry>
+<tocentry page="software_press.xml" id="software_press" filename="software_press.html">
+<title>In der &#xD6;ffentlichkeit</title>
+<summary>BibleTime in the press</summary>
+</tocentry>
+<tocentry page="software_contact.xml" id="contact" filename="software_contact.html">
+<title>Kontakt</title>
+<summary>How to contact us</summary>
+</tocentry>
 <tocentry page="software_license.xml" id="software_license" filename="software_license.html">
 <title>Lizenz</title>
 <summary>BibleTime's license</summary>
-</tocentry>
-</tocentry>
-<tocentry page="documentation.xml" id="documentation" filename="documentation.html">
-<title>Dokumentation</title>
-<summary>Introduction</summary>
-<tocentry page="documentation_requirements.xml" id="documentation_requirements_bibletime" filename="documentation_requirements.html">
-<title>Voraussetzungen</title>
-<summary>Introduction to the BibleTime software</summary>
-</tocentry>
-<tocentry page="documentation_installation.xml" id="documentation_installation" filename="documentation_installation.html" tocskip="1">
-<title>Installation</title>
-<summary>Introduction to the BibleTime software</summary>
-<tocentry page="documentation_installation_bibletime.xml" id="documentation_installation_bibletime" filename="documentation_installation_bibletime.html">
-<title>BibleTime</title>
-<summary>Introduction to the BibleTime software</summary>
-</tocentry>
-<tocentry page="documentation_installation_sword.xml" id="documentation_installation_sword" filename="documentation_installation_sword.html">
-<title>Sword</title>
-<summary>How to install Swors</summary>
-</tocentry>
-<tocentry page="documentation_installation_modules.xml" id="documentation_installation_modules" filename="documentation_installation_modules.html">
-<title>Module</title>
-<summary>How to install Sword modules</summary>
-</tocentry>
-</tocentry>
-<tocentry page="documentation_faq.xml" id="documentation_ifaq" filename="documentation_faq.html">
-<title>FAQ</title>
-<summary>FAQ about BibleTime</summary>
-</tocentry>
-</tocentry>
-<tocentry page="modules.xml" id="modules" filename="modules.html">
-<title>Module</title>
-<summary>Introduction to Sword modules</summary>
-<tocentry page="modules_swordcd.xml" id="modules_swordcd" filename="modules_swordcd.shtml">
-<title>Sword CD</title>
-<summary>Get the Sword CD</summary>
 </tocentry>
 </tocentry>
 <tocentry page="translation.xml" id="translation" filename="translation.shtml">

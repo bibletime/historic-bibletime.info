@@ -1,0 +1,120 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_about SYSTEM "software_about.xml" NDATA XML>
+<!ENTITY software_faq SYSTEM "software_faq.xml" NDATA XML>
+<!ENTITY modules SYSTEM "modules.xml" NDATA XML>
+]>
+
+<webpage id="documentation_installation_bibletime">
+<config param="desc" value="Installation of the BibleTime software"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title>Installation</title>
+<summary>Installation to the BibleTime software</summary>
+<keywords>BibleTime, Software, Installation, Help, Sword, Download</keywords>
+</head>
+
+<section><title>Installation of BibleTime</title>
+<para>
+This page explains how to Install BibleTime on your system. Basically there are two ways to install it: Either by using prebuilt binary packages or by compiling from source code. Installing BibleTime using prebuilt packages is the easiest way.
+</para>
+
+	<section><title>Prebuilt binary packages</title>
+		<para>We try to provide packages for the most important Linux distributions. These include RedHat, Mandrake and SuSE.
+		</para>
+
+		<para>First download the binary package for your Linux distribution. For example: You want to download <application>BibleTime 1.4</application> for <productname>SuSE Linux 9.0</productname>. In this case you have to download the package <filename>bibletime-1.4-1.suse9.0.i586.rpm</filename>.
+		Please download the package &quot;bibletime-i18n&quot; package, too. This package contains the available translations of the BibleTime user interface and handbook.
+		</para>
+		<para>Packages can be downloaded from <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954">SourceForge</ulink>.
+		</para>
+		<para>If there are now packages for your Linux you have to install from source code. Please see below how to do that.
+		</para>
+	</section>
+
+	<section><title>Installation from source code</title>
+		<para>
+		Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources:
+
+		<orderedlist>
+			<listitem>
+				<para>At first make sure the required software is installed on your system.
+				</para>
+
+				<itemizedlist>
+					<listitem>
+						<para><ulink url="http://www.kde.org/">KDE 3</ulink>.</para>
+						<para>At least the libraries and the base package. KDE 3 is shipped with many Linux distributions. Very often it's installed by default.
+						</para>
+					</listitem>
+					<listitem>
+						<para><ulink url="http://curl.sourceforge.net/">Curl >= 7.9</ulink>.</para>
+						<para>This is necessary for the remote installation features of the new Sword Setup Dialog. Curl has to be installed before Sword.
+						</para>
+					</listitem>
+					<listitem>
+						<para><ulink url="http://www.crosswire.org/sword/software/swordapi.jsp">Sword 1.5.7</ulink>.</para>
+						<para>Installation instructions are available on <ulink url="http://www.crosswire.org/sword/software/index.jsp">www.crosswire.org/sword/software</ulink>. Basically the installation steps are
+							<screen>
+								<command>./usrinst.sh --enable-shared --with-curl --without-clucene</command>
+								<command>make</command>
+								<command>make install</command>
+								<command>make install_config</command>
+							</screen>
+						</para>
+					</listitem>
+				</itemizedlist>
+
+				<para>Please note that this list is only valid for the latest version of BibleTime, older versions may require other software.
+				</para>
+			</listitem>
+
+			<listitem>
+				<para><ulink url="http://sourceforge.net/project/showfiles.php?group_id=954">Get the source code package</ulink> of BibeTime.
+				</para>
+			</listitem>
+
+			<listitem>
+				<para>Compile and install BibleTime:
+					<screen>
+						<command>./configure --prefix=&lt;your KDE directory&gt;</command>
+						<command>make</command>
+						<command>make install</command>
+					</screen>
+				</para>
+
+				<para>You can get your KDE directory by running the command <command>kde-config --prefix</command>. If you get problems please read our <olink targetdocent="software_faq">FAQ</olink>. If there's no solution of your problem, please contact us at <email>info@bibletime.info</email>.
+				</para>
+			</listitem>
+
+		</orderedlist>
+
+		</para>
+	</section>
+</section>
+
+<section><title>Install Sword modules</title>
+	<para>
+	You need Sword modules to work with BibleTime. Since version 1.4 BibleTime offers a userfriendly dialog to manage Sword modules. We strongly recommend this way to install modules on your computer.
+	</para>
+
+	<para>
+	Instructions for manual module installation is available on <ulink url="http://www.crosswire.org/sword/modules/moduleinstall.jsp">www.crosswire.org/sword/modules</ulink>.
+	</para>
+
+	<section><title>Available types of modules</title>
+		<para>Here is a list of available module types and where to get more information about the available module types:
+		</para>
+		<para>
+			<orderedlist>
+				<listitem><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Bibles">Bibles</ulink></listitem>
+				<listitem><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Commentaries">Commentaries</ulink></listitem>
+				<listitem><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Dictionaries">Lexicons / Dictionaries</ulink></listitem>
+				<listitem><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Books">Books</ulink></listitem>
+			</orderedlist>
+		</para>
+	</section>
+
+</section>
+
+</webpage>

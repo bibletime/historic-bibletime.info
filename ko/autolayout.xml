@@ -23,21 +23,17 @@
 <title>&#xAC24;&#xB7EC;&#xB9AC;</title>
 <summary>Gallery of BibleTime</summary>
 </tocentry>
-<tocentry page="software_download.xml" id="software_download" filename="software_download.html">
-<title>&#xB2E4;&#xC6B4;&#xB85C;&#xB4DC;</title>
-<summary>Download BibleTime</summary>
+<tocentry page="software_installation.xml" id="documentation_installation_bibletime" filename="software_installation.html">
+<title>&#xC124;&#xCE58;</title>
+<summary>Installation to the BibleTime software</summary>
 </tocentry>
-<tocentry page="software_press.xml" id="software_press" filename="software_press.html">
-<title>&#xCD9C;&#xD310;&#xBB3C;&#xC5D0;&#xC11C;</title>
-<summary>BibleTime in the press</summary>
+<tocentry page="software_faq.xml" id="documentation_ifaq" filename="software_faq.html">
+<title>&#xC790;&#xC8FC; &#xBB3B;&#xB294; &#xC9C8;&#xBB38;&#xB4E4;(FAQ)</title>
+<summary>FAQ about BibleTime</summary>
 </tocentry>
-<tocentry page="software_contact.xml" id="contact" filename="software_contact.html">
-<title>&#xC5F0;&#xB77D;&#xCC98;</title>
-<summary>How to contact us</summary>
-</tocentry>
-<tocentry page="software_guestbook.xml" id="software_guestbook" filename="software_guestbook.shtml">
-<title>&#xBC29;&#xBA85;&#xB85D;</title>
-<summary>BibleTime's guestbook</summary>
+<tocentry page="software_swordcd.xml" id="software_swordcd" filename="software_swordcd.shtml">
+<title>&#xC2A4;&#xC6CC;&#xB4DC;(Sword) CD</title>
+<summary>Get the Sword CD</summary>
 </tocentry>
 <tocentry page="software_links.xml" id="software_links" filename="software_links.html">
 <title>&#xB9C1;&#xD06C;</title>
@@ -47,45 +43,21 @@
 <title>&#xB9C1;&#xD06C;&#xD558;&#xAE30;</title>
 <summary>How to link to www.bibletime.info</summary>
 </tocentry>
+<tocentry page="software_guestbook.xml" id="software_guestbook" filename="software_guestbook.shtml">
+<title>&#xBC29;&#xBA85;&#xB85D;</title>
+<summary>BibleTime's guestbook</summary>
+</tocentry>
+<tocentry page="software_press.xml" id="software_press" filename="software_press.html">
+<title>&#xCD9C;&#xD310;&#xBB3C;&#xC5D0;&#xC11C;</title>
+<summary>BibleTime in the press</summary>
+</tocentry>
+<tocentry page="software_contact.xml" id="contact" filename="software_contact.html">
+<title>&#xC5F0;&#xB77D;&#xCC98;</title>
+<summary>How to contact us</summary>
+</tocentry>
 <tocentry page="software_license.xml" id="software_license" filename="software_license.html">
 <title>&#xB77C;&#xC774;&#xC13C;&#xC2A4;</title>
 <summary>BibleTime's license</summary>
-</tocentry>
-</tocentry>
-<tocentry page="documentation.xml" id="documentation" filename="documentation.html">
-<title>&#xBB38;&#xC11C;</title>
-<summary>Introduction</summary>
-<tocentry page="documentation_requirements.xml" id="documentation_requirements_bibletime" filename="documentation_requirements.html">
-<title>&#xD544;&#xC694;&#xD55C; &#xAC83;&#xB4E4;</title>
-<summary>Introduction to the BibleTime software</summary>
-</tocentry>
-<tocentry page="documentation_installation.xml" id="documentation_installation" filename="documentation_installation.html" tocskip="1">
-<title>&#xC124;&#xCE58;</title>
-<summary>Introduction to the BibleTime software</summary>
-<tocentry page="documentation_installation_bibletime.xml" id="documentation_installation_bibletime" filename="documentation_installation_bibletime.html">
-<title>&#xBC14;&#xC774;&#xBE14;&#xD0C0;&#xC784;</title>
-<summary>Introduction to the BibleTime software</summary>
-</tocentry>
-<tocentry page="documentation_installation_sword.xml" id="documentation_installation_sword" filename="documentation_installation_sword.html">
-<title>&#xC2A4;&#xC6CC;&#xB4DC;(Sword)</title>
-<summary>How to install Swors</summary>
-</tocentry>
-<tocentry page="documentation_installation_modules.xml" id="documentation_installation_modules" filename="documentation_installation_modules.html">
-<title>&#xBAA8;&#xB4C8;</title>
-<summary>How to install Sword modules</summary>
-</tocentry>
-</tocentry>
-<tocentry page="documentation_faq.xml" id="documentation_ifaq" filename="documentation_faq.html">
-<title>&#xC790;&#xC8FC; &#xBB3B;&#xB294; &#xC9C8;&#xBB38;&#xB4E4;(FAQ)</title>
-<summary>FAQ about BibleTime</summary>
-</tocentry>
-</tocentry>
-<tocentry page="modules.xml" id="modules" filename="modules.html">
-<title>&#xBAA8;&#xB4C8;</title>
-<summary>Introduction to Sword modules</summary>
-<tocentry page="modules_swordcd.xml" id="modules_swordcd" filename="modules_swordcd.shtml">
-<title>&#xC2A4;&#xC6CC;&#xB4DC;(Sword) CD</title>
-<summary>Get the Sword CD</summary>
 </tocentry>
 </tocentry>
 <tocentry page="translation.xml" id="translation" filename="translation.shtml">

@@ -31,18 +31,6 @@
 <title>FAQ</title>
 <summary>FAQ about BibleTime</summary>
 </tocentry>
-<tocentry page="software_press.xml" id="software_press" filename="software_press.html">
-<title>In the press</title>
-<summary>BibleTime in the press</summary>
-</tocentry>
-<tocentry page="software_contact.xml" id="contact" filename="software_contact.html">
-<title>Contact</title>
-<summary>How to contact us</summary>
-</tocentry>
-<tocentry page="software_guestbook.xml" id="software_guestbook" filename="software_guestbook.shtml">
-<title>Guestbook</title>
-<summary>BibleTime's guestbook</summary>
-</tocentry>
 <tocentry page="software_swordcd.xml" id="software_swordcd" filename="software_swordcd.shtml">
 <title>Sword CD</title>
 <summary>Get the Sword CD</summary>
@@ -54,6 +42,18 @@
 <tocentry page="software_linkus.xml" id="software_linkus" filename="software_linkus.html">
 <title>Link to us</title>
 <summary>How to link to www.bibletime.info</summary>
+</tocentry>
+<tocentry page="software_guestbook.xml" id="software_guestbook" filename="software_guestbook.shtml">
+<title>Guestbook</title>
+<summary>BibleTime's guestbook</summary>
+</tocentry>
+<tocentry page="software_press.xml" id="software_press" filename="software_press.html">
+<title>In the press</title>
+<summary>BibleTime in the press</summary>
+</tocentry>
+<tocentry page="software_contact.xml" id="contact" filename="software_contact.html">
+<title>Contact</title>
+<summary>How to contact us</summary>
 </tocentry>
 <tocentry page="software_license.xml" id="software_license" filename="software_license.html">
 <title>License</title>
