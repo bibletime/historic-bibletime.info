@@ -11,38 +11,64 @@
 <keywords>BibleTime, Jesus, God, Bible study, Crosswire, Sword</keywords>
 </head>
 
-<section><title>www.bibletime.info in your language</title>
+<section><title>Help translate BibleTime into your language</title>
 <para>
-As you may have noticed BibleTime's webpage is available in different languages. We want to support users by offering them our webpages in their language. If you are interested to help us please read this page.
+This is a part of software development where the help of many individals is needed.
+It is our desire to offer BibleTime to users in as many languages as possible.
+The following areas are open for your contributions:
+
+<orderedlist numeration="arabic">
+	<listitem><para>Translate the www.bibletime.info website.</para></listitem>
+	<listitem><para>Translate the program's User Interface.</para></listitem>
+	<listitem><para>Translate the program's handbook.</para></listitem>
+</orderedlist>
 </para>
 
-<section><title>Translation in a new language</title>
 <para>
-If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <ulink url="/en/pot/full.pot">Webpage translation template</ulink>. We recommend to use the program <ulink url="http://i18n.kde.org/tools/kbabel/">KBabel</ulink> to translate the file. If you've finished translating it, please send it to <email>info@bibletime.info</email>.
+On this page you can find statistics about the completeness of existing translations for each of these areas, as well
+as links to translation templates that you can use to submit new translations which do not yet exist. If a translation
+into your language does not yet exist, just download the templates, translate them and send them to <email>info@bibletime.info</email>.
+If you are not satisfied with the status of your language's translation, you can directly download the corresponding file,
+update the translation and send it in. In both cases we'll be sure to integrate your work as soon as possible.
+</para>
+
+<para>
+For the translation process we recommend that you use the excellent and mature program
+<ulink url="http://i18n.kde.org/tools/kbabel/">KBabel</ulink>. It has many advanced features and is a great aid.
 </para>
 </section>
 
 
-<section><title>Existing translations</title>
+<section><title>Translate the www.bibletime.info website.</title>
 <para>
-The following charts show the current translations and how much translations work they still need. If you speak one of those languages and want to update a translation just click on the download link and start working on the update. Don't hesitate to ask us <email>info@bibletime.info</email> if you have questions about the translation.
+If a translation of the website to your language does not yet exist, you can download and translate
+the <ulink url="/en/pot/full.pot">Webpage translation template</ulink>.
+If you want to update an existing translation, use the links in the table below to
+download the corresponding file.
 </para>
 	<ssi mode="exec" cgi="/postats/website_stats.pl"/>
 </section>
 
-<section><title>GUI messages translations</title>
+<section><title>Translate the program's User Interface.</title>
 <para>
-Translations of the BibleTime user interface messages.
+If a translation of the User Interface to your language does not yet exist, you can download and translate
+the <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD">
+User Interface translation template</ulink>.
+If you want to update an existing translation, use the links in the table below to
+download the corresponding file.
 </para>
 	<ssi mode="exec" cgi="/postats/messages_stats.pl"/>
 </section>
 
-<section><title>Handbook translations</title>
+<section><title>Translate the program's handbook.</title>
 <para>
-Translations of BibleTime's handbook.
+If a translation of the handbook to your language does not yet exist, you can download and translate
+the <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD">
+handbook translation template</ulink>.
+If you want to update an existing translation, use the links in the table below to
+download the corresponding file.
 </para>
 	<ssi mode="exec" cgi="/postats/handbook_stats.pl"/>
 </section>
 
-</section>
 </webpage>
