@@ -3,7 +3,6 @@
           "../en/schema/dtd/layout.dtd">
 <layout>
   <style title="Blue" src="blue.css" type="text/css"/>
-  <style title="Plain" src="plain.css" type="text/css"/>
 
   <config param="text-prefix" value="txt_"/>
 

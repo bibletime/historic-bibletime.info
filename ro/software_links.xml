@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 ]>
 
@@ -32,16 +32,20 @@
 >Pagini crestine generale</title>
 		<formalpara
 ><title
-></title>
+><ulink url="http://www.bibletechnologies.net/"
+>Bible Technologies Group</ulink
+>.</title>
 			<para
->  </para>
+> The home of the new common exchange Text format OSIS, which will hopefully be used by many Bible societies and publishers of the world. </para>
 		</formalpara>
 
 		<formalpara
 ><title
-></title>
+><ulink url="http://www.crosswire.org/"
+>CrossWire Bible Society</ulink
+>.</title>
 			<para
->  </para>
+> The Crosswire Bible society is one of the few christian organizations in the world providing everything they make free for all! Crosswire supports the Sword project, the KJV2003 project and some other cool things. </para>
 		</formalpara>
 	</section>
 
@@ -50,7 +54,9 @@
 >Programe de Biblie pentru linux</title>
 		<formalpara
 ><title
-></title>
+><ulink url="http://gnomesword.sf.net/"
+>Gnomesword</ulink
+>.</title>
 			<para
 > Gnomesword este un program grafic bazat pe Sword folosind elementele Gnome-ului. O aplicatie cu adevarat buna. Cel mai bine e sa verifici tu insuti! </para>
 		</formalpara>
@@ -62,44 +68,56 @@
 >Programe de Biblie pentru Windows</title>
 		<formalpara
 ><title
-></title>
+><ulink url="http://www.bibleworks.com/"
+>BibleWorks</ulink
+>.</title>
 			<para
->  </para>
+> BibleWorks is one of the best Bible study applications for Windows! Very good but very expensive, too. Only useful for Bible scholars. </para>
 		</formalpara>
 
 		<formalpara
 ><title
-></title>
+><ulink url="http://www.bibleworkshop.com/"
+>BibleWorkshop</ulink
+>.</title>
 			<para
->  </para>
+> The Bible Workshop program is a powerful, commercial Bible study application for Windows, which is available in english, german and french. It's possible to enhance the Bible Workshop using Text libraries you can buy. </para>
 		</formalpara>
 
 		<formalpara
 ><title
-></title>
+><ulink url="http://www.logos.com/"
+>Logos</ulink
+>.</title>
 			<para
->  </para>
+> Logos is one of the best Bible study applications for Windows. You can buy a lot of texts to enhance it. </para>
 		</formalpara>
 
 		<formalpara
 ><title
-></title>
+><ulink url="http://www.onlinebible.org/"
+>OnlineBible</ulink
+>.</title>
 			<para
->  </para>
+> The Online Bible is a powerful Bible study application for Windows. </para>
 		</formalpara>
 
 		<formalpara
 ><title
-></title>
+><ulink url="http://www.crosswire.org/sword/"
+>Sword for Windows</ulink
+>.</title>
 			<para
->  </para>
+> This is the Windows Bible study application made by the Sword team! Sword is supported by the Crosswire Bible Society. </para>
 		</formalpara>
 
 		<formalpara
 ><title
-></title>
+><ulink url="http://www.volksbibel.de/"
+>Volksbibel</ulink
+>.</title>
 			<para
->  </para>
+> Volksbibel 2000.2 is a German, metacard based software Bible study tool for Windows, Linux and Mac. Althouth there are not so many texts as other software packages have, it has some cool things like basic map support included. If you are german try it out! </para>
 		</formalpara>
 	</section>
 
@@ -109,21 +127,25 @@
 >Programe de Biblie pentru Mac</title>
 		<formalpara
 ><title
-></title>
+><ulink url="http://www.macsword.com/"
+>MacSword for OS X</ulink
+>.</title>
 			<para
->  </para>
+> MacSword is a new Bible study application for the new Macintosh OS X system. The screenshots look very promising! </para>
 		</formalpara>
 	</section>
 
 
 	<section
 ><title
-></title>
+>Development tools</title>
 		<formalpara
 ><title
-></title>
+><ulink url="http://www.sourceforge.net/"
+>SourceForge</ulink
+>.</title>
 			<para
->  </para>
+> SourceForge provides us with the tools to develop BibleTime with many team members at the same time! We save a lot of time and money by using their services. </para>
 		</formalpara>
 	</section>
 

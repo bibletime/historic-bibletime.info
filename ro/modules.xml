@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
 ]>
@@ -33,22 +33,22 @@
 
 <orderedlist
 ><title
-></title
+>Available types of modules</title
 > <listitem
 ><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Bibles"
-></ulink
+>Bibles</ulink
 ></listitem
 > <listitem
 ><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Commentaries"
-></ulink
+>Commentaries</ulink
 ></listitem
 > <listitem
 ><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Dictionaries"
-></ulink
+>Lexicons / Dictionaries</ulink
 ></listitem
 > <listitem
 ><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Books"
-></ulink
+>Books</ulink
 ></listitem
 > </orderedlist>
 

@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: application/x-xml2pot; charset=UTF-8\n"
 "Content-Transfer-Encoding: ENCODING\n"
 
-#: index.docbook:4 index.docbook:16
+#: index.docbook:4 index.docbook:16 index.docbook:15
 #, no-c-format
 msgid "The BibleTime developers - www.bibletime.info"
 msgstr ""
@@ -216,21 +216,6 @@ msgstr ""
 
 #: index.docbook:15
 #, no-c-format
-msgid "BibleTime's development"
-msgstr ""
-
-#: index.docbook:16
-#, no-c-format
-msgid "These pages describe how to join in the development of BibleTime and which ways exist to help us! BibleTime's quality and usefulness depends on the help of others to a large degree."
-msgstr ""
-
-#: index.docbook:20
-#, no-c-format
-msgid "Please read the following pages very carefully to see whether you can help us with the development!"
-msgstr ""
-
-#: index.docbook:15
-#, no-c-format
 msgid "Help us ..."
 msgstr ""
 
@@ -419,15 +404,20 @@ msgstr ""
 msgid "www.crosswire.org/pipermail/sword-devel"
 msgstr ""
 
-#: index.docbook:14
+#: index.docbook:15
 #, no-c-format
-msgid "BibleTime's documemtation"
-msgstr "Документація BibleTime"
+msgid "BibleTime's development"
+msgstr ""
 
 #: index.docbook:16
-#, fuzzy, no-c-format
-msgid "Since you have to know how to install and use BibleTime we provide here some useful documentation pages and links. Since many users have the same problems with BibleTime please be sure to check the answers in the FAQ if you have problem."
-msgstr "Щоб допомогти вам встановити та навчитися користуватися BibleTime ми надаємо на ціх сторінках корисну документацію та посилання.  Оскільки багато користувачів зустрічають одні й тіж проблеми у роботі з BibleTime ми радимо насамперед пошукати відповіді тут, якщо в вас виникнуть запитання."
+#, no-c-format
+msgid "These pages describe how to join in the development of BibleTime and which ways exist to help us! BibleTime's quality and usefulness depends on the help of others to a large degree."
+msgstr ""
+
+#: index.docbook:20
+#, no-c-format
+msgid "Please read the following pages very carefully to see whether you can help us with the development!"
+msgstr ""
 
 #: index.docbook:14
 #, no-c-format
@@ -690,6 +680,16 @@ msgstr ""
 #, no-c-format
 msgid "http://www.crosswire.org/sword/software/index.jsp"
 msgstr ""
+
+#: index.docbook:14
+#, no-c-format
+msgid "BibleTime's documemtation"
+msgstr "Документація BibleTime"
+
+#: index.docbook:16
+#, fuzzy, no-c-format
+msgid "Since you have to know how to install and use BibleTime we provide here some useful documentation pages and links. Since many users have the same problems with BibleTime please be sure to check the answers in the FAQ if you have problem."
+msgstr "Щоб допомогти вам встановити та навчитися користуватися BibleTime ми надаємо на ціх сторінках корисну документацію та посилання.  Оскільки багато користувачів зустрічають одні й тіж проблеми у роботі з BibleTime ми радимо насамперед пошукати відповіді тут, якщо в вас виникнуть запитання."
 
 #: index.docbook:15
 #, no-c-format
@@ -2794,6 +2794,16 @@ msgstr ""
 #: index.docbook:33
 #, no-c-format
 msgid "The search dialog of previous versions wasn't easy to use. This is the new search dialog together with the new module chooser window on the right. <ulink url=\"/screenshots/2-large.jpg\">Large screenshot</ulink>"
+msgstr ""
+
+#: index.docbook:16
+#, no-c-format
+msgid "Here you can see some improvements of BibleTime 1.3. The tree on the left is now set up by module type and language. The greek text in the right display window is now displayed better because BibleTime supports now own font settings for each language. <ulink url=\"/images//screenshots/1-large.jpg\">Large screenshot</ulink>"
+msgstr ""
+
+#: index.docbook:33
+#, no-c-format
+msgid "The search dialog of previous versions wasn't easy to use. This is the new search dialog together with the new module chooser window on the right. <ulink url=\"/images/screenshots/2-large.jpg\">Large screenshot</ulink>"
 msgstr ""
 
 #~ msgid "What BibleTime is ..."

@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
 ]>
@@ -21,13 +21,15 @@
 <para
 > Чтобы подписаться на рассылку для разработчиков проекта BibleTime посетите следующую страницу и оставьте там адрес вашей електронной почты: </para>
 <para
->  </para>
+> <ulink url="http://www.crosswire.org/mailman/listinfo/bt-devel"
+>www.crosswire.org/mailman/listinfo/bt-devel</ulink
+>. </para>
 
 <para
 > Архивы рассылки для разработчиков BibleTime можно найти здесь: </para>
 <para
 > <ulink url="http://www.crosswire.org/pipermail/bt-devel/"
-></ulink
+>www.crosswire.org/pipermail/bt-devel</ulink
 > </para>
 </section>
 
@@ -38,13 +40,15 @@
 > Чтобы подписаться на рассылку для разработчиков проекта Sword посетите следующую страницу и оставьте там адрес вашей електронной почты: </para>
 
 <para
->  </para>
+> <ulink url="http://www.crosswire.org/mailman/listinfo/sword-devel"
+>www.crosswire.org/mailman/listinfo/sword-devel</ulink
+>. </para>
 <para
 > Архивы рассылки для разработчиков Sword можно найти здесь: </para>
 
 <para
 > <ulink url="http://www.crosswire.org/pipermail/sword-devel/"
-></ulink
+>www.crosswire.org/pipermail/sword-devel</ulink
 > </para>
 </section>
 

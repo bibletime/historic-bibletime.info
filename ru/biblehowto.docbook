@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
 	<!NOTATION XML SYSTEM "xml">
 
 	<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
@@ -64,8 +64,8 @@
 ><year
 >2003</year>
 <holder
->Команда &bibletime;, info@bibletime.info</holder
-> </copyright
+>Команда &bibletime;, info@bibletime.info</holder>
+</copyright
 ><copyright>
 <year
 >2001</year

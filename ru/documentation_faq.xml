@@ -1,0 +1,153 @@
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="documentation_ifaq">
+<config param="desc" value="FAQ"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>FAQ</title>
+<summary
+>FAQ about BibleTime</summary>
+<keywords
+>BibleTime, Sword, FAQ, Installation</keywords>
+</head>
+
+<section
+><title
+>Frequently Asked Questions</title>
+	<qandaset defaultlabel='number'>
+
+		<qandadiv
+><title
+>Процесс установки</title>
+			<qandaentry>
+				<question>
+					<para
+>Куда задевалась панель инструментов?</para>
+				</question>
+				<answer>
+					<para
+> Please run configure with the parameter --prefix=&lt;your KDE directory&gt;. Then run make and make install as usual. The KDE directories for the widely used Linux distributions are: <orderedlist
+> <listitem
+>RedHat: /usr</listitem
+> <listitem
+>SuSE: /opt/kde3</listitem
+> <listitem
+>Mandrake: /usr</listitem
+> </orderedlist
+> Alternatively you can run the command "kde-config --prefix" to get your KDE directory. The commands are: <orderedlist
+> <listitem
+>./configure --prefix=&lt;your KDE directory&gt;</listitem
+> <listitem
+>make</listitem
+> <listitem
+>make install</listitem
+> </orderedlist
+> </para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para
+>Куда подевались советы на каждый день и документация?!</para>
+				</question>
+				<answer>
+					<para
+> Please install the package bibletime-i18n which contains the translations of the daily tips, the handbook, the installation instructions and the Bible study howto. </para>
+				</answer>
+			</qandaentry>
+
+		</qandadiv>
+
+		<qandadiv
+><title
+>Usage problems</title>
+			<qandaentry>
+				<question>
+					<para
+> А можно произвести поиск по номеру Стронга (Strong's)? </para>
+				</question>
+
+				<answer>
+					<para
+> Такой поиск позволяют версии 1.1 и выше.  Для этого включите использование номеров Стронга в окне "Опции" (Sword->Установки фильтра). Затем откройте окно поиска и введите номер &lt;0120&gt; или любой другой номер Стронга (На английском языке существует так называемый конкорданс Стронга (Strong's), в котором каждое слово Библии имеет свой номер для поиска всех его употреблений в оригинале и всех его вариантов перевода на английский язык - примечание переводчика). </para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para
+> Почему вместо текста в кодировке Уникоуд (Unicode) у меня на экране сплошные знаки вопроса? </para>
+				</question>
+
+				<answer>
+					<para
+> First make sure you have the latest version of the module which has the problems! Check <ulink url="www.crosswire.org/sword"
+>www.crosswire.org/sword</ulink
+> for this. </para>
+					<para
+> You have to install an unicode font like Code2000, Arial Unicode MS or Bitstream Cyberbit to display the special unicode characters. Check the section "Configuring BibleTime->Options Dialog->Fonts" in the handbook of BibleTime how to setup Unicode fonts under Linux. </para>
+				</answer>
+			</qandaentry>
+		</qandadiv>
+
+		<qandadiv
+><title
+>Модули</title>
+			<qandaentry>
+				<question>
+					<para
+>The KJV shows no Strongs numbers in the NT!</para>
+				</question>
+
+				<answer>
+					<para
+> Due to copyright problems the old KJV module which contained all Strongs numbers had to be removed. The project KJV2003 was started to create a public domain text with all Strong numbers in it. At this time it's not yet finished so the numbers are not available in all verses of the NT. The status of the project is available at Crosswire. </para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para
+>Где я могу вести свои заметки при изучении Библии?</para>
+				</question>
+
+				<answer>
+					<para
+> Для этого нужно установить модуль "Personal", который можно найти в разделе комментариев (commentary) на сайте Crosswire.Также прочтите страничку <ulink url="/modules/commentaries/"
+>Комментарии</ulink
+>. </para>
+				</answer>
+			</qandaentry>
+
+
+			<qandaentry>
+				<question>
+					<para
+>Почему один из заветов Библии пуст?</para>
+				</question>
+
+				<answer>
+					<para
+> Некоторые модули содержат текст только одного завета или Нового или Ветхого.Новые версии BibleTime не должны показывать названия книг завета, текст которого отсутствует. </para>
+				</answer>
+			</qandaentry>
+
+		</qandadiv>
+	</qandaset>
+</section>
+
+</webpage>
+
+
+
+
+<!--
+Local variables:
+mode: docbook
+End:
+-->
+

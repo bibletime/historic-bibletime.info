@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
 ]>
@@ -8,7 +8,7 @@
 <config param="rcsdate" value="$Date$"/>
 <head>
 <title
-></title>
+>Mailinglists</title>
 <summary
 >BibleTime's mailinglists</summary>
 <keywords
@@ -17,34 +17,38 @@
 
 <section
 ><title
-></title>
+>BibleTime development mailing list</title>
 <para
->  </para>
+> To subscribe to the development mailing list of the BibleTime project please visit the following web page and enter your eMail address there: </para>
 <para
->  </para>
+> <ulink url="http://www.crosswire.org/mailman/listinfo/bt-devel"
+>www.crosswire.org/mailman/listinfo/bt-devel</ulink
+>. </para>
 
 <para
->  </para>
+> Archives of the BibleTime development mailing list are available at: </para>
 <para
 > <ulink url="http://www.crosswire.org/pipermail/bt-devel/"
-></ulink
+>www.crosswire.org/pipermail/bt-devel</ulink
 > </para>
 </section>
 
 <section
 ><title
-></title>
+>Sword development mailing list</title>
 <para
->  </para>
+> To subscribe to the development mailing list of the Sword project please visit the following web page and enter your eMail address there: </para>
 
 <para
->  </para>
+> <ulink url="http://www.crosswire.org/mailman/listinfo/sword-devel"
+>www.crosswire.org/mailman/listinfo/sword-devel</ulink
+>. </para>
 <para
->  </para>
+> Archives of the Sword development mailing list are available at: </para>
 
 <para
 > <ulink url="http://www.crosswire.org/pipermail/sword-devel/"
-></ulink
+>www.crosswire.org/pipermail/sword-devel</ulink
 > </para>
 </section>
 

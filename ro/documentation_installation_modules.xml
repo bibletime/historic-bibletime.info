@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 ]>
 
@@ -40,7 +40,9 @@
 > Instructiunile de instalare facute de echipa Sword sunt disponibile aici: </para>
 
 <para
->  </para>
+> <ulink url="http://www.crosswire.org/sword/modules/moduleinstall.jsp"
+>www.crosswire.org/sword/modules/moduleinstall.jsp</ulink
+>. </para>
 
 <para
 > Daca ai probleme te rog citeste raspunsurile la intrebarile cele mai frecvente (FAQ). Sectiunea FAQ e disponibila pe partea stanga a acestei pagini. </para>

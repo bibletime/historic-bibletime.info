@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
 ]>
@@ -8,7 +8,7 @@
 <config param="rcsdate" value="$Date$"/>
 <head>
 <title
-></title>
+>Join us</title>
 <summary
 >BibleTime's development</summary>
 <keywords
@@ -59,7 +59,7 @@
 > <listitem
 > Прочитайте уже существующую документацию на английском языке.  Вы найдете ее в под-директории docs/ в директории bibletime cvs. </listitem
 > <listitem
->  </listitem
+> The documentation is stored in docbook files in the unicode subdirectories of each documentation part (handbook, Bible study howto, installation, helpdialog). Please don't edit the HTML files directly because they're generated from the docbook files. The translation file are also generated from the docbook data. </listitem
 > </orderedlist
 > </para>
 </section>
@@ -71,11 +71,13 @@
 <para
 > <orderedlist
 > <listitem
->  </listitem
+> Have a look at the internationaliziation pages of the KDE project. They're located at: <ulink url="http://i18n.kde.org/"
+>i18n.kde.org</ulink
+> </listitem
 > <listitem
->  </listitem
+> Install the program KBabel, if it's not yet installed on your system. It will help you a lot with the translation process. </listitem
 > <listitem
->  </listitem
+> Request the files for the translation on the bt-devel mailinglist. Normally the software doordinator will create a new CVS module, which will contain the files you'll translate. </listitem
 > </orderedlist
 > </para>
 </section>

@@ -1,9 +1,8 @@
 <?xml version="1.0"?>
 <!DOCTYPE layout PUBLIC "-//Norman Walsh//DTD Website Layout V2.4.0//EN"
-          "schema/dtd/layout.dtd">
+          "../en/schema/dtd/layout.dtd">
 <layout>
   <style title="Blue" src="blue.css" type="text/css"/>
-  <style title="Plain" src="plain.css" type="text/css"/>
 
   <config param="text-prefix" value="txt_"/>
 
@@ -19,7 +18,7 @@
 		<year
 >2003</year>
     	<holder role="http://www.bibletime.info/"
-></holder>
+>The BibleTime developers - www.bibletime.info</holder>
   </copyright>
 
   <notoc page="error404.xml" filename="error404.html"/>
