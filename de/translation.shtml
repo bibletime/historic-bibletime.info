@@ -8,11 +8,11 @@
 <p> As you may have noticed BibleTime's webpage is available in different languages. We want to support users by offering them our webpages in their language. If you are interested to help us please read this page. </p>
 
 <div class="section"  xml:lang="en"><div class="titlepage"><div><div><h3 class="title"><a id="id2825238"></a>Übersetzung in eine neue Sprache</h3></div></div><div></div></div>
-<p> If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <a href="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime-website/en/pot/full.pot?rev=HEAD" >Webpage translation template</a>. We recommend to use the program <a href="http://i18n.kde.org/tools/kbabel/" >KBabel</a> to translate the file. If you're finished translating it, send it to <tt class="email">&lt;<a href="mailto:info@bibletime.info">info@bibletime.info</a>&gt;</tt>. </p>
+<p> If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <a href="/en/pot/full.pot" >Webpage translation template</a>. We recommend to use the program <a href="http://i18n.kde.org/tools/kbabel/" >KBabel</a> to translate the file. If you're finished translating it, send it to <tt class="email">&lt;<a href="mailto:info@bibletime.info">info@bibletime.info</a>&gt;</tt>. </p>
 </div>
 
 
-<div class="section"  xml:lang="en"><div class="titlepage"><div><div><h3 class="title"><a id="id2825276"></a>Bestehende Übersetzungen</h3></div></div><div></div></div>
+<div class="section"  xml:lang="en"><div class="titlepage"><div><div><h3 class="title"><a id="id2825274"></a>Bestehende Übersetzungen</h3></div></div><div></div></div>
 <p> The following charts show the current translations and how much translations work they still need. If you speak one of those languages and want to update a translation just click on the download link and start working on the update. Don't hesitate to ask us <tt class="email">&lt;<a href="mailto:info@bibletime.info">info@bibletime.info</a>&gt;</tt> if you have questions about the translation. </p>
 	<!--#exec cgi="/postats.pl"-->
 </div>

@@ -7,7 +7,7 @@
 <config param="rcsdate" value="$Date$"/>
 <head>
 <title
->설치</title>
+>Translation</title>
 <summary
 >Introduction</summary>
 <keywords
@@ -24,7 +24,7 @@
 ><title
 >Translation in a new language</title>
 <para
-> If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime-website/en/pot/full.pot?rev=HEAD"
+> If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <ulink url="/en/pot/full.pot"
 >Webpage translation template</ulink
 >. We recommend to use the program <ulink url="http://i18n.kde.org/tools/kbabel/"
 >KBabel</ulink

@@ -8,7 +8,7 @@
 <config param="rcsdate" value="$Date$"/>
 <head>
 <title
->Obtine Cd-ul Sword</title>
+>Sword CD</title>
 <summary
 >Get the Sword CD</summary>
 <keywords
@@ -66,7 +66,7 @@
 
 <section
 ><title
->Obtine Cd-ul Sword</title>
+>The Sword CD</title>
 <ssi mode="exec" cgi="/swordcd.pl"/>
 </section>
 

@@ -23,9 +23,9 @@
 >Trolltech</ulink
 > QT 3. Algumas telas estão realmente impressionantes.</para>
 	<para
->A maioria das telas foi criada usando a fonte Unicode superb <ulink url="http://home.att.net/~jameskass/CODE2000.ZIP"
+>Most of the screenshots were created using the superb <ulink url="http://home.att.net/~jameskass/CODE2000.ZIP"
 >Code2000</ulink
->. Clique nas imagens para ver as telas em tamanho maior. </para>
+> Unicode font. Click on the preview images to see a large and detailed version of each screenshot.</para>
 
 	<mediaobject
 > <caption
@@ -39,8 +39,8 @@
 >Biblia Hebraica Stuttgartensia</emphasis
 >), o melhor texto disponível para o Antigo Testamento em Hebraico.</para
 > <para
->Como você pode ver, BibleTime também renderiza o texto corretamente da direta para esquerda. Quem souber ler hebraico notará que os Pontos de Vogais e as Marcas Cantillation (você pode ligar ou desligar ambas) também são exibidas corretamente. <ulink url="/images/gallery/bhs.png"
->Ver Tela Ampliada</ulink
+>As you can see, BibleTime renders the text correctly from right to left. Those of you who can read Hebrew will notice that the Vowel Points and the Cantillation Marks (you can switch both of them on and off) are displayed correctly. <ulink url="/images/gallery/bhs.png"
+>Large screenshot</ulink
 > </para
 > </formalpara
 > </caption
@@ -125,9 +125,9 @@
 > <para
 ><emphasis
 >IGNT</emphasis
->: O Novo Testamento Grego Interlinear. Os números verdes entre "<![CDATA[< 
->]]>" colchetes são números de Strong, enquanto os números entre "( )" parentesis são marcações morfológicas. Ambos podem ser exibidos como dicas usando dicionários de Strong e morfológico predefinidos, como você pode ver no exemplo. <ulink url="/images/gallery/ignt.png"
->Ver Tela Ampliada</ulink
+>: The Interlinear Greek New Testament. The green numbers in "<![CDATA[< 
+>]]>" brackets are Strongnumbers, whereas the numbers in "( )" brackets are Morphologic Tags. Both of them can displayed in a tooltip using a predefined Strong's and Morphology dictionary, as you can see in the example. <ulink url="/images/gallery/ignt.png"
+>Large screenshot</ulink
 ></para
 > </formalpara
 > </caption
@@ -166,7 +166,7 @@
 > <caption
 > <formalpara
 ><title
->Búlgaro com notas de rodapé</title
+>Bulgarian and footnotes</title
 > <para
 ><emphasis
 >Búlgaro</emphasis
@@ -179,7 +179,7 @@
 > <imagedata fileref="/images/gallery/bulgarian_small.jpg" format="JPG"/> </imageobject
 > <textobject
 > <phrase
->Búlgaro com notas de rodapé</phrase
+>Bulgarian and footnotes</phrase
 > </textobject
 > </mediaobject>
 

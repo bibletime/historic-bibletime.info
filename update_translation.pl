@@ -95,7 +95,8 @@ sub make_xml_files() {
 			my $msgid = $entry->dequote( $entry->msgid() );
 			my $msgstr = $entry->dequote( $entry->msgstr() );
 			my $no_msgstr = !$msgstr || ($msgstr eq "") || (length($msgstr) == 0);
-			$entry->msgstr($msgid) if ($no_msgstr);
+
+			$entry->msgstr($msgid) if ($msgid && ($no_msgstr || $entry->fuzzy()));
 		}
 	}
 	die unless Locale::PO->save_file_fromarray("$pofile-complete", \@entries);
@@ -144,7 +145,7 @@ if (!@langs) {
 }
 
 #required for all languages
-`perl update_translation_stats.pl > /dev/null`;
+`perl make_translation_stats.pl > /dev/null`;
 &update_pot_files($ENV{"PWD"} . "/en",  $ENV{"PWD"} . "/en/pot/");
 
 while (my $lang = shift(@langs)) {

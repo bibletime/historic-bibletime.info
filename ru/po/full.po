@@ -1,10 +1,14 @@
+# translation of index.po to russain
+# Copyright (C) 2003,2004 Free Software Foundation, Inc.
+# Vlad Savitsky <vlad_savitsky@mail.ru>, 2003,2004
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: how2-basics\n"
+"Project-Id-Version: index\n"
 "POT-Creation-Date: 2001-02-09 01:25+0100\n"
-"PO-Revision-Date: 2003-07-17 13:21+0300\n"
+"PO-Revision-Date: 2004-01-06 12:00+0200\n"
 "Last-Translator: Vlad Savitsky <vlad_savitsky@mail.ru>\n"
-"Language-Team: ukrainian <uk@li.org>\n"
+"Language-Team: russain <ru@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: application/x-xml2pot; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -199,12 +203,12 @@ msgstr "Резюме"
 #: index.docbook:70
 #, no-c-format
 msgid "The <application>Biblestudy HowTo</application> is a guide for studying the Bible."
-msgstr "<application>Как изучать Библию</application> это помощник для изучения Библии."
+msgstr "<application>\"Как изучать Библию\"</application> это помощник для изучения Библии."
 
 #: index.docbook:73
 #, no-c-format
 msgid "It is the hope of the &bibletime; team that this HowTo will provoke the readers to study the scriptures to see what they say. This particular study guide has been chosen as it takes care not to advocate any particular denominational doctrine. We expect you to read and study the scriptures to understand what they say. If you start with the attitude that you want to have the Lord sow his word in your heart He will not disappoint you."
-msgstr "Надежда команды &bibletime; что это руководство побудит читателей изучать Писание, чтобы узнать в нём говорится.Это особенное обучающее руководство было выбрано потому, что оно не защищает никакую особую деноминационную доктрину.Мы ожидаем, что вы сами будете читать и изучать Писания, чтобы понять что они говорят.Если вы начнёте с желанием, чтобы Господь сеял Своё слово в ваше сердце, - Он не разочарует вас."
+msgstr "Команда &bibletime; надеется, что это руководство побудит читателей изучать Писание для того, чтобы узнать, о чём в нём говорится.Это особенное обучающее руководство было выбрано потому, что оно не защищает никакую особую деноминационную доктрину.Мы ожидаем, что вы сами будете читать и изучать Писания, чтобы понять, о чём в них говорится.Если вы начнёте с желанием, чтобы Господь сеял Своё слово в ваше сердце, - Он не разочарует вас."
 
 #: index.docbook:83
 #, no-c-format
@@ -786,7 +790,7 @@ msgstr "Приближение к Слову Божьему"
 #: index.docbook:30
 #, no-c-format
 msgid "Hearing and reading provide a telescopic view of the scripture while study and memorization provide a microscopic view of scripture. Meditating on the scriptures brings hearing, reading, studying and memorization together and cements the word in our minds."
-msgstr "Слышание и чтение дают телескопический взгляд на Писание в то время как изучение и запоминание дают микроскопический взгляд на Писание. Размышление над Писанием соединяет вместе слышание, чтение, изучение и запоминание скрепляет слово в нашем уме."
+msgstr "Слышание и чтение дают телескопический взгляд на Писание, в то время как изучение и запоминание дают микроскопический взгляд на Писание. Размышление над Писанием соединяет вместе слышание, чтение, изучение и запоминание. Размышление закрепляет Слово в нашем уме."
 
 #: index.docbook:36
 #, no-c-format
@@ -821,7 +825,7 @@ msgstr "Деян.17:11 <emphasis>\" Здешние были благомысле
 #: index.docbook:53
 #, no-c-format
 msgid "2 Tim.2:15 <emphasis>\"Be diligent [KJV `Study'] to present yourself approved to God as a workman who does not need to be ashamed, handling accurately the word of truth.\"</emphasis>"
-msgstr "2 Тим.2:15 <emphasis>\"Старайся [KJV `Изучай, чтобы'] представить себя Богу достойным, делателем неукоризненным, верно преподающим слово истины.\"</emphasis>"
+msgstr "2 Тим.2:15 <emphasis>\"Старайся [в переводе Библии короля Иакова (KJV) - `Изучай, чтобы'] представить себя Богу достойным, делателем неукоризненным, верно преподающим слово истины.\"</emphasis>"
 
 #: index.docbook:59
 #, no-c-format
@@ -846,7 +850,7 @@ msgstr "Пс.1:2-3 <emphasis>\"но в законе Господа воля ег
 #: index.docbook:68
 #, no-c-format
 msgid "The Navigators illustrate this by saying that as the thumb can touch all the fingers, we can meditate on the Word as we do any of the first four. Meditation is a key to revelation. A new Christian needs to hear and read the Bible more than they need to study and memorize it. This is so that they become familiar with the overall message of the Bible."
-msgstr "Навигаторы объясняют это, говоря, что как большой палец может коснуться каждого пальца, мы можем размышлять над Словом, если делаем что-либо из этих четырёх, перечисленных выше.Размышление это ключ к откровению. Новообращённый христианин больше нуждается в том, чтобы слушать и читать Библию, чем в том, чтобы исследовать и запоминать её. Это так до тех пор, пока они не познакомятся хорошо с общей идеей Библии."
+msgstr "Миссия \"Навигаторы\" приводит такой пример: как большой палец может коснуться каждого пальца, мы можем размышлять над Словом, если делаем что-либо из этих четырёх, перечисленных выше. Размышление это ключ к откровению. Новообращённые христиане больше нуждаются в том, чтобы слушать и читать Библию, чем в том, чтобы исследовать и запоминать её. Это так до тех пор, пока они не разберутся хорошо с основной идеей Библии. "
 
 #: index.docbook:75
 #, no-c-format
@@ -871,12 +875,12 @@ msgstr "Изучение действующих лиц"
 #: index.docbook:82
 #, no-c-format
 msgid "Studying the life of a Bible character, e.g. Joseph's life in Gen.37-50."
-msgstr "Изучая жизнь Библейских персонажей, напр. жизнь Иосифа в Быт.37-50."
+msgstr "Изучение жизни библейских персонажей, например жизнь Иосифа в Быт.37-50."
 
 #: index.docbook:84
 #, no-c-format
 msgid "Expository Study"
-msgstr "Объяснительное изучение"
+msgstr "Толкование"
 
 #: index.docbook:84
 #, no-c-format
@@ -896,7 +900,7 @@ msgstr "Содержание"
 #: index.docbook:93
 #, no-c-format
 msgid "What does it say? What does it say in the original language? Be careful with definitions. Don't read into it what it doesn't say."
-msgstr "Что это значит? Что это значит на языке оригинала? Будьте осторожны с определениями. Не ищите в них того, о чём они не говорят."
+msgstr "Что это значит? Что это значит на языке оригинала? Будьте осторожны со значениями слов. Не ищите в них того, о чём они не говорят."
 
 #: index.docbook:96
 #, no-c-format
@@ -906,7 +910,7 @@ msgstr "Контекст"
 #: index.docbook:97
 #, no-c-format
 msgid "What do the verses around it say? \"Context is king\" is the rule -- the passage must make sense within the structure of the entire passage and book."
-msgstr "Что говорится в ближайших стихах? \"Контекст - король\" - это правило: отрывок должен иметь смысл в структуре большего отрывка и книги."
+msgstr "Что говорится в ближайших стихах? \"Главное - контекст\" - это правило: отрывок должен иметь смысл в структуре большего отрывка и всей книги."
 
 #: index.docbook:101
 #, no-c-format
@@ -921,12 +925,12 @@ msgstr "Что говорят об этой теме другие стихи в�
 #: index.docbook:107
 #, no-c-format
 msgid "An Expository Study of Matthew 6:1-18"
-msgstr "Объяснительное изучение отрывка Мтф.6:1-18"
+msgstr "Толкование отрывка Матфея 6:1-18"
 
 #: index.docbook:109
 #, no-c-format
 msgid "Let's study together Mt.6:1-18. Read it to yourself, first looking for the key verse, the verse that sums up the whole passage. Think you have it? Test it by picking different places in the passage and asking yourself if they relate to the thought of the key verse. Once you find it, write it as Roman numeral One of your outline:"
-msgstr "Давайте изучим вместе Мтф.6:1-18. Сначала прочтите отрывок, стараясь найти ключевой стих - стих, который суммирует весь отрывок. Думаете - нашли? Проверьте его, беря разные места из отрывка и спрашивая себя соответствуют ли они к мысли ключевого стиха. Как только вы его нашли, - запишите его как римскую цифру Один в вашем конспекте:"
+msgstr "Давайте изучим вместе Мтф.6:1-18. Сначала прочтите отрывок, стараясь найти ключевой стих - стих, который суммирует весь отрывок. Думаете - нашли? Проверьте его, беря разные места из отрывка и спрашивая себя соответствуют ли они к мысли ключевого стиха. Как только вы его нашли, - запишите его под римской цифрой один в вашем конспекте:"
 
 #: index.docbook:112
 #, no-c-format
@@ -945,9 +949,9 @@ msgid ""
 "  B. WHEN YOU FAST\n"
 "  C. WHEN YOU PRAY"
 msgstr ""
-"A. КОГДА ТЫ ДАЁШЬ\n"
-"  Б. КОГДА ТЫ ПОСТИШЬСЯ\n"
-"  В. КОГДА ТЫ МОЛИШЬСЯ"
+"A. КОГДА ДАЁШЬ\n"
+"  Б. КОГДА ПОСТИШЬСЯ\n"
+"  В. КОГДА МОЛИШЬСЯ"
 
 #: index.docbook:122
 #, no-c-format
@@ -961,19 +965,19 @@ msgid ""
 "     1. DON'T SOUND A TRUMPET.  (HOW MIGHT SOMEONE \"SOUND A TRUMPET\" TODAY?)\n"
 "     2. DO IT SECRETLY.\tETC."
 msgstr ""
-"A. Когда ты даёшь\n"
+"A. Когда даёшь\n"
 "     1. НЕ ТРУБИ ПЕРЕД СОБОЙ.  (КАК МОЖЕТ КТО-ЛИБО \"ТРУБИТЬ ПЕРЕД СОБОЙ\" СЕГОДНЯ?)\n"
-"     2. ДЕЛАЙ ЭТО ПО СЕКРЕТУ.\tИ ТАК ДАЛЕЕ."
+"     2. ДЕЛАЙ ЭТО ПО СЕКРЕТУ.\tИ Т. Д."
 
 #: index.docbook:130
 #, no-c-format
 msgid "Worksheet: How to Use a Concordance"
-msgstr "Рабочий лист: Как использовать симфонию"
+msgstr "Рабочий лист: Как использовать симфонию, ..."
 
 #: index.docbook:132
 #, no-c-format
 msgid "To Find a Particular Verse"
-msgstr "Чтобы найти определённый стих"
+msgstr "чтобы найти определённый стих"
 
 #: index.docbook:133
 #, no-c-format
@@ -1086,477 +1090,477 @@ msgstr "Варнава (Barnabus)"
 #: index.docbook:1
 #, no-c-format
 msgid "Importance of God's Word"
-msgstr ""
+msgstr "Важность Слова Божьего"
 
 #: index.docbook:2
 #, no-c-format
 msgid "Understanding God's word is of great importance to all who call on God's name. Study of the Bible is one of the primary ways that we learn to communicate with God."
-msgstr ""
+msgstr "Понимание Божьего Слова очень важно для всех, кто призывает имя Божье. Изучение Библии один из основных путей для нас научиться общаться с Богом.  "
 
 #: index.docbook:6
 #, no-c-format
 msgid "A Book that is Unique"
-msgstr ""
+msgstr "Уникальная Книга"
 
 #: index.docbook:8
 #, no-c-format
 msgid "The Bible stands alone in many ways. It is unique in:"
-msgstr ""
+msgstr "Библия занимает особе положение. Она уникальна в:"
 
 #: index.docbook:11
 #, no-c-format
 msgid "popularity. Bible sales in North America: more than $500 million per year. The Bible is both the the all-time and year-to-year best seller!"
-msgstr ""
+msgstr "популярность. В Северной Америке продаётся Библий более чем на 500 миллионов долларов в год. Библия является бестселлером и за все времена, и из года в год!"
 
 #: index.docbook:11
 #, no-c-format
 msgid "authorship. It was written over a period of 1600 years by 40 different authors from different backgrounds, yet reads as if written by one."
-msgstr ""
+msgstr "много авторов. Её написали за период в 1600 лет 40 различных авторов в разной окружающей обстановке, но читается она как написанная одним. "
 
 #: index.docbook:11
 #, no-c-format
 msgid "preservation. F. F. Bruce in <emphasis>Are New Testament Documents Reliable?</emphasis> compares New Testament manuscripts with other ancient texts:"
-msgstr ""
+msgstr "preservation. Ф. Ф. Брюс (F. F. Bruce) в <emphasis>Можно ли доверять документам Нового Завета? (Are New Testament Documents Reliable?)</emphasis> сравнивает новозаветние писания с другими древними текстами: "
 
 #: index.docbook:31
 #, no-c-format
 msgid "Comparison of New Testament manuscripts with other ancient texts."
-msgstr ""
+msgstr "Сравнение новозаветних Писаний с другими древними текстами."
 
 #: index.docbook:31
 #, no-c-format
 msgid "Work"
-msgstr ""
+msgstr "Работа"
 
 #: index.docbook:31
 #, no-c-format
 msgid "When Written"
-msgstr ""
+msgstr "Когда написаны"
 
 #: index.docbook:31
 #, no-c-format
 msgid "Earliest Copy"
-msgstr ""
+msgstr "Самые ранние копии"
 
 #: index.docbook:31
 #, no-c-format
 msgid "Time Lapse"
-msgstr ""
+msgstr "Промежуток времени"
 
 #: index.docbook:31
 #, no-c-format
 msgid "Number of Copies"
-msgstr ""
+msgstr "Число копий"
 
 #: index.docbook:31
 #, no-c-format
 msgid "Herodotus"
-msgstr ""
+msgstr "Геродот"
 
 #: index.docbook:31
 #, no-c-format
 msgid "448-428 B.C."
-msgstr ""
+msgstr "448-428 г.г. до н.э."
 
 #: index.docbook:31
 #, no-c-format
 msgid "900 A.D."
-msgstr ""
+msgstr "900 г. н.э."
 
 #: index.docbook:31
 #, no-c-format
 msgid "1300 years"
-msgstr ""
+msgstr "1300 лет"
 
 #: index.docbook:31
 #, no-c-format
 msgid "<entry>8 </entry>"
-msgstr ""
+msgstr "<entry>8 </entry>"
 
 #: index.docbook:31
 #, no-c-format
 msgid "Tacitus"
-msgstr ""
+msgstr "Тацит"
 
 #: index.docbook:31
 #, no-c-format
 msgid "100 A.D."
-msgstr ""
+msgstr "100 г. н.э."
 
 #: index.docbook:31
 #, no-c-format
 msgid "1100 A.D."
-msgstr ""
+msgstr "1100 г. н.э."
 
 #: index.docbook:31
 #, no-c-format
 msgid "1000 years"
-msgstr ""
+msgstr "1000 лет"
 
 #: index.docbook:31
 #, no-c-format
 msgid "<entry>20 </entry>"
-msgstr ""
+msgstr "<entry>20 </entry>"
 
 #: index.docbook:31
 #, no-c-format
 msgid "Caesar's <emphasis>Gallic War</emphasis>"
-msgstr ""
+msgstr "Цезарь <emphasis>Галльские войны</emphasis>"
 
 #: index.docbook:31
 #, no-c-format
 msgid "50-58 B.C."
-msgstr ""
+msgstr "50-58 г. до н.э."
 
 #: index.docbook:31
 #, no-c-format
 msgid "950 years"
-msgstr ""
+msgstr "950 лет"
 
 #: index.docbook:31
 #, no-c-format
 msgid "<entry>10 </entry>"
-msgstr ""
+msgstr "<entry>10 </entry>"
 
 #: index.docbook:31
 #, no-c-format
 msgid "Livy's <emphasis>Roman History</emphasis>"
-msgstr ""
+msgstr "Ливий <emphasis>Римская история</emphasis>"
 
 #: index.docbook:31
 #, no-c-format
 msgid "59 B.C. - 17 A.D."
-msgstr ""
+msgstr "59 г. до н.э. - 17 г. н.э."
 
 #: index.docbook:31
 #, no-c-format
 msgid "900 years"
-msgstr ""
+msgstr "900 лет"
 
 #: index.docbook:31
 #, no-c-format
 msgid "New Testament"
-msgstr ""
+msgstr "Новый Завет"
 
 #: index.docbook:31
 #, no-c-format
 msgid "40 A.D. - 100 A.D."
-msgstr ""
+msgstr "40 г. н.э. - 100 г. н.э."
 
 #: index.docbook:31
 #, no-c-format
 msgid "130 A.D. Partial manuscripts 350 A.D. Full manuscripts"
-msgstr ""
+msgstr "130 г. н.э. Частичные Писания 350 г. н.э. Полные Писания"
 
 #: index.docbook:31
 #, no-c-format
 msgid "30 - 310 years"
-msgstr ""
+msgstr "30 - 310 лет"
 
 #: index.docbook:31
 #, no-c-format
 msgid "5000 Greek &amp; 10,000 Latin"
-msgstr ""
+msgstr "5000 Греческих &amp; 10000 Латинских"
 
 #: index.docbook:68
 #, no-c-format
 msgid "Ten copies of Caesar's <emphasis>Gallic War</emphasis> exist, the earliest of which was copied 900 years after Caesar wrote the original, etc. For the New Testament we have full manuscripts dating to 350 A. D., papyri containing most of the New Testament from the 200s, and a fragment of John's gospel from 130 A. D. How many manuscripts do we have to compare to each other? 5,000 in Greek and 10,000 in Latin!"
-msgstr ""
+msgstr "Существует десять копий <emphasis>Галльских войн</emphasis> Цезаря, наиболее ранняя из которых создана через 900 лет после того, как Цезарь (Caesar) написал оригинал и т.д. Для Нового Завета у нас есть полные рукописи, которые датированы 350 годом н.э., собрание, содержащее большую часть Нового Завета 200х годов и фрагмент Евангелия от Иоанна 130 года н.э. Сколько рукописей нам нужно сравнить друг с другом? 5000 на греческом языке и 10000 на латыни!"
 
 #: index.docbook:76
 #, no-c-format
 msgid "\"In the verity and fullness of the evidence on which it rests, the text of the New Testament stands absolutely and unapproachably alone among other ancient prose writings.\""
-msgstr ""
+msgstr "\"По истинности и полноте доказательств текст Нового Завета остаётся абсолютно и не достижимо исключительным среди других старинных прозаичных рукописей.\""
 
 #: index.docbook:81
 #, no-c-format
 msgid "A Book that God Breathed"
-msgstr ""
+msgstr "Книга вдохновлённая Богом"
 
 #: index.docbook:82
 #, no-c-format
 msgid "<emphasis>Heb.4:12 </emphasis>\"<emphasis>For the word of God is living and active... </emphasis>\" Jesus said <emphasis>(Mt.4:4),</emphasis> \"<emphasis>It is written, Man shall not live on bread alone, but on every word that proceeds [lit., is proceeding] from the mouth of God.</emphasis>\" As we read the Bible, God's Spirit is there to speak it to our hearts in a continually-fresh way."
-msgstr ""
+msgstr "<emphasis>Евр.4:12 </emphasis>\"<emphasis>Ибо слово Божие живо и действенно... </emphasis>\" Иисус сказал <emphasis>(Мтф.4:4):</emphasis> \"<emphasis> Написано: не хлебом одним будет жить человек, но всяким словом, исходящим из уст Божиих.</emphasis>\" Когда мы читаем Библию, Дух Божий всегда готов говорить к нашему сердцу. "
 
 #: index.docbook:88
 #, no-c-format
 msgid "2 Tim.3:16 declares, \"<emphasis>All scripture is inspired by God [lit., God-breathed].</emphasis>\" Do you believe this? Before you answer, consider Jesus' attitude toward the Scriptures."
-msgstr ""
+msgstr "2 Тим.3:16 провозглашает: \"<emphasis>Все Писание богодухновенно [т.е. вдохновлено Богом].</emphasis>\" Верите ли вы этому? Перед тем как вы ответите рассмотрите отношение Иисуса к Писанию."
 
 #: index.docbook:92
 #, no-c-format
 msgid "He referred to the human authors, but took it for granted that behind them all was a single divine Author. He could equally say 'Moses said' or 'God said' (Mk.7:10). He could quote a comment of the narrator in Genesis 2:24 as an utterance of the Creator Himself (Mt.19:4-5). Similarly He said, 'Well did Isaiah prophesy of you hypocrites, as it is written', when what He went on to quote is the direct speech of the Lord God (Mk.7:6 &amp; Is.29:13). It is from Jesus Himself that the New Testament authors have gained their conviction of the dual authorship of Scripture. For them it was just as true to say that 'God spoke of old to our fathers by the prophets' (Heb.1:1) as it was to say that 'men moved by the Holy Spirit spoke from God' (2 Pe.1:21). God did not speak in such a way as to obliterate the personality of the human authors, nor did men speak in such a way as to corrupt the Word of the divine Author. God spoke. Men spoke. Neither truth must be allowed to detract from the other. ..."
-msgstr ""
+msgstr "Он цитировал авторов-людей, но считал само собой разумеющимся, что за всеми ними был один божественный Автор. Для Него было одно и тоже сказать 'Моисей сказал' и 'Бог сказал' (Марк 7:10). Он мог цитировать комментарий рассказчика в Бытие 2:24 как высказывание Самого Создателя (Мтф.19:4-5). Точно также Он сказал, 'хорошо пророчествовал о вас, лицемерах, Исаия, как написано', тогда как то, что Он цитировал прямая речь Господа Бога (Марк 7:6 &amp; Ис.29:13). Авторы Нового Завета от Самого Иисуса получили убеждённость в двойном авторстве Писания. Для них было также истинно сказать, что 'Бог, многократно и многообразно говоривший издревле отцам в пророках' (Евр.1:1), как и сказать, что 'изрекали его святые Божии человеки, будучи движимы Духом Святым' (2 Петра 1:21). Бог не говорил так, чтобы уничтожить личностность авторов-людей, также и человек не говорил так, чтобы исказить Слово божественного Автора. Бог говорил. Человек говорил. Также не должно быть позволено другим искажать истину. ..."
 
 #: index.docbook:106
 #, no-c-format
 msgid "This, then, was Christ's view of the Scriptures. Their witness was God's witness. The testimony of the Bible is the testimony of God. And the chief reason why the Christian believes in the divine origin of the Bible is that Jesus Christ Himself taught it."
-msgstr ""
+msgstr "Таково Христово восприятие Писания. Их свидетельство было Божьим свидетельством. Свидетельство Библии - это свидетельство Бога. И основная причина почему христиане верят в божественное происхождение Библии в том, что Иисус Христос Сам учил этому. "
 
 #: index.docbook:112
 #, no-c-format
 msgid "2 Tim.3:16 goes on, \"<emphasis>and profitable for teaching, for correction, for training in righteousness, that the man of God may be adequate, equipped for every good work.</emphasis>\" If we accept that the Bible really is God speaking to us, it follows that it will be our authority in all matters of faith and conduct."
-msgstr ""
+msgstr "2 Тим.3:16 продолжает: \"<emphasis>и полезно для научения, для обличения, для исправления, для наставления в праведности, да будет совершен Божий человек, ко всякому доброму делу приготовлен.</emphasis>\" Если мы принимаем то, что Библия это действительно то, что Бог говорит нам, то, следовательно, она будет нашим авторитетом во всех вопросах веры и поведения. "
 
 #: index.docbook:118
 #, no-c-format
 msgid "A Book that Works"
-msgstr ""
+msgstr "Живая Книга"
 
 #: index.docbook:119
 #, no-c-format
 msgid "What will studying the Bible do for you? 1 Thess.2:13 says that the Bible \"<emphasis>performs its work in you who believe.</emphasis>\" Beside each scripture, write down the work the Word performs."
-msgstr ""
+msgstr "Что вам даст изучение Библии? 1 Фес. 2:13 говорит, что Библия \"<emphasis>которое и действует в вас, верующих.</emphasis>\" Рядом с каждым отрывком, запишите как Слово действует."
 
 #: index.docbook:125
 #, no-c-format
 msgid "What does Bible study do for Christians?"
-msgstr ""
+msgstr "Что даёт изучение Библии для христиан?"
 
 #: index.docbook:125
 #, no-c-format
 msgid "Reference"
-msgstr ""
+msgstr "Ссылка"
 
 #: index.docbook:125
 #, no-c-format
 msgid "Action"
-msgstr ""
+msgstr "Действие"
 
 #: index.docbook:125
 #, no-c-format
 msgid "Eph. 5:26"
-msgstr ""
+msgstr "Еф.5:26"
 
 #: index.docbook:125
 #, no-c-format
 msgid "cleanses -- \"...having cleansed her by the washing of water with the word.\""
-msgstr ""
+msgstr "очищает -- \"...чтобы освятить ее, очистив банею водною посредством слова;\" "
 
 #: index.docbook:125
 #, no-c-format
 msgid "Acts 20:32"
-msgstr ""
+msgstr "Деян.20:32"
 
 #: index.docbook:125
 #, no-c-format
 msgid "builds up -- \" ...the word of His grace, which is able to build you up and to give you the inheritance among all those who are sanctified. \""
-msgstr ""
+msgstr "назидать -- \" ...слову благодати Его, могущему назидать вас более и дать вам наследие со всеми освященными. \""
 
 #: index.docbook:125
 #, no-c-format
 msgid "Rom. 15:4"
-msgstr ""
+msgstr "Рим.15:4"
 
 #: index.docbook:125
 #, no-c-format
 msgid "encourages -- \"that through perseverance and the encouragement of the Scriptures we might have hope.\""
-msgstr ""
+msgstr "утешение -- \"чтобы мы терпением и утешением из Писаний сохраняли надежду.\""
 
 #: index.docbook:125
 #, no-c-format
 msgid "Rom. 10:17"
-msgstr ""
+msgstr "Рим.10:17"
 
 #: index.docbook:125
 #, no-c-format
 msgid "gives faith -- \"So faith comes from hearing, and hearing by the word of Christ.\""
-msgstr ""
+msgstr "даёт веру -- \"Итак вера от слышания, а слышание от слова Божия.\""
 
 #: index.docbook:125
 #, no-c-format
 msgid "1 Cor. 10:11"
-msgstr ""
+msgstr "1 Кор.10:11"
 
 #: index.docbook:125
 #, no-c-format
 msgid "instructs -- \"Now these things happened to them for an example, and they were written for our instruction\""
-msgstr ""
+msgstr "наставление -- \"Все это происходило с ними, как образы; а описано в наставление нам, достигшим последних веков.\""
 
 #: index.docbook:125
 #, no-c-format
 msgid "Mt. 4:4"
-msgstr ""
+msgstr "Мтф.4:4"
 
 #: index.docbook:125
 #, no-c-format
 msgid "nourishment -- \"But He answered and said, 'It is written, Man shall not live on bread alone, but on every word that proceeds out of the mouth of God.'\""
-msgstr ""
+msgstr "питание -- \"Он же сказал ему в ответ: написано: не хлебом одним будет жить человек, но всяким словом, исходящим из уст Божиих.\""
 
 #: index.docbook:201
 #, no-c-format
 msgid "A Book that Liberates"
-msgstr ""
+msgstr "Книга, которая освобождает"
 
 #: index.docbook:202
 #, no-c-format
 msgid "Jn.8:32 \"<emphasis>and you shall know the truth, and the truth shall make you free.</emphasis>\"This is usually quoted by itself. Is this a conditional or unconditional promise? Would it apply to all kinds of knowledge? Find the answers by examining the first half of the sentence, in v.31. \"<emphasis>If you abide in My word, then you are truly disciples of Mine... </emphasis>\""
-msgstr ""
+msgstr "Ин.8:32 \"<emphasis>и познаете истину, и истина сделает вас свободными.</emphasis>\" Обычно цитируется только это. Это обещание с условием или безусловное? Применимо ли оно ко всем видам познаний? Найдите ответ, исследовав первую половину предложения в стихе 31. \"<emphasis> если пребудете в слове Моем, то вы истинно Мои ученики... </emphasis>\""
 
 #: index.docbook:209
 #, no-c-format
 msgid "We see that this is a conditional promice, specifically speaking of the truth of God's word."
-msgstr ""
+msgstr "Как видим это обещание с условием, особо говорящее о истине Божьего Слова."
 
 #: index.docbook:211
 #, no-c-format
 msgid "The Greek word for \"wind\" used in Eph.4:14 means a <emphasis>violent wind.</emphasis> \"<emphasis>As a result, we are no longer to be children, tossed here and there by waves, and carried about by every wind of doctrine...</emphasis>\"One thing studying the Bible does for us is to ground us in the truth, with the result that we won't be easily \"blown away.\""
-msgstr ""
+msgstr "Греческое слово для \"ветер\", использованного в Еф.4:14 значит <emphasis>сильный ветер.</emphasis> \"<emphasis>Дабы мы не были более младенцами, колеблющимися и увлекающимися всяким ветром учения...</emphasis>\"Изучение Библии даёт нам укорениться в истине и как результат --- нас будет не просто \"сдуть.\""
 
 #: index.docbook:217
 #, no-c-format
 msgid "<emphasis>But Jesus answered and said to them, </emphasis>\"<emphasis>You are mistaken [KJV Ye do err], not understanding the Scriptures, or the power of God.</emphasis>\"Mt.22:29"
-msgstr ""
+msgstr "<emphasis>Иисус сказал им в ответ: </emphasis>\"<emphasis> заблуждаетесь, не зная Писаний, ни силы Божией.</emphasis>\"Мтф.22:29"
 
 #: index.docbook:219
 #, no-c-format
 msgid "What 2 things do we need to know to be kept from error?"
-msgstr ""
+msgstr "Какие 2 вещи мы должны знать, чтобы уберечься от заблуждений?"
 
 #: index.docbook:220
 #, no-c-format
 msgid "God's word"
-msgstr ""
+msgstr "Божье Слово"
 
 #: index.docbook:220
 #, no-c-format
 msgid "God's power"
-msgstr ""
+msgstr "Божья Сила"
 
 #: index.docbook:225
 #, no-c-format
 msgid "A Book that Wars"
-msgstr ""
+msgstr "Книга, которая воюет"
 
 #: index.docbook:226
 #, no-c-format
 msgid "Eph.6:10-18 is one picture of our spiritual armament."
-msgstr ""
+msgstr "В Еф.6:10-18 есть описание нашего духовного вооружения."
 
 #: index.docbook:228
 #, no-c-format
 msgid "Spiritual Armor"
-msgstr ""
+msgstr "Духовное вооружение"
 
 #: index.docbook:228
 #, no-c-format
 msgid "Question"
-msgstr ""
+msgstr "Вопрос"
 
 #: index.docbook:228
 #, no-c-format
 msgid "Answer"
-msgstr ""
+msgstr "Ответ"
 
 #: index.docbook:228
 #, no-c-format
 msgid "How many of the weapons listed here are defensive weapons?"
-msgstr ""
+msgstr "Сколько из перечисленного вооружения используется для защиты?"
 
 #: index.docbook:228
 #, no-c-format
 msgid "<entry>5</entry>"
-msgstr ""
+msgstr "<entry>5</entry>"
 
 #: index.docbook:228
 #, no-c-format
 msgid "How many are offensive?"
-msgstr ""
+msgstr "Сколько для нападения?"
 
 #: index.docbook:228
 #, no-c-format
 msgid "<entry>One</entry>"
-msgstr ""
+msgstr "<entry>Одно</entry>"
 
 #: index.docbook:228
 #, no-c-format
 msgid "Which one(s)?"
-msgstr ""
+msgstr "Какое?"
 
 #: index.docbook:228
 #, no-c-format
 msgid "the word - <foreignphrase>rhema</foreignphrase>"
-msgstr ""
+msgstr "слово - <foreignphrase>рхема (rhema)</foreignphrase>"
 
 #: index.docbook:242
 #, no-c-format
 msgid "Exhortations"
-msgstr ""
+msgstr "Увещевания"
 
 #: index.docbook:243
 #, no-c-format
 msgid "2 Tim.2:15 (KJV) \"<emphasis>Study to show thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.</emphasis>\""
-msgstr ""
+msgstr "2 Тим.2:15 \"<emphasis>Старайся представить себя Богу достойным, делателем неукоризненным, верно преподающим слово истины.</emphasis>\""
 
 #: index.docbook:247
 #, no-c-format
 msgid "Col.3:16 \"<emphasis>Let the word of Christ richly dwell within you; with all wisdom teaching and admonishing one another with psalms and hymns and spiritual songs, singing with thankfulness in your hearts to God.</emphasis>\""
-msgstr ""
+msgstr "Кол.3:16 \"<emphasis>Слово Христово да вселяется в вас обильно, со всякою премудростью; научайте и вразумляйте друг друга псалмами, славословием и духовными песнями, во благодати воспевая в сердцах ваших Господу.</emphasis>\""
 
 #: index.docbook:252
 #, no-c-format
 msgid "If you're rich in something, how much of it do you have?"
-msgstr ""
+msgstr "Если вы чем-то богаты, то как много этого вы имеете?"
 
 #: index.docbook:254
 #, no-c-format
 msgid "Not a little!"
-msgstr ""
+msgstr "Не чуть-чуть!"
 
 #: index.docbook:257
 #, no-c-format
 msgid "Eccl.12:11 \"<emphasis>The words of wise men are like goads, and masters of these collections are like well-driven nails; they are given by one Shepherd. But beyond this, my son, be warned: the writing of many books is endless, and excessive devotion to books is wearying to the body.</emphasis>\""
-msgstr ""
+msgstr "Эккл.12:11 \"<emphasis>Слова мудрых - как иглы и как вбитые гвозди, и составители их -от единого пастыря.</emphasis>\""
 
 #: index.docbook:264
 #, no-c-format
 msgid "Appendix: \"Once for All\""
-msgstr ""
+msgstr "Приложение: \"Однажды для всех\""
 
 #: index.docbook:268
 #, no-c-format
 msgid "The truth regarding the finality of God's initiative in Christ is conveyed by one word of the Greek Testament, namely the adverb <foreignphrase>hapax</foreignphrase> and <foreignphrase>ephapax</foreignphrase>. It is usually translated in the Authorized Version once, meaning once for all. It is used of what is so done as to be of perpetual validity and never need repetition, and is applied in the NT to both revelation and redemption. Thus, Jude refers to the faith which was once for all delivered to the saints (Jude 3), and Romans says, \"<emphasis>Christ also died for sins once for all</emphasis>\" (Rom.6:10, see also 1 Pe.3:18; Heb.9:26-28)."
-msgstr ""
+msgstr "Правда о завершении Божьей инициативы во Христе выражается одним словом в греческом Завете, а именно наречием <foreignphrase>гапакс (hapax)</foreignphrase> и <foreignphrase>ефапакс (ephapax)</foreignphrase>. Обычно оно переводится как однажды, обозначая однажды для всех. Используется для обозначения того, что сделано так, что имеет вечную законность и никогда не потребуется повторение, и применяется в Новом Завете и к откровению, и к искуплению. Таким образом, в послании Иуду говориться о вере, однажды для всех преданной святым (Иуды 3), и в послании Римлянам говорится: \"<emphasis>Христос также умер для греха однажды за всех</emphasis>\" (Рим.6:10, см. также 1 Пт.3:18; Евр.9:26-28). "
 
 #: index.docbook:277
 #, no-c-format
 msgid "Thus we may say that God has spoken once for all and Christ has suffered once for all. This means that the Christian revelation and the Christian redemption are both alike in Christ complete. Nothing can be added to either without being derogatory to Christ... These are the two rocks on which the Protestant Reformation was built -- Gods revealed word without the addition of human traditions and Christ's finished work without the addition of human merits. The Reformers great watchwords were <foreignphrase>sola scriptura</foreignphrase> for our authority and <foreignphrase>sola gratia</foreignphrase> for our salvation."
-msgstr ""
+msgstr "Так мы можем сказать, что Бог сказал однажды для всех и Христос пострадал однажды за всех. Это значит, что Христово откровение и Христово искупление точно так же завершены полностью во Христе. Ничто не может быть добавлено к этим двум без унижения Христа... Вот две скалы, на которых построена протестантская реформация -- Слово Божье открыто без добавления человеческих традиций и труд Христа завершён без добавления человеческих заслуг. Великими девизами Реформации были <foreignphrase>sola scriptura (одно Писание - прим. переводчика)</foreignphrase> как наш авторитет и <foreignphrase>sola gratia (одна слава - прим. пер.)</foreignphrase> для нашего спасения. "
 
 #: index.docbook:289
 #, no-c-format
 msgid "Supplement: Bible Reading Programs"
-msgstr ""
+msgstr "Дополнение: Программы чтения Библии"
 
 #: index.docbook:290
 #, no-c-format
 msgid "Here are some easy programs to systematically read your Bible. You can do more than one at a time if you like, for instance #1 with #4, or #2 with #5. Vary the program from year to year to keep it fresh!"
-msgstr ""
+msgstr "Это простые программы для систематического чтения вашей Библии. Вы можете выполнять несколько одновременно, если хотите, например №1 и №4 или №2 и №5. Меняйте программу из года в год для разнообразия!"
 
 #: index.docbook:294
 #, no-c-format
 msgid "New Testament in a Year: read one chapter each day, 5 days a week."
-msgstr ""
+msgstr "Новый завет за год: читайте одну главу каждый день, 5 дней в неделю."
 
 #: index.docbook:294
 #, no-c-format
 msgid "Proverbs in a Month: read one chapter of Proverbs each day, corresponding to the day of the month."
-msgstr ""
+msgstr "Притчи за месяц: читайте одну главу Притч каждый день, соответственно числу месяца."
 
 #: index.docbook:294
 #, no-c-format
 msgid "Psalms in a Month: read 5 Psalms at intervals of 30 each day, for instance on the 20th you read Ps.20, 50, 80, 110, &amp; 140."
-msgstr ""
+msgstr "Псалмы за месяц: читайте 5 Псалмов с интервалом 30 каждый день, например 20-го числа вы читаете Пс.20, 50, 80, 110, &amp; 140."
 
 #: index.docbook:294
 #, no-c-format
 msgid "Psalms &amp; Proverbs in 6 months: read through Psalms and Proverbs one chapter per day."
-msgstr ""
+msgstr "Псалмы &amp; Притчи за 6 месяцев: читайте по порядку Псалмы и Притчи по одной главе в день."
 
 #: index.docbook:294
 #, no-c-format
 msgid "Old Testament without Psalms &amp; Proverbs in 2 years: if you read one chapter a day of the Old Testament, skipping over Psalms &amp; Proverbs, you will read the Old Testament in 2 years and 2 weeks."
-msgstr ""
+msgstr "Ветхий Завет без Псалмов &amp; Притчи за 2 года: если вы будете читать одну главу в день из Ветхого Завета, пропуская Псалмы &amp; Притчи, то вы прочтёте Ветхий Завет за 2 года и 2 недели."
 
 #: index.docbook:1
 #, no-c-format
@@ -1566,7 +1570,7 @@ msgstr "Правила толкования Библии (Герменевтик
 #: index.docbook:2
 #, no-c-format
 msgid "We already learned about the \"3 Cs\": content, context, cross-reference. We want to expand that now by delving briefly into biblical hermeneutics, whose goal is to discover the meaning intended by the original author (and Author!). While many applications of a passage are valid, only one interpretation is valid. The scripture itself says this by saying that no scripture is of any private interpretation (2 Pe.1:20 KJV <emphasis>\"Knowing this first, that no prophesy of scripture is of any private interpretation.\"</emphasis>) Certain rules are helps toward discovering the correct meaning; by ignoring these rules people have brought much trouble on themselves and their followers. 2 Pe.3:16 <emphasis>\"...in which are some things hard to understand, which the untaught and unstable distort, as they do also the rest of the Scriptures, to their own destruction.\"</emphasis>"
-msgstr "Мы уже знаем о \"ЗКП\": Значение, Контекст, Перекрёстные ссылки. Мы бы хотели расширить небольшим погружением в библейскую герменевтику, чьей целью является определение значения вложенного автором ( и Автором!). В то время как множество применений отрывка являются верными, только одно истолкование является верным. Само Писание говорит о том, что Писание нельзя разрешить самому собою (2 Петра.1:20 <emphasis>\"Зная прежде всего то, что никакого пророчества в Писании нельзя разрешить самому собою\".</emphasis>) Определённые правила помогают в поиске истинного значения; игнорируя эти правила, люди получали множество неприятностей для себя и своих последователей. 2 Петра.3:16 <emphasis>\"...в которых есть нечто неудобовразумительное, что невежды и неутвержденные, к собственной своей погибели, превращают, как и прочие Писания\".</emphasis>"
+msgstr "Мы уже знаем о \"СКП\": Содержание, Контекст, Перекрёстные ссылки. Сейчас нам бы хотелось к этому добавить небольшое погружение в библейскую герменевтику, чьей целью является определение значения вложенного автором ( и Автором!). В то время как множество применений отрывка являются верными, только одно истолкование является верным. Само Писание говорит о том, что Писание нельзя разрешить самому собою (2 Петра.1:20 <emphasis>\"Зная прежде всего то, что никакого пророчества в Писании нельзя разрешить самому собою\".</emphasis>) Определённые правила помогают в поиске истинного значения; игнорируя эти правила, люди получали множество неприятностей для себя и своих последователей. 2 Петра.3:16 <emphasis>\"...в которых есть нечто неудобовразумительное, что невежды и неутвержденные, к собственной своей погибели, превращают, как и прочие Писания\".</emphasis>"
 
 #: index.docbook:10
 #, no-c-format
@@ -1584,14 +1588,14 @@ msgid "The more precise we can be with the exact, original meaning of the words 
 msgstr "Чем точнее мы сможем определить действительное, настоящее значение слов, тем лучше будет наше истолкование. Постарайтесь определить действительное значение ключевых слов, следуя этим шагам: "
 
 #: index.docbook:18
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Step 1) Definition"
-msgstr "Шаг 1) Определение"
+msgstr "Шаг 1) Значение слов"
 
 #: index.docbook:19
 #, no-c-format
 msgid "Look up the definition in a Greek or Hebrew dictionary. For verbs, the verb tense is also crucial."
-msgstr "Найдите определение в греческом или еврейском словаре. Для глаголов и их временных форм это особенно важно."
+msgstr "Найдите значение слова в греческом или еврейском словаре. Для глаголов и их временных форм это особенно важно."
 
 #: index.docbook:22
 #, no-c-format
@@ -1601,7 +1605,7 @@ msgstr "Шаг 2) Перекрёстные ссылки"
 #: index.docbook:23
 #, no-c-format
 msgid "Compare scripture with scripture. Seeing how the same Greek or Hebrew word (not the English word) is used in scripture may clarify or throw new light on the definition. How does the same author use this word elsewhere? Other authors? Your reference tools may give you uses of the word in non-biblical documents, as well. Why do we have to go to the original languages; why isn't the English word good enough? BECAUSE MORE THAN ONE GREEK WORD MAY BE TRANSLATED INTO THE SAME ENGLISH WORD, AND THE GREEK WORDS MAY HAVE DIFFERENT SHADES OF MEANING."
-msgstr "Сравните Писание с Писанием. Наблюдение за тем, как одни и теже греческие или еврейские слова (не русские слова) используются в Писании, может разъяснить или пролить свет на определение. Как тот же автор использует эти слова в другом месте? А другие авторы? Ваша система поиска таже может показать вам где используются эти слова в небиблейских документах. Почему нам нужно обращаться к языкам оригинала; разве русское слово недостаточно хорошо? ПОТОМУ ЧТО БОЛЕЕ ЧЕМ ОДНО ГРЕЧЕСКОЕ СЛОВО МОЖЕТ БЫТЬ ПЕРЕВЕДЕНО ТАКИМ ЖЕ РУССКИМ СЛОВОМ И ГРЕЧЕСКИЕ СЛОВА МОГУТ ИМЕТЬ РАЗЛИЧНЫЕ ОТТЕНКИ ЗНАЧЕНИЙ."
+msgstr "Сравните Писание с Писанием. Наблюдение за тем, как одни и теже греческие или еврейские слова (не русские слова) используются в Писании, может разъяснить или пролить свет на значение слова. Как тот же автор использует эти слова в другом месте? А другие авторы? Ваша система поиска может показать вам также, где используются эти слова в небиблейских документах. Почему нам нужно обращаться к языкам оригинала; разве русское слово недостаточно хорошо? ПОТОМУ ЧТО БОЛЕЕ ЧЕМ ОДНО ГРЕЧЕСКОЕ СЛОВО МОЖЕТ БЫТЬ ПЕРЕВЕДЕНО ТАКИМ ЖЕ РУССКИМ СЛОВОМ И ГРЕЧЕСКИЕ СЛОВА МОГУТ ИМЕТЬ РАЗЛИЧНЫЕ ОТТЕНКИ ЗНАЧЕНИЙ."
 
 #: index.docbook:30
 #, no-c-format
@@ -1609,19 +1613,19 @@ msgid "Example 1A"
 msgstr "Пример 1А"
 
 #: index.docbook:31
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Jn.20:17 <emphasis>\"Touch me not\"</emphasis> (KJV) sounds harsh, doesn't it? Sounds like Jesus doesn't want to be touched now that He is risen, that He is too holy or something. But that doesn't seem right, so let's look it up in Spiros Zodhiates' <emphasis>The Complete Word Study New Testament</emphasis> (AMG Publishers, 1991)."
-msgstr "Ин.20:17 <emphasis>\" не прикасайся ко Мне\"</emphasis> звучит резко, не правда ли? Звучит как буд-то Иисус не хотел, чтобы к Нему прикасались сейчас потому что Он воскрес, потому что Он слишком свят или что-то ещё. Но это выглядит верно, поэтому поищем в Spiros Zodhiates' <emphasis>The Complete Word Study New Testament (Полное исследование слов Нового Завета)</emphasis> (AMG Publishers, 1991)."
+msgstr "Ин.20:17 <emphasis>\" не прикасайся ко Мне\"</emphasis> звучит резко, не правда ли? Звучит как-будто Иисус не хотел, чтобы к Нему прикасались сейчас, потому что Он воскрес, потому что Он очень свят или что-то ещё. Но это неверно, поэтому поищем в Spiros Zodhiates' <emphasis>The Complete Word Study New Testament (Полное исследование слов Нового Завета)</emphasis> (AMG Publishers, 1991)."
 
 #: index.docbook:34
 #, no-c-format
 msgid "Definition: Turning to John 20:17, above the word \"Touch\" we see \"pim680.\" The letters give us a code for the part of speech, and the number refers to Strong's dictionary reference. Let's look up the definition (p. 879). \"680. Haptomai; from hapto (681), touch. Refers to such handling of an object as to exert a modifying influence upon it... Distinguished from pselaphao (5584), which actually only means to touch the surface of something. \" Now look up \"pim.\" The grammar codes in Zodhiates come right after Revelation; on p. 849 we see that pim stands for \"present imperative active (80)\". On p.857, \"Present Imperative. In the active voice, it may indicate a command to do something in the future which involves continuous or repeated action or, when it is negated, a command to stop doing something. \" This is a negative command, so it is to stop doing something that is already occuring. So, what have we found?"
-msgstr ""
+msgstr "Значение слова: Возвращаясь к Иоанна 20:17, перед словом \"прикасайся\" мы видим \"pim680.\" Буквы дают нам код части речи, а цифра ссылается на словарь Стронга. Давайте рассмотрим значение (стр. 879). \"680. Гаптомаи (Haptomai); от гапто (hapto) (681), - касаться. Указывает на такое воздействие рук на объект, которое осуществляет изменяющее влияние на него...Отличается от пселафао (pselaphao) (5584), которое вообще-то значит только прикасаться к поверхности чего-либо.\" Теперь рассмотрим \"pim.\" Грамматические коды в Zodhiates приведены сразу после Откровения; на стр. 849 мы видим, что pim означает \"настоящее действительное повелительное наклонение (present imperative active (80))\". На стр.857, \"Настоящее повелительное наклонение. В действительном залоге, это может показывать повеление сделать что-либо в будущем, что вызывает длительное или повторяющееся действие или, когда в отрицании, - повеление прекратить делать что-то. \" Это отрицание повеление, поэтому это повеление прекратить делать что-то, что уже происходит.Итак, что же мы нашли?"
 
 #: index.docbook:42
 #, no-c-format
 msgid "MARY IS ALREADY CLINGING TO JESUS, AND HE IS SAYING TO STOP HOLDING HIM!"
-msgstr "МАРИЯ УЖЕ УХВАТИЛАСЬ ЗА ИИСУСА, И ОН ГОВОРИЛ, ЧТОБЫ ОНА ПРЕКРАТИЛА УДЕРЖИВАТЬ ЕГО!"
+msgstr "МАРИЯ УЖЕ УХВАТИЛАСЬ ЗА ИИСУСА, И ОН ГОВОРИТ, ЧТОБЫ ОНА ПРЕКРАТИЛА УДЕРЖИВАТЬ ЕГО!"
 
 #: index.docbook:45
 #, no-c-format
@@ -1636,7 +1640,7 @@ msgstr "В Иакова 5:14, <emphasis>Болен ли кто из вас, пу
 #: index.docbook:47
 #, no-c-format
 msgid "Definition of aleipho (218) - \"to oil\" (Strong's); but we also have another Greek word translated \"anoint\", chrio (5548) - \"to smear or rub with oil, i.e. to consecrate to an office or religious service\" (Strong's). Since it's a verb, consider the tense also, \"apta\" aorist participle active. \"The aorist participle expresses simple action, as opposed to continuous action...When its relaitonship to the main verb is temporal, it usually signifies action prior to that of the main verb.\" (Zodhiates p.851)"
-msgstr ""
+msgstr "Значение слова алеифо (aleipho) (218) - \"пропитывать маслом\" (по Стронгу); но у нас также есть другое переведённое греческое слово \"помазывать\", чрио (chrio) (5548) - \"мазать или натирать маслом, то есть посвящать мирскому или религиозному служению\" (по Стронгу). Так как это глагол, учитывая также время, \"apta\" aorist participle active. \"The aorist participle выражает простое действие, в противоположность длящемуся действию...Когда отношение к главному глаголу временное,то это обычно обозначает действие до главного глагола.\" (Zodhiates стр.851)"
 
 #: index.docbook:53
 #, no-c-format
@@ -1653,26 +1657,37 @@ msgid ""
 "  Acts 10:38 God anointed Jesus with the Holy Ghost and power\n"
 "  2 Cor.1:21 Now He who...anointed us is God"
 msgstr ""
+"Перекрёстные ссылки для алеифо (aleipho):\n"
+"  Мтф.6:17 А ты, когда постишься, помажь голову твою\n"
+"  Марк 16:1 [женщины] купили ароматы, чтобы идти помазать Его.\n"
+"  Марк 6:13 и многих больных мазали маслом и исцеляли.\n"
+"  Луки 7:38 ... целовала ноги Его, и мазала миром.\n"
+"  Ин.12:3 Мария ... помазала ноги Иисуса и отерла волосами своими ноги Его\n"
+"Перекрёстные ссылки для чрио (chrio):\n"
+"  Луки 4:18 Дух Господень на Мне; ибо Он помазал Меня благовествовать...\"\n"
+"  Деяния 4:27 Иисуса, помазанного Тобою\n"
+"  Деяния 10:38 Бог Духом Святым и силою помазал Иисуса\n"
+"  2 Кор.1:21 помазавший нас есть Бог"
 
 #: index.docbook:67
 #, no-c-format
 msgid "So what's the difference between aleipho and chrio? Look back over the cross-references and the definitions, and sum up the difference: ALEIPHO IS A PRACTICAL USE OF OIL AND CHRIO IS A SPIRITUAL"
-msgstr "Итак, какая разница между aleipho and chrio? Вернитесь к перекрёстным ссылкам и определениям, и подведите итог разницы: ALEIPHO - ЭТО ПРАКТИЧЕСКОЕ ИСПОЛЬЗОВАНИЕ МАСЛА, А CHRIO - ДУХОВНОЕ"
+msgstr "Итак, какая разница между aleipho и chrio? Вернитесь к перекрёстным ссылкам и значениям слов, и подведите итог разницы: ALEIPHO - ЭТО ПРАКТИЧЕСКОЕ ИСПОЛЬЗОВАНИЕ МАСЛА, А CHRIO - ДУХОВНОЕ"
 
 #: index.docbook:70
 #, no-c-format
 msgid "As an illustration (although the word is not used) of the practical use of oil at that time, when the good Samaritan cared for the man beat up by robbers he poured oil and wine in the wound. So oil had a medicinal use in Jesus' day."
-msgstr "Как иллюстрация (хотя слово не было использовано) практического использования масла в то время, когда добрый самарянин заботился о человеке побитом разбойниками, он лил масло и вино на раны.Поэтому масло имело медицинское применение в дни Иисуса."
+msgstr "Иллюстрация (хотя слово не было использовано) практического применения масла в то время: когда добрый самарянин заботился о человеке побитом разбойниками, он лил масло и вино на раны. В дни Иисуса масло применялось как медицинское средство. "
 
 #: index.docbook:74
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Now let's apply what we just learned by this word study to James 5:14 <emphasis>\"Is any among you sick? Let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord.\"</emphasis> Is \"anointing\" spiritual or practical? Practical!"
-msgstr "Теперь давайте применим то, что мы только что выучилиNow let's apply what we just learned by this word study to James 5:14 <emphasis>\"Is any among you sick? Let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord.\"</emphasis> Is \"anointing\" spiritual or practical? Practical!"
+msgstr "Теперь давайте изучим Иакова 5:14, применяя то, что мы уже узнали об этом слове: <emphasis>\"Болен ли кто из вас, пусть призовет пресвитеров Церкви, и пусть помолятся над ним, помазав его елеем во имя Господне.\"</emphasis> \"Помазание\" духовное или практическое? Практическое!"
 
 #: index.docbook:77
 #, no-c-format
 msgid "And the tense in Greek, the aorist participle, would be better translated \"having anointed,\" so the order is the anointing first, then the prayer (\"in the name of the Lord\"refers to the prayer, not the anointing). James 5 is saying that the elders should give the sick person medicine and pray for him in the name of the Lord. Doesn't that express a beautiful balance of practical and spiritual in our God!"
-msgstr ""
+msgstr "Форму времени причастие aorist (aorist participle) в греческом языке лучше перевести как \"помазав\", таким образом порядок был таков, что помазание сначала, затем молитва (\"во имя Господне\" относится к молитве, а не к помазанию). В Иакова 5 говорится, что пресвитеры должны оказать медицинскую помощь и молиться во имя Господне. Разве это не прекрасное выражение гармонии практичности и духовности в нашем Боге?!"
 
 #: index.docbook:89
 #, no-c-format
@@ -1682,7 +1697,7 @@ msgstr "Правило 2 - Истолковывать в библейском к
 #: index.docbook:91
 #, no-c-format
 msgid "Interpret scripture in harmony with other scripture. What do the verses on each side say? What is the theme of the chapter? the book? Does your interpretation fit with these? If not, it is flawed. Usually, the context supplies what we need to correctly interpret the passage. Context is key. If confusion remains as to the meaning after we have interpreted the text within its context, we have to look further."
-msgstr ""
+msgstr "Толкуйте Писание в гармонии со всем Писанием. Что говорят стихи при рассмотрении с разных сторон? Какова тема главы? ... книги? Ваше толкование сочетается со всем этим? Если нет, то оно не действительно. Обычно, контекст восполняет то, что нам нужно для правильного толкования отрывка. Контекст - это ключ. Если после того, как мы истолковали текст в его ближайшем контексте, всё ещё остаётся непонимание, то нам нужно смотреть более дальний контекст."
 
 #: index.docbook:96
 #, no-c-format
@@ -1697,7 +1712,7 @@ msgstr "В предыдущем уроке мы рассматривали Ин.
 #: index.docbook:99
 #, no-c-format
 msgid "Water baptism is not under discussion here, which would be a big switch from the subject being discussed by Jesus and Nicodemus. Watch out for a sudden change of topic, it may be a clue that your interpretation has been derailed! The water is the amniotic fluid, \"born of water\" = natural birth."
-msgstr ""
+msgstr "Водное крещение здесь не обсуждается, потому что это было бы большим отклонением от темы разговора Иисуса и Никодима.Остерегайтесь резкого изменения темы, это может быть указание на то, что толкование сошло с правильного пути! Вода - это amniotic жидкость, \"родиться от воды\" = естественное рождение."
 
 #: index.docbook:103
 #, no-c-format
@@ -1707,7 +1722,7 @@ msgstr "Пример 2Б"
 #: index.docbook:104
 #, no-c-format
 msgid "1 Cor.14:34 <emphasis>\"Let the women keep silent in the churches\"</emphasis> has to be taken within the biblical context of 1 Cor.11:5 <emphasis>\"every woman...while praying or prophesying...\"</emphasis>"
-msgstr ""
+msgstr "1 Кор.14:34 <emphasis>\"Жены ваши в церквах да молчат \"</emphasis> нужно брать в библейском контексте 1 Кор.11:5 <emphasis>\"всякая жена, молящаяся или пророчествующая ...\"</emphasis>"
 
 #: index.docbook:107
 #, no-c-format
@@ -1717,17 +1732,17 @@ msgstr "Пример 2В"
 #: index.docbook:108
 #, no-c-format
 msgid "Acts 2:38 <emphasis>And Peter said to them, \"Repent, and let each of you be baptized in the name of Jesus Christ for the forgiveness of your sins...\"</emphasis> Is this teaching baptismal regeneration? If this was the only verse of scripture we had, we would have to conclude that. But in the light of the clear teaching elsewhere that regeneration happens by faith in Christ, we have to interpret it otherwise. Peter is urging baptism as a way for his hearers to respond to the gospel. If baptism were the pathway to being born again, how could Paul write 1 Cor.1:17 <emphasis>\"For Christ did not send me to baptize, but to preach the gospel\"</emphasis>?"
-msgstr ""
+msgstr "Деяния 2:38 <emphasis> Петр же сказал им: покайтесь, и да крестится каждый из вас во имя Иисуса Христа для прощения грехов; и получите дар Святаго Духа.</emphasis> Это учение о том, что спасение мы получаем при крещении?Если бы у нас был только этот один стих в Писании, мы могли бы сделать такое заключение. Но в свете ясного учения в других местах о том, что спасение происходит по вере во Христа, мы должны толковать это иначе. Пётр предлагал крещение как способ для своих слушателей ответить на Евангелие. Если крещение было путём получения возрождения If baptism were the pathway to being born again как мог Пётр написать в 1 Кор.1:17 <emphasis>\"Ибо Христос послал меня не крестить, а благовествовать\"</emphasis>? "
 
 #: index.docbook:120
 #, no-c-format
 msgid "Rule 3 - Interpret within the historical and cultural context"
-msgstr ""
+msgstr "Правило 3 - Толковать в историческом и культурном контексте"
 
 #: index.docbook:122
 #, no-c-format
 msgid "At first we are not asking \"What does it mean to me?\" but \"What did it mean to the original readers?\"; later we can ask, \"What does it mean to me?\" We have to take into account the historical and cultural background of the author and the recipients."
-msgstr ""
+msgstr "Сначала мы не спрашиваем \"Что это значит для меня?\" но \"Что это значило для тех, кому было написано?\"; позже мы можем спросить: \"Что это значит для меня?\" Мы должны учитывать историческую и культурную обстановку, в которой жили автор и получатели."
 
 #: index.docbook:127
 #, no-c-format
@@ -1737,12 +1752,12 @@ msgstr "Пример 3А"
 #: index.docbook:127
 #, no-c-format
 msgid "\"3 days &amp; 3 nights\" (Mt.12:40) have led some to come up with a \"Wednesday crucifixion theory,\" esp. the cult of Armstrongism. How could Jesus die on Friday afternoon and rise Sunday morning yet \"be raised on the third day\" (Mt.16:21)? Exact meanings of \"three\" or \"days\" won't help explain the apparent contradiction."
-msgstr ""
+msgstr "\"3 дня &amp; 3 ночи\" (Мтф.12:40) вынуждают некоторых соглашаться с \"Теорией распятия в среду,\" особенно культ Армстронгизма (Armstrongism). Как мог Иисус умереть в Пятницу вечером и воскреснуть в Воскресенье утром и не \"в третий день воскреснуть.\" (Мтф.16:21)? Точное значение слова \"три\" или \"дни\" не поможет объяснить кажущееся противоречие."
 
 #: index.docbook:132
 #, no-c-format
 msgid "We need an historical tidbit: Jews counted any part of a day as a full day, as we would count buckets of water (if there were six and one-half buckets of water, we would say there were 7 buckets of water even if one was only partly full). So to the Jewish mind, any part of a day counted as a full day, and days started at 6 p.m. and ended at 6 a.m. Friday from 3 p.m. to 6 p.m. = day 1. Friday 6 p.m. to Saturday 6 p.m. = day 2. Saturday 6 p.m. to Sunday 5 or so a.m. = day 3. Interpreting within the cultural context keeps us out of trouble."
-msgstr ""
+msgstr "Нам нужна пикантная историческая новость:Иудеи считали любую часть дня как полный день, как мы считаем вёдра воды (если есть шесть вёдер воды и одно полупустое, мы скажем, что есть 7 вёдер, даже если одно наполнено только на половину). Потому для иудейского ума любая часть дня считается полным днём, и день начинается в 6 часов вечера и заканчивается в 6 часов утра. Пятница с 3х вечера до 6 вечера = 1 день. Пятница с 6 вечера до 6 часов вечера в Субботу = 2 день. Суббота с 6 часов вечера до 5 или около того утра в Воскресенье = 3 день. Толкование с учётом культурного контекста сохранит нас от неприятностей. "
 
 #: index.docbook:139
 #, no-c-format
@@ -1752,17 +1767,17 @@ msgstr "Пример 3Б"
 #: index.docbook:139
 #, no-c-format
 msgid "Gen.15:7-21. The historical context is that cutting animals in two and then walking between the pieces was the normal way of entering a contract in Abraham's day. Both parties walked between, taking the pledge that dismemberment would happen to them if they didn't live up to their part of the contract. But in this case only God goes thru, making it a unilateral covenant."
-msgstr ""
+msgstr "Быт.15:7-21. Исторический контекст в том, что разделение животного на две части и прохождение между этими частями было естественным способом заключения договора в дни Авраама. Обе стороны проходили между частями, давая обещание, что если они не выполнят своей части договора - то они должны быть разделены. Но в данном случае только Бог прошёл между, заключая односторонний договор."
 
 #: index.docbook:147
 #, no-c-format
 msgid "Rule 4 - Interpret according to the normal usage of words in language"
-msgstr ""
+msgstr "Правило 4 - Толковать в соответствии с нормальным употреблением слов в языке"
 
 #: index.docbook:149
 #, no-c-format
 msgid "Let literal language be literal and figurative language be figurative. And watch out for idioms, which have special meanings."
-msgstr ""
+msgstr "Пусть буквальный язык будет буквальным, а образный язык будет образным. И остерегайтесь идиом, которые имеют особое значение."
 
 #: index.docbook:152
 #, no-c-format
@@ -1772,17 +1787,17 @@ msgstr "Пример 4А"
 #: index.docbook:152
 #, no-c-format
 msgid "\"evil eye\" in Mt.6:23."
-msgstr ""
+msgstr "\"худое око\" в Mтф.6:23."
 
 #: index.docbook:153
 #, no-c-format
 msgid "Rule 1, definition of \"evil\" and \"eye\" - no help here. Rule 2, context: seems to confuse us even more. It doesn't seem to fit with what goes before and after! This should tip us off that we aren't understanding it rightly!!"
-msgstr ""
+msgstr "Правило 1, значения слов \"худое\" и \"око\" - тут не помогут. Правило 2, контекст: похоже смутит нас ещё больше. Кажется, что оно не соотносится с тем, что идёт до и после!Это должно предупредить нас о том, что мы не понимаем его правильно!!"
 
 #: index.docbook:156
 #, no-c-format
 msgid "What we have here is a Hebrew idiom, \"evil eye.\" Let's look up other uses of this idiom: Mt.20:15 \"<emphasis>Is it not lawful for me to do what I wish with what is my own? Or is your eye envious [lit.\"evil\"] because I am generous [lit.\"good\"]?</emphasis>\" We find that having an \"evil eye\" is a Hebrew idiom for being stingy or envious. Now go back to Mt.6 and notice how this understanding ties in so perfectly to the context."
-msgstr ""
+msgstr "То, что мы имеем - идиома греческого языка \"худой глаз (evil eye).\" Давайте посмотрим другие употребления этой идиомы: Мтф.20:15 \"<emphasis>разве я не властен в своем делать, что хочу? или глаз твой завистлив [Перевод Библии короля Иакова KJV \"худой (evil)\"] от того, что я добр?</emphasis>\" Мы обнаружили, что иметь \"худой глаз\" - это идиома греческого языка для обозначения скупости и завистливости. Теперь вернёмся к Мтф.6 и отметим, что это понимание идеально вписывается в контекст."
 
 #: index.docbook:161
 #, no-c-format
@@ -1792,27 +1807,27 @@ msgstr "Пример 4Б"
 #: index.docbook:162
 #, no-c-format
 msgid "Is.59:1 \"<emphasis>The Lord's hand is not short;</emphasis>\" Deut.33:27 \"<emphasis>Underneath are the everlasting arms.</emphasis>\" References to body parts of God are used by Latter-Day Saints to prove that God was once a man just as we are. Once they convince people of that, they go on to teach that we can become God just like He is! At a lecture he was giving, a group of Mormon elders challenged Walter Martin (author of <emphasis>Kingdom of the Cults</emphasis>) with an enumeration of verses like these. Dr. Martin then asked the Mormons to read one more scripture: Ps.91:4 \"<emphasis>He will cover you with His feathers; And under His wings shalt thou trust.</emphasis>\" W.M. said, \"By the same rules of interpretation that you just proved God to be a man, you just proved that He is a bird.\" The Mormons had to laugh as they realised the ridiculousness of their position."
-msgstr ""
+msgstr "Ис.59:1 \"<emphasis>Вот, рука Господа не сократилась</emphasis>\" Втор.33:27 \"<emphasis>и ты под мышцами вечными.</emphasis>\" Упоминание частей тела Бога используется современными святыми для доказательства того, что Бог был прежде человеком как и мы. Как только они убеждают людей в этом, они продолжают учить, что мы можем стать Богами такими же как Он! На лекции, которую он проводил, группа пресвитеров-мормонов, перечисляя стихи подобные этим, бросила вызов Вольтеру Мартину (Walter Martin) (автору <emphasis>\"Царство культов\"</emphasis>). После чего доктор Мартин попросил мормонов прочесть ещё одно место Писания: Пс.91:4 \"<emphasis>Перьями Своими осенит тебя, и под крыльями Его будешь безопасен.</emphasis>\" В.М. сказал: \" По тем же правилам толкования, которыми вы только что доказали, что Бог это человек, вы доказали что Он - птица.\" Мормоны вынуждены были отшучиваться, когда осознали комичность их положения."
 
 #: index.docbook:174
 #, no-c-format
 msgid "Rule 5 - Understand the purpose of parables and the difference between a parable and an allegory"
-msgstr ""
+msgstr "Правило 5 - Нужно понять цель притч и разницу между притчей и аллегорией"
 
 #: index.docbook:176
 #, no-c-format
 msgid "An allegory is: A STORY WHERE EACH ELEMENT HAS A MEANING"
-msgstr ""
+msgstr "Аллегория: ИСТОРИЯ В КОТОРОЙ КАЖДЫЙ ЭЛЕМЕНТ ИМЕЕТ ЗНАЧЕНИЕ"
 
 #: index.docbook:177
 #, no-c-format
 msgid "Every parable is an allegory, true or false?"
-msgstr ""
+msgstr "Каждая притча является аллегорией, верно или нет?"
 
 #: index.docbook:179
 #, no-c-format
 msgid "Some parables are allegories, for instance, the parable of the sower is an allegory: the seed is the word of God, the thorns are worries and greed, etc. But most parables are not allegories but simply stories to illustrate one point. It's dangerous to get our doctrine from parables; they can be twisted to say all sorts of things. We need to get our doctrine from clear scriptures that lay it out; then if a parable illustrates that, fine."
-msgstr ""
+msgstr "Некоторые притчи являются аллегориями, например,притча о сеятеле является аллегорией: семя есть Слово Божье, терние - это заботы и жадность, и т.д. Но большинство притч это не аллегории, а просто истории для иллюстрации одного момента. Опасно извлекать наши доктрины из притч; они могут быть перекручены на любой вкус. Мы должны извлекать наши доктрины из ясных мест Писания, в которых они ясно предоставлены; и, если притча даёт иллюстрацию, то это хорошо."
 
 #: index.docbook:184
 #, no-c-format
@@ -1822,12 +1837,12 @@ msgstr "Пример 5А"
 #: index.docbook:185
 #, no-c-format
 msgid "The parable of the widow with the unrighteous judge in Lk.18:1-8. This story illustrates one lesson: boldness in prayer. If we draw it into an allegory, what do we have?"
-msgstr ""
+msgstr "Притча о вдове и неправедном судье в Луки.18:1-8. Эта история иллюстрирует один урок: постоянство в молитве. Если мы перетянем её в аллегорию, то что мы получим?"
 
 #: index.docbook:187
 #, no-c-format
 msgid "All sorts of violence happens to the meanings: God is reluctant to protect the rights of widows, prayer \"bothers\" Him, etc."
-msgstr ""
+msgstr "Все формы стремления оказываются допустимыми:Бог не желает защищать права вдовы,молитвы \"досаждают\" Ему, и т.д."
 
 #: index.docbook:190
 #, no-c-format
@@ -1837,12 +1852,12 @@ msgstr "Пример 5Б"
 #: index.docbook:191
 #, no-c-format
 msgid "The parable of the unrighteous steward in Lk.16:1-9. What is the point of the parable? Is it an allegory?"
-msgstr ""
+msgstr "Притча о неверному управителе в Луки.16:1-9. В чём смысл притчи? Может это аллегория?"
 
 #: index.docbook:193
 #, no-c-format
 msgid "The steward is commended for only one thing, his shrewdness in using what he had to prepare for a time when he wouldn't have it. But he is not commended for his unethical behavior in cheating his master."
-msgstr ""
+msgstr "Управитель получил похвалу только одно, его догадливость в том, что он использовал что имел для приготовления ко времени, когда он не будет этим распоряжаться. Но ему не было поручено вести себя неэтично и обкрадывать своего хозяина. "
 
 #: index.docbook:14
 #, fuzzy, no-c-format
@@ -2932,7 +2947,7 @@ msgstr ""
 
 #: index.docbook:20
 #, no-c-format
-msgid "If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime-website/en/pot/full.pot?rev=HEAD\">Webpage translation template</ulink>. We recommend to use the program <ulink url=\"http://i18n.kde.org/tools/kbabel/\">KBabel</ulink> to translate the file. If you're finished translating it, send it to <email>info@bibletime.info</email>."
+msgid "If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <ulink url=\"/en/pot/full.pot\">Webpage translation template</ulink>. We recommend to use the program <ulink url=\"http://i18n.kde.org/tools/kbabel/\">KBabel</ulink> to translate the file. If you're finished translating it, send it to <email>info@bibletime.info</email>."
 msgstr ""
 
 #: index.docbook:26

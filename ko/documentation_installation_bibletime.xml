@@ -66,33 +66,33 @@
 ><title
 >소스코드로부터 컴파일하기</title>
 	<para
-> 바이블타임을 소스코드로부터 설치하는 것은 바이너리 패키지를 사용하는 것보다 좀 더 어렵습니다. 바이블타임을 소스로부터 설치하시려면 다음의 순서를 따라주십시오: <orderedlist
+> Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources: <orderedlist
 > <listitem
-> 필요한 소프트웨어들을 설치하십시오: <olink targetdocent="documentation_requirements"
->바이블타임에 필요한 것들</olink
+> Install the required software: <olink targetdocent="documentation_requirements"
+>BibleTime's requirements</olink
 > </listitem
 > <listitem
-> 바이블타임의 소스코드를 구하십시오: <olink targetdocent="software_download"
->다운로드</olink
+> Get the source code package of BibeTime: <olink targetdocent="software_download"
+>Download</olink
 > </listitem
 > <listitem
-> 바이블타임 컴파일 및 설치: <programlisting>
+> Compile and install BibleTime: <programlisting>
 <![CDATA[
 	./configure --prefix=<your KDE directory>
 	make
  	make install
 ]]>
 			</programlisting
-> 다음의 명령어를 통해서 KDE 디렉토리를 확인하실 수 있습니다 <command
+> You can get your KDE directory by running the command <command
 >kde-config --prefix</command
->. 설치에 어려움이 있다면 자주 묻는 질문들(FAQ)을 참고하십시오: <olink targetdocent="documentation_faq"
->자주 묻는 질문들(FAQ)</olink
->. 해결책을 찾지 못하셨다면, <email
+>. If you get problems please read the <olink targetdocent="documentation_faq"
+>FAQ</olink
+>. If there's no solution of your problem, please contact us at <email
 >info@bibletime.info</email
->로 연락을주시기 바랍니다 </listitem
+> </listitem
 > </orderedlist
-> 바이블타임을 설치하신 후에는 텍스트 모듈을 설치하셔야만 합니다: <olink targetdocent="documentation_installation_modules"
->텍스트모듈 설치하기</olink
+> Don't forget to install some text modules after you installed BibleTime: <olink targetdocent="documentation_installation_modules"
+>How to install the text modules</olink
 >. </para>
 </section>
 

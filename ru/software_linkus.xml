@@ -22,7 +22,7 @@
 
 <section
 ><title
->1. Большой баннер</title>
+>Larger banner</title>
 <para
 > Put the following HTML code on your pages: <programlisting>
 <![CDATA[
@@ -42,7 +42,7 @@
 
 <section
 ><title
->2. Маленький баннер</title>
+>Smaller banner</title>
 <para
 > Put the following HTML code on your pages: <programlisting>
 <![CDATA[
@@ -63,7 +63,7 @@
 
 <section
 ><title
->3. Текстовая гиперссылка</title>
+>Text link</title>
 <para
 > To insert a simple text link please use the following HTML code on your pages: <programlisting>
 <![CDATA[

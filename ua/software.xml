@@ -17,7 +17,7 @@
 
 <section
 ><title
->Ласкаво просимо до проекту BibleTime!</title>
+>Welcome to the BibleTime project.</title>
 <para
 > BibleTime is a Bible study application for Linux. It is based on the <ulink url="http://www.kde.org/"
 >K Desktop Environment</ulink
@@ -30,7 +30,7 @@
 
 <section
 ><title
->Щодо BibleTime</title>
+>News about BibleTime</title>
 	<formalpara
 ><title
 >2003-12-29: BibleTime 1.4</title>

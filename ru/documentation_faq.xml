@@ -21,7 +21,7 @@
 
 		<qandadiv
 ><title
->Процесс установки</title>
+>Installation problems</title>
 			<qandaentry>
 				<question>
 					<para
@@ -52,7 +52,7 @@
 			<qandaentry>
 				<question>
 					<para
->Куда подевались советы на каждый день и документация?!</para>
+>The translations are missing!</para>
 				</question>
 				<answer>
 					<para
@@ -68,7 +68,7 @@
 			<qandaentry>
 				<question>
 					<para
-> А можно произвести поиск по номеру Стронга (Strong's)? </para>
+> Is it possible to search for a specific Strong number? </para>
 				</question>
 
 				<answer>
@@ -80,7 +80,7 @@
 			<qandaentry>
 				<question>
 					<para
-> Почему вместо текста в кодировке Уникоуд (Unicode) у меня на экране сплошные знаки вопроса? </para>
+> Why do I see only question marks instead of Unicode text? </para>
 				</question>
 
 				<answer>

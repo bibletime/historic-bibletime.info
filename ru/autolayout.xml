@@ -6,11 +6,11 @@
 <summary>Error 404: File not found</summary>
 </notoc>
 <notoc page="translation.xml" id="translation" filename="translation.shtml">
-<title>&#x423;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x43A;&#x430;</title>
+<title>Translation</title>
 <summary>Introduction</summary>
 </notoc>
 <toc page="index.xml" id="index" filename="no_index.html">
-<title>&#x41E; BibleTime</title>
+<title>BibleTime</title>
 <summary>Introduction</summary>
 <tocentry page="software.xml" id="software" filename="index.html">
 <title>&#x41F;&#x440;&#x438;&#x43B;&#x43E;&#x436;&#x435;&#x43D;&#x438;&#x44F;</title>
@@ -67,7 +67,7 @@
 <title>&#x423;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x43A;&#x430;</title>
 <summary>Introduction to the BibleTime software</summary>
 <tocentry page="documentation_installation_bibletime.xml" id="documentation_installation_bibletime" filename="documentation_installation_bibletime.html">
-<title>&#x41E; BibleTime</title>
+<title>BibleTime</title>
 <summary>Introduction to the BibleTime software</summary>
 </tocentry>
 <tocentry page="documentation_installation_sword.xml" id="documentation_installation_sword" filename="documentation_installation_sword.html">
@@ -88,7 +88,7 @@
 <title>&#x41C;&#x43E;&#x434;&#x443;&#x43B;&#x438;</title>
 <summary>Introduction to Sword modules</summary>
 <tocentry page="modules_swordcd.xml" id="modules_swordcd" filename="modules_swordcd.shtml">
-<title>Sword &#x43D;&#x430; CD</title>
+<title>Sword CD</title>
 <summary>Get the Sword CD</summary>
 </tocentry>
 </tocentry>
@@ -104,12 +104,12 @@
 <summary>BibleTime's development</summary>
 </tocentry>
 <tocentry page="development_mailinglists.xml" id="development_mailinglists" filename="development_mailinglists.html">
-<title>&#x420;&#x430;&#x441;&#x441;&#x44B;&#x43B;&#x43A;&#x438;</title>
+<title>Mailinglists</title>
 <summary>BibleTime's mailinglists</summary>
 </tocentry>
 </tocentry>
 <tocentry page="biblehowto.docbook" id="biblehowto" filename="biblehowto.html">
-<title>&#x41A;&#x430;&#x43A; &#x438;&#x437;&#x443;&#x447;&#x430;&#x442;&#x44C; &#x411;&#x438;&#x431;&#x43B;&#x438;&#x44E;</title>
+<title>Biblestudy HowTo</title>
 <summary>The BibleTime Biblestudy HowTo</summary>
 </tocentry>
 </toc>

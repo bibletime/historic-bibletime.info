@@ -6,11 +6,11 @@
 <summary>Error 404: File not found</summary>
 </notoc>
 <notoc page="translation.xml" id="translation" filename="translation.shtml">
-<title>Instalare</title>
+<title>Translation</title>
 <summary>Introduction</summary>
 </notoc>
 <toc page="index.xml" id="index" filename="no_index.html">
-<title>Despre BibleTime</title>
+<title>BibleTime</title>
 <summary>Introduction</summary>
 <tocentry page="software.xml" id="software" filename="index.html">
 <title>Aplicatia</title>
@@ -67,7 +67,7 @@
 <title>Instalare</title>
 <summary>Introduction to the BibleTime software</summary>
 <tocentry page="documentation_installation_bibletime.xml" id="documentation_installation_bibletime" filename="documentation_installation_bibletime.html">
-<title>Despre BibleTime</title>
+<title>BibleTime</title>
 <summary>Introduction to the BibleTime software</summary>
 </tocentry>
 <tocentry page="documentation_installation_sword.xml" id="documentation_installation_sword" filename="documentation_installation_sword.html">
@@ -88,7 +88,7 @@
 <title>Module</title>
 <summary>Introduction to Sword modules</summary>
 <tocentry page="modules_swordcd.xml" id="modules_swordcd" filename="modules_swordcd.shtml">
-<title>Obtine Cd-ul Sword</title>
+<title>Sword CD</title>
 <summary>Get the Sword CD</summary>
 </tocentry>
 </tocentry>
@@ -104,7 +104,7 @@
 <summary>BibleTime's development</summary>
 </tocentry>
 <tocentry page="development_mailinglists.xml" id="development_mailinglists" filename="development_mailinglists.html">
-<title>Mailing lists</title>
+<title>Mailinglists</title>
 <summary>BibleTime's mailinglists</summary>
 </tocentry>
 </tocentry>

@@ -19,7 +19,7 @@
 ><title
 >Как загрузить BibleTime</title>
 <para
-> Существует несколько пакетов RPM для BibleTime. Чтобы узнать есть ли пакет для вашей системы посмотрите на название файла пакета. Название файла включает краткое название и версию дистрибутива Linux, для которого этот файл предназначен. </para>
+> There are several RPM packages available of BibleTime. To see whether they were made for your system, have a look at the file name of the package. They contain the abbreviated name and version of the Linux distribution they were made for. For example the package "bibletime-1.2.2-1suse8.1.i586.rpm" was made for SuSE 8.1 systems running on a i586 or higher. </para>
 
 <para
 > The "bibletime" package contains the software and documentation in English. Translation files for both are to be found in the "bibletime-i18n" package. </para>

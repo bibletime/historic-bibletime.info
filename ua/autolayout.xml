@@ -10,7 +10,7 @@
 <summary>Introduction</summary>
 </notoc>
 <toc page="index.xml" id="index" filename="no_index.html">
-<title>&#x429;&#x43E;&#x434;&#x43E; BibleTime</title>
+<title>BibleTime</title>
 <summary>Introduction</summary>
 <tocentry page="software.xml" id="software" filename="index.html">
 <title>&#x41F;&#x440;&#x43E;&#x433;&#x440;&#x430;&#x43C;&#x438;</title>
@@ -67,7 +67,7 @@
 <title>Installation</title>
 <summary>Introduction to the BibleTime software</summary>
 <tocentry page="documentation_installation_bibletime.xml" id="documentation_installation_bibletime" filename="documentation_installation_bibletime.html">
-<title>&#x429;&#x43E;&#x434;&#x43E; BibleTime</title>
+<title>BibleTime</title>
 <summary>Introduction to the BibleTime software</summary>
 </tocentry>
 <tocentry page="documentation_installation_sword.xml" id="documentation_installation_sword" filename="documentation_installation_sword.html">

@@ -21,7 +21,7 @@
 
 		<qandadiv
 ><title
->Procesul instalarii</title>
+>Installation problems</title>
 			<qandaentry>
 				<question>
 					<para
@@ -29,15 +29,15 @@
 				</question>
 				<answer>
 					<para
-> Te rog sa rulezi configure cu parametrul --prefix=&lt;directorul tau KDE&gt;. Apoi ruleaza make si make install ca de obicei. Directorul KDE pentru cele mai raspandite distributii Linux este: <orderedlist
+> Please run configure with the parameter --prefix=&lt;your KDE directory&gt;. Then run make and make install as usual. The KDE directories for the widely used Linux distributions are: <orderedlist
 > <listitem
->RedHat: /usr </listitem
-><listitem
->SuSE: /opt/kde3 </listitem
-><listitem
->Mandrake: /usr </listitem
-></orderedlist
-> De asemenea poti folosi comanda &raquo;kde-config --prefix&laquo; pentru a afla directorul KDE. <orderedlist
+>RedHat: /usr</listitem
+> <listitem
+>SuSE: /opt/kde3</listitem
+> <listitem
+>Mandrake: /usr</listitem
+> </orderedlist
+> Alternatively you can run the command "kde-config --prefix" to get your KDE directory. The commands are: <orderedlist
 > <listitem
 >./configure --prefix=&lt;your KDE directory&gt;</listitem
 > <listitem
@@ -52,11 +52,11 @@
 			<qandaentry>
 				<question>
 					<para
->Sfaturile zilnice si documentatia lipsesc!</para>
+>The translations are missing!</para>
 				</question>
 				<answer>
 					<para
-> Te rog instaleaza pachetul bibletime-doc care contine sfaturile zilnice, manualul, instructiuni de instalare precum si cum sa studiezi Biblia. </para>
+> Please install the package bibletime-i18n which contains the translations of the daily tips, the handbook, the installation instructions and the Bible study howto. </para>
 				</answer>
 			</qandaentry>
 
@@ -68,7 +68,7 @@
 			<qandaentry>
 				<question>
 					<para
-> E posibil sa cauti un numar Strong specific? </para>
+> Is it possible to search for a specific Strong number? </para>
 				</question>
 
 				<answer>
@@ -80,7 +80,7 @@
 			<qandaentry>
 				<question>
 					<para
-> De ce vad doar semnele de intrebare in loc de text Unicod? </para>
+> Why do I see only question marks instead of Unicode text? </para>
 				</question>
 
 				<answer>
@@ -89,7 +89,7 @@
 >www.crosswire.org/sword</ulink
 > for this. </para>
 					<para
-> Mai intai verifica daca ai ultima versiune a modulului care are aceasta problema! Verifica la www.crosswire.org/sword pentru aceasta. E nevoie sa instalezi un font unicod precum Code2000, Arial Unicode MS sau Bitstream Cyberbit pentru a afisa caracterele unicode speciale. Verifica sectiunea  "Configuring BibleTime->Options Dialog->Fonts" din manualul BibleTime cum sa instalezi fonturi unicod pentru Linux. O versiune online a manualului e disponibila la  www.bibletime.info. </para>
+> You have to install an unicode font like Code2000, Arial Unicode MS or Bitstream Cyberbit to display the special unicode characters. Check the section "Configuring BibleTime->Options Dialog->Fonts" in the handbook of BibleTime how to setup Unicode fonts under Linux. </para>
 				</answer>
 			</qandaentry>
 		</qandadiv>
@@ -117,9 +117,9 @@
 
 				<answer>
 					<para
-> Trebuie sa instalezi modulul "Personal", care e disponibil ca si comentariu la Crosswire.Vezi pagina noastra de comentariu pentru mai multe informatii: <ulink url="http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Personal"
+> You have to install the module "Personal", which is available as a commentary on <ulink url="http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Personal"
 >Crosswire</ulink
->. </para>
+>. See our commentary page for more information: Commentaries. </para>
 				</answer>
 			</qandaentry>
 

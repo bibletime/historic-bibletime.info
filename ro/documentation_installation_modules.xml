@@ -22,13 +22,13 @@
 > Aceasta pagina explica felul in care trebuie adaugate modulele, care sunt disponibile la Crosswire, pentru ca BibleTime sa fie intr-adevar folositor. </para>
 
 <para
-> Aceste module sunt diponibile ca arhive zip la Crosswire Bible society. Viziteaza sectiunea &raquo;Module&laquo; a site-ului BibleTime pentru a vedea lista modulelor diponibile. </para>
+> The modules are available as ZIP files from the Crosswire Bible society. Have a look into the "Modules" section of the BibleTime web pages to get an overview of the available modules. </para>
 
 <para
 > Inainte de instalarea modulelor verifica daca BibleTime este instalat! </para>
 
 <para
-> Mai intai trebuie sa afli directorul, pe care-l vom numi acum &raquo; directorul Sword&laquo;, din sistemul tau. Directorul Sword contine toate datele Sword, el avand cel putin  sub-directoarele &raquo;modules/&laquo; and &raquo;mods.d/&laquo;. </para>
+> First you have to find the directory, which we'll call now "Sword directory", on your system. The Sword directory contains all Sword data, i.e. it contains at least the sub-directories "modules/" and "mods.d/". </para>
 
 <para
 > Apoi trebuie sa dezarhivezi fisierele zip descarcate in directorul Sword pentru  popula cele doua sub-directoare amintite. </para>

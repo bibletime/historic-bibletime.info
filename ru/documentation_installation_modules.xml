@@ -22,13 +22,13 @@
 > На этой странице вы узнаете как установить текстовые модули, которые предоставляет общество Crosswire, чтобы раскрыть потенциал BibleTime. </para>
 
 <para
-> Модули можно загрузить в формате ZIP с сайта Crosswire Bible Society.  Загляните в секцию "Модули" нашего вебсайта, чтобы ознакомиться с существующими модулями. </para>
+> The modules are available as ZIP files from the Crosswire Bible society. Have a look into the "Modules" section of the BibleTime web pages to get an overview of the available modules. </para>
 
 <para
 > Внимание: перед тем, как устанавливать модули убедитесь, что на компьютере уже установлена программа BibleTime! </para>
 
 <para
-> Во-первых, нужно найти на вашей системе директорию, которая называется "Sword". Директория Sword содержит все библиотеки Sword, то есть, она содержит по меньшей мере поддиректории "modules" и "mods.d". </para>
+> First you have to find the directory, which we'll call now "Sword directory", on your system. The Sword directory contains all Sword data, i.e. it contains at least the sub-directories "modules/" and "mods.d/". </para>
 
 <para
 > Во-вторых, нужно разархивировать файл(ы) Sword (которые вы ранее загрузили с сайта Crosswire Bible Society) в директорию Sword, чтобы заполнить ранее упомянутые поддиректории. </para>
