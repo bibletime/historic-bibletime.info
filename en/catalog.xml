@@ -11,10 +11,10 @@
 
 <!-- Rewrite rules for the whole tree -->
 <rewriteURI uriStartString="http://docbook.sourceforge.net/release/website/2.4.1/schema/"
-            rewritePrefix="schema/"/>
+            rewritePrefix="../en/schema/"/>
 
 <rewriteURI uriStartString="http://docbook.sourceforge.net/release/website/2.4.1/xsl/"
-            rewritePrefix="xsl/"/>
+            rewritePrefix="../en/xsl/"/>
 
 <rewriteURI uriStartString="http://docbook.sourceforge.net/release/xsl/current/xhtml/"
 	rewritePrefix="/usr/share/sgml/docbook/stylesheet/xsl/nwalsh/xhtml/"/>

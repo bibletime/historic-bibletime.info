@@ -8,7 +8,7 @@
 <p>
 The Sword project offers a CD which contains all the software for Windows, Linux and Mac OS X. The CD is freely available like all the other things the Crosswire Bible society is offering for you! See below how to download the CD. If you can't download the CD, for example because you don't have a fast connection, you can order the CD. If you're living in Europe the BibleTime developers send out the CDs to you. In this case please fill out the form below and send it away.
 </p>
-</div><div class="section"  xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2831226"></a>What can I do with the CD?</h2></div></div><div></div></div>
+</div><div class="section"  xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2831225"></a>What can I do with the CD?</h2></div></div><div></div></div>
 <p>
 You can do several important things with the CD:
 </p><div class="itemizedlist"><ul><li>
@@ -25,7 +25,7 @@ You can do several important things with the CD:
 		</p>
 	</li></ul></div><p>
 </p>
-</div><div class="section"  xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2831281"></a>I want to download the Sword CD!</h2></div></div><div></div></div>
+</div><div class="section"  xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2831280"></a>I want to download the Sword CD!</h2></div></div><div></div></div>
 <p>
 No problem! Please download the file with the latest date from <a href="ftp://ftp.crosswire.org/pub/sword/iso/" >ftp.crosswire.org/pub/sword/iso/</a>. Don't forget that the file is over 600 MB large and that you should have a fast connection to download it.
 </p>
@@ -33,6 +33,6 @@ No problem! Please download the file with the latest date from <a href="ftp://ft
 <p>
 If you're NOT living in Europe please go to the Crosswire's CD order page and order the CD there. If you're living somewhere in Europe the BibleTime developers will send you the CD. Please fill in the required information in the form below and send it. The BibleTime developers will send you the CDs for free.
 </p>
-</div><div class="section"  xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2831321"></a>The Sword CD</h2></div></div><div></div></div>
+</div><div class="section"  xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2831320"></a>The Sword CD</h2></div></div><div></div></div>
 <!--#exec cgi="/swordcd.pl"-->
 </div></div></td></tr></table><div id="pagebottom"><span id="footcopy"><span  class="copyright">Copyright © 1999, 2000, 2001, 2002, 2003 The BibleTime developers - www.bibletime.info. </span></span></div></body></html>
