@@ -125,8 +125,6 @@ sub make_makefile() {
 
 	copy("en/Makefile"       , "$dest/");
 	copy("en/depends.tabular", "$dest/");
-	copy("en/VERSION"        , "$dest/");
-	copy("en/catalog.xml"    , "$dest/");
 }
 
 sub run_make() {
