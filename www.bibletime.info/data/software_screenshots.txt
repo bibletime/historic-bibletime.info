@@ -2,7 +2,7 @@
 <TABLE style="padding-left: 1cm; padding-bottom:20px;">
 <TR>
 <TD valign="top">
-	<A href="screenshots/1.2/1-large.jpg"><IMG SRC="/screenshots/1.2/1.jpg" alt="1.2" width="349" height="278" border="0"></A>
+	<A href="/screenshots/1.2/1-large.jpg"><IMG SRC="/screenshots/1.2/1.jpg" alt="1.2" width="349" height="278" border="0"></A>
 </TD>
 <TD valign="top">
 
@@ -14,7 +14,7 @@ i18n("As you can see hebrew, chinese, greek and latin characters are displayed c
 
 </TD></TR>
 <TD valign="top">
- 	<A href="screenshots/1.2/2-large.jpg"><IMG SRC="/screenshots/1.2/2.jpg" alt="1.2" width="350" height="262" border="0"></A>
+ 	<A href="/screenshots/1.2/2-large.jpg"><IMG SRC="/screenshots/1.2/2.jpg" alt="1.2" width="350" height="262" border="0"></A>
 </TD>
 <TD valign="top">
 
@@ -32,7 +32,7 @@ i18n("The book modules are available on the webpages of the Crosswire Bible Soci
 <TABLE style="padding-left: 1cm;padding-bottom:20px;">
 <TR>
 <TD valign="top">
-	<A href="screenshots/0.3/1-large.jpg"><IMG SRC="/screenshots/0.3/1.jpg" alt="1.0" width="320" height="240" border="0"></A>
+	<A href="/screenshots/0.3/1-large.jpg"><IMG SRC="/screenshots/0.3/1.jpg" alt="1.0" width="320" height="240" border="0"></A>
 </TD>
 <TD valign="top">
 
@@ -40,7 +40,7 @@ i18n("This screenshots shows the mainwindow of BibleTime 0.3! As you can see man
 
 <BR>
 
-i18n("We don't advide to use BibleTime 0.3! Use BibleTime 1.1 if you use KDE 2 and the most current version of BibleTime if you use KDE 3.")
+i18n("We don't advise to use BibleTime 0.3! Use BibleTime 1.1 if you use KDE 2 and the most current version of BibleTime if you use KDE 3.")
 
 </TD></TR>
 </table>
@@ -49,7 +49,7 @@ i18n("We don't advide to use BibleTime 0.3! Use BibleTime 1.1 if you use KDE 2 a
 <TABLE style="padding-left: 1cm;">
 <TR>
 <TD valign="top">
-	<A href="screenshots/0.2/1-large.jpg"><IMG SRC="/screenshots/0.2/1.jpg" alt="1.2" width="320" height="240" border="0"></A>
+	<A href="/screenshots/0.2/1-large.jpg"><IMG SRC="/screenshots/0.2/1.jpg" alt="1.2" width="320" height="240" border="0"></A>
 </TD>
 <TD valign="top">
 

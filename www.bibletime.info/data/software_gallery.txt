@@ -21,10 +21,10 @@ i18n("Most of the screenshots were created using the superb Code2000 Unicode fon
  </TD>
 </TR>
 <TR>
- <TD><a href="screenshots/gallery/peshitta.png">
+ <TD><a href="/screenshots/gallery/peshitta.png">
   <IMG SRC="/screenshots/gallery/peshitta_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
  <TD></TD>
- <TD><a href="screenshots/gallery/bhs.png">
+ <TD><a href="/screenshots/gallery/bhs.png">
   <IMG SRC="/screenshots/gallery/bhs_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
 </TR>
 <TR STYLE="padding-bottom:5mm;">
@@ -37,10 +37,10 @@ i18n("<P>The <B>BHS</B> (short for <I>Biblia Hebraica Stuttgartensia</I>), the b
 </P></TD>
 </TR>
 <TR>
- <TD><a href="screenshots/gallery/arasvd.png">
+ <TD><a href="/screenshots/gallery/arasvd.png">
    <IMG SRC="/screenshots/gallery/arasvd_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
  <TD></TD>
- <TD width="50%"><a href="screenshots/gallery/chigu.png">
+ <TD width="50%"><a href="/screenshots/gallery/chigu.png">
    <IMG SRC="/screenshots/gallery/chigu_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
 </TR>
 <TR STYLE="padding-bottom:5mm;">
@@ -53,10 +53,10 @@ i18n("<p><B>ChiGU</B>: Chinese Bible text.</P><p>Since QT 3 BibleTime can correc
 </p></TD>
 </TR>
 <TR>
- <TD><a href="screenshots/gallery/ignt.png">
+ <TD><a href="/screenshots/gallery/ignt.png">
    <IMG SRC="/screenshots/gallery/ignt_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
  <TD></TD>
- <TD><a href="screenshots/gallery/korthai.png">
+ <TD><a href="/screenshots/gallery/korthai.png">
    <IMG SRC="/screenshots/gallery/korthai_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
 </TR>
 <TR STYLE="padding-bottom:5mm;">
@@ -69,10 +69,10 @@ i18n("<B>Kor</B> and <B>ThaiKJV</B>.</p><p>Korean and Thai are very good Unicode
 </TD>
 </TR>
 <TR>
- <TD><a href="screenshots/gallery/bulgarian.png">
+ <TD><a href="/screenshots/gallery/bulgarian.png">
    <IMG SRC="/screenshots/gallery/bulgarian_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
  <TD></TD>
- <TD><a href="screenshots/gallery/vietromcor.png">
+ <TD><a href="/screenshots/gallery/vietromcor.png">
    <IMG SRC="/screenshots/gallery/vietromcor_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
 </TR>
 <TR STYLE="padding-bottom:5mm;">
@@ -85,10 +85,10 @@ i18n("<p><B>Viet</B> and <B>RomCor</B>.</p><p>East Europe meets East Asia! Vietn
 </TD>
 </TR>
 <TR>
- <TD><a href="screenshots/gallery/esperanto.png">
+ <TD><a href="/screenshots/gallery/esperanto.png">
    <IMG SRC="/screenshots/gallery/esperanto_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
  <TD></TD>
- <TD><a href="screenshots/gallery/gothicab.png">
+ <TD><a href="/screenshots/gallery/gothicab.png">
    <IMG SRC="/screenshots/gallery/gothicab_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
 </TR>
 <TR STYLE="padding-bottom:5mm;">

@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Joachim Ansorg <joachim@ansorgs.de>\n"
-"PO-Revision-Date: 2002-12-26 01:03+0100\n"
+"PO-Revision-Date: 2002-12-28 14:59+0100\n"
 "Language-Team: German <de@li.org>\n"
 "Content-Type: text/plain; charset=ISO-8859-15\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -384,9 +384,6 @@ msgstr "Die Buch-Module sind auf den Seiten der Crosswire Bible Society verfügba
 
 msgid "This screenshots shows the mainwindow of BibleTime 0.3! As you can see many things changed in the current versions."
 msgstr "Dieses Bildschirmfoto zeigt das Hauptfenster von BibleTime 0.3. Wie Sie sehen können, haben sich viele Dinge in der aktuellen Version verändert."
-
-msgid "We don't advide to use BibleTime 0.3! Use BibleTime 1.1 if you use KDE 2 and the most current version of BibleTime if you use KDE 3."
-msgstr "Wir raten ihnen nicht, BibleTime 0.3 zu benutzen! Benutzen Sie BibeTime 1.1 falls Sie KDE 2 benutzen und die aktuellste Version von BibleTime falls Sie KDE 3 benutzen."
 
 msgid "The main window of version 0.22! BibleTime 0.22 was for KDE 1, as you can 0.2 was usable, fast and easy to use but not as powerful as BibleTime 1.0 or later."
 msgstr "Das Hauptfenster von Version 0.22! BibleTime 0.22 war für KDE 1. Wie Sie sehen können, was 0.2 benutzbar, schnell und einfach zu benutzen aber nicht so möchtig wie BibleTime 1.0 oder später."
@@ -1051,9 +1048,6 @@ msgstr "Bitte benutzen Sie eine gültige eMail Adresse!"
 msgid "CD order was not sent"
 msgstr "CD Bestellung wurde nicht abgeschickt"
 
-msgid "The CD was NOT send to the BibleTime team. Please check the entered information!"
-msgstr ""
-
 msgid "Please enter a correct amount of CD copies."
 msgstr "Bitte geben Sie eine korrekte Anzahl von CD Kopien an."
 
@@ -1071,4 +1065,22 @@ msgstr "BibleTime herunterladen"
 
 msgid "The poll wasn't found. Please report this to info@bibletime.info."
 msgstr "Die Umfrage konnte nicht gefunden werden. Bitte berichten Sie dies an info@bibletime.info."
+
+msgid "BibleTime Guestbook"
+msgstr "BibleTimes Gästebuch"
+
+msgid "Your comments were be written into the guestbook, but sending eMail to the BibleTime developers failed: "
+msgstr "Ihre Kommentare wurden in das Gästebuch geschrieben, aber das Verschicken der eMail an die BibleTime Entwickelr ist fehlgeschlagen!"
+
+msgid "Please enter your name and the comment! The entry was not added to the guestbook!"
+msgstr "Bitte geben Sie ihren Namen und den Kommentar ein. Der Eintrag wurde nicht dem Gästebuch hinzugefügt."
+
+msgid "Your comments were sucessfully added to the guestbook! The BibleTime developers still have to check your comments if it's ok to post them. The comments will appear the next few days if nothing is wrong with them."
+msgstr "Ihre Kommentare wurden erfolgreich dem Gästebuch hinzugefügt. Die BibleTime Entwickler müssen noch überprüfen, ob es in Ordnung ist die Kommentare öffentlich zu machen. Der Eintrag erscheint in den nächsten Tagen, wenn alles mit dem Eintrag in Ordnung ist."
+
+msgid "Impressum"
+msgstr "Impressum"
+
+msgid "We don't advise to use BibleTime 0.3! Use BibleTime 1.1 if you use KDE 2 and the most current version of BibleTime if you use KDE 3."
+msgstr "Wir raten nicht zur Benutzung von BibleTime 0.3! Benutzen Sie BibleTime 1.1, falls Sie KDE 2 benutzen und die aktuellste Version wenn Sie KDE 3 benutzen."
 
