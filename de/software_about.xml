@@ -1,0 +1,59 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="software_about">
+<config param="desc" value="Software page"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title
+>Über BibleTime</title>
+	<summary
+>Introduction to the BibleTime software</summary>
+	<keywords
+>BibleTime, Software, About, Introduction</keywords>
+</head>
+
+<section
+><title
+>Was BibleTime ist ...</title>
+<para
+> BibleTime ist eine freie Bibelsudien-Anwendung für Linux Systeme. BibleTime benutzt die KDE Umgebung. </para>
+<para
+> Wir denken, dass BibleTime ein einfach zu benutzendes, jedoch gleichzeitig mächtiges Studienwerkzeug für Christen in aller Welt ist. </para>
+</section>
+
+<section
+><title
+>Die Geschichte von BibleTime</title>
+<para
+> Im Juni 1999 begannen Thomas Hagedorn, Torsten Uhlmann und Joachim Ansorg an einer Bibelstudien-Anwendung für KDE 1.0 zu arbeiten. </para>
+
+<para
+> Dies erste Version wurde zwei Monate später als Version 0.1 veröffentlicht. Sie war sehr einfach gehalten und unterstützte nur die wirklich grundlegenden Dinge. </para>
+
+<para
+> Nach drei Monaten harter Arbeit wurde Version 0.2 der Öffentlichkeit vorgstellt. Diese Version war benutzbar, unterstützte einfaches Drucken und  Suchen und hatte einen Editor zum bearbeiten der persönlichen Notizen. </para>
+
+<para
+> BibleTime 0.2 wurde später auf KDE 2 portiert und komplett überarbeitet mit einer neuen Oberfläche, verbessertem Drucken und einer Menge interner Änderungen. Diese Version hieß BibleTime 0.3. </para>
+
+<para
+> BibleTime 1.0, wurde beinahe ein Jahr nach Version 0.3 veröffentlicht und war die erste als stabil eingestufte Version. </para>
+
+<para
+> BibleTime 1.1 und 1.2 folgten später. BibleTime 1.2 ist die erste Version von BibleTime, die KDE 3 benutzt. </para>
+</section>
+
+<section
+><title
+>Die Zukunft von BibleTime</title>
+<para
+> Wir sind dankbar, dass Gott uns hilft und dass Er unsere Arbeit mit neuen Team-Mitgliedern segnet. Gott ist gut! </para>
+
+<para
+> Wir werden unsere Arbeit fortführen, aber da BibleTime besser und besser wird, werden wir einen Punkt erreichen, an dem BibleTime nur noch sehr wenige Dinge für eine normale Bibelstudienanwendung fehlen. </para>
+</section>
+
+</webpage>
+

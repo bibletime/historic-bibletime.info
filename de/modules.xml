@@ -1,0 +1,58 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="modules">
+<config param="desc" value="Modules"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Module</title>
+<summary
+>Introduction to Sword modules</summary>
+<keywords
+>BibleTime, Modules, Sword, CD</keywords>
+</head>
+
+<section
+><title
+>Module Erweiterungen für BibleTime</title>
+
+<para
+> Ein Modul ist ein Text, der mit Hilfe von BibleTime gelesen werden kann. Es gibt verschiedene Typen von Modulen:  Bibeln, Kommentare, Lexika, tägliche Andachten und Bücher. </para>
+
+<para
+> Bitte lesen Sie die folgende Seite um zu sehen wie man die heruntergeladenen Module installiert: </para>
+
+<para
+> <ulink url="/documentation/installation/modules"
+>Installation von Text-Modulen</ulink
+> </para>
+
+
+<orderedlist
+><title
+>Available types of modules</title
+> <listitem
+><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Bibles"
+>Bibles</ulink
+></listitem
+> <listitem
+><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Commentaries"
+>Commentaries</ulink
+></listitem
+> <listitem
+><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Dictionaries"
+>Lexicons / Dictionaries</ulink
+></listitem
+> <listitem
+><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Books"
+>Books</ulink
+></listitem
+> </orderedlist>
+
+</section>
+
+</webpage>
+

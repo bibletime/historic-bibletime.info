@@ -1,0 +1,174 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2001-02-09 01:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=utf-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+
+#: index.docbook:9
+#, no-c-format
+msgid "Links"
+msgstr "Verweise"
+
+#: index.docbook:15
+#, no-c-format
+msgid "List of important christian pages"
+msgstr "Liste wichtiger christlicher Seiten"
+
+#: index.docbook:16
+#, no-c-format
+msgid "There are many other christian pages in the word wide web. Some are more, others are less important."
+msgstr "Es gibt jede Menge andere christliche Seiten im World Wide Web. Einige sind mehr, andere weniger wichtig."
+
+#: index.docbook:20
+#, no-c-format
+msgid "We collected a list of pages which are important in our opinion."
+msgstr "Wir haben eine Liste von Seiten gesammelt, die unserer Meinung nach wichtig sind."
+
+#: index.docbook:24
+#, no-c-format
+msgid "Since we're not author of the linked pages we're not responsible for their content, we explicitely dissociate ourself from the content of the linked pages! This is required because german law says you're responsible for the content of the linked pages unless you explicitely dissociate yourself from these pages."
+msgstr "Da wir nicht Autor der verlinkten Seiten sind, sind wir nicht für deren Inhalt verantwortlich. Wir distanzieren und ausdrücklich vom Inhalt der Seiten, auf die wir verweisen. Dies ist erforderlich, weil deutsches Recht aussagt, dass man selbst für den Inhalt der verlinkten Seiten ist, außer man distanziert sich ausdrücklich vom Inhalt dieser Seiten."
+
+#: index.docbook:28
+#, no-c-format
+msgid "General christian pages"
+msgstr "Allgemeine christliche Seiten"
+
+#: index.docbook:29
+#, no-c-format
+msgid "<ulink url=\"http://www.bibletechnologies.net/\">Bible Technologies Group</ulink>."
+msgstr "<ulink url=\"http://www.bibletechnologies.net/\">Bible Technologies Group</ulink>."
+
+#: index.docbook:30
+#, no-c-format
+msgid "The home of the new common exchange Text format OSIS, which will hopefully be used by many Bible societies and publishers of the world."
+msgstr "Das Zuhause des neuen Textaustausch-Formates OSIS, welches hoffentlich von vielen Bibelgesellschaften und Verlagen der Welt benutzt werden wird."
+
+#: index.docbook:35
+#, no-c-format
+msgid "<ulink url=\"http://www.crosswire.org/\">CrossWire Bible Society</ulink>."
+msgstr "<ulink url=\"http://www.crosswire.org/\">CrossWire Bible Society</ulink>."
+
+#: index.docbook:36
+#, no-c-format
+msgid "The Crosswire Bible society is one of the few christian organizations in the world providing everything they make free for all! Crosswire supports the Sword project, the KJV2003 project and some other cool things."
+msgstr "Die Crosswire Bibelgesellschaft ist eine der wenigen christlichen Organisationen der Erde, die alles was die herstellen, kostenlos für alle anbieten! Crosswire unterstützt das Sword Projekt, das KJV2003 Projekt und einige andere großartige Dinge."
+
+#: index.docbook:42
+#, no-c-format
+msgid "Biblesoftware for Linux"
+msgstr "Bibelsoftware für Linux"
+
+#: index.docbook:43
+#, fuzzy, no-c-format
+msgid "<ulink url=\"http://gnomesword.sf.net/\">Gnomesword</ulink>."
+msgstr "<ulink url=\"http://gnomesword.sf.net/\">Gnomesword.</ulink>."
+
+#: index.docbook:44
+#, no-c-format
+msgid "Gnomesword is a Sword frontend using the Gnome toolkit. A really good application. Be sure to check it out!"
+msgstr "Gnomesword ist ein Sword Frontend für Gnome. Eine wirklich gelungene Anwendung. Probieren Sie sie auf jeden Fall aus!"
+
+#: index.docbook:51
+#, no-c-format
+msgid "Biblesoftware for Windows"
+msgstr "Bibelsoftware für Windows"
+
+#: index.docbook:52
+#, no-c-format
+msgid "<ulink url=\"http://www.bibleworks.com/\">BibleWorks</ulink>."
+msgstr ""
+
+#: index.docbook:53
+#, no-c-format
+msgid "BibleWorks is one of the best Bible study applications for Windows! Very good but very expensive, too. Only useful for Bible scholars."
+msgstr "BibleWorks ist eines der besten Bibelstudien-Programme für Windows!  Sehr gut, aber auch sehr teuer. Die Software ist nur für Theologie-Studenten wirklich nützlich!"
+
+#: index.docbook:58
+#, no-c-format
+msgid "<ulink url=\"http://www.bibleworkshop.com/\">BibleWorkshop</ulink>."
+msgstr ""
+
+#: index.docbook:59
+#, no-c-format
+msgid "The Bible Workshop program is a powerful, commercial Bible study application for Windows, which is available in english, german and french. It's possible to enhance the Bible Workshop using Text libraries you can buy."
+msgstr "Das Bible Workshop Programm ist eine mächtiges Bibelstudien Anwendung für Windows, die in Englisch, Deutsch und Französisch verfügbar ist. Es ist möglich BibleWorkshop durch Text-Bibliotheken zu erweitern, die sie kaufen können."
+
+#: index.docbook:64
+#, no-c-format
+msgid "<ulink url=\"http://www.logos.com/\">Logos</ulink>."
+msgstr ""
+
+#: index.docbook:65
+#, no-c-format
+msgid "Logos is one of the best Bible study applications for Windows. You can buy a lot of texts to enhance it."
+msgstr "Logos ist eine der besten Bibelstudienprogramm für Windows.Sie können sehr, sehr viele Text dazukaufen, um die Software zu erweitern."
+
+#: index.docbook:70
+#, no-c-format
+msgid "<ulink url=\"http://www.onlinebible.org/\">OnlineBible</ulink>."
+msgstr ""
+
+#: index.docbook:71
+#, no-c-format
+msgid "The online Bible is a powerful Bible study application for Windows."
+msgstr "Die Online Bibel ist ein mächtiges Bibelstudien Programm für Windows."
+
+#: index.docbook:76
+#, no-c-format
+msgid "<ulink url=\"http://www.bibleworkshop.com/\">Sword for Windows</ulink>."
+msgstr ""
+
+#: index.docbook:77
+#, no-c-format
+msgid "This is the Windows Bible study application made by the Sword team! Sword is supported by the Crosswire Bible Society."
+msgstr "Dies ist das Windows Bibelprogramm des Sword Teams! Sword wird von der Crosswire Bibelgesellschaft unterstützt."
+
+#: index.docbook:82
+#, no-c-format
+msgid "<ulink url=\"http://www.volksbibel.de/\">Volksbibel</ulink>."
+msgstr ""
+
+#: index.docbook:83
+#, no-c-format
+msgid "Volksbibel 2000.2 is a german, metacard based software Bible study tool for Windows, Linux and Mac. Althouth there are not so many texts as other software packages have, it has some cool things like basic map support included. If you are german try it out!"
+msgstr "Volksbibel 2000.2 is ein deutsches, metacard basiertes Bibelstudien-Programm für Windows, Linux und Mac. Obwohl nicht so viele Texte wie bei anderen Software-Paketen verfügbar sind, verfügt das Programm über Dinge wie Grundlagen von Landkarten-Unterstützung. Wenn Sie Deutscher sind, probieren Sie es aus!"
+
+#: index.docbook:90
+#, fuzzy, no-c-format
+msgid "Biblesoftware for Mac"
+msgstr "Bibelsoftware für den Mac"
+
+#: index.docbook:91
+#, no-c-format
+msgid "<ulink url=\"http://www.macsword.com/\">MacSword for OS X</ulink>."
+msgstr ""
+
+#: index.docbook:92
+#, no-c-format
+msgid "MacSword is a new Bible study application for the new Macintosh OS X system. The screenshots look very promising!"
+msgstr "MacSword ist ein neues Bibelstudienprogramm für das neue Macintosh OS X System.Die Bildschirmfotos sehen sehr vielversprechend aus!"
+
+#: index.docbook:99
+#, no-c-format
+msgid "Development tools"
+msgstr "Entwicklungs-Werkzeuge"
+
+#: index.docbook:100
+#, no-c-format
+msgid "<ulink url=\"http://www.sourceforge.net/\">SourceForge</ulink>."
+msgstr ""
+
+#: index.docbook:101
+#, fuzzy, no-c-format
+msgid "SourceForge provides us with the tools to develop BibleTime with many team members at the same time! We save a lot of time and money by using their services."
+msgstr "SourceForge  stellt uns die Werkzeuge zur Verfuegung um BibleTime mit vielen Team-Mitgliedern zur gleichen Zeit su entwickeln! Wie sparen eine Menge Zeit und Geld durch Benutzung des SourceForge Services."

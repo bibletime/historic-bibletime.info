@@ -1,0 +1,40 @@
+<!-- ====================================================================== -->
+<!-- Website Full DTD V2.5.0
+     Copyright (C) 2002 Norman Walsh
+     http://sourceforge.net/projects/docbook/
+
+     $Id$
+
+     Please direct all questions and comments about this DTD to
+     Norman Walsh, <ndw@nwalsh.com>.
+
+     Common declaration:
+
+     <?xml version="1.0"?>
+     <!DOCTYPE webpage
+       PUBLIC "-//Norman Walsh//DTD Website Full V2.5.0//EN"
+       "http://docbook.sourceforge.net/release/website/2.5.0/website-full.dtd">
+                                                                            -->
+<!-- ====================================================================== -->
+
+<!ENTITY % extensions.mod
+           PUBLIC "-//Norman Walsh//DTD Website Extensions Module V2.5.0//EN"
+                  "extensions.mod">
+%extensions.mod;
+
+<!-- In this version, we use full DocBook -->
+<!ENTITY % docbook.dtd PUBLIC "-//OASIS//DTD DocBook XML V4.2//EN"
+  "http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd">
+%docbook.dtd;
+
+<!-- be more generous about the content of webpages in website-full -->
+<!ENTITY % webpage.mix "(config*, head, (%bookcomponent.content;),
+                        appendix*, (index|glossary|bibliography)*)">
+
+
+<!ENTITY % website.mod PUBLIC "-//Norman Walsh//DTD Website Module V2.5.0//EN"
+                              "website.mod">
+%website.mod;
+
+<!-- End of Website Full DTD V2.5.0 ....................................... -->
+<!-- ...................................................................... -->

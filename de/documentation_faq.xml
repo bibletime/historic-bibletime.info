@@ -1,0 +1,154 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="documentation_ifaq">
+<config param="desc" value="FAQ"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>FAQ</title>
+<summary
+>FAQ about BibleTime</summary>
+<keywords
+>BibleTime, Sword, FAQ, Installation</keywords>
+</head>
+
+<section
+><title
+>Häufig gestellte Fragen</title>
+	<qandaset defaultlabel='number'>
+
+		<qandadiv
+><title
+>Installationsvorgang</title>
+			<qandaentry>
+				<question>
+					<para
+>Warum fehlt die Werkzeugleiste?</para>
+				</question>
+				<answer>
+					<para
+> Bitte starten SIe configure mit dem Parameter --prefix=&lt;Ihr KDE Verzeichnis&gt;. Dann starten Sie make und make install wir sonst auch. Die KDE Verzeichnisse für die meistbenutzten Linux Distributionen Sind: <orderedlist
+> <listitem
+>RedHat: /usr </listitem
+><listitem
+>SuSE: /opt/kde3 
+></listitem
+><listitem
+>Mandrake: /usr </listitem
+> </orderedlist
+> Als Alternative können Sie den Befehl &raquo;kde-config --prefix&laquo; benutzen, um das KDE Verzeichnis herauszubekommen.  <orderedlist
+> <listitem
+>./configure --prefix=&lt;your KDE directory&gt;</listitem
+> <listitem
+>make</listitem
+> <listitem
+>make install</listitem
+> </orderedlist
+> </para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para
+>The translations are missing!</para>
+				</question>
+				<answer>
+					<para
+> Bitte installieren Sie das Paket bibletime-doc, das die täglichen Tipps, das Handbuch, die Installationsanleitung und die Anleitung zum Bibelstudium enthält. </para>
+				</answer>
+			</qandaentry>
+
+		</qandadiv>
+
+		<qandadiv
+><title
+>Usage problems</title>
+			<qandaentry>
+				<question>
+					<para
+> Ist es möglich nach einer bestimmten Strong-Nummer zu suchen? </para>
+				</question>
+
+				<answer>
+					<para
+> Hierfür benötigen Sie mindestens BibleTime 1.1. Stellen Sie die standardmäßige Benutzung der Strong-Nummern im Einstellungsdialog (Sword-&gt;Filter Einstellungen) an. Dann öffnen Sie den Suchdialog und suchen Sie nach &lt;0120&gt; oder jeder anderen Strong-Kodierung. </para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para
+> Warum sehe ich nur Fragezeichen anstelle von Unicode Text? </para>
+				</question>
+
+				<answer>
+					<para
+> First make sure you have the latest version of the module which has the problems! Check <ulink url="www.crosswire.org/sword"
+>www.crosswire.org/sword</ulink
+> for this. </para>
+					<para
+> Stellen Sie zuerst sicher, dass Sie die neuste Version des Modules installiert haben,  das die Probleme verursacht! Schauen Sie dafür auf www.crosswire.org/sword nach. Sie müssen eine Unicode-Schriftart wie Code2000, Arial Unicode MS oder Bitstream Cyberbit, damit die speziellen Unicode-Zeichen angezeigt werden können. Lesen Sie den Abschnitt "Bibletime konfigurieren->Einstellungsdialog->Schriften" im Handbuch von BibleTime um zu sehen, wie man Unicode-Schriften unter Linux einstellt. Eine Online-Version des Handbuchs ist auf ww.bibletime.info verfügbar. </para>
+				</answer>
+			</qandaentry>
+		</qandadiv>
+
+		<qandadiv
+><title
+>Module</title>
+			<qandaentry>
+				<question>
+					<para
+>Die KJV zeigt keine Strong Nummern im NT an!</para>
+				</question>
+
+				<answer>
+					<para
+> Wegen Copyright Problemen musste das alte KJV Modul, dass alle Strong Nummern enthielt, entfernt werden.Das KJV003 Projekt wurde gestartet um einen freien Text mit Strong Nummern zu erstellen. Zur Zeit ist dies Projekt noch nicht fertig, daher sind noch nicht alle Nummern im NT vorhanden. Der Status des Projektes ist auf Crosswire verfuegbar. </para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para
+>Wo kann ich meine persönlichen Anmerkungen aufschreiben?</para>
+				</question>
+
+				<answer>
+					<para
+> Sie müssen das Modul "Personal" installieren, dass als Kommentar bei Crosswire verfügbar ist. Lesen Sie unsere Kommentar-Seiten für weitere Informationen: <ulink url="/modules/commentaries/"
+>Kommentare</ulink
+> </para>
+				</answer>
+			</qandaentry>
+
+
+			<qandaentry>
+				<question>
+					<para
+>Warum ist eines der beiden Testamente eines Bibel-Modules leer?</para>
+				</question>
+
+				<answer>
+					<para
+> Einige Module enthalten nur den Text des alten oder neuen Testamentes.Neuere Versionen von BibleTime sollten nur die Testamente anzeigen, die auch einen Inhalt haben. </para>
+				</answer>
+			</qandaentry>
+
+		</qandadiv>
+	</qandaset>
+</section>
+
+</webpage>
+
+
+
+
+<!--
+Local variables:
+mode: docbook
+End:
+-->
+

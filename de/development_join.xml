@@ -1,0 +1,86 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="development_join">
+<config param="desc" value="Join us"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Join us</title>
+<summary
+>BibleTime's development</summary>
+<keywords
+>BibleTime, Modules, Sword, CD</keywords>
+</head>
+
+<section
+><title
+>Dem BibleTime Team beitreten</title>
+<para
+> Wir sind über jeden, der uns hilft die BileTime Software, die Dokumentation und die Übersetzungen zu verbessern. </para>
+
+<section
+><title
+>Die grundlegenden Schritte</title>
+<para
+> Die folgenden Schritte sind für jede Art eines Teammitgliedes nötig. Bitte befolgen Sie sie! </para>
+<para
+> <orderedlist
+> <listitem
+> Falls Sie nicht bereits einen Account auf SourceForge haben, holen Sie sich bitte einen. Das ganze ist kostenlos. Wir benötigen ihren Benutzernamen, um Sie zu den Teammitgliedern hinzuzufügen, um ihnen Aufgaben zuzuweisen, usw, </listitem
+> <listitem
+> Tragen Sie sich auf der BibleTime Entwickler Mailingliste ein, Alle Entwickler lesen diese Liste, jeder weiß also was los ist. </listitem
+> <listitem
+> Holen Sie sich die Entwicklungsversion von BibleTime und installieren Sie diese. Wenn Sie Hilfe damit benötigen, fragen Sie auf der Mailingliste oder schauen Sie in dem Dokumentations-Abschnitt nach. </listitem
+> </orderedlist
+> </para>
+</section>
+
+<section
+><title
+>Die nächsten Schritte für Software Entwickler</title>
+<para
+> <orderedlist
+> <listitem
+> Arbeiten Sie sich durch einige der QT 3 und KDE 3 Programmier-Schnellkurse, um sich an das Programmieren mit den Dingen zu gewöhnen, die BibleTime benutzt. </listitem
+> <listitem
+> Falls Sie nicht wissen, was Sie tun sollen, fragen Sie bitte auf der Mailingliste nach ein paar Aufgaben. Vergessen Sie nicht uns mitzuteilen, wie schwierig diese sein sollen. </listitem
+> </orderedlist
+> </para>
+</section>
+
+<section
+><title
+>Die  nächsten Schritte für Dokumentations-Autoren</title>
+<para
+> <orderedlist
+> <listitem
+> Lesen Sie die bestehende englische Dokumentation. Diese liegt im docs/ Verzeichnis des bibletime CVS Verzeichnisses. </listitem
+> <listitem
+> Die Dokumentation ist in Docbook Dateien  in den unicode/ Unterverzeichnissen jedes Dokumentations-Teiles (Handbuch, Anleitung zum Bibelstudium, Installation, Hilfedialog) gespeichert. </listitem
+> </orderedlist
+> </para>
+</section>
+
+
+<section
+><title
+>Die nächsten Schritte für Übersetzer</title>
+<para
+> <orderedlist
+> <listitem
+> Schauen Sie sich die Internationalsisierungs Seiten des KDE Projektes an. Diese sind auf folgender Seite verfügbar: </listitem
+> <listitem
+> Installieren Sie das Programm KBabel, falls nicht bereits auf ihrem System installiert ist. Dies wird ihnen mit der Übersetzung wirklich helfen. </listitem
+> <listitem
+> Fordern Sie die Datein für die Übersetzung auf der bt-devel Mailingliste an. Im Normalfall legt der Software-Koordinator ein neues CVS Modul an, das die Dateien enthält, die sie übersetzen. </listitem
+> </orderedlist
+> </para>
+</section>
+
+</section>
+
+</webpage>
+

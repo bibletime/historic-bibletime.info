@@ -1,0 +1,155 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="software_links">
+<config param="desc" value="Link collection"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title
+>Verweise</title>
+	<summary
+>Link collection of good sites</summary>
+	<keywords
+>BibleTime, Link, Collection, Software, About, Introduction</keywords>
+</head>
+
+
+<section
+><title
+>Liste wichtiger christlicher Seiten</title>
+<para
+> Es gibt jede Menge andere christliche Seiten im World Wide Web. Einige sind mehr, andere weniger wichtig. </para>
+
+<para
+> Wir haben eine Liste von Seiten gesammelt, die unserer Meinung nach wichtig sind. </para>
+
+<para
+> Da wir nicht Autor der verlinkten Seiten sind, sind wir nicht für deren Inhalt verantwortlich. Wir distanzieren und ausdrücklich vom Inhalt der Seiten, auf die wir verweisen. Dies ist erforderlich, weil deutsches Recht aussagt, dass man selbst für den Inhalt der verlinkten Seiten ist, außer man distanziert sich ausdrücklich vom Inhalt dieser Seiten. </para>
+
+	<section
+><title
+>Allgemeine christliche Seiten</title>
+		<formalpara
+><title
+><ulink url="http://www.bibletechnologies.net/"
+>Bible Technologies Group</ulink
+>.</title>
+			<para
+> Das Zuhause des neuen Textaustausch-Formates OSIS, welches hoffentlich von vielen Bibelgesellschaften und Verlagen der Welt benutzt werden wird. </para>
+		</formalpara>
+
+		<formalpara
+><title
+><ulink url="http://www.crosswire.org/"
+>CrossWire Bible Society</ulink
+>.</title>
+			<para
+> Die Crosswire Bibelgesellschaft ist eine der wenigen christlichen Organisationen der Erde, die alles was die herstellen, kostenlos für alle anbieten! Crosswire unterstützt das Sword Projekt, das KJV2003 Projekt und einige andere großartige Dinge. </para>
+		</formalpara>
+	</section>
+
+	<section
+><title
+>Bibelsoftware für Linux</title>
+		<formalpara
+><title
+><ulink url="http://gnomesword.sf.net/"
+>Gnomesword.</ulink
+>.</title>
+			<para
+> Gnomesword ist ein Sword Frontend für Gnome. Eine wirklich gelungene Anwendung. Probieren Sie sie auf jeden Fall aus! </para>
+		</formalpara>
+	</section>
+
+
+	<section
+><title
+>Bibelsoftware für Windows</title>
+		<formalpara
+><title
+><ulink url="http://www.bibleworks.com/"
+>BibleWorks</ulink
+>.</title>
+			<para
+> BibleWorks ist eines der besten Bibelstudien-Programme für Windows!  Sehr gut, aber auch sehr teuer. Die Software ist nur für Theologie-Studenten wirklich nützlich! </para>
+		</formalpara>
+
+		<formalpara
+><title
+><ulink url="http://www.bibleworkshop.com/"
+>BibleWorkshop</ulink
+>.</title>
+			<para
+> Das Bible Workshop Programm ist eine mächtiges Bibelstudien Anwendung für Windows, die in Englisch, Deutsch und Französisch verfügbar ist. Es ist möglich BibleWorkshop durch Text-Bibliotheken zu erweitern, die sie kaufen können. </para>
+		</formalpara>
+
+		<formalpara
+><title
+><ulink url="http://www.logos.com/"
+>Logos</ulink
+>.</title>
+			<para
+> Logos ist eine der besten Bibelstudienprogramm für Windows.Sie können sehr, sehr viele Text dazukaufen, um die Software zu erweitern. </para>
+		</formalpara>
+
+		<formalpara
+><title
+><ulink url="http://www.onlinebible.org/"
+>OnlineBible</ulink
+>.</title>
+			<para
+> Die Online Bibel ist ein mächtiges Bibelstudien Programm für Windows. </para>
+		</formalpara>
+
+		<formalpara
+><title
+><ulink url="http://www.bibleworkshop.com/"
+>Sword for Windows</ulink
+>.</title>
+			<para
+> Dies ist das Windows Bibelprogramm des Sword Teams! Sword wird von der Crosswire Bibelgesellschaft unterstützt. </para>
+		</formalpara>
+
+		<formalpara
+><title
+><ulink url="http://www.volksbibel.de/"
+>Volksbibel</ulink
+>.</title>
+			<para
+> Volksbibel 2000.2 is ein deutsches, metacard basiertes Bibelstudien-Programm für Windows, Linux und Mac. Obwohl nicht so viele Texte wie bei anderen Software-Paketen verfügbar sind, verfügt das Programm über Dinge wie Grundlagen von Landkarten-Unterstützung. Wenn Sie Deutscher sind, probieren Sie es aus! </para>
+		</formalpara>
+	</section>
+
+
+	<section
+><title
+>Bibelsoftware für den Mac</title>
+		<formalpara
+><title
+><ulink url="http://www.macsword.com/"
+>MacSword for OS X</ulink
+>.</title>
+			<para
+> MacSword ist ein neues Bibelstudienprogramm für das neue Macintosh OS X System.Die Bildschirmfotos sehen sehr vielversprechend aus! </para>
+		</formalpara>
+	</section>
+
+
+	<section
+><title
+>Entwicklungs-Werkzeuge</title>
+		<formalpara
+><title
+><ulink url="http://www.sourceforge.net/"
+>SourceForge</ulink
+>.</title>
+			<para
+> SourceForge  stellt uns die Werkzeuge zur Verfuegung um BibleTime mit vielen Team-Mitgliedern zur gleichen Zeit su entwickeln! Wie sparen eine Menge Zeit und Geld durch Benutzung des SourceForge Services. </para>
+		</formalpara>
+	</section>
+
+</section>
+
+</webpage>
+

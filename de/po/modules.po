@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2001-02-09 01:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=utf-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+
+#: index.docbook:10
+#, no-c-format
+msgid "Modules"
+msgstr "Module"
+
+#: index.docbook:15
+#, no-c-format
+msgid "Module addons for BibleTime"
+msgstr "Module Erweiterungen für BibleTime"
+
+#: index.docbook:17
+#, no-c-format
+msgid "A module is a text which can be read within the BibleTime application. There are different module types: Bibles, commentaries, lexicons, daily devotionals and books."
+msgstr "Ein Modul ist ein Text, der mit Hilfe von BibleTime gelesen werden kann. Es gibt verschiedene Typen von Modulen:  Bibeln, Kommentare, Lexika, tägliche Andachten und Bücher."
+
+#: index.docbook:21
+#, no-c-format
+msgid "Please read the following page to see how to install the downloaded modules:"
+msgstr "Bitte lesen Sie die folgende Seite um zu sehen wie man die heruntergeladenen Module installiert:"
+
+#: index.docbook:25
+#, no-c-format
+msgid "Installation of text modules"
+msgstr "Installation von Text-Modulen"
+
+#: index.docbook:30
+#, no-c-format
+msgid "Available types of modules"
+msgstr ""
+
+#: index.docbook:30
+#, no-c-format
+msgid "Bibles"
+msgstr ""
+
+#: index.docbook:30
+#, no-c-format
+msgid "Commentaries"
+msgstr ""
+
+#: index.docbook:30
+#, no-c-format
+msgid "Lexicons / Dictionaries"
+msgstr ""
+
+#: index.docbook:30
+#, no-c-format
+msgid "Books"
+msgstr ""
+
+#~ msgid "We try to offer a recommended list of modules which are in your language. Please click on the module types links to get the list of recommended modules. If there's not yet such a list for your language you'll get the recommended english modules."
+#~ msgstr "Wir versuchen, ihnen eine Liste empfehlenswerter Module ihrer Sprache anzubieten. Bitte klicken Sie auf die Modultypen um eine Liste der empfohlenen Module zu bekommen. Falls es keine solche Liste für ihre Sprache gibt, bekommen Sie die Liste der englischen Module."

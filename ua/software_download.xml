@@ -1,0 +1,48 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY documentation_installation_bibletime SYSTEM "documentation_installation_bibletime.xml" NDATA XML>
+]>
+
+<webpage id="software_download">
+<config param="desc" value="Download"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title
+>Завантажити</title>
+	<summary
+>Download BibleTime</summary>
+	<keywords
+>BibleTime, Screenshots, Software, About, Introduction</keywords>
+</head>
+
+<section
+><title
+>How to get BibleTime</title>
+<para
+> There are several RPM packages available of BibleTime. To see whether they were made for your system have a look at the file name of the package. They contain the abbreviated name and version of the Linux distribution they were made for. </para>
+
+<para
+> For example the package &raquo;bibletime-1.2.2-1suse8.1.i586.rpm&laquo; was made for SuSE 8.1 systems running on a i586 or higher. </para>
+
+<para
+> Please download BibleTime at the Sourceforge project pages of BibleTime: </para>
+<para
+> <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954"
+>http://www.sf.net/projects/bibletime</ulink
+>. </para>
+
+<para
+> Please download the packages &raquo;bibletime&laquo; and &raquo;bibletime-doc&laquo;! Without the &raquo;bibletime-doc&laquo; package you would have no handbook, daily tips or installation instructions. </para>
+</section>
+
+<section
+><title
+>Installation</title>
+<para
+> Please read the installation instructions: <olink targetdocent="documentation_installation_bibletime"
+>here</olink
+> </para>
+</section>
+
+</webpage>
+

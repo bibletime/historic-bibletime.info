@@ -1,0 +1,53 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="documentation_installation_modules">
+<config param="desc" value="Installation of modules"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Module</title>
+<summary
+>How to install Sword modules</summary>
+<keywords
+>BibleTime, Sword, Installation</keywords>
+</head>
+
+<section
+><title
+>Installation von Swords Text-Modulen</title>
+
+<para
+> Diese Seite erklärt, wie man die Text-Module, die bei Crosswire verfügbar sind, zur BibleTime Software hinzufügt um diese wirklich nützlich zu machen. </para>
+
+<para
+> Die Module sind als ZIP Dateien bei der Crosswire Bibelgesellschaft verfügbar. Schauen Sie in den Modul-Abschnitt der BibleTime Internetseiten um einen Überblick über die verfügbaren Module zu bekommen. </para>
+
+<para
+> Bevor Sie damit beginnen, Module zu installieren, stellen Sie bitte sicher sicher, dass BibleTime installiert ist! </para>
+
+<para
+> Zuerst müssen Sie das Verzeichnis finden, dass wir im folgenden &raquo;Sword Verzeichnis&laquo; nenn. Das Sword Verzeichnis enthält alle Sword Daten, d.h. es muss zumindest die Unterverzeichnisse  &raquo;modules/&laquo; und &raquo;mods.d/&laquo; enthalten. </para>
+
+<para
+> Anschließend müssen Sie die heruntergeladenen ZIP Dateien in das Sword Verzeichnis entpacken, um die erwähnten.zwei Unterverzeichnisse mit Daten zu füllen. </para>
+
+<para
+> Nach einem Neustart von BibleTime sollten die Module im Hauptindex auf der linken Seite des Hauptfensters erscheinen. </para>
+
+<para
+> Die Installations-Anleitung, die vom Sword Team erstellt wurde, ist hier verfügbar: </para>
+
+<para
+> <ulink url="http://www.crosswire.org/sword/modules/moduleinstall.jsp"
+>www.crosswire.org/sword/modules/moduleinstall.jsp</ulink
+>. </para>
+
+<para
+> Wenn Sie Probleme bekommen, lesen Sie bitte zuerst die Antworten auf die häufig gestellten Fragen. Das FAQ ist auf der linken Seite dieser Seite verfügbar. </para>
+
+</section>
+
+</webpage>
+

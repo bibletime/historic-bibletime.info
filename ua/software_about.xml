@@ -1,0 +1,59 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="software_about">
+<config param="desc" value="Software page"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title
+>Щодо BibleTime</title>
+	<summary
+>Introduction to the BibleTime software</summary>
+	<keywords
+>BibleTime, Software, About, Introduction</keywords>
+</head>
+
+<section
+><title
+>Що таке BibleTime?</title>
+<para
+> BibleTime це бескоштовна програма для вивчення Біблії для систем Linux.  BibleTime працює у графічному середовищі KDE. </para>
+<para
+> Ми вважаємо, що BibleTime є простим, але потужним інструментом вивчення Білблії для християн зі всього світу. </para>
+</section>
+
+<section
+><title
+>Історія розробки BibleTime</title>
+<para
+> Ще у червні 1999 року Thomas Hagedorn, Thorsten Uhlmann та Joachim Ansorg розпочали працювати над програмою для вивчення Біблії під KDE 1.0. </para>
+
+<para
+> The first version was released two months later as version 0.1. This version was very simple and supported only the most basic things. </para>
+
+<para
+> After three months of hard work version 0.2 was released to the public. This version was usable, it supported basic printing, searching and offered a simple editor for personal notes. </para>
+
+<para
+> BibleTime 0.2 was later ported to KDE 2 and totally redesigned with a more powerful interface, better printing and a lot of internal changes. This version was called BibleTime 0.3 </para>
+
+<para
+> BibleTime 1.0, which was released almost one year after version 0.3 and was the first version we considered as stable. </para>
+
+<para
+> BibleTime 1.1 and 1.2 followed later on. BibleTime 1.2 is the first version of BibleTime for version 3.0 of KDE. </para>
+</section>
+
+<section
+><title
+>The future of BibleTime</title>
+<para
+> We're grateful that God supports us and that he blesses our work with new team members. God is good! </para>
+
+<para
+> We will continue our work, but since BibleTime is getting better and better we'll reach a point where BibleTime has only a few things left which are useful for a normal Bible study application. </para>
+</section>
+
+</webpage>
+

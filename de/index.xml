@@ -1,0 +1,23 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="index">
+<config param="desc" value="The BibleTime Home Page"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Über BibleTime</title>
+<summary
+>Introduction</summary>
+<keywords
+>Norman Walsh, DSSSL, SGML, XML, DocBook, Website</keywords>
+</head>
+
+<section
+><title
+>Willkommen zum BibleTime Projekt!</title>
+</section>
+
+</webpage>
+

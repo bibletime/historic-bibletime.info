@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2001-02-09 01:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=utf-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+
+#: index.docbook:9
+#, no-c-format
+msgid "About BibleTime"
+msgstr "Щодо BibleTime"
+
+#: index.docbook:14
+#, no-c-format
+msgid "What BibleTime is ..."
+msgstr "Що таке BibleTime?"
+
+#: index.docbook:15
+#, no-c-format
+msgid "BibleTime is a free Bible study application for Linux systems. BibleTime uses the desktop environment KDE."
+msgstr "BibleTime це бескоштовна програма для вивчення Біблії для систем Linux.  BibleTime працює у графічному середовищі KDE."
+
+#: index.docbook:18
+#, no-c-format
+msgid "We think that BibleTime is an easy to use but powerful study tool for christians all over the world."
+msgstr "Ми вважаємо, що BibleTime є простим, але потужним інструментом вивчення Білблії для християн зі всього світу."
+
+#: index.docbook:23
+#, no-c-format
+msgid "The history of BibleTime"
+msgstr "Історія розробки BibleTime"
+
+#: index.docbook:24
+#, no-c-format
+msgid "Back in June of 1999 Thomas Hagedorn, Thorsten Uhlmann and Joachim Ansorg started to work on a Bible study application for KDE 1.0."
+msgstr "Ще у червні 1999 року Thomas Hagedorn, Thorsten Uhlmann та Joachim Ansorg розпочали працювати над програмою для вивчення Біблії під KDE 1.0."
+
+#: index.docbook:28
+#, no-c-format
+msgid "The first version was released two months later as version 0.1. This version was very simple and supported only the most basic things."
+msgstr ""
+
+#: index.docbook:32
+#, no-c-format
+msgid "After three months of hard work version 0.2 was released to the public. This version was usable, it supported basic printing, searching and offered a simple editor for personal notes."
+msgstr ""
+
+#: index.docbook:36
+#, no-c-format
+msgid "BibleTime 0.2 was later ported to KDE 2 and totally redesigned with a more powerful interface, better printing and a lot of internal changes. This version was called BibleTime 0.3"
+msgstr ""
+
+#: index.docbook:40
+#, no-c-format
+msgid "BibleTime 1.0, which was released almost one year after version 0.3 and was the first version we considered as stable."
+msgstr ""
+
+#: index.docbook:44
+#, no-c-format
+msgid "BibleTime 1.1 and 1.2 followed later on. BibleTime 1.2 is the first version of BibleTime for version 3.0 of KDE."
+msgstr ""
+
+#: index.docbook:49
+#, no-c-format
+msgid "The future of BibleTime"
+msgstr ""
+
+#: index.docbook:50
+#, no-c-format
+msgid "We're grateful that God supports us and that he blesses our work with new team members. God is good!"
+msgstr ""
+
+#: index.docbook:54
+#, no-c-format
+msgid "We will continue our work, but since BibleTime is getting better and better we'll reach a point where BibleTime has only a few things left which are useful for a normal Bible study application."
+msgstr ""
