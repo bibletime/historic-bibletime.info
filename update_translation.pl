@@ -128,12 +128,14 @@ sub run_make() {
 	`cd $lang && make clean && make`;
 }
 
-my $lang = $ARGV[0] || die "Please give a language to work on!";
+# Either the parameters or the languages we know
+my @langs = @ARGV || ("de", "pr-br", "ro", "ru", "ua");
+my $lang = $langs[0] || die "Please give a language to work on!";
 
 #required for all languages
 &update_pot_files($ENV{"PWD"} . "/en",  $ENV{"PWD"} . "/en/pot/");
 
-while ($lang = shift(@ARGV)) {
+while ($lang = shift(@langs)) {
 	if ($lang eq "en") {
 		next;
 	}
