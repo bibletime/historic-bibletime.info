@@ -20,7 +20,13 @@
 ><title
 >Einleitung</title>
 <para
->BibleTime ist ein Programm zum Bibelstudium unter Linux und basiert auf der KDE-Umgebung. </para>
+>BibleTime ist ein Bibelprogramm für Linux. Es basiert auf  <ulink url="http://www.kde.org/"
+>KDE</ulink
+> und benutzt die  <ulink url="http://www.crosswire.org/sword/"
+>Sword</ulink
+> Entwicklungsbibliothek um mit den Bibeltexten, Kommentaren, Lexika und Büchern zu arbeiten, die auf den Seiten der <ulink url="http://www.crosswire.org/sword/"
+>Crosswire Bible Society</ulink
+> verfügbar sind. </para>
 </section>
 
 <section
@@ -43,16 +49,6 @@
 
 <para
 >BibleTime 1.1 und 1.2 folgten später. BibleTime 1.2 ist die erste Version von BibleTime, die KDE 3 benutzt. </para>
-</section>
-
-<section
-><title
->Die Zukunft von BibleTime</title>
-<para
->Wir sind dankbar, dass Gott uns hilft und dass Er unsere Arbeit mit neuen Team-Mitgliedern segnet. Gott ist gut! </para>
-
-<para
->Wir werden unsere Arbeit forsetzen, und da BibleTime verbessert wird, werden wir hoffentlich einen Punkt erreichen, an dem nur noch wenige Dinge in BibleTime fehlen, die für ein Bibelstudium nützlich sind. </para>
 </section>
 
 </webpage>

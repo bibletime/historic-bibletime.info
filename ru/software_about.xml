@@ -18,9 +18,15 @@
 
 <section
 ><title
->Introduction</title>
+>Введение</title>
 <para
->BibleTime is a Bible study program for Linux and is based on the K Desktop Environment (KDE). </para>
+>BibleTime это программа для изучения Библии под Линукс. Она основана на <ulink url="http://www.kde.org/"
+>K Desktop Environment</ulink
+> и использует программные библиотеки <ulink url="http://www.crosswire.org/sword/"
+>Sword</ulink
+> для работы с текстами Библии, комментариями, словарями и книгами предоставленными <ulink url="http://www.crosswire.org/"
+>Библейским Обществом Crosswire</ulink
+>. </para>
 </section>
 
 <section
@@ -43,16 +49,6 @@
 
 <para
 >За тем последовали версии 1.1 и 1.2. Первой версией BibleTime для KDE 3.0 была версия 1.2. </para>
-</section>
-
-<section
-><title
->Будущее BibleTime</title>
-<para
->Мы благодарны Богу за Его помощь в этом проекте и за то, что Он посылает нам новых членов команды. Бог благ! </para>
-
-<para
->Мы будем продолжать нашу работу. Так как BibleTime всё время улучшается, то мы надеемся достигнуть состояния, когда BibleTime будет не самой малости из тех вещей, которые могут быть нужны и полезны для хорошей программы для изучения Библии.  </para>
 </section>
 
 </webpage>

@@ -1867,70 +1867,52 @@ msgid "Introduction"
 msgstr ""
 
 #. Tag: para
-#: software_about.xml:15
+#: software_about.xml:15 software.xml:16
 #, no-c-format
-msgid "BibleTime is a Bible study program for Linux and is based on the K Desktop Environment (KDE)."
-msgstr ""
+msgid "BibleTime is a Bible study application for Linux. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/\">Crosswire Bible Society</ulink>."
+msgstr "BibleTime é uma aplicação de Estudo Bíblico para Linux. Ele é baseado no <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> e usa a biblioteca de programação <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> para trabalhar com textos bíblicos, comentários, dicionários e livros providos pela <ulink url=\"http://www.crosswire.org/\">Sociedade Bíblia Crosswire</ulink>."
 
 #. Tag: title
-#: software_about.xml:20
+#: software_about.xml:24
 #, no-c-format
 msgid "The history of BibleTime"
 msgstr "A história do BibleTime"
 
 #. Tag: para
-#: software_about.xml:21
+#: software_about.xml:25
 #, no-c-format
 msgid "Back in June of 1999 Thomas Hagedorn, Thorsten Uhlmann and Joachim Ansorg started to work on a Bible study application for KDE 1.0."
 msgstr "Em Junho de 1999 Thomas Hagedorn, Thorsten Uhlmann e Joachim Ansorg iniciaram o trabalho em uma aplicação de estudo da Bíblia para KDE 1.0."
 
 #. Tag: para
-#: software_about.xml:25
+#: software_about.xml:29
 #, no-c-format
 msgid "The first version was released two months later as version 0.1. This version was very simple and supported only the most basic things."
 msgstr "A primeira versão foi liberada dois meses depois como a versão 0.1. Esta versão era muito simples e suportava somente as coisas mais básicas."
 
 #. Tag: para
-#: software_about.xml:29
+#: software_about.xml:33
 #, no-c-format
 msgid "After three months of hard work version 0.2 was released to the public. This version was usable, it supported basic printing, searching and offered a simple editor for personal notes."
 msgstr "Depois de três meses de trabalho duro a versão 0.2 foi liberada para o público. Esta versão era usável, suportava impressão básica, procura e oferecia um editor simples para notas pessoais."
 
 #. Tag: para
-#: software_about.xml:33
+#: software_about.xml:37
 #, no-c-format
 msgid "BibleTime 0.2 was later ported to KDE 2 and totally redesigned with a more powerful interface, better printing and a lot of internal changes. This version was called BibleTime 0.3"
 msgstr "BibleTime 0.2 foi portado mais tarde para KDE 2 e totalmente redesenhado com uma interface mais poderosa, melhor impressão e um monte de mudanças internas. Esta versão foi chamada BibleTime 0.3"
 
 #. Tag: para
-#: software_about.xml:37
+#: software_about.xml:41
 #, no-c-format
 msgid "BibleTime 1.0, which was released almost one year after version 0.3 and was the first version we considered as stable."
 msgstr "BibleTime 1.0, que foi liberado quase um ano depois da versão 0.3 e foi a primeira versão que nós consideramos estável."
 
 #. Tag: para
-#: software_about.xml:41
+#: software_about.xml:45
 #, no-c-format
 msgid "BibleTime 1.1 and 1.2 followed later on. BibleTime 1.2 is the first version of BibleTime for version 3.0 of KDE."
 msgstr "BibleTime 1.1 e 1.2 se seguiram. BibleTime 1.2 é a primeira versão do BibleTime para a versão 3.0 do KDE."
-
-#. Tag: title
-#: software_about.xml:46
-#, no-c-format
-msgid "The future of BibleTime"
-msgstr "O futuro do BibleTime"
-
-#. Tag: para
-#: software_about.xml:47
-#, no-c-format
-msgid "We're grateful that God supports us and that He blesses our work with new team members. God is good!"
-msgstr "Nós estamos gratos por Deus nos sustentar e por nos abençoar com novos membros no time. Deus é excelente!"
-
-#. Tag: para
-#: software_about.xml:51
-#, no-c-format
-msgid "We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application."
-msgstr "Nós iremos continuar nosso trabalho, mas como o BibleTime está ficando melhor a cada dia, nós esperamos alcançar um ponto em que o BibleTime terá apenas algumas poucas coisas para fazer que são úteis para uma aplicação normal de estudo da Bíblia."
 
 #. Tag: title
 #: software_contact.xml:15
@@ -3526,12 +3508,6 @@ msgstr ""
 msgid "Welcome to the BibleTime project."
 msgstr "Bem vindo ao projeto BibleTime!"
 
-#. Tag: para
-#: software.xml:16
-#, no-c-format
-msgid "BibleTime is a Bible study application for Linux. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/\">Crosswire Bible Society</ulink>."
-msgstr "BibleTime é uma aplicação de Estudo Bíblico para Linux. Ele é baseado no <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> e usa a biblioteca de programação <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> para trabalhar com textos bíblicos, comentários, dicionários e livros providos pela <ulink url=\"http://www.crosswire.org/\">Sociedade Bíblia Crosswire</ulink>."
-
 #. Tag: title
 #: software.xml:25
 #, no-c-format
@@ -3993,6 +3969,15 @@ msgstr "<title>Traduzir o Livro de Mão do programa.</title>"
 #, no-c-format
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
 msgstr "Se a tradução do livro de mão no seu idioma não existe ainda, você pode fazer donwload e traduzir o <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\">Modelo de Tradução do Livro de Mão</ulink>. Se você quiser atualizar uma tradução existente, use os links na tabela abaixo para baixar o arquivo correspondente."
+
+#~ msgid "The future of BibleTime"
+#~ msgstr "O futuro do BibleTime"
+
+#~ msgid "We're grateful that God supports us and that He blesses our work with new team members. God is good!"
+#~ msgstr "Nós estamos gratos por Deus nos sustentar e por nos abençoar com novos membros no time. Deus é excelente!"
+
+#~ msgid "We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application."
+#~ msgstr "Nós iremos continuar nosso trabalho, mas como o BibleTime está ficando melhor a cada dia, nós esperamos alcançar um ponto em que o BibleTime terá apenas algumas poucas coisas para fazer que são úteis para uma aplicação normal de estudo da Bíblia."
 
 #~ msgid "How to get BibleTime"
 #~ msgstr "Como pegar o BibleTime"

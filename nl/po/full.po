@@ -1861,70 +1861,52 @@ msgid "Introduction"
 msgstr ""
 
 #. Tag: para
-#: software_about.xml:15
-#, no-c-format
-msgid "BibleTime is a Bible study program for Linux and is based on the K Desktop Environment (KDE)."
-msgstr ""
+#: software_about.xml:15 software.xml:16
+#, fuzzy, no-c-format
+msgid "BibleTime is a Bible study application for Linux. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/\">Crosswire Bible Society</ulink>."
+msgstr "BibleTime is een bijbelstudie-applicatie voor Linux. Het is gebaseerd op de <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> en gebruikt de <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink>-programmeringsbibliotheek om met de door de <ulink url=\"http://www.crosswire.org/sword/\">Crosswire Bible Society</ulink> geleverde bijbelteksten, commentaren, woordenboeken en boeken te werken"
 
 #. Tag: title
-#: software_about.xml:20
+#: software_about.xml:24
 #, no-c-format
 msgid "The history of BibleTime"
 msgstr "De geschiedenis van BibleTime"
 
 #. Tag: para
-#: software_about.xml:21
+#: software_about.xml:25
 #, no-c-format
 msgid "Back in June of 1999 Thomas Hagedorn, Thorsten Uhlmann and Joachim Ansorg started to work on a Bible study application for KDE 1.0."
 msgstr "Terug in juni 1999 begonnen Thomas Hagedorn, Thorsten Uhlmann en Joachim Ansorg te werken aan een bijbelstudie-applicatie voor KDE 1.0."
 
 #. Tag: para
-#: software_about.xml:25
+#: software_about.xml:29
 #, no-c-format
 msgid "The first version was released two months later as version 0.1. This version was very simple and supported only the most basic things."
 msgstr "De eerste versie werd twee maanden later als versie 0.1 uitgebracht. Deze versie was erg simpel en ondersteunde slechts de meest rudimentaire zaken."
 
 #. Tag: para
-#: software_about.xml:29
+#: software_about.xml:33
 #, no-c-format
 msgid "After three months of hard work version 0.2 was released to the public. This version was usable, it supported basic printing, searching and offered a simple editor for personal notes."
 msgstr "Na drie maanden hard werken werd versie 0.2 vrijgegeven aan het publiek. Deze versie was bruikbaar, ondersteunde printen en zoeken rudimentair en bood een simpele bewerker voor persoonlijke notities."
 
 #. Tag: para
-#: software_about.xml:33
+#: software_about.xml:37
 #, no-c-format
 msgid "BibleTime 0.2 was later ported to KDE 2 and totally redesigned with a more powerful interface, better printing and a lot of internal changes. This version was called BibleTime 0.3"
 msgstr "BibleTime 0.2 werd later geschikt gemaakt voor KDE 2 en totaal hergestijld met een krachtigere interface, beter printmogelijkheden en heel veel interne veranderingen. Deze versie werd BibleTime 0.3 genoemd."
 
 #. Tag: para
-#: software_about.xml:37
+#: software_about.xml:41
 #, no-c-format
 msgid "BibleTime 1.0, which was released almost one year after version 0.3 and was the first version we considered as stable."
 msgstr "BibleTime 1.0, dat een jaar na versie 0.3 werd uitgebracht, was de eerste versie die door ons stabiel bevonden werd."
 
 #. Tag: para
-#: software_about.xml:41
+#: software_about.xml:45
 #, no-c-format
 msgid "BibleTime 1.1 and 1.2 followed later on. BibleTime 1.2 is the first version of BibleTime for version 3.0 of KDE."
 msgstr "BibleTime 1.1 en 1.2 volgden later. BibleTime 1.2 was de eerste versie van BibleTime voor versie 3.0 van KDE."
-
-#. Tag: title
-#: software_about.xml:46
-#, no-c-format
-msgid "The future of BibleTime"
-msgstr "De toekomst van BibleTime"
-
-#. Tag: para
-#: software_about.xml:47
-#, no-c-format
-msgid "We're grateful that God supports us and that He blesses our work with new team members. God is good!"
-msgstr "Wij zijn dankbaar dat God ons ondersteund, en dat Hij ons werk zegent met nieuwe teamleden. God is goed!"
-
-#. Tag: para
-#: software_about.xml:51
-#, no-c-format
-msgid "We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application."
-msgstr "Wij zullen ons werk voortzetten, en terwijl BibleTime verbeterd, bereiken wij hopelijk een punt waarop BibleTime slechts enkele, voor een bijbelstudie-applicatie nuttige dingen, mist."
 
 #. Tag: title
 #: software_contact.xml:15
@@ -3513,12 +3495,6 @@ msgstr ""
 msgid "Welcome to the BibleTime project."
 msgstr "Welkom bij het BibleTime-project."
 
-#. Tag: para
-#: software.xml:16
-#, fuzzy, no-c-format
-msgid "BibleTime is a Bible study application for Linux. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/\">Crosswire Bible Society</ulink>."
-msgstr "BibleTime is een bijbelstudie-applicatie voor Linux. Het is gebaseerd op de <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> en gebruikt de <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink>-programmeringsbibliotheek om met de door de <ulink url=\"http://www.crosswire.org/sword/\">Crosswire Bible Society</ulink> geleverde bijbelteksten, commentaren, woordenboeken en boeken te werken"
-
 #. Tag: title
 #: software.xml:25
 #, no-c-format
@@ -3980,6 +3956,15 @@ msgstr ""
 #, no-c-format
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
 msgstr ""
+
+#~ msgid "The future of BibleTime"
+#~ msgstr "De toekomst van BibleTime"
+
+#~ msgid "We're grateful that God supports us and that He blesses our work with new team members. God is good!"
+#~ msgstr "Wij zijn dankbaar dat God ons ondersteund, en dat Hij ons werk zegent met nieuwe teamleden. God is goed!"
+
+#~ msgid "We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application."
+#~ msgstr "Wij zullen ons werk voortzetten, en terwijl BibleTime verbeterd, bereiken wij hopelijk een punt waarop BibleTime slechts enkele, voor een bijbelstudie-applicatie nuttige dingen, mist."
 
 #~ msgid "How to get BibleTime"
 #~ msgstr "Hoe BibleTime te verkrijgen"

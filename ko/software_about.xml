@@ -20,7 +20,13 @@
 ><title
 >Introduction</title>
 <para
->BibleTime is a Bible study program for Linux and is based on the K Desktop Environment (KDE). </para>
+>바이블타임은 리눅스용 성경공부 프로그램입니다. <ulink url="http://www.kde.org/"
+>K Desktop Environment</ulink
+>를 기반으로, 성경 텍스트, 주석, 사전과 신앙 서적들을 위한 <ulink url="http://www.crosswire.org/sword/"
+>Crosswire Bible Society</ulink
+>의 <ulink url="http://www.crosswire.org/sword/"
+>Sword</ulink
+> 라이브러리를 사용합니다. </para>
 </section>
 
 <section
@@ -43,16 +49,6 @@
 
 <para
 >그후 바이블타임 1.1과 1.2가 발표되었습니다. 바이블타임 1.2는 KDE 3.0을 지원하는 최초의 바이블타임 버전입니다. </para>
-</section>
-
-<section
-><title
->바이블타임의 미래</title>
-<para
->저희는 하나님께서 저희에게 새팀 멤버들로 저희의 사역을 축복하시는 것에 감사드립니다. 하나님은 선하십니다! </para>
-
-<para
->바이블타임이 일반적인 성경 공부 프로그램으로써 충분히 성숙해질 때까지 저희는 이 사역을 계속할 것입니다. </para>
 </section>
 
 </webpage>

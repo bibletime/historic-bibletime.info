@@ -11,7 +11,7 @@
 ></config>
 <head>
 	<title
->Sidebar tips</title>
+>Подсказки Sidebar</title>
 	<summary
 >BibleTime tips</summary>
 	<keywords
@@ -20,11 +20,11 @@
 
 <section
 ><title
->Translations</title>
+>Переводы</title>
 <para
->It will cost you just a few minutes to update the webpage translation in your language. Help with the translations is something all users can do and which help all users. If you want to help us keeping the translations up to date, please read the page about <olink targetdocent="translations"
->making translations</olink
-> and update the translation file of your own language. </para>
+>Всего несколько минут займёт у вас обновление перевода сайта на вашем языке. Помощь в переводе это то, чем могут помочь все пользователи и то, что помогает всем пользователям. Если вы хотите помочь нам поддерживать переводы в актуальном состоянии, пожалуйста прочтите страницу о <olink targetdocent="translations"
+>том, как делать переводы</olink
+> и обновите файл перевода на вашем родном языке. </para>
 </section>
 
 </webpage>

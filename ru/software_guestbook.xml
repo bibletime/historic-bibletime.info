@@ -20,15 +20,15 @@
 ><title
 >Гостевая книга BibleTime</title>
 	<para
->This is the place to leave positive or negative comments about the BibleTime project. This is not the place to ask questions, please use <ulink url="http://www.crosswire.org/forums/mvnforum/listthreads?forum=2"
->the BibleTime forum</ulink
-> instead. </para>
+>Здесь вы можете оставить положительные или отрицательные отклики о проекте BibleTime. Здесь не нужно задавать вопросы, пожалуйста используйте для этого <ulink url="http://www.crosswire.org/forums/mvnforum/listthreads?forum=2"
+>форум BibleTime</ulink
+>. </para>
 	<para
->Please write in English, if possible. HTML is not allowed and will be removed, but you may use normal line breaks to divide into paragraphs. </para>
+>Пожалуйста, если возможно, пишите по-английски. HTML не допускается и будет удалён, но вы можете использовать обычные разрывы строк для деления на абзацы. </para>
 
 <section
 ><title
->Please add your comments here:</title>
+>Пожалуйста, добавьте ваш комментарий:</title>
 <ssi mode="exec" cgi="/guestbook.pl"
 ></ssi>
 </section>

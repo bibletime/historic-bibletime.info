@@ -1839,70 +1839,52 @@ msgid "Introduction"
 msgstr ""
 
 #. Tag: para
-#: software_about.xml:15
-#, fuzzy, no-c-format
-msgid "BibleTime is a Bible study program for Linux and is based on the K Desktop Environment (KDE)."
-msgstr "BibleTime este o aplicatie gratuita de studiere a Bibliei pentru sistemele Linux. BibleTime foloseste mediul desktop KDE."
+#: software_about.xml:15 software.xml:16
+#, no-c-format
+msgid "BibleTime is a Bible study application for Linux. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/\">Crosswire Bible Society</ulink>."
+msgstr ""
 
 #. Tag: title
-#: software_about.xml:20
+#: software_about.xml:24
 #, no-c-format
 msgid "The history of BibleTime"
 msgstr "Istoria BibleTime"
 
 #. Tag: para
-#: software_about.xml:21
+#: software_about.xml:25
 #, no-c-format
 msgid "Back in June of 1999 Thomas Hagedorn, Thorsten Uhlmann and Joachim Ansorg started to work on a Bible study application for KDE 1.0."
 msgstr "In iunie 1999 Thomas Hagedorn, Thorsten Uhlmann si Joachim Ansorg au inceput sa lucreze la dezvoltarea unei aplicatii de studiere a Bibliei pentru KDE 1.0."
 
 #. Tag: para
-#: software_about.xml:25
+#: software_about.xml:29
 #, no-c-format
 msgid "The first version was released two months later as version 0.1. This version was very simple and supported only the most basic things."
 msgstr "Prima versiune a fost lansata doua luni mai tarziu ca versiunea 0.1. Aceasta era foarte simpla si avea doar cateva optiuni de baza."
 
 #. Tag: para
-#: software_about.xml:29
+#: software_about.xml:33
 #, no-c-format
 msgid "After three months of hard work version 0.2 was released to the public. This version was usable, it supported basic printing, searching and offered a simple editor for personal notes."
 msgstr "Dupa trei luni de munca grea a fost lansata catre public versiunea 0.2. Acesta versiune era utila, avea comenzi minime de tiparit, de cautare si oferea un editor simplu pentru insemnari personale."
 
 #. Tag: para
-#: software_about.xml:33
+#: software_about.xml:37
 #, no-c-format
 msgid "BibleTime 0.2 was later ported to KDE 2 and totally redesigned with a more powerful interface, better printing and a lot of internal changes. This version was called BibleTime 0.3"
 msgstr "BibleTime 0.2. a fost mai tarziu portat pentru KDE 2 si refacut cu o interfata mai puternica, o mai buna tiparire si cu o multime de schimbari interne. Acesta versiune a fost numita BibleTime 0.3."
 
 #. Tag: para
-#: software_about.xml:37
+#: software_about.xml:41
 #, no-c-format
 msgid "BibleTime 1.0, which was released almost one year after version 0.3 and was the first version we considered as stable."
 msgstr "BibleTime 1.0, care a fost lansat aproape la un an de versiunea 0.3, a fost prima versiune pe care am considerat-o ca stabila."
 
 #. Tag: para
-#: software_about.xml:41
+#: software_about.xml:45
 #, no-c-format
 msgid "BibleTime 1.1 and 1.2 followed later on. BibleTime 1.2 is the first version of BibleTime for version 3.0 of KDE."
 msgstr "BibleTime 1.1 si 1.2 au urmat mai tarziu. BibleTime 1.2 este prima versiune a BibleTime pentru KDE 3.0."
-
-#. Tag: title
-#: software_about.xml:46
-#, no-c-format
-msgid "The future of BibleTime"
-msgstr "BibleTime in viitor"
-
-#. Tag: para
-#: software_about.xml:47
-#, fuzzy, no-c-format
-msgid "We're grateful that God supports us and that He blesses our work with new team members. God is good!"
-msgstr "Suntem recunoscatori pentru ca Dumnezeu ne-a sprijinit si ca a binecuvantat lucrarea noastra cu noi membrii de echipa. Dumnezeu e bun!"
-
-#. Tag: para
-#: software_about.xml:51
-#, fuzzy, no-c-format
-msgid "We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application."
-msgstr "Ne vom continua munca, dar, din moment ce BibleTime va deveni din ce in ce mai bun, vom atinge un punct cand BibleTime va avea toate lucrurile folositoare dintr-o aplicatie pentru studierea Bibliei."
 
 #. Tag: title
 #: software_contact.xml:15
@@ -3130,12 +3112,6 @@ msgstr ""
 msgid "Welcome to the BibleTime project."
 msgstr "Bun Venit la proiectul BibleTime!"
 
-#. Tag: para
-#: software.xml:16
-#, no-c-format
-msgid "BibleTime is a Bible study application for Linux. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/\">Crosswire Bible Society</ulink>."
-msgstr ""
-
 #. Tag: title
 #: software.xml:25
 #, fuzzy, no-c-format
@@ -3597,6 +3573,21 @@ msgstr ""
 #, no-c-format
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
 msgstr ""
+
+#, fuzzy
+#~ msgid "BibleTime is a Bible study program for Linux and is based on the K Desktop Environment (KDE)."
+#~ msgstr "BibleTime este o aplicatie gratuita de studiere a Bibliei pentru sistemele Linux. BibleTime foloseste mediul desktop KDE."
+
+#~ msgid "The future of BibleTime"
+#~ msgstr "BibleTime in viitor"
+
+#, fuzzy
+#~ msgid "We're grateful that God supports us and that He blesses our work with new team members. God is good!"
+#~ msgstr "Suntem recunoscatori pentru ca Dumnezeu ne-a sprijinit si ca a binecuvantat lucrarea noastra cu noi membrii de echipa. Dumnezeu e bun!"
+
+#, fuzzy
+#~ msgid "We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application."
+#~ msgstr "Ne vom continua munca, dar, din moment ce BibleTime va deveni din ce in ce mai bun, vom atinge un punct cand BibleTime va avea toate lucrurile folositoare dintr-o aplicatie pentru studierea Bibliei."
 
 #~ msgid "How to get BibleTime"
 #~ msgstr "Cum sa obtii BibleTime"

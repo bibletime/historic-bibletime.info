@@ -1867,70 +1867,52 @@ msgid "Introduction"
 msgstr ""
 
 #. Tag: para
-#: software_about.xml:15
+#: software_about.xml:15 software.xml:16
 #, no-c-format
-msgid "BibleTime is a Bible study program for Linux and is based on the K Desktop Environment (KDE)."
-msgstr ""
+msgid "BibleTime is a Bible study application for Linux. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/\">Crosswire Bible Society</ulink>."
+msgstr "바이블타임은 리눅스용 성경공부 프로그램입니다. <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink>를 기반으로, 성경 텍스트, 주석, 사전과 신앙 서적들을 위한 <ulink url=\"http://www.crosswire.org/sword/\">Crosswire Bible Society</ulink>의 <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> 라이브러리를 사용합니다."
 
 #. Tag: title
-#: software_about.xml:20
+#: software_about.xml:24
 #, no-c-format
 msgid "The history of BibleTime"
 msgstr "바이블타임의 역사"
 
 #. Tag: para
-#: software_about.xml:21
+#: software_about.xml:25
 #, no-c-format
 msgid "Back in June of 1999 Thomas Hagedorn, Thorsten Uhlmann and Joachim Ansorg started to work on a Bible study application for KDE 1.0."
 msgstr "1999년 6월 Thomas Hagedorn, Thorsten Uhlmann과 Joachim Ansorg이 KDE 1.0용의 성경공부 프로그램을 만드는 작업을 시작했습니다."
 
 #. Tag: para
-#: software_about.xml:25
+#: software_about.xml:29
 #, no-c-format
 msgid "The first version was released two months later as version 0.1. This version was very simple and supported only the most basic things."
 msgstr "첫버전인 버전 0.1이 2달후에 릴리즈되었습니다. 이 버전은 가장 기본적인 기능만을 제공하는 간단한 것이었습니다."
 
 #. Tag: para
-#: software_about.xml:29
+#: software_about.xml:33
 #, no-c-format
 msgid "After three months of hard work version 0.2 was released to the public. This version was usable, it supported basic printing, searching and offered a simple editor for personal notes."
 msgstr "3개월 후에 정성들여서 만든 버전 0.2가 대중에 공개되었습니다. 이 버전은 기본적인 프린팅과 검색, 개인묵상을 위한 간단한 에디터를 제공하는 더욱 성숙된 버전이었습니다."
 
 #. Tag: para
-#: software_about.xml:33
+#: software_about.xml:37
 #, no-c-format
 msgid "BibleTime 0.2 was later ported to KDE 2 and totally redesigned with a more powerful interface, better printing and a lot of internal changes. This version was called BibleTime 0.3"
 msgstr "바이블타임 0.2는 나중에 KDE 2용으로 포팅되었고, 더욱 울륭한 인터페이스를 지원하고, 개선된 프린팅과 많은 변화를 가져온 훌륭한 프로그램으로 바뀌었습니다. 이 버전이 바이블타임 0.3입니다."
 
 #. Tag: para
-#: software_about.xml:37
+#: software_about.xml:41
 #, no-c-format
 msgid "BibleTime 1.0, which was released almost one year after version 0.3 and was the first version we considered as stable."
 msgstr "버전 0.3이 발표된지 거의 일년후에 안정적이라 할 수 있는 첫번째 버전인 바이블타임 1.0이 릴리즈되었습니다. "
 
 #. Tag: para
-#: software_about.xml:41
+#: software_about.xml:45
 #, no-c-format
 msgid "BibleTime 1.1 and 1.2 followed later on. BibleTime 1.2 is the first version of BibleTime for version 3.0 of KDE."
 msgstr "그후 바이블타임 1.1과 1.2가 발표되었습니다. 바이블타임 1.2는 KDE 3.0을 지원하는 최초의 바이블타임 버전입니다."
-
-#. Tag: title
-#: software_about.xml:46
-#, no-c-format
-msgid "The future of BibleTime"
-msgstr "바이블타임의 미래"
-
-#. Tag: para
-#: software_about.xml:47
-#, no-c-format
-msgid "We're grateful that God supports us and that He blesses our work with new team members. God is good!"
-msgstr "저희는 하나님께서 저희에게 새팀 멤버들로 저희의 사역을 축복하시는 것에 감사드립니다. 하나님은 선하십니다!"
-
-#. Tag: para
-#: software_about.xml:51
-#, no-c-format
-msgid "We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application."
-msgstr "바이블타임이 일반적인 성경 공부 프로그램으로써 충분히 성숙해질 때까지 저희는 이 사역을 계속할 것입니다."
 
 #. Tag: title
 #: software_contact.xml:15
@@ -3509,12 +3491,6 @@ msgstr ""
 msgid "Welcome to the BibleTime project."
 msgstr "바이블타임 프로젝트에 오신 것을 환영합니다."
 
-#. Tag: para
-#: software.xml:16
-#, no-c-format
-msgid "BibleTime is a Bible study application for Linux. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/\">Crosswire Bible Society</ulink>."
-msgstr "바이블타임은 리눅스용 성경공부 프로그램입니다. <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink>를 기반으로, 성경 텍스트, 주석, 사전과 신앙 서적들을 위한 <ulink url=\"http://www.crosswire.org/sword/\">Crosswire Bible Society</ulink>의 <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> 라이브러리를 사용합니다."
-
 #. Tag: title
 #: software.xml:25
 #, no-c-format
@@ -3976,6 +3952,15 @@ msgstr "<title>프로그램 핸드북의 번역.</title>"
 #, no-c-format
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
 msgstr "당신의 언어로 된 핸드북이 존재하지 않는다면, <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> 핸드북 번역 템플릿</ulink>에서 템플릿을 다운로드하여 번역하실 수 있습니다. 기존의 번역을 업데이트하고 싶으시면, 아래의 테이블에서 필요한 파일을 다운로드하실 수 있습니다."
+
+#~ msgid "The future of BibleTime"
+#~ msgstr "바이블타임의 미래"
+
+#~ msgid "We're grateful that God supports us and that He blesses our work with new team members. God is good!"
+#~ msgstr "저희는 하나님께서 저희에게 새팀 멤버들로 저희의 사역을 축복하시는 것에 감사드립니다. 하나님은 선하십니다!"
+
+#~ msgid "We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application."
+#~ msgstr "바이블타임이 일반적인 성경 공부 프로그램으로써 충분히 성숙해질 때까지 저희는 이 사역을 계속할 것입니다."
 
 #~ msgid "How to get BibleTime"
 #~ msgstr "바이블타임 구하기"

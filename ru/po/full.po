@@ -1,12 +1,13 @@
+# translation of full.po to russain
 # translation of full_ru.po to russain
 # Copyright (C) 2003,2004 Free Software Foundation, Inc.
 # Vlad Savitsky <vlad_savitsky@mail.ru>, 2003,2004
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: full_ru\n"
+"Project-Id-Version: full\n"
 "POT-Creation-Date: 2001-02-09 01:25+0100\n"
-"PO-Revision-Date: 2004-02-06 21:41+0200\n"
+"PO-Revision-Date: 2004-05-20 10:58+0300\n"
 "Last-Translator: Vlad Savitsky <vlad_savitsky@mail.ru>\n"
 "Language-Team: russain <ru@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,15 +17,15 @@ msgstr ""
 
 #. Tag: holder
 #: autolayout.xml:4 layout.xml:14
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "The BibleTime developers"
-msgstr "Разработка BibleTime"
+msgstr "Разработчики BibleTime"
 
 #. Tag: title
 #: autolayout.xml:5 error404.xml:9
 #, no-c-format
 msgid "Error 404: File not found"
-msgstr ""
+msgstr "Ошибка 404: Файл не найден"
 
 #. Tag: title
 #: autolayout.xml:9 devotional.xml:9
@@ -36,7 +37,7 @@ msgstr ""
 #: autolayout.xml:13 sidebar_tips.xml:11
 #, no-c-format
 msgid "Sidebar tips"
-msgstr ""
+msgstr "Подсказки Sidebar"
 
 #. Tag: title
 #: autolayout.xml:17 index.xml:9
@@ -471,13 +472,13 @@ msgstr "Внимательно прочтите эти страницы с те�
 #: devotional.xml:14
 #, no-c-format
 msgid "Wait a minute"
-msgstr ""
+msgstr "Подождите минутку"
 
 #. Tag: para
 #: devotional.xml:15
 #, no-c-format
 msgid "Did you see &quot;The Passion&quot;? Whether you found the film inspiring or not, or you didn't see it at all -- If you want to find out more about the passion of Jesus Christ, you can visit the &quot;<ulink url=\"http://www.the-good-news.org/\">the good news</ulink>&quot; webpages. It has more information ready for you, maybe even in your local language."
-msgstr ""
+msgstr "Вы видели &quot;Страсти Христовы&quot;? Считаете ли вы фильм вдохновляющим или нет или вы вообще его не видели, но если вы хотите узнать больше о страданиях Иисуса Христа, то вы можете посетить сайт &quot;<ulink url=\"http://www.the-good-news.org/\">the good news (Благая весть)</ulink>&quot;. Там приготовлено множество информации для вас, возможно даже на вашем родном языке."
 
 #. Tag: title
 #: error404.xml:14
@@ -1420,7 +1421,7 @@ msgstr "Ведь не чуть-чуть!"
 
 #. Tag: para
 #: how2-importance.docbook:257
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Eccl.12:11-12 \"<emphasis>The words of wise men are like goads, and masters of these collections are like well-driven nails; they are given by one Shepherd. But beyond this, my son, be warned: the writing of many books is endless, and excessive devotion to books is wearying to the body.</emphasis>\""
 msgstr "Эккл.12:11-12 \"<emphasis>Слова мудрых - как иглы и как вбитые гвозди, и составители их - от единого пастыря. А что сверх всего этого, сын мой, того берегись: составлять много книг - конца не будет, и много читать - утомительно для тела. </emphasis>\""
 
@@ -1718,13 +1719,13 @@ msgstr "\"3 дня и 3 ночи\" (Мтф.12:40) привели некотор�
 
 #. Tag: para
 #: how2-interpretation.docbook:120
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "We need an historical tidbit: Jews counted any part of a day as a full day, as we would count buckets of water (if there were six and one-half buckets of water, we would say there were 7 buckets of water even if one was only partly full). So to the Jewish mind, any part of a day counted as a full day, and days started at 6 p.m. and ended at 6 p.m. Friday from 3 p.m. to 6 p.m. = day 1. Friday 6 p.m. to Saturday 6 p.m. = day 2. Saturday 6 p.m. to Sunday 5 or so a.m. = day 3. Interpreting within the cultural context keeps us out of trouble."
 msgstr ""
-"Нам необходимо учесть интересный исторический факт: Евреи считали любую часть дня как полный день, так же как мы считаем вёдра воды (если бы было шесть с половиной вёдер воды, мы бы сказали, что было 7 вёдер, даже если бы одно было наполнено только наполовину). Поэтому для еврея любая часть дня считалась целым днём, и день начинался в 6 часов вечера и заканчивался в 6 часов вечера.\n"
-" Пятница с 3х вечера до 6 вечера - 1й день.\n"
-" Пятница с 6 вечера до 6 часов вечера в Субботу - 2й день.\n"
-" Суббота с 6 часов вечера до 5 или около того утра в Воскресенье - 3й день.\n"
+"Нам необходимо учесть интересный исторический факт: Евреи считали любую часть дня как полный день, так же как мы считаем вёдра воды (если бы было шесть полных вёдер и одно наполовину заполненное, то мы бы сказали, что было 7 вёдер, даже если бы одно было наполнено только наполовину). Поэтому для еврея любая часть дня считалась целым днём, и день начинался в 6 часов вечера и заканчивался в 6 часов вечера.\n"
+" Пятница с 3х вечера до 6 вечера = 1й день.\n"
+" Пятница с 6 вечера до 6 часов вечера в Субботу = 2й день.\n"
+" Суббота с 6 часов вечера до 5 или около того утра в Воскресенье = 3й день.\n"
 " Толкование с учётом культурного контекста помогает нам избегать ошибок. "
 
 #. Tag: title
@@ -1849,87 +1850,69 @@ msgstr "Управитель получил похвалу только за о�
 
 #. Tag: title
 #: sidebar_tips.xml:16
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Translations"
-msgstr "Перевод"
+msgstr "Переводы"
 
 #. Tag: para
 #: sidebar_tips.xml:17
 #, no-c-format
 msgid "It will cost you just a few minutes to update the webpage translation in your language. Help with the translations is something all users can do and which help all users. If you want to help us keeping the translations up to date, please read the page about <olink targetdocent=\"translations\">making translations</olink> and update the translation file of your own language."
-msgstr ""
+msgstr "Всего несколько минут займёт у вас обновление перевода сайта на вашем языке. Помощь в переводе это то, чем могут помочь все пользователи и то, что помогает всем пользователям. Если вы хотите помочь нам поддерживать переводы в актуальном состоянии, пожалуйста прочтите страницу о <olink targetdocent=\"translations\">том, как делать переводы</olink> и обновите файл перевода на вашем родном языке."
 
 #. Tag: title
 #: software_about.xml:14
 #, no-c-format
 msgid "Introduction"
-msgstr ""
+msgstr "Введение"
 
 #. Tag: para
-#: software_about.xml:15
-#, fuzzy, no-c-format
-msgid "BibleTime is a Bible study program for Linux and is based on the K Desktop Environment (KDE)."
-msgstr "BibleTime является бесплатной программой по изучению Библии для систем Linux.  BibleTime использует графическую оболочку KDE."
+#: software_about.xml:15 software.xml:16
+#, no-c-format
+msgid "BibleTime is a Bible study application for Linux. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/\">Crosswire Bible Society</ulink>."
+msgstr "BibleTime это программа для изучения Библии под Линукс. Она основана на <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> и использует программные библиотеки <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> для работы с текстами Библии, комментариями, словарями и книгами предоставленными <ulink url=\"http://www.crosswire.org/\">Библейским Обществом Crosswire</ulink>."
 
 #. Tag: title
-#: software_about.xml:20
+#: software_about.xml:24
 #, no-c-format
 msgid "The history of BibleTime"
 msgstr "История создания BibleTime"
 
 #. Tag: para
-#: software_about.xml:21
+#: software_about.xml:25
 #, no-c-format
 msgid "Back in June of 1999 Thomas Hagedorn, Thorsten Uhlmann and Joachim Ansorg started to work on a Bible study application for KDE 1.0."
 msgstr "Еще в июне 1999 года Томас Хагедорн (Thomas Hagedorn), Торстен Юхльман (Thorsten Uhlmann) и Яким Ансорг (Joachim Ansorg) начали работу над программой для изучения Библии для KDE 1.0."
 
 #. Tag: para
-#: software_about.xml:25
+#: software_about.xml:29
 #, no-c-format
 msgid "The first version was released two months later as version 0.1. This version was very simple and supported only the most basic things."
 msgstr "Первая версия появилась на свет уже через два месяца как версия 0.1. Эта версия была очень простой и могла делать только самые простые вещи. "
 
 #. Tag: para
-#: software_about.xml:29
+#: software_about.xml:33
 #, no-c-format
 msgid "After three months of hard work version 0.2 was released to the public. This version was usable, it supported basic printing, searching and offered a simple editor for personal notes."
 msgstr "Еще через три месяца напряженной работы вышла версия 0.2. Этой версией уже можно было пользоваться, она поддерживала простую печать, поиск, а также имела простенький редактор для личных заметок."
 
 #. Tag: para
-#: software_about.xml:33
+#: software_about.xml:37
 #, no-c-format
 msgid "BibleTime 0.2 was later ported to KDE 2 and totally redesigned with a more powerful interface, better printing and a lot of internal changes. This version was called BibleTime 0.3"
 msgstr "BibleTime 0.2 была позднее портирована (перестроена) для KDE 2. Также полностью переделан дизайн: более мощный интерфейс, улучшенная печать и множеством внутренних изменений. Это версия получила название BibleTime 0.3."
 
 #. Tag: para
-#: software_about.xml:37
+#: software_about.xml:41
 #, no-c-format
 msgid "BibleTime 1.0, which was released almost one year after version 0.3 and was the first version we considered as stable."
 msgstr "BibleTime 1.0, которая вышла почти через год после версии 0.3, была первой версией, которую мы считали стабильной."
 
 #. Tag: para
-#: software_about.xml:41
+#: software_about.xml:45
 #, no-c-format
 msgid "BibleTime 1.1 and 1.2 followed later on. BibleTime 1.2 is the first version of BibleTime for version 3.0 of KDE."
 msgstr "За тем последовали версии 1.1 и 1.2. Первой версией BibleTime для KDE 3.0 была версия 1.2."
-
-#. Tag: title
-#: software_about.xml:46
-#, no-c-format
-msgid "The future of BibleTime"
-msgstr "Будущее BibleTime"
-
-#. Tag: para
-#: software_about.xml:47
-#, no-c-format
-msgid "We're grateful that God supports us and that He blesses our work with new team members. God is good!"
-msgstr "Мы благодарны Богу за Его помощь в этом проекте и за то, что Он посылает нам новых членов команды. Бог благ!"
-
-#. Tag: para
-#: software_about.xml:51
-#, no-c-format
-msgid "We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application."
-msgstr "Мы будем продолжать нашу работу. Так как BibleTime всё время улучшается, то мы надеемся достигнуть состояния, когда BibleTime будет не самой малости из тех вещей, которые могут быть нужны и полезны для хорошей программы для изучения Библии. "
 
 #. Tag: title
 #: software_contact.xml:15
@@ -1939,21 +1922,21 @@ msgstr "Как с нами связаться"
 
 #. Tag: ulink
 #: software_contact.xml:16
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "The BibleTime user forum."
-msgstr "Разработка BibleTime"
+msgstr "Форум пользователей BibleTime"
 
 #. Tag: para
 #: software_contact.xml:17
 #, no-c-format
 msgid "This is the place to ask questions about BibleTime. If you have trouble with installing and/or using BibleTime post a message in the forum, and hopefully you'll have an answer in time."
-msgstr ""
+msgstr "Здесь вы можете задать вопросы о BibleTime. Если у вас есть трудности с установкой и/или использованием BibleTime поместите сообщение в форуме и, возможно через какое-то время, вы получите ответ."
 
 #. Tag: para
 #: software_contact.xml:21
 #, no-c-format
 msgid "If you are an experienced BibleTime user and can spare some time, please regularly check out the forum and answer questions of people who have less experience than you. Thereby you would also help the developers to concentrate on the work of development instead of user support."
-msgstr ""
+msgstr "Если вы опытный пользователь BibleTime и у вас есть свободное время, пожалуйста, посматривайте регулярно форум и отвечайте на вопросы людей, которые имеют меньше опыта чем вы. Этим вы также поможете разработчикам сконцентрироваться на работе по развитию программы вместо поддержки пользователей."
 
 #. Tag: ulink
 #: software_contact.xml:28
@@ -1963,21 +1946,21 @@ msgstr "Послать отчёт об ошибке"
 
 #. Tag: para
 #: software_contact.xml:29
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "If you find a bug in BibleTime use this link to report it so it can be fixed in later versions. Please include detailed descriptions of your setup and how the developers can reproduce the bug."
-msgstr "Если вы обнаружили ошибку в BibleTime, используйте ссылку, чтобы сообщить о ней, чтобы её можно было устранить в следующих версиях. "
+msgstr "Если вы обнаружили ошибку в BibleTime, используйте эту ссылку, чтобы сообщить о ней; тогда она может быть устранена в следующих версиях. Пожалуйста, включите подробное описание ваших действий и того, как разработчики могут воспроизвести эту ошибку."
 
 #. Tag: ulink
 #: software_contact.xml:35
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Send a feature suggestion"
-msgstr "Дать заявку о нужной функции "
+msgstr "Послать предложение о нужной функции"
 
 #. Tag: para
 #: software_contact.xml:36
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "If you have an idea how to improve BibleTime please use this link to tell the developers about it."
-msgstr "Если у вас есть идея о том, как улучшить BibleTime, пожалуйста, используйте эту ссылку, чтобы рассказать нам о ней! "
+msgstr "Если у вас есть идеи о том, как улучшить BibleTime, пожалуйста, используйте эту ссылку, чтобы рассказать об этом разработчикам."
 
 #. Tag: ulink
 #: software_contact.xml:41
@@ -1987,9 +1970,9 @@ msgstr "Сообщить о проблеме с сайтом"
 
 #. Tag: para
 #: software_contact.xml:42
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "If you found a problem with the website or have a suggestion how it could be improved, please use this link to tell the webmaster about it."
-msgstr "Если у вас есть идея о том, как улучшить BibleTime, пожалуйста, используйте эту ссылку, чтобы рассказать нам о ней! "
+msgstr "Если вы столкнулись с проблемой в использовании сайта или имеете предложения о том, как он может быть улучшен, пожалуйста, используйте эту ссылку, чтобы рассказать об этому веб-мастеру."
 
 #. Tag: title
 #: software_faq.xml:14
@@ -2127,7 +2110,7 @@ msgstr "Некоторые модули содержат текст только
 #: software_gallery.xml:16
 #, no-c-format
 msgid "This page refers to BibleTime 1.2 and needs to be updated soon, as display quality has improved a lot in the meantime."
-msgstr ""
+msgstr "Эта страница ссылается на BibleTime 1.2 и нуждается в обновлении в ближайшее время, так как качество отображения было немного улучшено за это время."
 
 #. Tag: para
 #: software_gallery.xml:19
@@ -2325,19 +2308,19 @@ msgstr "Гостевая книга BibleTime"
 #: software_guestbook.xml:15
 #, no-c-format
 msgid "This is the place to leave positive or negative comments about the BibleTime project. This is not the place to ask questions, please use <ulink url=\"http://www.crosswire.org/forums/mvnforum/listthreads?forum=2\">the BibleTime forum</ulink> instead."
-msgstr ""
+msgstr "Здесь вы можете оставить положительные или отрицательные отклики о проекте BibleTime. Здесь не нужно задавать вопросы, пожалуйста используйте для этого <ulink url=\"http://www.crosswire.org/forums/mvnforum/listthreads?forum=2\">форум BibleTime</ulink>."
 
 #. Tag: para
 #: software_guestbook.xml:19
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Please write in English, if possible. HTML is not allowed and will be removed, but you may use normal line breaks to divide into paragraphs."
-msgstr "На этой странице вы найдете гостевую книгу BibleTime. Если вы хотите, оставьте ваши комментарии. Пожалуйста, если можете, пишите по английски. HTML не допускается и будет удалён. Вы можете использовать обычные переводы строк для деления на параграфы. "
+msgstr "Пожалуйста, если возможно, пишите по-английски. HTML не допускается и будет удалён, но вы можете использовать обычные разрывы строк для деления на абзацы."
 
 #. Tag: title
 #: software_guestbook.xml:24
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Please add your comments here:"
-msgstr "Пожалуйста добавьте ваш комментарий в нашу гостевую книгу!"
+msgstr "Пожалуйста, добавьте ваш комментарий:"
 
 #. Tag: title
 #: software_installation.xml:16
@@ -3581,12 +3564,6 @@ msgstr ""
 msgid "Welcome to the BibleTime project."
 msgstr "Проект BibleTime приветствует вас!"
 
-#. Tag: para
-#: software.xml:16
-#, no-c-format
-msgid "BibleTime is a Bible study application for Linux. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/\">Crosswire Bible Society</ulink>."
-msgstr "BibleTime это программа для изучения Библии под Линукс. Она основана на <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> и использует программные библиотеки <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> для работы с текстами Библии, комментариями, словарями и книгами предоставленными <ulink url=\"http://www.crosswire.org/\">Библейским Обществом Crosswire</ulink>."
-
 #. Tag: title
 #: software.xml:25
 #, no-c-format
@@ -3595,39 +3572,39 @@ msgstr "Новости о BibleTime"
 
 #. Tag: title
 #: software.xml:26
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "2004-02-09: BibleTime 1.4.1 for Mac OS X"
-msgstr "2003-12-29: BibleTime 1.4"
+msgstr "2004-02-09: BibleTime 1.4.1 для Mac OS X"
 
 #. Tag: para
 #: software.xml:27
 #, no-c-format
 msgid "On the BibleTime development list <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\">Daniel Glassey writes</ulink> that BibleTime is now available for Mac OSX. To get BibleTime running on Mac please follow the instructions in <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005163.html\">this eMail</ulink> and <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\">this eMail</ulink>. Please report problems or success to <email>info@bibletime.info</email>."
-msgstr ""
+msgstr "В списке разработки BibleTime <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\"> Даниель Гласси (Daniel Glassey) написал</ulink>, что теперь есть BibleTime для Mac OSX. Чтобы запустить BibleTime на Маке, пожалуйста, придерживайтесь инструкций из <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005163.html\">this eMail</ulink> and <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\">этого eMail</ulink>. Пожалуйста, сообщайте о проблемах или успехах на <email>info@bibletime.info</email>."
 
 #. Tag: title
 #: software.xml:32
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "2004-01-29: BibleTime 1.4.1"
-msgstr "2003-12-29: BibleTime 1.4"
+msgstr "2004-01-29: BibleTime 1.4.1"
 
 #. Tag: para
 #: software.xml:33
 #, no-c-format
 msgid "BibleTime 1.4.1 was released today. The most important changes in version 1.4.1 are updated translations and bugfixes, especially in the Sword setup dialog."
-msgstr ""
+msgstr "Сегодня выпущен релиз BibleTime 1.4.1. Самым важным изменением в версии1.4.1 является обновленный перевод и исправление ошибок, особенно в диалоге установки Sword."
 
 #. Tag: title
 #: software.xml:38
 #, no-c-format
 msgid "2004-01-26: User forums online"
-msgstr ""
+msgstr "2004-01-26: Online форум пользователей"
 
 #. Tag: para
 #: software.xml:39
 #, no-c-format
 msgid "We're happy to announce a forum for BibleTime users. Please ask all your questions there if you need help. We'd appreciate all feedback and suggestions in the forum, too. The address is <ulink url=\"http://www.crosswire.org/forums\">http://www.crosswire.org/forums</ulink>."
-msgstr ""
+msgstr "Мы рады представить форум для пользователей BibleTime. Если вам нужна помощь - задвайте, пожалуйста, все ваши вопросы там.Мы также очень ценим все предложения и отзывы в форуме.Адрес такой: <ulink url=\"http://www.crosswire.org/forums\">http://www.crosswire.org/forums</ulink>."
 
 #. Tag: title
 #: software.xml:44
@@ -3933,43 +3910,43 @@ msgstr "Если вы НЕ живёте в Европе, пожалуйста, �
 #: software_swordcd.xml:58
 #, no-c-format
 msgid "Name: <html:input type=\"text\" name=\"name\"></html:input>"
-msgstr ""
+msgstr "Имя: <html:input type=\"text\" name=\"name\"></html:input>"
 
 #. Tag: para
 #: software_swordcd.xml:59
 #, no-c-format
 msgid "Street: <html:input type=\"text\" name=\"street\"></html:input>"
-msgstr ""
+msgstr "Улица: <html:input type=\"text\" name=\"street\"></html:input>"
 
 #. Tag: para
 #: software_swordcd.xml:60
 #, no-c-format
 msgid "Town: <html:input type=\"text\" name=\"town\"></html:input>"
-msgstr ""
+msgstr "Город: <html:input type=\"text\" name=\"town\"></html:input>"
 
 #. Tag: para
 #: software_swordcd.xml:62
 #, no-c-format
 msgid "Country: <html:select name=\"country\"> <html:option value=\"Austria\">Austria</html:option> <html:option value=\"Belgium\">Belgium</html:option> <html:option value=\"Croatia\">Croatia</html:option> <html:option value=\"Czech Republic\">Czech Republic</html:option> <html:option value=\"Denmark\">Denmark</html:option> <html:option value=\"Finland\">Finland</html:option> <html:option value=\"France\">France</html:option> <html:option value=\"Germany\">Germany</html:option> <html:option value=\"Gibraltar\">Gibraltar</html:option> <html:option value=\"Greece\">Greece</html:option> <html:option value=\"Hungary\">Hungary</html:option> <html:option value=\"Ireland\">Ireland</html:option> <html:option value=\"Italy\">Italy</html:option> <html:option value=\"Netherlands\">Netherlands</html:option> <html:option value=\"Norway\">Norway</html:option> <html:option value=\"Poland\">Poland</html:option> <html:option value=\"Portugal\">Portugal</html:option> <html:option value=\"Romania\">Romania</html:option> <html:option value=\"Russia\">Russia</html:option> <html:option value=\"Slovakia\">Slovakia</html:option> <html:option value=\"Slovenia\">Slovenia</html:option> <html:option value=\"Spain\">Spain</html:option> <html:option value=\"Sweden\">Sweden</html:option> <html:option value=\"Switzerland\">Switzerland</html:option> <html:option value=\"Turkey\">Turkey</html:option> <html:option value=\"Ukraine\">Ukraine</html:option> <html:option selected=\"selected\" value=\"United Kingdom\">United Kingdom</html:option> <html:option value=\"Yugoslavia\">Yugoslavia</html:option> </html:select>"
-msgstr ""
+msgstr "Страна: <html:select name=\"country\"> <html:option value=\"Austria\">Австрия</html:option> <html:option value=\"Belgium\">Бельгия</html:option> <html:option value=\"Croatia\">Хорватия</html:option> <html:option value=\"Czech Republic\">Чешская республика</html:option> <html:option value=\"Denmark\">Denmark</html:option> <html:option value=\"Finland\">Финлянция</html:option> <html:option value=\"France\">Франция</html:option> <html:option value=\"Germany\">Германия</html:option> <html:option value=\"Gibraltar\">Гибралтар</html:option> <html:option value=\"Greece\">Греция</html:option> <html:option value=\"Hungary\">Венгрия</html:option> <html:option value=\"Ireland\">Ирландия</html:option> <html:option value=\"Italy\">Италия</html:option> <html:option value=\"Netherlands\">Нидерланды</html:option> <html:option value=\"Norway\">Норвегия</html:option> <html:option value=\"Poland\">Польша</html:option> <html:option value=\"Portugal\">Португалия</html:option> <html:option value=\"Romania\">Румыния</html:option> <html:option value=\"Russia\">Россия</html:option> <html:option value=\"Slovakia\">Словакия</html:option> <html:option value=\"Slovenia\">Словения</html:option> <html:option value=\"Spain\">Испания</html:option> <html:option value=\"Sweden\">Швеция</html:option> <html:option value=\"Switzerland\">Швейцария</html:option> <html:option value=\"Turkey\">Турция</html:option> <html:option value=\"Ukraine\">Украина</html:option> <html:option selected=\"selected\" value=\"United Kingdom\">Великобритания</html:option> <html:option value=\"Yugoslavia\">Югославия</html:option> </html:select>"
 
 #. Tag: para
 #: software_swordcd.xml:95
 #, no-c-format
 msgid "Amount of CDs: <html:select name=\"cds\"> <html:option selected=\"selected\">1</html:option> <html:option>2</html:option> <html:option>3</html:option> <html:option>4</html:option> <html:option>5</html:option> </html:select>"
-msgstr ""
+msgstr "Количество CD: <html:select name=\"cds\"> <html:option selected=\"selected\">1</html:option> <html:option>2</html:option> <html:option>3</html:option> <html:option>4</html:option> <html:option>5</html:option> </html:select>"
 
 #. Tag: para
 #: software_swordcd.xml:105
 #, no-c-format
 msgid "Comments: <html:textarea name=\"comments\" rows=\"10\" cols=\"35\"></html:textarea>"
-msgstr ""
+msgstr "Комментарии: <html:textarea name=\"comments\" rows=\"10\" cols=\"35\"></html:textarea>"
 
 #. Tag: para
 #: software_swordcd.xml:109
 #, no-c-format
 msgid "<html:input name=\"Check order\" type=\"submit\" value=\"Check order\"></html:input> &nbsp; <html:input name=\"Reset order\" type=\"reset\" value=\"Reset order\"></html:input>"
-msgstr ""
+msgstr "<html:input name=\"Check order\" type=\"submit\" value=\"Проверить заказ\"></html:input> &nbsp; <html:input name=\"Reset order\" type=\"reset\" value=\"Очистить заказ\"></html:input>"
 
 #. Tag: title
 #: translation.xml:14
@@ -4048,6 +4025,18 @@ msgstr "<title>Перевести руководство к программе.<
 #, no-c-format
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
 msgstr "Если перевод Руководства на ваш язык ещё не существует, то вы можете загрузить и перевести <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> Шаблон для перевода руководства</ulink>. Если вы хотите обновить существующий перевод, то используйте ссылки в таблице снизу, чтобы загрузить соответствующий файл. "
+
+#~ msgid "BibleTime is a Bible study program for Linux and is based on the K Desktop Environment (KDE)."
+#~ msgstr "BibleTime - это программа по изучению Библии для Linux, которая основана на K Desktop Environment (KDE)."
+
+#~ msgid "The future of BibleTime"
+#~ msgstr "Будущее BibleTime"
+
+#~ msgid "We're grateful that God supports us and that He blesses our work with new team members. God is good!"
+#~ msgstr "Мы благодарны Богу за Его помощь в этом проекте и за то, что Он посылает нам новых членов команды. Бог благ!"
+
+#~ msgid "We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application."
+#~ msgstr "Мы будем продолжать нашу работу. Так как BibleTime всё время улучшается, то мы надеемся достигнуть состояния, когда BibleTime будет не самой малости из тех вещей, которые могут быть нужны и полезны для хорошей программы для изучения Библии. "
 
 #~ msgid "How to get BibleTime"
 #~ msgstr "Как получить BibleTime"
