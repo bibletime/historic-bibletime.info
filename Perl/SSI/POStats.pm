@@ -75,7 +75,7 @@ sub show_stats() {
 		#my $url = "http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime-website/$lang/po/full.po?rev=HEAD";
 		my $url = "/$lang/po/full.po";
 		$ret .= $q->div({-class=>"language"},
-			$q->p("$lang [" . $q->a({-href=>"$url"}, "Download as PO file") . "]:", "$translatedPerc% translated, $untranslatedPerc% untranslated, $fuzzyPerc% need revision"),
+			$q->p("$lang [" . $q->a({-href=>"$url"}, "Download as PO file") . "]:", "$translatedPerc% translated, $fuzzyPerc% need revision, $untranslatedPerc% untranslated"),
 			$q->div({-style=>"width: $translatedWidth%;", -title=>"$translatedPerc% translated"}, ""),
 			$q->div({-style=>"width: $fuzzyWidth%;", -title => "$fuzzyPerc% fuzzy"}, ""),
 			$q->div({-style=>"width: $untranslatedWidth%;", -title=>"$untranslatedPerc% untranslated"}, ""),
