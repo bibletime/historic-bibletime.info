@@ -17,5 +17,5 @@ my $stats = SSI::POStats->new( $cgi );
 print $cgi->header();
 
 print $cgi->start_div({-id=>'postats'});
-print $stats->show_stats("handbook_stats.txt");
+print $stats->show_stats("handbook_stats.txt", 'http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime-i18n/po/handbook/$lang.po?rev=HEAD');
 print $cgi->end_div();
