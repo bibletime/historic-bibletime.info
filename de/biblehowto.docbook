@@ -34,7 +34,7 @@
 
 <authorgroup>
 <author
-> <firstname
+><firstname
 >Bob</firstname
 > <surname
 >Harman</surname
@@ -44,7 +44,8 @@
 <firstname
 >Joachim</firstname
 > <surname
->Ansorg</surname>
+>Ansorg</surname
+> 
 
 <copyright>
 <year
@@ -69,13 +70,13 @@
 
 <legalnotice
 ><para
-> Das Copyright dieses Textes liegt bei dem Autoren Bob Harman. Der Text wurde von Fred Saalbach zur Publikation mit BibleTime angepasst.</para>
+>Das Copyright dieses Textes liegt bei dem Autoren Bob Harman. Der Text wurde von Fred Saalbach zur Publikation mit BibleTime angepasst.</para>
 
 <para
-> Non exclusive serial rights for this distribution of this document with the &bibletime; Software have been made. Redistribution as part of the Bibletime software without modification and limited reproduction as provided by the "fair use" provisions of the US copyright code are also permitted.</para>
+>Non exclusive serial rights for this distribution of this document with the &bibletime; Software have been made. Redistribution as part of the Bibletime software without modification and limited reproduction as provided by the "fair use" provisions of the US copyright code are also permitted.</para>
 
 <para
-> Bei Fragen zur Benutzung diese Materials wenden Sie sich bitte an Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. Hampton VA 23666 USA <email
+>Bei Fragen zur Benutzung diese Materials wenden Sie sich bitte an Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. Hampton VA 23666 USA <email
 >ncc@ncchampton.org</email
 >.</para>
 
@@ -96,7 +97,7 @@
 <title
 >Zusammenfassung</title>
 <para
-> Die <application
+>Die <application
 >Anleitung zum Bibelstudium</application
 > ist ein Handbuch zum Studieren der Bibel. </para>
 <para
@@ -130,4 +131,3 @@ End:
 -->
 
 </webpage>
-

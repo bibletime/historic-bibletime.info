@@ -4,8 +4,10 @@
 ]>
 
 <webpage id="software_press">
-<config param="desc" value="In the press"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="In the press"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >출판물에서</title>
@@ -19,36 +21,36 @@
 ><title
 >출판물에서</title>
 <para
-> <ulink url="http://dot.kde.org/995302757"
+><ulink url="http://dot.kde.org/995302757"
 >dot.kde.org</ulink
 >에서 Andreas Pour는 다음과 같은 리뷰를 실었습니다: </para>
 
 <section>
-<para
-> <blockquote
-> <attribution
->Andreas Pour (&copy; 2001 Andreas "Dre" Pour. All rights reserved)</attribution
-> <para
-> 바이블타임은 하나님께서 KDE 사용자들에게 주신 큰 선물이다. 바이블타임은 사용하기가 쉽고, 약간의 시간을 들이면 다양한 활용이 가능하다. 다음 릴리즈에서 스워드(Sword)의 설치와 설정에 대한 GUI환경을 제공하는 더욱 괜찮은 프로그램으로 거듭날 것이다. 그밖에 좀 더 향상된 네비게이션을 위해 KHTML을 사용할 것을 개인적으로 기대해본다. </para
-> </blockquote
-> </para>
+<para>
+	<blockquote>
+	<attribution
+>Andreas Pour (&copy; 2001 Andreas "Dre" Pour. All rights reserved)</attribution>
+	<para
+>바이블타임은 하나님께서 KDE 사용자들에게 주신 큰 선물이다. 바이블타임은 사용하기가 쉽고, 약간의 시간을 들이면 다양한 활용이 가능하다. 다음 릴리즈에서 스워드(Sword)의 설치와 설정에 대한 GUI환경을 제공하는 더욱 괜찮은 프로그램으로 거듭날 것이다. 그밖에 좀 더 향상된 네비게이션을 위해 KHTML을 사용할 것을 개인적으로 기대해본다. </para>
+	</blockquote>
+</para>
 </section>
 
 <section>
 <para
-> 독일의 잡지 "Pfarrer &amp; PC"의 리눅스용 성경 프로그램 리뷰에서 "Gnomesword" 와 "Volksbibel 2000" 중에서 바이블타임이 소개되었습니다. 바이블타임에 대한 독일어 평가: </para>
+>독일의 잡지 "Pfarrer &amp; PC"의 리눅스용 성경 프로그램 리뷰에서 "Gnomesword" 와 "Volksbibel 2000" 중에서 바이블타임이 소개되었습니다. 바이블타임에 대한 독일어 평가: </para>
+
+<para>
+	<blockquote>
+	<attribution
+>Pfarrer &amp; PC 2002 (&copy; Pfarrer &amp; PC 2002)</attribution>
+	<para lang="de"
+>Trotzdem: Alles dran, alles drin - BibleTime ist ein funktional wie optisch gelungenes Bibel-Programm, dem man unter Linux große Verbreitung wünschen darf. Ein wenig bedauerlich ist das copyrightbedingte Fehlen der »großen« zeitgenössischen Bibelübersetzungen. Dafür beschert BibleTime dem Nutzer Einblicke in selten genutzte Übersetzungen und ein gutes Handling griechischer und hebräischer Originaltexte. </para>
+	</blockquote>
+</para>
 
 <para
-> <blockquote
-> <attribution
->Pfarrer &amp; PC 2002 (&copy; Pfarrer &amp; PC 2002)</attribution
-> <para lang="de"
-> Trotzdem: Alles dran, alles drin - BibleTime ist ein funktional wie optisch gelungenes Bibel-Programm, dem man unter Linux große Verbreitung wünschen darf. Ein wenig bedauerlich ist das copyrightbedingte Fehlen der »großen« zeitgenössischen Bibelübersetzungen. Dafür beschert BibleTime dem Nutzer Einblicke in selten genutzte Übersetzungen und ein gutes Handling griechischer und hebräischer Originaltexte. </para
-> </blockquote
-> </para>
-
-<para
-> 온라인 리뷰: <ulink url="http://www.pfarrer-pc.de/magazin/2-02/art02-02-bibli.php"
+>온라인 리뷰: <ulink url="http://www.pfarrer-pc.de/magazin/2-02/art02-02-bibli.php"
 >www.pfarrer-pc.de</ulink
 > </para>
 </section>
@@ -56,4 +58,3 @@
 </section>
 
 </webpage>
-

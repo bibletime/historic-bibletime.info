@@ -8,98 +8,98 @@
 ><title
 >Ein Buch, das einzigartig ist</title>
 <para
-> Die Bibel ist in vielen Dingen überragend. Sie ist einzigartig in: </para>
-<itemizedlist
-> <listitem
-> <para
-> Verbreitung. Verkaufserlöse aus Bibel in Nordamerika: Mehr als 500 Millionen Dollar pro Jahr. Die Bibel ist sowohl insgesamt als auch jährlich der Bestseller. </para
-> </listitem
-> <listitem
-> <para
-> Urheberschaft. Sie wurde in einem Zeitraum von 1600 Jahren von 40 verschiedenen Autoren verschiedener Milieus geschrieben. Sie liest sich jedoch, als ob sie von einem einzigen geschrieben wurde. </para
-> </listitem
-> <listitem
-> <para
-> Erhaltung. F. F. Bruce vergleicht im Buch <emphasis
+>Die Bibel ist in vielen Dingen überragend. Sie ist einzigartig in: </para>
+<itemizedlist>
+<listitem>
+<para
+>Verbreitung. Verkaufserlöse aus Bibel in Nordamerika: Mehr als 500 Millionen Dollar pro Jahr. Die Bibel ist sowohl insgesamt als auch jährlich der Bestseller. </para>
+</listitem>
+<listitem>
+<para
+>Urheberschaft. Sie wurde in einem Zeitraum von 1600 Jahren von 40 verschiedenen Autoren verschiedener Milieus geschrieben. Sie liest sich jedoch, als ob sie von einem einzigen geschrieben wurde. </para>
+</listitem>
+<listitem>
+<para
+>Erhaltung. F. F. Bruce vergleicht im Buch <emphasis
 >Are New Testament Documents Reliable?</emphasis
-> die Manuskripte des neuen Testamentes mit anderen alten Texten: </para
-> </listitem
-> </itemizedlist>
-<table
-> <title
->Vergleich der Schriften des Neuen Testamentes mit anderen alten Texten</title
-> <tgroup cols="5"
-> <thead
-> <row
-> <entry
->Werk</entry
-> <entry
->Erstellungszeit</entry
-> <entry
->Erstausgabe</entry
-> <entry
+> die Manuskripte des neuen Testamentes mit anderen alten Texten: </para>
+</listitem>
+</itemizedlist>
+<table>
+<title
+>Vergleich der Schriften des Neuen Testamentes mit anderen alten Texten</title>
+<tgroup cols="5">
+<thead>
+<row>
+<entry
+>Werk</entry>
+<entry
+>Erstellungszeit</entry>
+<entry
+>Erstausgabe</entry>
+<entry
 >Zeitspanne</entry
 ><entry
->Anzahl von Kopien</entry
-> </row
-></thead
-> <tbody
-> <row
-> <entry
->Herodot</entry
-> <entry
+>Anzahl von Kopien</entry>
+</row
+></thead>
+<tbody>
+<row>
+<entry
+>Herodot</entry>
+<entry
 >448-428 v.Chr..</entry
 ><entry
->900 n.Chr.</entry
-> <entry
+>900 n.Chr.</entry>
+<entry
 >1300 Jahre</entry
 ><entry
->8</entry
-></row
-> <row
-> <entry
->Tacitus</entry
-> <entry
+>8 </entry
+></row>
+<row>
+<entry
+>Tacitus</entry>
+<entry
 >100 n.Chr.</entry
 ><entry
->1100 n.Chr.</entry
-> <entry
+>1100 n.Chr.</entry>
+<entry
 >1000 Jahre</entry
 ><entry
->20</entry
-></row
-> <row
-> <entry
+>20 </entry
+></row>
+<row>
+<entry
 >Cäsars <emphasis
 >Gallischer Krieg</emphasis
-></entry
-> <entry
+></entry>
+<entry
 >50-58 v.Chr.</entry
 ><entry
->900 n.Chr.</entry
-> <entry
+>900 n.Chr.</entry>
+<entry
 >950 Jahre</entry
 ><entry
->10</entry
-></row
-> <row
-> <entry
+>10 </entry
+></row>
+<row>
+<entry
 >Livius' <emphasis
 >Römische Geschichte</emphasis
-></entry
-> <entry
+></entry>
+<entry
 >59 v.Chr. - 17 n.Chr.</entry
 ><entry
->900 n.Chr.</entry
-> <entry
+>900 n.Chr.</entry>
+<entry
 >900 Jahre</entry
 ><entry
->20</entry
-></row
-> <row
-> <entry
->Neues Testament</entry
-> <entry
+>20 </entry
+></row>
+<row>
+<entry
+>Neues Testament</entry>
+<entry
 >40 n.Chr. - 100 n.Chr.</entry
 ><entry
 >130 n.Chr. Teile der Manuskripte. 350 n.Chr. alle Manuskripte</entry
@@ -107,8 +107,8 @@
 >30 - 310 Jahre</entry
 ><entry
 >5000 Grieschische &amp; 10,000 Lateinische </entry
-></row
-> </tbody
+></row>
+</tbody
 ></tgroup
 ></table>
 <para
@@ -117,11 +117,9 @@
 >, die erste wurde 900 Jahre nachdem Cäsars das Original schrieb, kopiert usw. Für das neue Testament haben wir vollständige Manuskripte, die auf 350 n.Chr. datiert werden; Schriftstücke aus den 200er Jahren, die den größten Teil des Neuen Testamentes enthalten und und Fragment des Johannesevangeliums von 130 n.Chr. Wie viele Ausgaben haben wir, um sie miteinander zu vergleichen? 500 in Griechisch und 10000 in Lateinisch! </para>
 <blockquote
 ><attribution
->Textual critic F. J. A. Hort, "The New Testament in the
-Original Greek", vol. 1 p561, Macmillan Co., quoted in <emphasis
+>Textual critic F. J. A. Hort, "The New Testament in the Original Greek", vol. 1 p561, Macmillan Co., quoted in <emphasis
 >Questions of Life</emphasis
-> p.
-25-26</attribution
+> p. 25-26</attribution
 ><para
 >"In der Wahrheit und Fülle der Beweise, auf der er aufbaut steht der Text des Neuen Testamentes absolut und unerreichbar alleine über den anderen alten Prosaschriften." </para
 ></blockquote>
@@ -150,12 +148,11 @@ Original Greek", vol. 1 p561, Macmillan Co., quoted in <emphasis
 ><attribution
 >John R.W. Stott, <emphasis
 >Christ the Controversialist</emphasis
->,
-InterVarsity Press 1978, pp.93-95 </attribution
+>, InterVarsity Press 1978, pp.93-95 </attribution
 ><para
 >Er bezog sich auf die menschlichen Autoren, aber aktzeptierte es als Tatsache, dass hinter ihnen allen ein göttlicher Autor stand. Er konnte sowohl 'Mose sagt' als auch 'Gott sagte' sagen (Markus 7,10). Er konnte einen Kommentar des Erzählers in 1. Mose 2,24 als einen Ausspruch des Schöpfers selbst zitieren (Matthäus 19,4-5). Ähnlich sagt Er 'Wie fein hat von euch Heuchlern Jesaja geweissagt, wie geschrieben steht', und das, was er weiter zitierte, war die direkte Rede Gottes, des Herrn (Markus 7,6 &amp; Jesaja 29,13). Durch Jesus selbst Jesus haben die Autoren des neuen Testamentes ihre Überzeugung der doppelten Urheberschaft der Schrift. Für sie wahr es genauso richtig zu sagen 'Nachdem Gott vorzeiten vielfach und auf vielerlei Weise geredet hat zu den Vätern durch die Propheten' (Hebräer 1,1) wie 'getrieben von dem heiligen Geist haben Menschen im Namen Gottes geredet' (2. Petrus 1,21) zu sagen. Gott hat weder in dieser Art und Weise gesprochen um die Persönlichkeit des menschlichen Autoren zu tilgen, noch haben Männer in dieser Art und Weise gesprochen um das Wort des göttlichen Autoren zu zerstören. God sprach. Männer sprachen. Keiner der beiden Wahrheiten ist es erlaubt von der anderen abzulenken. ... </para>
 <para
-> Dies war Christi Auffassung der Schriften. Ihr Zeuge war Gottes Zeuge. Das Zeugnis der Bibel ist das Zeugnis Gottes. Und der Hauptgrund, warum Christen an den göttlichen Ursprung der Bibel glauben ist, dass Jesus Christus selbst sie gelehrt hat. </para
+>Dies war Christi Auffassung der Schriften. Ihr Zeuge war Gottes Zeuge. Das Zeugnis der Bibel ist das Zeugnis Gottes. Und der Hauptgrund, warum Christen an den göttlichen Ursprung der Bibel glauben ist, dass Jesus Christus selbst sie gelehrt hat. </para
 ></blockquote>
 
 <para
@@ -169,82 +166,85 @@ InterVarsity Press 1978, pp.93-95 </attribution
 ><title
 >Ein Buch, das arbeitet</title>
 <para
-> Was wird das Studium der Bibel für sie tun? 1. Thessalonicher 2,14 sagt, dass die Bibel <emphasis
+>Was wird das Studium der Bibel für sie tun? 1. Thessalonicher 2,14 sagt, dass die Bibel <emphasis
 ><quote
 > auch wirkt in euch, die ihr glaubet.</quote
 > </emphasis
 > Schreiben Sie neben jede Schrift die Arbeit nieder, die das Wort durchführt. </para>
-<table
-> <title
->Was bringt das Bibelstudium für Christen?</title
-> <tgroup cols="2"
-> <thead
-> <row
-> <entry
->Referenz</entry
-> <entry
->Zweck</entry
-> </row
-> </thead
-> <tbody
-> <row
-> <entry
->Epheser 5,26 </entry
-> <entry
+<table>
+<title
+>Was bringt das Bibelstudium für Christen?</title>
+<tgroup cols="2">
+<thead>
+<row>
+<entry
+>Referenz</entry>
+<entry
+>Zweck</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry
+>Epheser 5,26 </entry>
+<entry
 >es reinigt -- <quote
 >[...] Er hat sie gereinigt durch das Wasserbad im Wort...</quote
-> </entry
-> </row
-> <row
-> <entry
-> Apostelgeschichte 20,32 </entry
-> <entry
-> es erbaut -- <quote
+> </entry>
+</row>
+<row>
+<entry
+>Apostelgeschichte 20,32 </entry>
+<entry
+>es erbaut -- <quote
 > Und nun befehle ich euch Gott und dem Wort seiner Gnade, der da mächtig ist, euch zu erbauen und euch das Erbe zu geben mit allen, die geheiligt sind. </quote
-> </entry
-> </row
-> <row
-> <entry
-> Römer 15,4 </entry
-> <entry
-> es ermutigt -- <quote
+> </entry>
+</row>
+<row>
+<entry
+>Römer 15,4 </entry>
+<entry
+>es ermutigt -- <quote
 >Denn was zuvor geschrieben ist, dass ist uns zur Lehre geschrieben, damit wir durch Geduld und den Trost der Schrift Hoffnung haben. </quote
-> </entry
-> </row
-> <row
-> <entry
-> Römer 10,17 </entry
-> <entry
-> es gibt Glauben -- <quote
+> </entry>
+</row>
+
+<row>
+<entry
+>Römer 10,17 </entry>
+<entry
+>es gibt Glauben -- <quote
 >So kommt der Glaube aus der Predigt, das Predigen aber durch das Wort Christi.</quote
-> </entry
-> </row
-> <row
-> <entry
-> 1. Korinther 10,11 </entry
-> <entry
-> es warnt -- <quote
+> </entry>
+</row>
+
+<row>
+<entry
+>1. Korinther 10,11 </entry>
+<entry
+>es warnt -- <quote
 > Die wiederfuhr ihnen als ein Vorbild. Es ist aber geschrieben uns zur Warnung [...]</quote
-> </entry
-> </row
-> <row
-> <entry
-> Matthäus 4,4 </entry
-> <entry
-> Nahrung -- <quote
+> </entry>
+</row>
+
+<row>
+<entry
+>Matthäus 4,4 </entry>
+<entry
+>Nahrung -- <quote
 >Er aber antwortete und sprach: Es steht geschrieben: "Der Mensch lebt nicht vom Brot allein, sondern von einem jeden Wort, das aus dem Wort Gottes geht."</quote
-> </entry
-> </row
-> </tbody
-> </tgroup
-> </table>
+> </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
 
 </section>
 <section id="h2-importance-liberates"
 ><title
 >Ein Buch, das befreit</title>
 <para
-> Johanner 8,32 <emphasis
+>Johanner 8,32 <emphasis
 ><quote
 >und werdet die Wahrheit erkennen, und die Wahrheit wird euch frei machen. </quote
 ></emphasis
@@ -273,56 +273,56 @@ InterVarsity Press 1978, pp.93-95 </attribution
 > Matthäus 22,29</para>
 <para
 >Welche beiden Dinge müssen wir kennen, um von Fehlern abgehalten zu werden?</para>
-<itemizedlist
-> <listitem
+<itemizedlist>
+<listitem
 ><para
 >Gottes Wort</para
-></listitem
-> <listitem
+></listitem>
+<listitem
 ><para
 >Gottes Kraft </para
-></listitem
-> </itemizedlist>
+></listitem>
+</itemizedlist>
 </section>
 <section id="h2-importance-wars"
 ><title
 >Ein Buch, das Krieg führt</title>
 <para
-> Epheser 6,10-18 ist ein Bild für unsere geistliche Bewaffnung.</para>
-<table
-> <title
->Geistliche Rüstung</title
-> <tgroup cols="2"
-> <thead
-> <row
-> <entry
->Frage</entry
-> <entry
->Antwort</entry
-> </row
-></thead
-> <tbody
-> <row
+>Epheser 6,10-18 ist ein Bild für unsere geistliche Bewaffnung.</para>
+<table>
+<title
+>Geistliche Rüstung</title>
+<tgroup cols="2">
+<thead>
+<row>
+<entry
+>Frage</entry>
+<entry
+>Antwort</entry>
+</row
+></thead>
+<tbody>
+<row
 ><entry
 >Wie viele der aufgelisteten Waffen sind Verteidigungswaffen?</entry
 ><entry
 >5</entry
-></row
-> <row
+></row>
+<row
 ><entry
 >Wie viele sind Angriffswaffen?</entry
 ><entry
 >Eine</entry
-></row
-> <row
+></row>
+<row
 ><entry
 >Welche? </entry
 ><entry
 >das Wort - <foreignphrase
 >rhema</foreignphrase
 ></entry
-></row
-> </tbody
+></row>
+</tbody
 ></tgroup
 ></table>
 </section>
@@ -330,13 +330,13 @@ InterVarsity Press 1978, pp.93-95 </attribution
 ><title
 >Ermahnungen</title>
 <para
-> 2. Thimotheus 2,15<emphasis
+>2. Thimotheus 2,15<emphasis
 ><quote
 >Bemühe dich darum, dich vor Gott zu erweisen als einen rechtschaffenen und untadeligen Arbeiter, der das Wort der Wahrheit recht austeilt.</quote
 ></emphasis
 > </para>
 <para
-> Kollosser 3,16<emphasis
+>Kollosser 3,16<emphasis
 ><quote
 > Laßt das Wort Christi reichlich unter euch wohnen: lehrt und ermahnt einander in aller Weisheit; mit Psalmen, Lobgesängen und geistlichen Liedern singt Gott dankbar in euren Herzen. </quote
 ></emphasis
@@ -345,10 +345,10 @@ InterVarsity Press 1978, pp.93-95 </attribution
 <para
 >Wen Sie in etwas reich sind, wie viel haben Sie dann davon? </para>
 <para
-> Nicht wenig!</para>
+>Nicht wenig!</para>
 
 <para
-> Prediger 12,11+12 <emphasis
+>Prediger 12,11+12 <emphasis
 ><quote
 >Die Worte der Weisen sind wie Stacheln, und wie eingeschlagene Nägel sind die einzelnen Sprüche; sie sind von einem Hirten gegeben. Und über dem allen, mein Sohn, laß dich warnen; denn des vielen Büchermachens ist kein Ende, und viel Studieren macht den Leib müde. </quote
 ></emphasis
@@ -363,8 +363,8 @@ InterVarsity Press 1978, pp.93-95 </attribution
 <blockquote>
 <attribution
 >John R. W. Stott, <emphasis
->Christ the Controversialist,</emphasis>
-InterVarsity Press 1978, pp.106-107</attribution
+>Christ the Controversialist,</emphasis
+> InterVarsity Press 1978, pp.106-107</attribution
 > <para
 >Die Wahrheit betreffend der Endgültigkeit Gottes Initiative in Christus wird durch ein Wort des Griechischen Testamentes ausgedrückt, nämlich durch das Adverb <foreignphrase
 >hapax</foreignphrase
@@ -378,7 +378,7 @@ InterVarsity Press 1978, pp.106-107</attribution
 ></emphasis
 > (Römer 6,10, siehe auch 1. Petrus 3,18; Hebräer 9,26-28). </para
 > <para
-> Folglich können wir sagen, dass Gott einmal für immer gesprochen hat und das Christus einmal für immer gelitten hat. Dies bedeutet, dass die christliche Offenbarung und die christliche Erlösung gleicherweise in Christus erfüllt sind. Nichts kann zu beiden hinzugefügt werden ohne schadend für Christus zu sein... Die beiden Fundamente [<emphasis
+>Folglich können wir sagen, dass Gott einmal für immer gesprochen hat und das Christus einmal für immer gelitten hat. Dies bedeutet, dass die christliche Offenbarung und die christliche Erlösung gleicherweise in Christus erfüllt sind. Nichts kann zu beiden hinzugefügt werden ohne schadend für Christus zu sein... Die beiden Fundamente [<emphasis
 >Anm. d. Übers. eigentlich rock = Felsen</emphasis
 >] auf die die protestantische Reformation aufgebaut wurde sind -- Gottes offenbartes Wort ohne den Ergänzungen menschlicher Traditionen und Christi vollendetes Werk ohne den Ergänzungen menschlicher Verdienste. Die großen Losungen der Reformer waren <foreignphrase
 >sola scriptura</foreignphrase
@@ -392,30 +392,29 @@ InterVarsity Press 1978, pp.106-107</attribution
 ><title
 >Anhang: Bibellesepläne</title
 > <para
-> Hier sind einige einfache Programme für Sie, um systematisch ihre Bibel zu lesen. Sie können mehrere gleichzeitig durchführen, so zum Beispiel #1 mit #4 oder #2 mit #5. Verändern Sie das Programm von Jahr zu Jahr um es frisch zu halten. </para>
-<orderedlist numeration="arabic"
-> <listitem
+>Hier sind einige einfache Programme für Sie, um systematisch ihre Bibel zu lesen. Sie können mehrere gleichzeitig durchführen, so zum Beispiel #1 mit #4 oder #2 mit #5. Verändern Sie das Programm von Jahr zu Jahr um es frisch zu halten. </para>
+<orderedlist numeration="arabic">
+<listitem
 ><para
 >Das neue Testament in einem Jahr: Lesen Sie jeden Tag ein Kapitel, fünf Tage die Woche.</para
-></listitem
-> <listitem
+></listitem>
+<listitem
 ><para
 > Die Sprüche in einem Monat: Lesen Sie jeden Tag ein Kapitel der Sprüche, dem aktuellen Tag des Monats entsprechend.</para
-></listitem
-> <listitem
+></listitem>
+<listitem
 ><para
 >Die Psalmen in einem Monat: Lesen Sie täglich 5 Psalmen in einem Intervall von 30, am 20. müssten Sie zum Beispiel die Psalmen 20,50,80,110 &amp; 140 lesen.</para
-></listitem
-> <listitem
+></listitem>
+<listitem
 ><para
 >Psalme &amp; Sprüche in 6 Monaten: Lesen Sie sich durch die Psalmen und Sprüche mit einem Kapitel täglich.</para
-></listitem
-> <listitem
+></listitem>
+<listitem
 ><para
 >Das alte Testament ohne Psalmen und Sprüchen in 2 Jahren: Wenn Sie täglich ein Kapitel lesen und wenn sie die Psalmen und Sprüche auslassen, werden Sie das alte Testament in 2 Jahren und 2 Wochen durchlesen. </para
-></listitem
-> </orderedlist>
+></listitem>
+</orderedlist>
 </section>
 </chapter>
-
 

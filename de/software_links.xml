@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_links">
-<config param="desc" value="Link collection"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Link collection"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Verweise</title>
@@ -19,10 +21,10 @@
 ><title
 >Liste wichtiger christlicher Seiten</title>
 <para
-> Es gibt jede Menge anderer christlicher Seiten im World Wide Web. Einige sind mehr, andere weniger wichtig. Wir haben eine Liste zusammengestellt, die unserer Meinung nach wichtig sind. </para>
+>Es gibt jede Menge anderer christlicher Seiten im World Wide Web. Einige sind mehr, andere weniger wichtig. Wir haben eine Liste zusammengestellt, die unserer Meinung nach wichtig sind. </para>
 
 <para
-> Da wir nicht Autor der verlinkten Seiten sind, sind wir nicht für deren Inhalt verantwortlich. Wir distanzieren und ausdrücklich vom Inhalt der Seiten, auf die wir verweisen. Dies ist erforderlich, weil deutsches Recht aussagt, dass man selbst für den Inhalt der verlinkten Seiten ist, außer man distanziert sich ausdrücklich vom Inhalt dieser Seiten. </para>
+>Da wir nicht Autor der verlinkten Seiten sind, sind wir nicht für deren Inhalt verantwortlich. Wir distanzieren und ausdrücklich vom Inhalt der Seiten, auf die wir verweisen. Dies ist erforderlich, weil deutsches Recht aussagt, dass man selbst für den Inhalt der verlinkten Seiten ist, außer man distanziert sich ausdrücklich vom Inhalt dieser Seiten. </para>
 
 	<section
 ><title
@@ -33,7 +35,7 @@
 >Bible Technologies Group</ulink
 >.</title>
 			<para
-> Das Zuhause des neuen Textaustausch-Formates OSIS, welches hoffentlich von vielen Bibelgesellschaften und Verlagen der Welt benutzt werden wird. </para>
+>Das Zuhause des neuen Textaustausch-Formates OSIS, welches hoffentlich von vielen Bibelgesellschaften und Verlagen der Welt benutzt werden wird. </para>
 		</formalpara>
 
 		<formalpara
@@ -42,7 +44,7 @@
 >CrossWire Bible Society</ulink
 >.</title>
 			<para
-> Die Crosswire Bibelgesellschaft ist eine der wenigen christlichen Organisationen der Erde, die alles was die herstellen, kostenlos für alle anbieten! Crosswire unterstützt das Sword Projekt, das KJV2003 Projekt und einige andere großartige Dinge. </para>
+>Die Crosswire Bibelgesellschaft ist eine der wenigen christlichen Organisationen der Erde, die alles was die herstellen, kostenlos für alle anbieten! Crosswire unterstützt das Sword Projekt, das KJV2003 Projekt und einige andere großartige Dinge. </para>
 		</formalpara>
 	</section>
 
@@ -55,7 +57,7 @@
 >Gnomesword</ulink
 >.</title>
 			<para
-> Gnomesword ist ein Sword Frontend für Gnome. Eine wirklich gelungene Anwendung. Probieren Sie sie auf jeden Fall aus! </para>
+>Gnomesword ist ein Sword Frontend für Gnome. Eine wirklich gelungene Anwendung. Probieren Sie sie auf jeden Fall aus! </para>
 		</formalpara>
 	</section>
 
@@ -69,7 +71,7 @@
 >BibleWorks</ulink
 >.</title>
 			<para
-> BibleWorks ist eines der besten Bibelstudien-Programme für Windows!  Sehr gut, aber auch sehr teuer. Die Software ist nur für Theologie-Studenten wirklich nützlich! </para>
+>BibleWorks ist eines der besten Bibelstudien-Programme für Windows!  Sehr gut, aber auch sehr teuer. Die Software ist nur für Theologie-Studenten wirklich nützlich! </para>
 		</formalpara>
 
 		<formalpara
@@ -78,7 +80,7 @@
 >BibleWorkshop</ulink
 >.</title>
 			<para
-> Das Bible Workshop Programm ist eine mächtiges Bibelstudien Anwendung für Windows, die in Englisch, Deutsch und Französisch verfügbar ist. Es ist möglich BibleWorkshop durch Text-Bibliotheken zu erweitern, die sie kaufen können. </para>
+>Das Bible Workshop Programm ist eine mächtiges Bibelstudien Anwendung für Windows, die in Englisch, Deutsch und Französisch verfügbar ist. Es ist möglich BibleWorkshop durch Text-Bibliotheken zu erweitern, die sie kaufen können. </para>
 		</formalpara>
 
 		<formalpara
@@ -87,7 +89,7 @@
 >Logos</ulink
 >.</title>
 			<para
-> Logos ist eine der besten Bibelstudienprogramm für Windows.Sie können sehr, sehr viele Text dazukaufen, um die Software zu erweitern. </para>
+>Logos ist eine der besten Bibelstudienprogramm für Windows.Sie können sehr, sehr viele Text dazukaufen, um die Software zu erweitern. </para>
 		</formalpara>
 
 		<formalpara
@@ -96,7 +98,7 @@
 >OnlineBible</ulink
 >.</title>
 			<para
-> Die Online Bibel ist ein mächtiges Bibelstudien Programm für Windows. </para>
+>Die Online Bibel ist ein mächtiges Bibelstudien Programm für Windows. </para>
 		</formalpara>
 
 		<formalpara
@@ -105,7 +107,7 @@
 >Sword für Windows</ulink
 >.</title>
 			<para
-> Dies ist das Windows Bibelprogramm des Sword Teams! Sword wird von der Crosswire Bibelgesellschaft unterstützt. </para>
+>Dies ist das Windows Bibelprogramm des Sword Teams! Sword wird von der Crosswire Bibelgesellschaft unterstützt. </para>
 		</formalpara>
 
 		<formalpara
@@ -114,7 +116,7 @@
 >Volksbibel</ulink
 >.</title>
 			<para
-> Volksbibel 2000.2 ist ein deutsches, metacard basiertes Bibelstudien-Programm für Windows, Linux und Mac. Obwohl nicht so viele Texte wie bei anderen Software-Paketen verfügbar sind, verfügt das Programm über Dinge wie Grundlagen von Landkarten-Unterstützung. Wenn Sie Deutscher sind, probieren Sie es aus! </para>
+>Volksbibel 2000.2 ist ein deutsches, metacard basiertes Bibelstudien-Programm für Windows, Linux und Mac. Obwohl nicht so viele Texte wie bei anderen Software-Paketen verfügbar sind, verfügt das Programm über Dinge wie Grundlagen von Landkarten-Unterstützung. Wenn Sie Deutscher sind, probieren Sie es aus! </para>
 		</formalpara>
 	</section>
 
@@ -128,7 +130,7 @@
 >MacSword für OS X</ulink
 >.</title>
 			<para
-> MacSword ist ein neues Bibelstudienprogramm für das neue Macintosh OS X System. Die Bildschirmfotos sehen sehr vielversprechend aus! </para>
+>MacSword ist ein neues Bibelstudienprogramm für das neue Macintosh OS X System. Die Bildschirmfotos sehen sehr vielversprechend aus! </para>
 		</formalpara>
 	</section>
 
@@ -142,11 +144,10 @@
 >SourceForge</ulink
 >.</title>
 			<para
-> SourceForge  stellt uns die Werkzeuge zur Verfuegung um BibleTime mit vielen Team-Mitgliedern zur gleichen Zeit su entwickeln! Wie sparen eine Menge Zeit und Geld durch Benutzung des SourceForge Services. </para>
+>SourceForge  stellt uns die Werkzeuge zur Verfuegung um BibleTime mit vielen Team-Mitgliedern zur gleichen Zeit su entwickeln! Wie sparen eine Menge Zeit und Geld durch Benutzung des SourceForge Services. </para>
 		</formalpara>
 	</section>
 
 </section>
 
 </webpage>
-

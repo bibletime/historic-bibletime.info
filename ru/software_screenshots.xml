@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_screenshots">
-<config param="desc" value="News"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="News"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Скриншоты</title>
@@ -16,66 +18,68 @@
 
 <section
 ><title
->Screenshots of BibleTime</title>
+>Скриншоты BibleTime</title>
 
-	<mediaobject
-> <caption
-> <formalpara
+	<mediaobject>
+		<caption>
+			<formalpara
 ><title
->New Sword setup dialog</title
-> <para
-> Since version 1.4 BibleTime offers a new dialog to manage Sword modules. It is now possible to setup Sword's configuration, install modules and uninstall modules using a userfriendly interface. <ulink url="/images//screenshots/3-large.jpg"
->Large screenshot</ulink
-> </para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/screenshots/3.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Improvements in BibleTime 1.4</phrase
-> </textobject
-> </mediaobject>
-
-	<mediaobject
-> <caption
-> <formalpara
-><title
->Улучшения в 1.3</title
-> <para
-> Здесь вы можете увидеть некоторые улучшения BibleTime 1.3. Навигация слева теперь разбита по типам модулей и языку. Греческий текст в правом окне теперь отображается лучше, потому что BibleTime теперь поддерживает особые настройки шрифтов для каждого языка. <ulink url="/images//screenshots/1-large.jpg"
+>Новый диалог установки Sword</title>
+				<para
+>Начиная с версии 1.4 BibleTime предлагает новый диалог для управления модулями Sword. Теперь можно настроить конфигурацию Sword, установить и удалить модули, используя дружелюбный интерфейс. <ulink url="/images//screenshots/3-large.jpg"
 >Большой скриншот</ulink
-> </para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/screenshots/1.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Улучшения в BibleTime 1.3</phrase
-> </textobject
-> </mediaobject>
+> </para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/screenshots/3.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Улучшения в BibleTime 1.4</phrase>
+		</textobject>
+	</mediaobject>
 
-	<mediaobject
-> <caption
-> <formalpara
+	<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Новый поисковый диалог</title
-> <para
-> Диалог поиска в предыдущих версиях было не так-то просто использовать. Это новый диалог поиска вместе с новым окном для выбора модулей справа. <ulink url="/images/screenshots/2-large.jpg"
+>Улучшения в 1.3</title>
+				<para
+>Здесь вы можете увидеть некоторые улучшения BibleTime 1.3. Навигация слева теперь разбита по типам модулей и языку. Греческий текст в правом окне теперь отображается лучше, потому что BibleTime теперь поддерживает особые настройки шрифтов для каждого языка. <ulink url="/images//screenshots/1-large.jpg"
 >Большой скриншот</ulink
-> </para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/screenshots/2.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Новый поисковый диалог</phrase
-> </textobject
-> </mediaobject>
+> </para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/screenshots/1.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Улучшения в BibleTime 1.3</phrase>
+		</textobject>
+	</mediaobject>
+
+	<mediaobject>
+		<caption>
+			<formalpara
+><title
+>Новый поисковый диалог</title>
+				<para
+>Диалог поиска в предыдущих версиях было не так-то просто использовать. Это новый диалог поиска вместе с новым окном для выбора модулей справа. <ulink url="/images/screenshots/2-large.jpg"
+>Большой скриншот</ulink
+> </para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/screenshots/2.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Новый поисковый диалог</phrase>
+		</textobject>
+	</mediaobject>
 
 </section>
 
 </webpage>
-

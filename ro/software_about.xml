@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_about">
-<config param="desc" value="Software page"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Software page"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Despre BibleTime</title>
@@ -18,33 +20,32 @@
 ><title
 >Istoria BibleTime</title>
 <para
-> In iunie 1999 Thomas Hagedorn, Thorsten Uhlmann si Joachim Ansorg au inceput sa lucreze la dezvoltarea unei aplicatii de studiere a Bibliei pentru KDE 1.0. </para>
+>In iunie 1999 Thomas Hagedorn, Thorsten Uhlmann si Joachim Ansorg au inceput sa lucreze la dezvoltarea unei aplicatii de studiere a Bibliei pentru KDE 1.0. </para>
 
 <para
-> Prima versiune a fost lansata doua luni mai tarziu ca versiunea 0.1. Aceasta era foarte simpla si avea doar cateva optiuni de baza. </para>
+>Prima versiune a fost lansata doua luni mai tarziu ca versiunea 0.1. Aceasta era foarte simpla si avea doar cateva optiuni de baza. </para>
 
 <para
-> Dupa trei luni de munca grea a fost lansata catre public versiunea 0.2. Acesta versiune era utila, avea comenzi minime de tiparit, de cautare si oferea un editor simplu pentru insemnari personale. </para>
+>Dupa trei luni de munca grea a fost lansata catre public versiunea 0.2. Acesta versiune era utila, avea comenzi minime de tiparit, de cautare si oferea un editor simplu pentru insemnari personale. </para>
 
 <para
-> BibleTime 0.2. a fost mai tarziu portat pentru KDE 2 si refacut cu o interfata mai puternica, o mai buna tiparire si cu o multime de schimbari interne. Acesta versiune a fost numita BibleTime 0.3. </para>
+>BibleTime 0.2. a fost mai tarziu portat pentru KDE 2 si refacut cu o interfata mai puternica, o mai buna tiparire si cu o multime de schimbari interne. Acesta versiune a fost numita BibleTime 0.3. </para>
 
 <para
-> BibleTime 1.0, care a fost lansat aproape la un an de versiunea 0.3, a fost prima versiune pe care am considerat-o ca stabila. </para>
+>BibleTime 1.0, care a fost lansat aproape la un an de versiunea 0.3, a fost prima versiune pe care am considerat-o ca stabila. </para>
 
 <para
-> BibleTime 1.1 si 1.2 au urmat mai tarziu. BibleTime 1.2 este prima versiune a BibleTime pentru KDE 3.0. </para>
+>BibleTime 1.1 si 1.2 au urmat mai tarziu. BibleTime 1.2 este prima versiune a BibleTime pentru KDE 3.0. </para>
 </section>
 
 <section
 ><title
 >BibleTime in viitor</title>
 <para
-> Suntem recunoscatori pentru ca Dumnezeu ne-a sprijinit si ca a binecuvantat lucrarea noastra cu noi membrii de echipa. Dumnezeu e bun! </para>
+>We're grateful that God supports us and that He blesses our work with new team members. God is good! </para>
 
 <para
-> We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application. </para>
+>We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application. </para>
 </section>
 
 </webpage>
-

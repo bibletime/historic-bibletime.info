@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_screenshots">
-<config param="desc" value="News"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="News"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Bildschirmfotos</title>
@@ -18,64 +20,66 @@
 ><title
 >Bildschirmfotos von BibleTime</title>
 
-	<mediaobject
-> <caption
-> <formalpara
+	<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Neuer Sword Konfigurationsdialog</title
-> <para
-> Setit Version 1.4 bietet BibleTime einen neuen Dialog um Sword Module zu verwalten. Es ist nun möglich, Sword zu konfigurieren, Module zu installieren und wieder zu löschen - alles mit einer benutzerfreundlichen Oberfläche. <ulink url="/images//screenshots/3-large.jpg"
+>Neuer Sword Konfigurationsdialog</title>
+				<para
+>Setit Version 1.4 bietet BibleTime einen neuen Dialog um Sword Module zu verwalten. Es ist nun möglich, Sword zu konfigurieren, Module zu installieren und wieder zu löschen - alles mit einer benutzerfreundlichen Oberfläche. <ulink url="/images//screenshots/3-large.jpg"
 >Großes Bildschirmfoto</ulink
-> </para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/screenshots/3.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Verbesserungen in BibleTime 1.4</phrase
-> </textobject
-> </mediaobject>
+> </para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/screenshots/3.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Verbesserungen in BibleTime 1.4</phrase>
+		</textobject>
+	</mediaobject>
 
-	<mediaobject
-> <caption
-> <formalpara
+	<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Verbesserungen in 1.3</title
-> <para
-> Hier können Sie einige Verbesserungen in BibleTime 1.3 sehen. Der Baum auf der linken Seite wird nun in Modulart und Sprache eingeteilt.Der grieschische Texte im Anzeigefenster rechts wird nun besser angezeigt, da BibleTime jetzt eigene Schrifteinstellungen jeder Sprache unterstützt. <ulink url="/images//screenshots/1-large.jpg"
+>Verbesserungen in 1.3</title>
+				<para
+>Hier können Sie einige Verbesserungen in BibleTime 1.3 sehen. Der Baum auf der linken Seite wird nun in Modulart und Sprache eingeteilt.Der grieschische Texte im Anzeigefenster rechts wird nun besser angezeigt, da BibleTime jetzt eigene Schrifteinstellungen jeder Sprache unterstützt. <ulink url="/images//screenshots/1-large.jpg"
 >Großes Bildschirmfoto</ulink
->, </para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/screenshots/1.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Verbesserungen in BibleTime 1.3</phrase
-> </textobject
-> </mediaobject>
+>, </para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/screenshots/1.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Verbesserungen in BibleTime 1.3</phrase>
+		</textobject>
+	</mediaobject>
 
-	<mediaobject
-> <caption
-> <formalpara
+	<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Neues Suchdialog</title
-> <para
-> Der Suchdialog früherer Versionen war nicht einfach zu benutzen. Dies ist der neue Suchdialog mit der neuen Modulauswahl auf der rechten Seite.<ulink url="/images/screenshots/2-large.jpg"
+>Neues Suchdialog</title>
+				<para
+>Der Suchdialog früherer Versionen war nicht einfach zu benutzen. Dies ist der neue Suchdialog mit der neuen Modulauswahl auf der rechten Seite.<ulink url="/images/screenshots/2-large.jpg"
 >Großes Bildschirmfoto</ulink
-> </para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/screenshots/2.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Neues Suchdialog</phrase
-> </textobject
-> </mediaobject>
+> </para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/screenshots/2.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Neues Suchdialog</phrase>
+		</textobject>
+	</mediaobject>
 
 </section>
 
 </webpage>
-

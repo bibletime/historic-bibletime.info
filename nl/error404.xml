@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="error404">
-<config param="desc" value="404: Not found"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="404: Not found"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >Foutmelding</title>
@@ -18,12 +20,12 @@
 ><title
 >Het document is niet beschikbaar</title>
 <para
-> Het document dat u wilde zien is niet beschikbaar op <ulink url="http://www.bibletime.info/"
+>Het document dat u wilde zien is niet beschikbaar op <ulink url="http://www.bibletime.info/"
 >www.bibletime.info</ulink
 >. Gebruik de navigatieboom links om te zien of het document is verhuist. </para>
 
 <para
-> Als u het probleem niet kunt verhelpen meld dan de niet-werkende URL aan <email
+>Als u het probleem niet kunt verhelpen meld dan de niet-werkende URL aan <email
 >info@bibletime.info</email
 >. Dank u! </para>
 
@@ -36,4 +38,3 @@ Local variables:
 mode: docbook
 End:
 -->
-

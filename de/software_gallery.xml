@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_gallery">
-<config param="desc" value="Gallery"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Gallery"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Galerie</title>
@@ -27,203 +29,212 @@
 >Code2000</ulink
 > angefertigt. Klicken sie auf die Vorschau-Bilder, um eine große und detailreiche Version jedes Screenshots zu betrachten.</para>
 
-	<mediaobject
-> <caption
-> <formalpara
+	<mediaobject>
+		<caption>
+			<formalpara
 ><title
->BHS - Darstellung von Hebräisch</title
-> <para
+>BHS - Darstellung von Hebräisch</title>
+				<para
 >Die <emphasis
 >BHS</emphasis
 > (Abkürzung von <emphasis
 >Biblia Hebraica Stuttgartensia</emphasis
->),  der beste verfügbare Text des alten Testamentes.</para
-> <para
+>),  der beste verfügbare Text des alten Testamentes.</para>
+				<para
 >Wie Sie sehen wird der Text von BibleTime korrekt von rechts nach links angezeigt. Diejenigen, die Hebräisch beherschen werden bemerken, dass die Vokal- und Kantillationszeichen (beide können an- und ausgeschaltet werden) korrekt angezeigt werden: <ulink url="/images/gallery/bhs.png"
 >Großes Bildschirmfoto</ulink
-> </para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/bhs_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->BHS - Darstellung von Hebräisch</phrase
-> </textobject
-> </mediaobject>
+> </para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/bhs_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>BHS - Darstellung von Hebräisch</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Peshitta - frühe syrische Übersetzung</title
-> <para
+>Peshitta - frühe syrische Übersetzung</title>
+				<para
 >Die <emphasis
 >Peshitta</emphasis
-> enthält einen frühen syrischen Text, von rechts nach links laufend.</para
-> <para
+> enthält einen frühen syrischen Text, von rechts nach links laufend.</para>
+				<para
 >QT zeigt diesen Text mit Code2000 seht gut an, welche eine der wenigen Schriftarten ist, die syrische Zeichen unterstützen <ulink url="/images/gallery/peshitta.png"
 >Großes Bildschirmfoto</ulink
->.</para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/peshitta_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Peshitta - frühe syrische Übersetzung</phrase
-> </textobject
-> </mediaobject>
+>.</para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/peshitta_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Peshitta - frühe syrische Übersetzung</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Die Arabische Bibel</title
-> <para
+>Die Arabische Bibel</title>
+				<para
 ><emphasis
 >AraSVD</emphasis
 >: Die arabische Bibel. Ein schönes Beispiel für rechts-nach-links Darstellung einer komplizierten Sprache. Arabisch ist eine der kompliziertesten Sprachen der Erde.Dieses Bildschirmfoto wurde erstellt, nachdem die Zeilenumbrüche ausgeschaltet wurden, damit eine höhere Lesbarkeit entsteht. <ulink url="/images/gallery/arasvd.png"
 >Großes Bildschirmfoto</ulink
->.</para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/arasvd_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Die Arabische Bibel</phrase
-> </textobject
-> </mediaobject>
+>.</para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/arasvd_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Die Arabische Bibel</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Darstellung von Chinesisch</title
-> <para
+>Darstellung von Chinesisch</title>
+				<para
 ><emphasis
 >ChiGU</emphasis
 >: Chinesischer Bibeltext.  Seit Qt 3 kann BibleTime die Absätze richtig umbrechen (wie Sie vielleicht wissen gibt es keine Leerzeichen zwischen Wörten). <ulink url="/images/gallery/chigu.png"
 >Großes Bildschirmfoto</ulink
->.</para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/chigu_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Darstellung von Chinesisch</phrase
-> </textobject
-> </mediaobject>
+>.</para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/chigu_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Darstellung von Chinesisch</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Darstellung von Griechisch mit Strong-Nummern und morphologischen Markern.</title
-> <para
+>Darstellung von Griechisch mit Strong-Nummern und morphologischen Markern.</title>
+				<para
 ><emphasis
 >IGNT</emphasis
 >: Ein interlineares griechisches Neues Testament.. Die grünen Zahlen in "<![CDATA[< 
 >]]>" Klammern sind Stronnummern,  die Nummern in  "( )" Klammern sind Morphologische Informationen.  Beide können in einem Tooltip unter Benutzung der vordefinierten Strong- und Morphologischen Lexika angezeigt werden, wie Sie im Beispiel sehen können. <ulink url="/images/gallery/ignt.png"
 >Großes Bildschirmfoto</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/ignt_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Darstellung von Griechisch mit Strong-Nummern und morphologischen Markern.</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/ignt_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Darstellung von Griechisch mit Strong-Nummern und morphologischen Markern.</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Koreanisch und Thai</title
-> <para
+>Koreanisch und Thai</title>
+				<para
 ><emphasis
 >Kor</emphasis
 > and <emphasis
 >ThaiKJV</emphasis
 >. Koreanisch und Thai sind sehr gute Unicode-Beispiele, für die bereits einige Schriftarten verfgbar sind. Die beiden Texte werden in Parallelansicht in einem Fenster angezeigt. Die erste Zeile des Thai Textes ist etwas kleiner, da es eine Abschnittsüberschrift ist. Diese können auch mit dem ersten Knopf der Werkzeugleiste im Fenster ausgeschaltet werden. <ulink url="/images/gallery/korthai.png"
 >Großes Bildschirmfoto.</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/korthai_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Koreanisch und Thai</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/korthai_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Koreanisch und Thai</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Bulgarisch und Fußnoten</title
-> <para
+>Bulgarisch und Fußnoten</title>
+				<para
 ><emphasis
 >Bulgarisch</emphasis
 >: Die Bibel in bulgarischer Sprache. Bulgrisch benutzt den Kyrillischen Zeichensatz, der auch in anderen Sprachen wie Russisch benutzt wird. Achten Sie auf den markierten Text, der eine "Fußnote"  ist. Das Aufklappmenü zeigt, wie diese an- und ausgeschtet werden können. <ulink url="/images/gallery/bulgarian.png"
 >Großes Bildschirmfoto</ulink
->.</para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/bulgarian_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Bulgarisch und Fußnoten</phrase
-> </textobject
-> </mediaobject>
+>.</para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/bulgarian_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Bulgarisch und Fußnoten</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Vietnamesisch und Rumänisch</title
-> <para
+>Vietnamesisch und Rumänisch</title>
+				<para
 ><emphasis
 >Viet</emphasis
 > und <emphasis
 >RomCor</emphasis
 >.  Osteurope trifft auf Ostasien! Vietnamesisch und Rumänisch sind nicht miteinander verwandt, obwohl sie auf den Bildschirmfoto ähnlich aussehen. <ulink url="/images/gallery/vietromcor.png"
 >Großes Bildschirmfoto</ulink
->.</para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/vietromcor_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Vietnamesisch und Rumänisch</phrase
-> </textobject
-> </mediaobject>
+>.</para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/vietromcor_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Vietnamesisch und Rumänisch</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Esperanto ohne Versnummern und Zeilenumbrüchen.</title
-> <para
+>Esperanto ohne Versnummern und Zeilenumbrüchen</title>
+				<para
 >Ja, es gibt eine Bibel für diejenigen, die es vorziehen Esperanto zu sprechen. Dies ist nicht wirklich ein Beispiel für Unicode, da die  angezeigten Zeichen aus dem iso-8859-1 Zeichensatz stammen. Aber es wird gezeigt, wie der Text nach dem Abschalten von Versnummern und Zeilenumbrüchen aussieht.  <ulink url="/images/gallery/esperanto.png"
 >Großes Bildschirmfoto</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/esperanto_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Esperanto ohne Versnummern und Zeilenumbrüchen.</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/esperanto_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Esperanto ohne Versnummern und Zeilenumbrüchen</phrase>
+		</textobject>
+	</mediaobject>
 
 <!-- This is the template.
 
@@ -252,4 +263,3 @@
 </section>
 
 </webpage>
-

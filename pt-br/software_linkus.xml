@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_linkus">
-<config param="desc" value="Link to us"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Link to us"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Link para nós</title>
@@ -18,13 +20,13 @@
 ><title
 >Como criar um link para www.bibletime.info</title>
 <para
-> Por favor não copie as imagens porque elas podem mudar o desenho </para>
+>Por favor não copie as imagens porque elas podem mudar o desenho </para>
 
 <section
 ><title
 >Banner maior</title>
 <para
-> Coloque o seguinte código HTML em sua página: <programlisting>
+>Coloque o seguinte código HTML em sua página: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank">
  <img src="http://www.bibletime.info/images/banner/big.jpg" width="312" height="60" border="0"/>
@@ -44,7 +46,7 @@
 ><title
 >Banner menor</title>
 <para
-> Coloque o seguinte código HTML em sua página: <programlisting>
+>Coloque o seguinte código HTML em sua página: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank">
  <img src="http://www.bibletime.info/images/banner/small.jpg" width="88" height="31" border="0"/>
@@ -65,7 +67,7 @@
 ><title
 >Link de texto</title>
 <para
-> Para inserir um link apenas com texto use o seguinte código HTML em sua página: <programlisting>
+>Para inserir um link apenas com texto use o seguinte código HTML em sua página: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" TARGET="_blank">
  BibleTime - Software de Estudo Bíblico para o KDE
@@ -79,4 +81,3 @@
 
 </section>
 </webpage>
-

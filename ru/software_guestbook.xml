@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_guestbook">
-<config param="desc" value="News"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="News"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Гостевая книга</title>
@@ -18,15 +20,15 @@
 ><title
 >Гостевая книга BibleTime</title>
 	<para
-> На этой странице вы найдете гостевую книгу BibleTime. Если вы хотите, оставьте ваши комментарии. Пожалуйста, если можете, пишите по английски. HTML не допускается и будет удалён. Вы можете использовать обычные переводы строк для деления на параграфы.  </para>
+>На этой странице вы найдете гостевую книгу BibleTime. Если вы хотите, оставьте ваши комментарии. Пожалуйста, если можете, пишите по английски. HTML не допускается и будет удалён. Вы можете использовать обычные переводы строк для деления на параграфы.  </para>
 
 <section
 ><title
->Please add your comments to our guestbook!</title>
-<ssi mode="exec" cgi="/guestbook.pl"/>
+>Пожалуйста добавьте ваш комментарий в нашу гостевую книгу!</title>
+<ssi mode="exec" cgi="/guestbook.pl"
+></ssi>
 </section>
 
 </section>
 
 </webpage>
-

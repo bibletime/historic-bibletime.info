@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="translation">
-<config param="desc" value="Software page"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Software page"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >Übersetzung</title>
@@ -18,29 +20,29 @@
 ><title
 >Helfen Sie BibleTime in ihre Sprache zu übersetzen</title>
 <para
-> Dies ist ein Teil der Softwareentwicklung in dem die Hilfe vieler benötigt wird. Wir möchten den Benutzern BibleTIme in möglichst vielen Sprachen zur Verfügung stellen.In den folgenden Bereichen besteht Möglichkeit zur Mithilfe: <orderedlist numeration="arabic"
-> <listitem
+>Dies ist ein Teil der Softwareentwicklung in dem die Hilfe vieler benötigt wird. Wir möchten den Benutzern BibleTIme in möglichst vielen Sprachen zur Verfügung stellen.In den folgenden Bereichen besteht Möglichkeit zur Mithilfe: <orderedlist numeration="arabic">
+	<listitem
 ><para
->Übersetzung der www.bibletime.info Seiten</para
-></listitem
-> <listitem
+>Übersetzung der www.bibletime.info Seiten.</para
+></listitem>
+	<listitem
 ><para
 >Übersetzung der Programmoberfläche</para
-></listitem
-> <listitem
+></listitem>
+	<listitem
 ><para
 >Übersetzung des Programm-Handbuchs</para
-></listitem
-> </orderedlist
-> </para>
+></listitem>
+</orderedlist>
+</para>
 
 <para
-> Auf dieser Seite können Sie Statistiken über die Vollständigkeit der bestehenden Übersetzungen in jedem dieser Bereiche sehen, aber auch Verweise auf Übersetzungsvorlagen die Sie benutzen können um neue Übersetzungen zu erstellen, die noch nicht vorhanden waren.  Wenn eine Übersetzung in ihrer Sprache noch nicht existiert, laden Sie einfach die Vorlage herunter, übersetzen Sie diese und schicken Sie diese an  <email
+>Auf dieser Seite können Sie Statistiken über die Vollständigkeit der bestehenden Übersetzungen in jedem dieser Bereiche sehen, aber auch Verweise auf Übersetzungsvorlagen die Sie benutzen können um neue Übersetzungen zu erstellen, die noch nicht vorhanden waren.  Wenn eine Übersetzung in ihrer Sprache noch nicht existiert, laden Sie einfach die Vorlage herunter, übersetzen Sie diese und schicken Sie diese an  <email
 >info@bibletime.info</email
 >. Wenn Sie mit dem Status der Übersetzung in ihrer Sprache zufrieden sind, dann laden Sie sich die entsprechende Datei herunter, korrigieren Sie diese und schicken Sie diese an uns. In beiden Fällen werden wir sicherstellen die Arbeit so schnell wir möglich zu integrieren. </para>
 
 <para
-> Für die Übersetzungsarbeit empfehlen wir ihnen das wirklich gute Programm <ulink url="http://i18n.kde.org/tools/kbabel/"
+>Für die Übersetzungsarbeit empfehlen wir ihnen das wirklich gute Programm <ulink url="http://i18n.kde.org/tools/kbabel/"
 >KBabel</ulink
 >. Es verfügt über viele erweiterte Funktionen und ist eine große Hilfe. </para>
 </section>
@@ -50,31 +52,33 @@
 ><title
 >Übersetzung der www.bibletime.info Seiten</title>
 <para
-> Wenn eine Übersetzung der Webseite in ihrer Sprache noch nicht  existiert, laden und übersetzen Sie die <ulink url="/en/pot/full.pot"
+>Wenn eine Übersetzung der Webseite in ihrer Sprache noch nicht  existiert, laden und übersetzen Sie die <ulink url="/en/pot/full.pot"
 >Webseiten Überzetzungsvorlage</ulink
 >. Wenn Sie eine bestehende Übersetzung bearbeiten möchten, benutzen Sie die Verweise in der untenstehenden Tabelle um die entsprechende Datei herunterzuladen. </para>
-	<ssi mode="exec" cgi="/postats/website_stats.pl"/>
+	<ssi mode="exec" cgi="/postats/website_stats.pl"
+></ssi>
 </section>
 
 <section
 ><title
 >Übersetzung der Programmoberfläche</title>
 <para
-> Wenn eine Übersetzung der Benutzeroberfläche in ihrer Sprache noch nicht  existiert, laden und übersetzen Sie die <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD"
+>Wenn eine Übersetzung der Benutzeroberfläche in ihrer Sprache noch nicht  existiert, laden und übersetzen Sie die <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD"
 >Benutzeroberflächen Übersetzungsvorlage</ulink
 >. Wenn Sie eine bestehende Übersetzung bearbeiten möchten, benutzen Sie die Verweise in der untenstehenden Tabelle um die entsprechende Datei herunterzuladen. </para>
-	<ssi mode="exec" cgi="/postats/messages_stats.pl"/>
+	<ssi mode="exec" cgi="/postats/messages_stats.pl"
+></ssi>
 </section>
 
 <section
 ><title
->Übersetzung des Programm-Handbuchs</title>
+>Übersetzung des Programm-Handbuchs.</title>
 <para
-> Wenn eine Übersetzung des Handbuches in ihrer Sprache noch nicht existiert, können Sie <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD"
+>Wenn eine Übersetzung des Handbuches in ihrer Sprache noch nicht existiert, können Sie <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD"
 >Handbuch Übersetzungsvorlage</ulink
 > herunterladen und übersetzen. Wenn Sie eine bestehende Übersetzung weiterübersetzen möchten, benutzen Sie die Verweise in der unten stehenden Tabelle um die entsprechende Datei zum Übersetzen herunterzuladen. </para>
-	<ssi mode="exec" cgi="/postats/handbook_stats.pl"/>
+	<ssi mode="exec" cgi="/postats/handbook_stats.pl"
+></ssi>
 </section>
 
 </webpage>
-

@@ -4,7 +4,7 @@ TABSTYLE=$(STYLEDIR)/bibletime.xsl
 STYLESHEET=$(TABSTYLE)
 
 # Change the path in output-root to put your HTML output elsewhere
-STYLEOPT= --nonet --catalogs --stringparam output-root .
+STYLEOPT= --nonet --catalogs --stringparam output-root . --stringparam page-language `basename $$PWD`
 
 .PHONY : clean
 

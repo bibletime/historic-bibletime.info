@@ -4,8 +4,10 @@
 ]>
 
 <webpage id="development_join">
-<config param="desc" value="Join us"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Join us"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >Doe mee!</title>
@@ -19,92 +21,93 @@
 ><title
 >Wordt lid van het BibleTime-team</title>
 <para
-> Wij zijn blij met iedereen die ons helpt de BibleTime-software, -documentatie en -vertalingen te verbeteren. </para>
+>Wij zijn blij met iedereen die ons helpt de BibleTime-software, -documentatie en -vertalingen te verbeteren. </para>
 
 <section
 ><title
 >De eerste stappen...</title>
 <para
-> De volgende zijn nodig voor ieder type teamlid. Volg ze! </para>
-<para
-> <orderedlist
-> <listitem
-> <para
->Schrijf u in voor een SourceForge-account als u er nog geen heeft, dit is gratis. We hebben uw gebruikersnaam nodig om u toe te voegen aan ons teamleden, om u taken toe te wijzen, enz. </para
-> </listitem
-> <listitem
-> <para
->Wordt lid van de BibleTime-ontwikkelingsmailinglijst. Alle ontwikkelaars lezen deze mailinglijst, zodat iedereen weet wat er gebeurt. </para
-> </listitem
-> <listitem
-> <para
->Download en installeer de ontwikkelingsversie van BibleTime. Als u hierbij hulp nodig heeft, vraag hier dan om op de mailinglijst of kijk in de documentatie-sectie. </para
-> </listitem
-> </orderedlist
-> </para>
+>De volgende zijn nodig voor ieder type teamlid. Volg ze! </para>
+<para>
+	<orderedlist>
+		<listitem>
+			<para
+>Schrijf u in voor een SourceForge-account als u er nog geen heeft, dit is gratis. We hebben uw gebruikersnaam nodig om u toe te voegen aan ons teamleden, om u taken toe te wijzen, enz. </para>
+		</listitem>
+
+		<listitem>
+			<para
+>Wordt lid van de BibleTime-ontwikkelingsmailinglijst. Alle ontwikkelaars lezen deze mailinglijst, zodat iedereen weet wat er gebeurt. </para>
+		</listitem>
+
+		<listitem>
+			<para
+>Download en installeer de ontwikkelingsversie van BibleTime. Als u hierbij hulp nodig heeft, vraag hier dan om op de mailinglijst of kijk in de documentatie-sectie. </para>
+		</listitem>
+	</orderedlist>
+</para>
 </section>
 
 <section
 ><title
 >De volgende stappen voor softwareontwikkelaars...</title>
-<para
-> <orderedlist
-> <listitem
-> <para
->Bestudeer enkele Qt 3 en KDE 3 tutorials om bekend te worden met het programmeren van de dingen die BibleTime gebruikt. </para
-> </listitem
-> <listitem
-> <para
->Als u niet weet wat te doen, vraag dan op de mailinglijst om enkele taken. Vergeet niet te vermelden hoe moeilijk het mag zijn. </para
-> </listitem
-> </orderedlist
-> </para>
+<para>
+	<orderedlist>
+		<listitem>
+			<para
+>Bestudeer enkele Qt 3 en KDE 3 tutorials om bekend te worden met het programmeren van de dingen die BibleTime gebruikt. </para>
+		</listitem>
+		<listitem>
+			<para
+>Als u niet weet wat te doen, vraag dan op de mailinglijst om enkele taken. Vergeet niet te vermelden hoe moeilijk het mag zijn. </para>
+		</listitem>
+	</orderedlist>
+</para>
 </section>
 
 <section
 ><title
 >De volgende stappen voor documentatieschrijvers...</title>
-<para
-> <orderedlist
-> <listitem
-> <para
->Lees de bestaande Engelse documentatie. Deze is te vinden in de docs/-map van de BibleTime CVS-map. </para
-> </listitem
-> <listitem
-> <para
->De documentatie is opgeslagen in de DocBook-bestanden in de Unicode-submappen van ieder documentatie-onderdeel (handboek, Biblestudie HowTo, installatie, hulpdialoog). Bewerk de HTML-bestanden niet direct, omdat deze uit de Docbook-bestanden gegenereerd worden. De vertaalbestanden worden ook uit de Docbook-data gegenereerd. </para
-> </listitem
-> </orderedlist
-> </para>
+<para>
+	<orderedlist>
+		<listitem>
+			<para
+>Lees de bestaande Engelse documentatie. Deze is te vinden in de docs/-map van de BibleTime CVS-map. </para>
+		</listitem>
+		<listitem>
+			<para
+>De documentatie is opgeslagen in de DocBook-bestanden in de Unicode-submappen van ieder documentatie-onderdeel (handboek, Biblestudie HowTo, installatie, hulpdialoog). Bewerk de HTML-bestanden niet direct, omdat deze uit de Docbook-bestanden gegenereerd worden. De vertaalbestanden worden ook uit de Docbook-data gegenereerd. </para>
+		</listitem>
+	</orderedlist>
+</para>
 </section>
 
 
 <section
 ><title
 >De volgende stappen voor vertalers...</title>
-<para
-> <orderedlist
-> <listitem
-> <para
+<para>
+	<orderedlist>
+		<listitem>
+			<para
 >Have a look at the internationaliziation pages of the KDE project. They're located at <ulink url="http://i18n.kde.org/"
 >i18n.kde.org</ulink
->. </para
-> </listitem
-> <listitem
-> <para
->Installeer, als het nog niet op uw systeem is geïnstalleerd het programma KBabel. Het zal u veel helpen tijdens het vertalingsproces. </para
-> </listitem
-> <listitem
-> <para
+>. </para>
+		</listitem>
+		<listitem>
+			<para
+>Installeer, als het nog niet op uw systeem is geïnstalleerd het programma KBabel. Het zal u veel helpen tijdens het vertalingsproces. </para>
+		</listitem>
+		<listitem>
+			<para
 >Read the page about <olink targetdocent="translation"
 >translating BibleTime</olink
->. </para
-> </listitem
-> </orderedlist
-> </para>
+>. </para>
+		</listitem>
+	</orderedlist>
+</para>
 </section>
 
 </section>
 
 </webpage>
-

@@ -23,6 +23,21 @@ provided by the <ulink url="http://www.crosswire.org/">Crosswire Bible Society</
 </section>
 
 <section><title>News about BibleTime</title>
+	<formalpara><title>2004-01-29: BibleTime 1.4.1</title>
+		<para>
+		BibleTime 1.4.1 was released today. The most important changes in version 1.4.1 are updated translations and bugfixes, especially in the Sword setup dialog.
+		</para>
+		<para>
+		We hope to provide more binary RPM packages in the next few days, but we're sorry that we can't provide a SuSE 9.0 RPM application-package because we don't have access to a clean SuSE 9.0 system. If one of our users has a clean SuSE 9.0 system running we'd appreciate his help.
+		</para>
+	</formalpara>
+	
+	<formalpara><title>2004-01-26: User forums online</title>
+		<para>
+		We're happy to announce a forum for BibleTime users. Please ask all your questions there if you need help. We'd appreciate all feedback and suggestions in the forum, too. The address is <ulink url="http://www.crosswire.org/forums">http://www.crosswire.org/forums</ulink>.
+		</para>
+	</formalpara>
+	
 	<formalpara><title>2004-01-16: Debian packages available</title>
 		<para>
 		<ulink url="http://packages.debian.org/unstable/kde/bibletime">Debian packages of BibleTime 1.4</ulink> are available now in Debian Unstable. Be sure to get the <ulink url="http://packages.debian.org/unstable/kde/bibletime-i18n">bibletime-i18n package</ulink>, too. Kudos to our Debian packager Daniel Glassey for his work!

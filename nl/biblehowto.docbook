@@ -34,7 +34,7 @@
 
 <authorgroup>
 <author
-> <firstname
+><firstname
 >Bob</firstname
 > <surname
 >Harman</surname
@@ -54,7 +54,8 @@
 ></affiliation
 ><contrib
 ></contrib
-></othercredit>
+></othercredit
+> 
 
 <copyright>
 <year
@@ -79,13 +80,13 @@
 
 <legalnotice
 ><para
-> Het auteursrecht voor deze tekst is van Bob Harman. De text is door Fred Saalbach aangepast voor publicatie met Bibletime.</para>
+>Het auteursrecht voor deze tekst is van Bob Harman. De text is door Fred Saalbach aangepast voor publicatie met Bibletime.</para>
 
 <para
-> Non exclusive serial rights for this distribution of this document with the &bibletime; Software have been made. Redistribution as part of the Bibletime software without modification and limited reproduction as provided by the "fair use" provisions of the US copyright code are also permitted.</para>
+>Non exclusive serial rights for this distribution of this document with the &bibletime; Software have been made. Redistribution as part of the Bibletime software without modification and limited reproduction as provided by the "fair use" provisions of the US copyright code are also permitted.</para>
 
 <para
-> For questions regarding the use of this material contact Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. Hampton VA 23666 USA <email
+>For questions regarding the use of this material contact Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. Hampton VA 23666 USA <email
 >ncc@ncchampton.org</email
 >.</para>
 
@@ -104,7 +105,7 @@
 <title
 >Overzicht</title>
 <para
-> De <application
+>De <application
 >Bijbelstudie HowTo</application
 > is een gids bij het bestuderen van de Bijbel. </para>
 <para
@@ -138,4 +139,3 @@ End:
 -->
 
 </webpage>
-

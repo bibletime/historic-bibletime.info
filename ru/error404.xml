@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="error404">
-<config param="desc" value="404: Not found"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="404: Not found"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >Ошибка</title>
@@ -18,12 +20,12 @@
 ><title
 >Документ не доступен</title>
 <para
-> Документ, который вы хотите получить не доступен на <ulink url="http://www.bibletime.info/"
+>Документ, который вы хотите получить не доступен на  <ulink url="http://www.bibletime.info/"
 >www.bibletime.info</ulink
->. Пожалуйста, используйте панель навигации слева, чтобы проверить не был ли документ перемещён. </para>
+>. Пожалуйста, используйте навигацию слева, чтобы проверить не был ли документ перемещён. </para>
 
 <para
-> Если вы не можете решить проблему, пожалуйста, перешлите ссылку, которая привела к ошибке на  <email
+>Если вы не можете решить проблему, пожалуйста, перешлите ссылку, которая привела к ошибке на <email
 >info@bibletime.info</email
 >. Большое вам спасибо! </para>
 
@@ -36,4 +38,3 @@ Local variables:
 mode: docbook
 End:
 -->
-

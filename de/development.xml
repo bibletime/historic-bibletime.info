@@ -4,8 +4,10 @@
 ]>
 
 <webpage id="development">
-<config param="desc" value="Development"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Development"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >Entwicklung</title>
@@ -19,11 +21,10 @@
 ><title
 >BibleTimes Entwicklung</title>
 <para
-> Diese Seiten beschreiben, wie man sich in die Entwicklung von BibleTime einklinken kann und welche Wege bestehen uns zu helfen. BibleTimes Quaität und Nützlichkeit hängt zu einem großen Teil von der Hilfe anderer ab. </para>
+>Diese Seiten beschreiben, wie man sich in die Entwicklung von BibleTime einklinken kann und welche Wege bestehen uns zu helfen. BibleTimes Quaität und Nützlichkeit hängt zu einem großen Teil von der Hilfe anderer ab. </para>
 
 <para
-> Bitte lesen Sie die nächsten Seiten sehr sorgfältig, um zu sehen, ob Sie uns mit der Entwicklung helfen können! </para>
+>Bitte lesen Sie die nächsten Seiten sehr sorgfältig, um zu sehen, ob Sie uns mit der Entwicklung helfen können! </para>
 </section>
 
 </webpage>
-

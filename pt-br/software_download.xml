@@ -4,8 +4,10 @@
 ]>
 
 <webpage id="software_download">
-<config param="desc" value="Download"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Download"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Download</title>
@@ -19,13 +21,13 @@
 ><title
 >Como pegar o BibleTime</title>
 <para
-> Existem vários pacotes RPM disponíveis para BibleTime. Para ver se eles foram feitos para o seu sistema dê uma olhada no nome do arquivo do pacote. Eles contêm o nome abreviado e versão da distribuição Linux para o qual foram feitos. Por exemplo, o pacote "bibletime-1.2.2-1suse8.1.i586.rpm" foi feito para sistemas SuSE 8.1 rodando em um i586 ou posterior. </para>
+>Existem vários pacotes RPM disponíveis para BibleTime. Para ver se eles foram feitos para o seu sistema dê uma olhada no nome do arquivo do pacote. Eles contêm o nome abreviado e versão da distribuição Linux para o qual foram feitos. Por exemplo, o pacote "bibletime-1.2.2-1suse8.1.i586.rpm" foi feito para sistemas SuSE 8.1 rodando em um i586 ou posterior. </para>
 
 <para
-> O pacote "bibletime" contém o software e documentação em inglês. Os arquivos com traduções para ambos estão no pacote "bibletime-i18n". </para>
+>O pacote "bibletime" contém o software e documentação em inglês. Os arquivos com traduções para ambos estão no pacote "bibletime-i18n". </para>
 
 <para
-> Você pode fazer download do BibleTime na <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954"
+>Você pode fazer download do BibleTime na <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954"
 >nossa página no sorceforge</ulink
 >. </para>
 
@@ -36,10 +38,9 @@
 ><title
 >Instalação</title>
 <para
-> Por favor, leia as <olink targetdocent="documentation_installation_bibletime"
+>Por favor, leia as <olink targetdocent="documentation_installation_bibletime"
 >instruções de instalação</olink
 >. </para>
 </section>
 
 </webpage>
-

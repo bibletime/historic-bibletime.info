@@ -4,8 +4,10 @@
 ]>
 
 <webpage id="development_join">
-<config param="desc" value="Join us"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Join us"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >참여하기</title>
@@ -19,92 +21,93 @@
 ><title
 >바이블타임 팀에 참여하기</title>
 <para
-> 바이블타임 프로그램의 개발, 문서작업 및 번역작업을 도와주실 모든 분들을 환영합니다. </para>
+>바이블타임 프로그램의 개발, 문서작업 및 번역작업을 도와주실 모든 분들을 환영합니다. </para>
 
 <section
 ><title
 >기본 단계들..</title>
 <para
-> 팀멤버로 활동하시려면 다음의 사항들을 확인해주십시오! </para>
-<para
-> <orderedlist
-> <listitem
-> <para
->SourceForge의 계정을 갖고 계시지 않다면, 새 계정을 만드시기 바랍니다. 가입은 무료입니다. 저희 팀에 당신을 등록시키고, 함께 작업하기 위해서는 계정이 필요합니다. </para
-> </listitem
-> <listitem
-> <para
->바이블타임 개발 메일링리스트에 가입을 하십시오. 모든 개발자들이 메일링 리스트를 읽고, 작업이 어떻게 진행되어 나가고 있는지를 확인 할 수 있습니다. </para
-> </listitem
-> <listitem
-> <para
->개발 버전의 바이블타임을 받으셔서 설치하십시오. 설치에 도움이 필요하시면 메일링리스트에 문의하시거나 문서들을 확인해보시기바랍니다. </para
-> </listitem
-> </orderedlist
-> </para>
+>팀멤버로 활동하시려면 다음의 사항들을 확인해주십시오! </para>
+<para>
+	<orderedlist>
+		<listitem>
+			<para
+>SourceForge의 계정을 갖고 계시지 않다면, 새 계정을 만드시기 바랍니다. 가입은 무료입니다. 저희 팀에 당신을 등록시키고, 함께 작업하기 위해서는 계정이 필요합니다. </para>
+		</listitem>
+
+		<listitem>
+			<para
+>바이블타임 개발 메일링리스트에 가입을 하십시오. 모든 개발자들이 메일링 리스트를 읽고, 작업이 어떻게 진행되어 나가고 있는지를 확인 할 수 있습니다. </para>
+		</listitem>
+
+		<listitem>
+			<para
+>개발 버전의 바이블타임을 받으셔서 설치하십시오. 설치에 도움이 필요하시면 메일링리스트에 문의하시거나 문서들을 확인해보시기바랍니다. </para>
+		</listitem>
+	</orderedlist>
+</para>
 </section>
 
 <section
 ><title
 >소프트웨어 개발자들을 위한 다음 단계들...</title>
-<para
-> <orderedlist
-> <listitem
-> <para
->바이블타임의 프로그래밍에 사용하는 Qt 3와 KDE 3의 튜토리얼들을 구해서 공부하십시오. </para
-> </listitem
-> <listitem
-> <para
->어떤 일을 해야할지를 모르시겠다면 메일링리스트에 문의해보십시오. 어느 정도 수준의 작업이 가능한지 첨부하는 것을 잊지마세요. </para
-> </listitem
-> </orderedlist
-> </para>
+<para>
+	<orderedlist>
+		<listitem>
+			<para
+>바이블타임의 프로그래밍에 사용하는 Qt 3와 KDE 3의 튜토리얼들을 구해서 공부하십시오. </para>
+		</listitem>
+		<listitem>
+			<para
+>어떤 일을 해야할지를 모르시겠다면 메일링리스트에 문의해보십시오. 어느 정도 수준의 작업이 가능한지 첨부하는 것을 잊지마세요. </para>
+		</listitem>
+	</orderedlist>
+</para>
 </section>
 
 <section
 ><title
 >문서 작성자들을 위한 다음단계들...</title>
-<para
-> <orderedlist
-> <listitem
-> <para
->기존의 영문 문서들을 읽으십시오. 문서들은 바이블타임의 cvs 디렉토리의 docs/ 디렉토리안에서 찾으실 수 있습니다. </para
-> </listitem
-> <listitem
-> <para
->문서들은 각 분서의 부분들(핸드북, 바이블스터디 하우투, 설치, 도움말)의 유니코드 서브디렉토리안에 docbook 파일들로 저장되어 있습니다. HTML 파일들은 docbook 파일에서 자동생성되므로, HTML 파일을 직접 수정하지 마시기 바립니다. 번역 파일들 역시 docbook 파일들로 부터 생성됩니다. </para
-> </listitem
-> </orderedlist
-> </para>
+<para>
+	<orderedlist>
+		<listitem>
+			<para
+>기존의 영문 문서들을 읽으십시오. 문서들은 바이블타임의 cvs 디렉토리의 docs/ 디렉토리안에서 찾으실 수 있습니다. </para>
+		</listitem>
+		<listitem>
+			<para
+>문서들은 각 분서의 부분들(핸드북, 바이블스터디 하우투, 설치, 도움말)의 유니코드 서브디렉토리안에 docbook 파일들로 저장되어 있습니다. HTML 파일들은 docbook 파일에서 자동생성되므로, HTML 파일을 직접 수정하지 마시기 바립니다. 번역 파일들 역시 docbook 파일들로 부터 생성됩니다. </para>
+		</listitem>
+	</orderedlist>
+</para>
 </section>
 
 
 <section
 ><title
 >번역자들을 위한 다음 단계들...</title>
-<para
-> <orderedlist
-> <listitem
-> <para
+<para>
+	<orderedlist>
+		<listitem>
+			<para
 >Have a look at the internationaliziation pages of the KDE project. They're located at <ulink url="http://i18n.kde.org/"
 >i18n.kde.org</ulink
->. </para
-> </listitem
-> <listitem
-> <para
->KBabel 프로그램이 설치되어 있지 않다면, 설치하십시오. 번역작업에 많은 도움이 되는 프로그램입니다. </para
-> </listitem
-> <listitem
-> <para
+>. </para>
+		</listitem>
+		<listitem>
+			<para
+>KBabel 프로그램이 설치되어 있지 않다면, 설치하십시오. 번역작업에 많은 도움이 되는 프로그램입니다. </para>
+		</listitem>
+		<listitem>
+			<para
 >Read the page about <olink targetdocent="translation"
 >translating BibleTime</olink
->. </para
-> </listitem
-> </orderedlist
-> </para>
+>. </para>
+		</listitem>
+	</orderedlist>
+</para>
 </section>
 
 </section>
 
 </webpage>
-

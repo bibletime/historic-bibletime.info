@@ -4,11 +4,13 @@
 ]>
 
 <webpage id="software_download">
-<config param="desc" value="Download"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Download"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
->Загрузить ПО</title>
+>Загрузить</title>
 	<summary
 >Download BibleTime</summary>
 	<keywords
@@ -19,13 +21,13 @@
 ><title
 >Как получить BibleTime</title>
 <para
-> Существует несколько RPM-пакетов для BibleTime. Чтобы узнать есть ли пакет для вашей системы, посмотрите на название файла пакета. Название файла включает краткое название и версию дистрибутива Linux, для которого этот файл предназначен. Например, пакет "bibletime-1.4-1.suse9.0.i586.rpm" предназначен для систем SuSE 9.0, которые работают на процессорах i586 или выше. (Файлы, которые оканчиваются на "*.src.rpm" содержат исходный код, который можно компилировать на любой системе с любым процессором, а те, что заканчиваются на "*.athlon.rpm" предназначены для работы с процессором Athlon. - прим. переводчика)  </para>
+>Существует несколько RPM-пакетов для BibleTime. Чтобы узнать есть ли пакет для вашей системы, посмотрите на название файла пакета. Название файла включает краткое название и версию дистрибутива Linux, для которого этот файл предназначен. Например, пакет "bibletime-1.4-1.suse9.0.i586.rpm" предназначен для систем SuSE 9.0, которые работают на процессорах i586 или выше. (Файлы, которые оканчиваются на "*.src.rpm" содержат исходный код, который можно компилировать на любой системе с любым процессором, а те, что заканчиваются на "*.athlon.rpm" предназначены для работы с процессором Athlon. - прим. переводчика)  </para>
 
 <para
-> Пакет "bibletime" содержит программу и документацию на английском языке. Файлы переводов и для того, и для другого находятся в пакете "bibletime-i18n".  </para>
+>Пакет "bibletime" содержит программу и документацию на английском языке. Файлы переводов и для того, и для другого находятся в пакете "bibletime-i18n".  </para>
 
 <para
-> Вы можете загрузить BibleTime с <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954"
+>Вы можете загрузить BibleTime с <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954"
 >нашей страницы на сервере проекта sourceforge</ulink
 > (sourceforge значит "кузница исходных кодов" - прим. переводчика). </para>
 
@@ -36,10 +38,9 @@
 ><title
 >Установка</title>
 <para
-> Пожалуйста прочтите <olink targetdocent="documentation_installation_bibletime"
+>Пожалуйста прочтите <olink targetdocent="documentation_installation_bibletime"
 >инструкцию по установке</olink
 >. </para>
 </section>
 
 </webpage>
-

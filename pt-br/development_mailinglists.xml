@@ -4,8 +4,10 @@
 ]>
 
 <webpage id="development_mailinglists">
-<config param="desc" value="mailinglists us"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="mailinglists us"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >Listas de discussão</title>
@@ -19,12 +21,12 @@
 ><title
 >Lista de discussão de desenvolvimento do BibleTime</title>
 <para
-> Para assinar a lista de discussão de desenvolvimento do projeto BibleTime por favor visite a seguinte página: <ulink url="http://www.crosswire.org/mailman/listinfo/bt-devel"
+>Para assinar a lista de discussão de desenvolvimento do projeto BibleTime por favor visite a seguinte página: <ulink url="http://www.crosswire.org/mailman/listinfo/bt-devel"
 >www.crosswire.org/mailman/listinfo/bt-devel</ulink
 >. </para>
 
 <para
-> Arquivo da lista de discussão de desenvolvimento do BibleTime estão disponíveis em <ulink url="http://www.crosswire.org/pipermail/bt-devel/"
+>Arquivo da lista de discussão de desenvolvimento do BibleTime estão disponíveis em <ulink url="http://www.crosswire.org/pipermail/bt-devel/"
 >www.crosswire.org/pipermail/bt-devel</ulink
 >. </para>
 </section>
@@ -33,14 +35,13 @@
 ><title
 >Lista de discussão de desenvolvimento do Sword</title>
 <para
-> Para assinar a lista de discussão de desenvolvimento do projeto Sword por favor visite a seguinte página web e digite seu endereço de e-mail lá: <ulink url="http://www.crosswire.org/mailman/listinfo/sword-devel"
+>Para assinar a lista de discussão de desenvolvimento do projeto Sword por favor visite a seguinte página web e digite seu endereço de e-mail lá: <ulink url="http://www.crosswire.org/mailman/listinfo/sword-devel"
 >www.crosswire.org/mailman/listinfo/sword-devel</ulink
 >. </para>
 <para
-> Arquivos da lista de discussão de desenvolvimento do Sword disponíveis em <ulink url="http://www.crosswire.org/pipermail/sword-devel/"
+>Arquivos da lista de discussão de desenvolvimento do Sword disponíveis em <ulink url="http://www.crosswire.org/pipermail/sword-devel/"
 >www.crosswire.org/pipermail/sword-devel</ulink
 >. </para>
 </section>
 
 </webpage>
-

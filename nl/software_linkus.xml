@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_linkus">
-<config param="desc" value="Link to us"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Link to us"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Link naar ons</title>
@@ -18,13 +20,13 @@
 ><title
 >Hoe naar www.bibletime.info te linken</title>
 <para
-> Kopieer alstublieft de afbeeldingen niet, omdat het design hiervan kan veranderen. </para>
+>Kopieer alstublieft de afbeeldingen niet, omdat het design hiervan kan veranderen. </para>
 
 <section
 ><title
 >Groter vaandel</title>
 <para
-> Plaats de volgende HTML-code op uw pagina's: <programlisting>
+>Plaats de volgende HTML-code op uw pagina's: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank">
  <img src="http://www.bibletime.info/images/banner/big.jpg" width="312" height="60" border="0"/>
@@ -44,7 +46,7 @@
 ><title
 >Kleiner vaandel</title>
 <para
-> Plaats de volgende HTML-code op uw pagina's: <programlisting>
+>Plaats de volgende HTML-code op uw pagina's: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank">
  <img src="http://www.bibletime.info/images/banner/small.jpg" width="88" height="31" border="0"/>
@@ -65,7 +67,7 @@
 ><title
 >Tekstlink</title>
 <para
-> Om een simpele tekstlink toe te voegen gebruikt u de volgende HTML-code op uw pagina's: <programlisting>
+>Om een simpele tekstlink toe te voegen gebruikt u de volgende HTML-code op uw pagina's: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" TARGET="_blank">
  BibleTime - Bible study software for KDE
@@ -79,4 +81,3 @@
 
 </section>
 </webpage>
-

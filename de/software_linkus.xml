@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_linkus">
-<config param="desc" value="Link to us"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Link to us"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Auf uns verweisen</title>
@@ -18,13 +20,13 @@
 ><title
 >Wie man auf www.bibletime.info verweist</title>
 <para
-> Bitte kopieren Sie nicht die Bilder, da sie das Design verändern könnten. </para>
+>Bitte kopieren Sie nicht die Bilder, da sie das Design verändern könnten. </para>
 
 <section
 ><title
 >1. Großer Banner</title>
 <para
-> Verwenden Sie den folgenden HTML Code auf ihren Seiten: <programlisting>
+>Verwenden Sie den folgenden HTML Code auf ihren Seiten: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank">
  <img src="http://www.bibletime.info/images/banner/big.jpg" width="312" height="60" border="0"/>
@@ -44,7 +46,7 @@
 ><title
 >2. Kleiner Banner</title>
 <para
-> Setzen Sie den folgenden HTML Code auf ihre Seiten: <programlisting>
+>Setzen Sie den folgenden HTML Code auf ihre Seiten: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank">
  <img src="http://www.bibletime.info/images/banner/small.jpg" width="88" height="31" border="0"/>
@@ -65,7 +67,7 @@
 ><title
 >3. Textverweis</title>
 <para
-> Um einen einfachen Textverweis einzügen verwenden Sie bitte den folgenden HTML code auf ihren Seiten:: <programlisting>
+>Um einen einfachen Textverweis einzügen verwenden Sie bitte den folgenden HTML code auf ihren Seiten:: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" TARGET="_blank">
  BibleTime - Bibelsoftware für KDE
@@ -79,4 +81,3 @@
 
 </section>
 </webpage>
-

@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_screenshots">
-<config param="desc" value="News"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="News"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Telas</title>
@@ -18,64 +20,66 @@
 ><title
 >Telas do BibleTime</title>
 
-	<mediaobject
-> <caption
-> <formalpara
+	<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Novo diálogo de configuração do Sword</title
-> <para
-> Desde a versão 1.4 BibleTime oferece um novo diálogo para gerenciar a instalação de módulos do Sword. Agora é possível configurar o Sword, instalar e desinstalar módulos usando uma interface amigável. <ulink url="/images//screenshots/3-large.jpg"
+>Novo diálogo de configuração do Sword</title>
+				<para
+>Desde a versão 1.4 BibleTime oferece um novo diálogo para gerenciar a instalação de módulos do Sword. Agora é possível configurar o Sword, instalar e desinstalar módulos usando uma interface amigável. <ulink url="/images//screenshots/3-large.jpg"
 >Ver Tela Ampliada</ulink
-> </para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/screenshots/3.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Melhorias no BibleTime 1.4</phrase
-> </textobject
-> </mediaobject>
+> </para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/screenshots/3.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Melhorias no BibleTime 1.4</phrase>
+		</textobject>
+	</mediaobject>
 
-	<mediaobject
-> <caption
-> <formalpara
+	<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Melhorias na versão 1.3</title
-> <para
-> Aqui você pode ver algumas das melhorias na versão BibleTime 1.3. A árvore à esquerda agora é dividida por tipo de módulo e idioma. O texto grego à direita agora é melhor exibido porque o BibleTime agora suporta escolha de fonte para cada idioma. <ulink url="/images//screenshots/1-large.jpg"
+>Melhorias na versão 1.3</title>
+				<para
+>Aqui você pode ver algumas das melhorias na versão BibleTime 1.3. A árvore à esquerda agora é dividida por tipo de módulo e idioma. O texto grego à direita agora é melhor exibido porque o BibleTime agora suporta escolha de fonte para cada idioma. <ulink url="/images//screenshots/1-large.jpg"
 >Ver Tela Ampliada</ulink
-> </para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/screenshots/1.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Melhorias no BibleTime 1.3</phrase
-> </textobject
-> </mediaobject>
+> </para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/screenshots/1.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Melhorias no BibleTime 1.3</phrase>
+		</textobject>
+	</mediaobject>
 
-	<mediaobject
-> <caption
-> <formalpara
+	<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Novo diálogo de busca</title
-> <para
-> O diálogo de busca de versões anteriores não era fácil de usar. Este é o novo diálogo de busca junto com o novo escolhedor de módulos à direita.  <ulink url="/images/screenshots/2-large.jpg"
+>Novo diálogo de busca</title>
+				<para
+>O diálogo de busca de versões anteriores não era fácil de usar. Este é o novo diálogo de busca junto com o novo escolhedor de módulos à direita.  <ulink url="/images/screenshots/2-large.jpg"
 >Ver Tela Ampliada</ulink
-> </para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/screenshots/2.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Novo diálogo de busca</phrase
-> </textobject
-> </mediaobject>
+> </para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/screenshots/2.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Novo diálogo de busca</phrase>
+		</textobject>
+	</mediaobject>
 
 </section>
 
 </webpage>
-

@@ -4,8 +4,10 @@
 ]>
 
 <webpage id="development_help">
-<config param="desc" value="Help us"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Help us"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >Help ons</title>
@@ -19,39 +21,38 @@
 ><title
 >Help ons ... </title>
 <para
-> Wij streven ernaar van BibleTime een volwassen bijbelstudie-applicatie, te gebruiken door christenen om te groeien in hun relatie met Hem, te maken. Om dit mogelijk te maken hebben we uw hulp nodig! Er zijn vele manieren om ons te helpen. Lees deze pagina om te zien of u ons kunt helpen de BibleTime-software te verbeteren. </para>
+>Wij streven ernaar van BibleTime een volwassen bijbelstudie-applicatie, te gebruiken door christenen om te groeien in hun relatie met Hem, te maken. Om dit mogelijk te maken hebben we uw hulp nodig! Er zijn vele manieren om ons te helpen. Lees deze pagina om te zien of u ons kunt helpen de BibleTime-software te verbeteren. </para>
 
 <section
 ><title
 >Wilt u bidden?</title>
 <para
-> Bidden is iets wat iedereen kan. Als u voor de Sword- en BibleTime-projecten bidt, helpt u ons net zoveel als de andere teamleden van het BibleTime-project. </para>
+>Bidden is iets wat iedereen kan. Als u voor de Sword- en BibleTime-projecten bidt, helpt u ons net zoveel als de andere teamleden van het BibleTime-project. </para>
 </section>
 
 <section
 ><title
 >Kunt u software programmeren?</title>
 <para
-> Kunt u in C++ programmeren? Bent u bekend met de KDE-programmeringsinterface of gemotiveerd deze te leren? Als u tijd heeft om regelmatig aan de BibleTime-broncode te werken vragen wij u lid te worden van ons team. Als u lid wilt worden van het team, leest u de pagina "Wordt lid van het team" in deze sectie. </para>
+>Kunt u in C++ programmeren? Bent u bekend met de KDE-programmeringsinterface of gemotiveerd deze te leren? Als u tijd heeft om regelmatig aan de BibleTime-broncode te werken vragen wij u lid te worden van ons team. Als u lid wilt worden van het team, leest u de pagina "Wordt lid van het team" in deze sectie. </para>
 </section>
 
 <section
 ><title
 >Kunt u documentatie schrijven?</title>
 <para
-> Denkt u goed te kunnen werken aan de Engelstalige BibleTime-documentatie? Zo ja, lees dan de pagina "Wordt lid van het team" in deze sectie. </para>
+>Denkt u goed te kunnen werken aan de Engelstalige BibleTime-documentatie? Zo ja, lees dan de pagina "Wordt lid van het team" in deze sectie. </para>
 </section>
 
 <section
 ><title
 >Bent u goed in het vertalen van het Engels naar een andere taal?</title>
 <para
-> BibleTime moet voor iedereen bruikbaar zijn. Daarom hebben we een vertaling in uw taal nodig, als deze nog niet beschikbaar is! Als u besluit te beginnen aan een vertaling, neem dan contact op met ons via info@bibletime.info om te zien of een de vertaling niet al door een ander teamlid is begonnen. Wij zullen u de te vertalen bestanden leveren. </para>
+>BibleTime moet voor iedereen bruikbaar zijn. Daarom hebben we een vertaling in uw taal nodig, als deze nog niet beschikbaar is! Als u besluit te beginnen aan een vertaling, neem dan contact op met ons via info@bibletime.info om te zien of een de vertaling niet al door een ander teamlid is begonnen. Wij zullen u de te vertalen bestanden leveren. </para>
 
 <para
-> Gebruik voor het vertalen het KDE-programma "KBabel"! Het is een handig gereedschap dat het vertalingsproces vergemakkelijkt. </para>
+>Gebruik voor het vertalen het KDE-programma "KBabel"! Het is een handig gereedschap dat het vertalingsproces vergemakkelijkt. </para>
 </section>
 </section>
 
 </webpage>
-

@@ -251,82 +251,82 @@ textarea:focus {
 
 .mediaobject {
 	margin-bottom:30px;
-}
+	}
 
 .blockquote {
 	margin: 15px 0 15px 0;
-	width: 95%;
-}
+	width: 100%;
+	}
 .blockquote p {
-	border-left:4px solid #ADADAD;
-	background-color:#f4f4f4;
-	color:black;
+	border-left: 6px solid #ADADAD;
+	background-color: #f4f4f4;
+	color: black;
 	padding: 15px;
-	margin:0;
-}
+	margin: 0;
+	}
 .blockquote .attribution {
-	font-size:0.9em;
-}
+	font-size: 0.9em;
+	}
 
 .abstract {
 	margin-top:15px;
 	margin-bottom:15px;
-}
+	}
 .abstract .title {
 	font-size:1em;
 	font-weight:bold;
 	margin:0;
-}
+	}
 .abstract p {
 	font-size:0.9em;
 	margin: 0;
-}
+	}
 
 .titlepage {
 	font-size:0.95em;
-}
+	}
 .titlepage hr {
 	display:none;
-}
+	}
 
 .toc {
-	margin-top:15px;
-}
+	margin:15px 0;
+	}
 .toc p {
 	font-size:0.9em;
 	margin:0;
-}
+	}
 .toc dl {
 	font-size:0.9em;
-	margin:0 0 0 20px;
-}
+	margin:0 0 0 15px;
+	}
 
 .list-of-tables {
 	font-size:0.9em;
-}
+	}
 .list-of-tables p {
 	margin:0;
 	font-size:0.9em;
-}
+	}
 .list-of-tables dl {
 	margin:0;
 	font-size:0.9em;
 	margin:0 0 0 20px;
-}
+	}
 
 .chapter {
 	margin-top: 25px;
-}
+	}
 .chapter > .titlepage .title {
 	font-size:1.2em;
 	margin:0;
-}
+	}
 
 ol, ul {
 	margin-top:0px;
 	margin-bottom:0px;
 	font-size:0.95em;
-}
+	}
 
 p.title {
 	font-size:1.0em;
@@ -432,6 +432,7 @@ table.swordcdcheck {
 }
 
 
+
 div.qandaset table {
 	margin-top:15px;
 	border-spacing:0px;
@@ -439,25 +440,46 @@ div.qandaset table {
 }
 
 table tr.toc {
-	font-size:0.8em;
+	font-size:0.9em;
 	margin:0px;
-}
+	display:none;
+	}
+#documentation_faq tr.toc {
+	display:none;
+	}
 
 table .qandadiv h4.title {
 	margin-top:10px;
-	border-bottom:1px solid black;
+	border-bottom:1px dotted black;
 	width:100%;
 }
 
-table tr.question td {
-	background-color:#a8c3ff;
-	color:white;
-	font-weight:bold;
-	font-size:1em;
-	padding:0px;
-	margin:0px;
-	padding-left:2px;
-}
+table tr.question > td {
+	padding:0 5px 0 15px;
+	margin:0;
+	font-size: 0.8em;
+	vertical-align: middle;
+	
+	}
+table tr.question > td > b {
+	font-weight: bold;
+	}
+table tr.question td + td {
+	padding: 0;
+	margin: 0;
+	font-weight: bold;
+	font-size: 0.85em;
+	vertical-align: middle;
+	}
+table tr.question td + td p {
+	padding:0;
+	margin:0;
+	}
+table tr.answer p {
+	padding:0;
+	margin:0;
+	font-size:0.9em;
+	}
 
 
 /* Special formatting for the software page */

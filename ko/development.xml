@@ -4,8 +4,10 @@
 ]>
 
 <webpage id="development">
-<config param="desc" value="Development"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Development"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >개발</title>
@@ -19,11 +21,10 @@
 ><title
 >바이블타임 개발</title>
 <para
-> 이 페이지들은 바이블타임의 개발에 함께 하실수 있는 방법들을 소개합니다. 바이블타임의 질과 성능은 많은 부분이 여러분의 협력에 달려있습니다. </para>
+>이 페이지들은 바이블타임의 개발에 함께 하실수 있는 방법들을 소개합니다. 바이블타임의 질과 성능은 많은 부분이 여러분의 협력에 달려있습니다. </para>
 
 <para
-> 어떻게 개발에 함께 하실 수 있는지를 확인하시려면 다음의 페이지들을 읽어주십시오! </para>
+>어떻게 개발에 함께 하실 수 있는지를 확인하시려면 다음의 페이지들을 읽어주십시오! </para>
 </section>
 
 </webpage>
-

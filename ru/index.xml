@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="index">
-<config param="desc" value="The BibleTime Home Page"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="The BibleTime Home Page"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >BibleTime</title>
@@ -20,4 +22,3 @@
 </section>
 
 </webpage>
-

@@ -4,8 +4,10 @@
 ]>
 
 <webpage id="development_help">
-<config param="desc" value="Help us"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Help us"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >Nos ajude</title>
@@ -19,39 +21,38 @@
 ><title
 >Ajude-nos</title>
 <para
-> Nosso objetivo é tornar o BibleTime uma aplicação de estudo bíblico que possa ser usada por cristãos para crescerem em seu relacionamento com Deus. Para tornar isto possível nós precisamos de sua ajuda! É possível nos ajudar de muitas maneiras. Por favor leia esta página se você puder nos ajudar a melhorar o BibleTime. </para>
+>Nosso objetivo é tornar o BibleTime uma aplicação de estudo bíblico que possa ser usada por cristãos para crescerem em seu relacionamento com Deus. Para tornar isto possível nós precisamos de sua ajuda! É possível nos ajudar de muitas maneiras. Por favor leia esta página se você puder nos ajudar a melhorar o BibleTime. </para>
 
 <section
 ><title
 >Você quer orar?</title>
 <para
-> Orar é algo que todos podem fazer. Se você estiver orando pelo projeto Sword e BibleTime você está nos ajudando tanto quanto outras equipes do projeto BibleTime. </para>
+>Orar é algo que todos podem fazer. Se você estiver orando pelo projeto Sword e BibleTime você está nos ajudando tanto quanto outras equipes do projeto BibleTime. </para>
 </section>
 
 <section
 ><title
 >Você sabe programar softwares?</title>
 <para
-> Você sabe como programar em C++? Você está familiarizado com a interface de programação do KDE ou está motivado a aprendê-la? Se você tiver tempo para trabalhar regularmente no código fonte do BibleTime nós lhe pedimos para se juntar ao nosso time! Por favor, leia a página "Junte-se ao time" nessa sessão. </para>
+>Você sabe como programar em C++? Você está familiarizado com a interface de programação do KDE ou está motivado a aprendê-la? Se você tiver tempo para trabalhar regularmente no código fonte do BibleTime nós lhe pedimos para se juntar ao nosso time! Por favor, leia a página "Junte-se ao time" nessa sessão. </para>
 </section>
 
 <section
 ><title
 >Você sabe como escrever documentação?</title>
 <para
-> Você acha que é poderia ser bom trabalhando na documentação em inglês do BibleTime? Se você acredita que sim, por favor leia a página "Junte-se ao time"; nesta seção. </para>
+>Você acha que é poderia ser bom trabalhando na documentação em inglês do BibleTime? Se você acredita que sim, por favor leia a página "Junte-se ao time"; nesta seção. </para>
 </section>
 
 <section
 ><title
 >Você é bom em traduzir do inglês para outros idiomas?</title>
 <para
-> Se você decidir iniciar o trabalho de tradução por favor nos contacte em info@bibletime.info para ver se a tradução ainda não foi iniciada por outro membro do time. Nós providenciaremos os arquivos que deverão ser traduzidos. </para>
+>Se você decidir iniciar o trabalho de tradução por favor nos contacte em info@bibletime.info para ver se a tradução ainda não foi iniciada por outro membro do time. Nós providenciaremos os arquivos que deverão ser traduzidos. </para>
 
 <para
-> Por favor use o programa para KDE chamado &raquo;KBabel&laquo; para traduzir os arquivos! É uma boa ferramenta que simplifica o processo de tradução </para>
+>Por favor use o programa para KDE chamado &raquo;KBabel&laquo; para traduzir os arquivos! É uma boa ferramenta que simplifica o processo de tradução </para>
 </section>
 </section>
 
 </webpage>
-

@@ -4,8 +4,10 @@
 ]>
 
 <webpage id="development_mailinglists">
-<config param="desc" value="mailinglists us"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="mailinglists us"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >Списки рассылки</title>
@@ -19,12 +21,12 @@
 ><title
 >Рассылка для разработчиков BibleTime</title>
 <para
-> To subscribe to the development mailing list of the BibleTime project please visit the following web page and enter your eMail address there: <ulink url="http://www.crosswire.org/mailman/listinfo/bt-devel"
+>Чтобы подписаться на рассылку для разработчиков проекта BibleTime посетите следующую страницу и введите там адрес вашей электронной почты: <ulink url="http://www.crosswire.org/mailman/listinfo/bt-devel"
 >www.crosswire.org/mailman/listinfo/bt-devel</ulink
 >. </para>
 
 <para
-> Archives of the BibleTime development mailing list are available at <ulink url="http://www.crosswire.org/pipermail/bt-devel/"
+>Архив списка рассылки разработчиков BibleTime находится на <ulink url="http://www.crosswire.org/pipermail/bt-devel/"
 >www.crosswire.org/pipermail/bt-devel</ulink
 >. </para>
 </section>
@@ -33,14 +35,13 @@
 ><title
 >Рассылка для разработчиков Sword </title>
 <para
-> To subscribe to the development mailing list of the Sword project please visit the following web page and enter your eMail address there: <ulink url="http://www.crosswire.org/mailman/listinfo/sword-devel"
+>Чтобы подписаться на рассылку для разработчиков проекта Sword посетите следующую страницу и введите там адрес вашей электронной почты: <ulink url="http://www.crosswire.org/mailman/listinfo/sword-devel"
 >www.crosswire.org/mailman/listinfo/sword-devel</ulink
 >. </para>
 <para
-> Archives of the Sword development mailing list are available at <ulink url="http://www.crosswire.org/pipermail/sword-devel/"
+>Архив списка рассылки разработчиков Sword находится на <ulink url="http://www.crosswire.org/pipermail/sword-devel/"
 >www.crosswire.org/pipermail/sword-devel</ulink
 >. </para>
 </section>
 
 </webpage>
-

@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_linkus">
-<config param="desc" value="Link to us"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Link to us"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >링크하기</title>
@@ -18,13 +20,13 @@
 ><title
 >www.bibletime.info에 링크하는 방법</title>
 <para
-> 이미지의 디자인이 바뀔 수도 있으므로 카피하여 사용하는 것은 권장하지 않습니다. </para>
+>이미지의 디자인이 바뀔 수도 있으므로 카피하여 사용하는 것은 권장하지 않습니다. </para>
 
 <section
 ><title
 >큰 배너</title>
 <para
-> 다음의 HTML 코드를 삽입하십시오: <programlisting>
+>다음의 HTML 코드를 삽입하십시오: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank">
  <img src="http://www.bibletime.info/images/banner/big.jpg" width="312" height="60" border="0"/>
@@ -44,7 +46,7 @@
 ><title
 >작은 배너</title>
 <para
-> 다음의 HTML 코드를 삽입하십시오: <programlisting>
+>다음의 HTML 코드를 삽입하십시오: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank">
  <img src="http://www.bibletime.info/images/banner/small.jpg" width="88" height="31" border="0"/>
@@ -65,7 +67,7 @@
 ><title
 >텍스트 링크</title>
 <para
-> 간단한 텍스트 링크를 넣으시려면, 다음의 HTML 코드를 삽입해주십시오: <programlisting>
+>간단한 텍스트 링크를 넣으시려면, 다음의 HTML 코드를 삽입해주십시오: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" TARGET="_blank">
  BibleTime - Bible study software for KDE
@@ -79,4 +81,3 @@
 
 </section>
 </webpage>
-

@@ -4,8 +4,10 @@
 ]>
 
 <webpage id="development_join">
-<config param="desc" value="Join us"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Join us"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >Junte-se a nós</title>
@@ -19,92 +21,93 @@
 ><title
 >Junte-se ao time do BibleTime</title>
 <para
-> Nõs estamos gratos por todos que nos ajudam a melhorar o software BibleTime, sua documentação e sua tradução. </para>
+>Nõs estamos gratos por todos que nos ajudam a melhorar o software BibleTime, sua documentação e sua tradução. </para>
 
 <section
 ><title
 >Os passos básicos..</title>
 <para
-> O seguinte é necessário para cada tipo de membro do time. Por favor siga-os! </para>
-<para
-> <orderedlist
-> <listitem
-> <para
->Se você não tem uma conta no SourceForge, por favor inscreva-se para uma. É grátis. Nós precisamos de seu nome de usuário para adicionar você aos membros do time, para designar tarefas, etc. </para
-> </listitem
-> <listitem
-> <para
->Inscreva-se à lista de discussão de desenvolvimento do BibleTime. Todos os desenvolvedores lêm esta lista, então todos sabem o que está acontecendo. </para
-> </listitem
-> <listitem
-> <para
->Pegue a versão de desenvolvimento do BibleTime e instale. Se você precisar de ajuda para isto peça na lista de discussão ou procure na seção de documentação. </para
-> </listitem
-> </orderedlist
-> </para>
+>O seguinte é necessário para cada tipo de membro do time. Por favor siga-os! </para>
+<para>
+	<orderedlist>
+		<listitem>
+			<para
+>Se você não tem uma conta no SourceForge, por favor inscreva-se para uma. É grátis. Nós precisamos de seu nome de usuário para adicionar você aos membros do time, para designar tarefas, etc. </para>
+		</listitem>
+
+		<listitem>
+			<para
+>Inscreva-se à lista de discussão de desenvolvimento do BibleTime. Todos os desenvolvedores lêm esta lista, então todos sabem o que está acontecendo. </para>
+		</listitem>
+
+		<listitem>
+			<para
+>Pegue a versão de desenvolvimento do BibleTime e instale. Se você precisar de ajuda para isto peça na lista de discussão ou procure na seção de documentação. </para>
+		</listitem>
+	</orderedlist>
+</para>
 </section>
 
 <section
 ><title
 >O próximo passo para desenvolvedores de software...</title>
-<para
-> <orderedlist
-> <listitem
-> <para
->Trabalhe com os tutoriais do Qt 3 e KDE 3 para saber como programar as coisas que o BibleTime usa. </para
-> </listitem
-> <listitem
-> <para
->Se você não sabe o que fazer por favor peça na lista de discussão por algumas tarefas. Não se esqueça de adicionar o nível de dificuldade que devem ter. </para
-> </listitem
-> </orderedlist
-> </para>
+<para>
+	<orderedlist>
+		<listitem>
+			<para
+>Trabalhe com os tutoriais do Qt 3 e KDE 3 para saber como programar as coisas que o BibleTime usa. </para>
+		</listitem>
+		<listitem>
+			<para
+>Se você não sabe o que fazer por favor peça na lista de discussão por algumas tarefas. Não se esqueça de adicionar o nível de dificuldade que devem ter. </para>
+		</listitem>
+	</orderedlist>
+</para>
 </section>
 
 <section
 ><title
 >Os próximos passos para autores de documentação...</title>
-<para
-> <orderedlist
-> <listitem
-> <para
->Leia a documentação existente em inglês. Está localizada no diretório docs/ do diretório cvs do BibleTime. </para
-> </listitem
-> <listitem
-> <para
->A documentação é guardada em arquivos docbook nos subdiretórios unicode de cada parte (livro de mão, Estudo Bíblico HowTo, instalação, diálogo de ajuda). Por favor, não edite os arquivos HTML diretamente porque eles são gerados a partir dos documentos docbook. Os arquivos de tradução também são gerados a partir dos arquivos docbook. </para
-> </listitem
-> </orderedlist
-> </para>
+<para>
+	<orderedlist>
+		<listitem>
+			<para
+>Leia a documentação existente em inglês. Está localizada no diretório docs/ do diretório cvs do BibleTime. </para>
+		</listitem>
+		<listitem>
+			<para
+>A documentação é guardada em arquivos docbook nos subdiretórios unicode de cada parte (livro de mão, Estudo Bíblico HowTo, instalação, diálogo de ajuda). Por favor, não edite os arquivos HTML diretamente porque eles são gerados a partir dos documentos docbook. Os arquivos de tradução também são gerados a partir dos arquivos docbook. </para>
+		</listitem>
+	</orderedlist>
+</para>
 </section>
 
 
 <section
 ><title
 >O próximo passo para tradutores...</title>
-<para
-> <orderedlist
-> <listitem
-> <para
+<para>
+	<orderedlist>
+		<listitem>
+			<para
 >Dê uma olhada nas páginas de internacionalização do projeto KDE. Eles estão localizados em: <ulink url="http://i18n.kde.org/"
 >i18n.kde.org</ulink
-> </para
-> </listitem
-> <listitem
-> <para
->Instale o programa KBabel, se ainda não estiver instalado em seu sistema. Ele irá ajuda-lo muito no processo de tradução. </para
-> </listitem
-> <listitem
-> <para
+> </para>
+		</listitem>
+		<listitem>
+			<para
+>Instale o programa KBabel, se ainda não estiver instalado em seu sistema. Ele irá ajuda-lo muito no processo de tradução. </para>
+		</listitem>
+		<listitem>
+			<para
 >Por favor, leia a página sobre a <olink targetdocent="translation"
 >tradução do BibleTime</olink
->. </para
-> </listitem
-> </orderedlist
-> </para>
+>. </para>
+		</listitem>
+	</orderedlist>
+</para>
 </section>
 
 </section>
 
 </webpage>
-

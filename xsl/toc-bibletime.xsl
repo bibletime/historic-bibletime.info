@@ -3,8 +3,8 @@
                 version="1.0">
 
 <xsl:output method="xml"
-						indent="yes"
-						encoding="UTF-8"
+	indent="no"
+	encoding="UTF-8"
 />
 
 <xsl:param name="nav.pointer" select="0"/>

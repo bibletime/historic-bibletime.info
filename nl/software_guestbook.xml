@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_guestbook">
-<config param="desc" value="News"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="News"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Gastenboek</title>
@@ -18,15 +20,15 @@
 ><title
 >BibleTime's gastenboek</title>
 	<para
-> Deze pagina geeft het BibleTime-gastenboek weer. Plaats alstublieft uw opmerkingen als u wilt. Schrijf uw opmerkingen indien mogelijk in het Engels! HTML is niet toegestaan en zal worden verwijderd. Normale regeleinden om in alinea's te verdelen zijn toegestaan. </para>
+>Deze pagina geeft het BibleTime-gastenboek weer. Plaats alstublieft uw opmerkingen als u wilt. Schrijf uw opmerkingen indien mogelijk in het Engels! HTML is niet toegestaan en zal worden verwijderd. Normale regeleinden om in alinea's te verdelen zijn toegestaan. </para>
 
 <section
 ><title
 >Please add your comments to our guestbook!</title>
-<ssi mode="exec" cgi="/guestbook.pl"/>
+<ssi mode="exec" cgi="/guestbook.pl"
+></ssi>
 </section>
 
 </section>
 
 </webpage>
-

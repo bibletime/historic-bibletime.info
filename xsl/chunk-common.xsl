@@ -5,7 +5,10 @@
                 exclude-result-prefixes="sweb xweb"
                 version="1.0">
 
-<xsl:output method="html"/>
+<xsl:output method="xml"
+            indent="no"
+	    encoding="UTF-8"
+/>
 
 <xsl:param name="output-root" select="'.'"/>
 <xsl:param name="dry-run" select="'0'"/>

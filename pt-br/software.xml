@@ -4,8 +4,10 @@
 ]>
 
 <webpage id="software">
-<config param="desc" value="Software page"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Software page"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >Software</title>
@@ -19,7 +21,7 @@
 ><title
 >Bem vindo ao projeto BibleTime!</title>
 <para
-> BibleTime é uma aplicação de Estudo Bíblico para Linux. Ele é baseado no <ulink url="http://www.kde.org/"
+>BibleTime é uma aplicação de Estudo Bíblico para Linux. Ele é baseado no <ulink url="http://www.kde.org/"
 >K Desktop Environment</ulink
 > e usa a biblioteca de programação <ulink url="http://www.crosswire.org/sword/"
 >Sword</ulink
@@ -33,9 +35,27 @@
 >Notícias sobre o BibleTime</title>
 	<formalpara
 ><title
+>2004-01-29: BibleTime 1.4.1</title>
+		<para
+>BibleTime 1.4.1 was released today. The most important changes in version 1.4.1 are updated translations and bugfixes, especially in the Sword setup dialog. </para>
+		<para
+>We hope to provide more binary RPM packages in the next few days, but we're sorry that we can't provide a SuSE 9.0 RPM application-package because we don't have access to a clean SuSE 9.0 system. If one of our users has a clean SuSE 9.0 system running we'd appreciate his help. </para>
+	</formalpara>
+	
+	<formalpara
+><title
+>2004-01-26: User forums online</title>
+		<para
+>We're happy to announce a forum for BibleTime users. Please ask all your questions there if you need help. We'd appreciate all feedback and suggestions in the forum, too. The address is <ulink url="http://www.crosswire.org/forums"
+>http://www.crosswire.org/forums</ulink
+>. </para>
+	</formalpara>
+	
+	<formalpara
+><title
 >16/01/2004: Pacotes Debian disponíveis</title>
 		<para
-> <ulink url="http://packages.debian.org/unstable/kde/bibletime"
+><ulink url="http://packages.debian.org/unstable/kde/bibletime"
 >Pacotes Debian do BibleTime 1.4</ulink
 > já estão disponíveis no Debian Unstable. Lembre de pegar também o pacote <ulink url="http://packages.debian.org/unstable/kde/bibletime-i18n"
 >bibletime-i18n package</ulink
@@ -46,9 +66,9 @@
 ><title
 >11/01/2004: Nova iniciativa de tradução</title>
 		<para
-> Primeiramente queremos desejar a todos um ano novo realmente feliz e abençoado. </para>
+>Primeiramente queremos desejar a todos um ano novo realmente feliz e abençoado. </para>
 		<para
-> Como você já deve ter notado, existe uma nova página online chamada <ulink url="translation.shtml"
+>Como você já deve ter notado, existe uma nova página online chamada <ulink url="translation.shtml"
 >"Tradução"</ulink
 >. Essa página dá uma introdução em como ajudar com a tradução de diferentes áreas do projeto BibleTime, e oferece estatísticas detalhadas de quão completa está cada tradução nos idiomas existentes. Não deixe de ver! </para>
 	</formalpara>
@@ -57,47 +77,46 @@
 ><title
 >29/12/2003: BibleTime 1.4</title>
 		<para
-> A nova versão 1.4 do BibleTime agora está disponível para download. Em comparação com a versão 1.3, essa nova versão contem um novo diálogo para configuração do Sword e instalação de módulos de fontes locais ou diretamente da internet. Com o SwordSetup também é possível remover módulos instalados. A versão 1.4 contém também várias correções de bugs e está disponível em nossa página de Downloads. </para>
+>A nova versão 1.4 do BibleTime agora está disponível para download. Em comparação com a versão 1.3, essa nova versão contem um novo diálogo para configuração do Sword e instalação de módulos de fontes locais ou diretamente da internet. Com o SwordSetup também é possível remover módulos instalados. A versão 1.4 contém também várias correções de bugs e está disponível em nossa página de Downloads. </para>
 		<para
-> Você precisa do Sword 1.5.7 com suporte a curl habilitado para usar as funções de instalação remota. Os pacotes binários que fornecemos para algumas das maiores distribuições linux devem funcionar sem problemas. </para>
+>Você precisa do Sword 1.5.7 com suporte a curl habilitado para usar as funções de instalação remota. Os pacotes binários que fornecemos para algumas das maiores distribuições linux devem funcionar sem problemas. </para>
 		<para
-> Se você tiver problemas instalando BibleTime ou tiver problemas usando-o, por favor, envie uma comunicação de bug. Nós precisamos de sua ajuda para melhorar o BibleTime. </para>
+>Se você tiver problemas instalando BibleTime ou tiver problemas usando-o, por favor, envie uma comunicação de bug. Nós precisamos de sua ajuda para melhorar o BibleTime. </para>
 	</formalpara>
 
 	<formalpara
 ><title
 >03/12/2003: BibleTime 1.4beta1.</title>
 		<para
-> A primeira versão de testes do próximo BibleTime 1.4 foi lançada hoje. As novas funções em comparação com a versão 1.3 são o novo diálogo SwordSetup que torna a configuração do Sword e dos módulos mais amigável. Usando esse diálogo agora você pode configurar o Sword, instalar módulos da internet ou de fontes locais (como um CD, por exemplo) e também desinstalar módulos do seu sistema. Essa versão beta também contém algumas correções importantes. </para>
+>A primeira versão de testes do próximo BibleTime 1.4 foi lançada hoje. As novas funções em comparação com a versão 1.3 são o novo diálogo SwordSetup que torna a configuração do Sword e dos módulos mais amigável. Usando esse diálogo agora você pode configurar o Sword, instalar módulos da internet ou de fontes locais (como um CD, por exemplo) e também desinstalar módulos do seu sistema. Essa versão beta também contém algumas correções importantes. </para>
 		<para
-> O propósito dessa versão 1.4beta1 é apenas de teste, então nós não estamos fornecendo pacotes binários. Se você sabe como compilar programas apartir do código fonte nós o encorajamos a testar essa versão beta1. Você precisará do Sword 1.5.6 com suporte a curl para poder usar as funções de instalação remota. </para>
+>O propósito dessa versão 1.4beta1 é apenas de teste, então nós não estamos fornecendo pacotes binários. Se você sabe como compilar programas apartir do código fonte nós o encorajamos a testar essa versão beta1. Você precisará do Sword 1.5.6 com suporte a curl para poder usar as funções de instalação remota. </para>
 	</formalpara>
 
 	<formalpara
 ><title
 >19/10/2003: Pacotes para o SuSE 9.0</title>
 		<para
-> Já estão disponíveis pacotes RPM para o SuSE 9.0. Por favor, reporte quaisquer problema para info@bibletime.info. Muito Obrigado! </para>
+>Já estão disponíveis pacotes RPM para o SuSE 9.0. Por favor, reporte quaisquer problema para info@bibletime.info. Muito Obrigado! </para>
 	</formalpara>
 
 	<formalpara
 ><title
 >16/10/2003: Nova Página Web</title>
 		<para
-> Agora BibleTime tem uma nova página web, que oferece melhor navegação, visual melhorado e mais velocidade de navegação. </para>
+>Agora BibleTime tem uma nova página web, que oferece melhor navegação, visual melhorado e mais velocidade de navegação. </para>
 		<para
-> Se você tiver qualquer problema com a nova página, por favor, avise-nos! </para>
+>Se você tiver qualquer problema com a nova página, por favor, avise-nos! </para>
 	</formalpara>
 
 	<formalpara
 ><title
 >23/08/2003: BibleTime 1.3.</title>
 		<para
-> A versão 1.3 do BibleTime está finalmente disponível. BibleTime 1.3 contém várias funções novas, melhorias de usabilidade e correções de bugs. A atualização para a versão 1.3 é altamente recomendada para todos os usuários. Você pode obter o software aqui: Download. Pacotes binários serão lançados nos próximos dias. </para>
+>A versão 1.3 do BibleTime está finalmente disponível. BibleTime 1.3 contém várias funções novas, melhorias de usabilidade e correções de bugs. A atualização para a versão 1.3 é altamente recomendada para todos os usuários. Você pode obter o software aqui: Download. Pacotes binários serão lançados nos próximos dias. </para>
 		<para
-> Baixe os pacotes bibletime e bibletime-i18n para obter todas as funcionalidades. Pedimos desculpa pela demora para o lançamento desta versão e esperamos conseguir lançar as próximas versões em menos tempo. </para>
+>Baixe os pacotes bibletime e bibletime-i18n para obter todas as funcionalidades. Pedimos desculpa pela demora para o lançamento desta versão e esperamos conseguir lançar as próximas versões em menos tempo. </para>
 	</formalpara>
 </section>
 
 </webpage>
-

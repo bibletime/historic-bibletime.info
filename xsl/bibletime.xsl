@@ -2,7 +2,7 @@
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 xmlns:html='http://www.w3.org/1999/xhtml'
-				xmlns='http://www.w3.org/1999/xhtml'
+		xmlns='http://www.w3.org/1999/xhtml'
                 xmlns:doc="http://docbook.sourceforge.net/release/xsl/current/doc/"
                 exclude-result-prefixes="doc html"
                 version="1.0">
@@ -13,7 +13,7 @@
 
 <xsl:output method="xml"
             indent="no"
-						encoding="UTF-8"
+	    encoding="UTF-8"
             doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN"
             doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
 />
@@ -26,6 +26,10 @@
             doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11-flat.dtd"
 />
 -->
+<xsl:param name="page-language" select="'.'"/>
+
+<xsl:variable name="l10n.gentext.language"><xsl:value-of select="$page-language"/></xsl:variable>
+<xsl:variable name="l10n.gentext.default.language">en</xsl:variable>
 
 <xsl:param name="autolayout" select="document($autolayout-file, /*)"/>
 

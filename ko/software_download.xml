@@ -4,8 +4,10 @@
 ]>
 
 <webpage id="software_download">
-<config param="desc" value="Download"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Download"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >다운로드</title>
@@ -19,13 +21,13 @@
 ><title
 >바이블타임 구하기</title>
 <para
-> 바이블타임의 RPM패키지들이 제공되고 있습니다. 파일의 이름을 통해 당신의 시스템을 위한 패키지들이 제공되고 있는지를 확인하십시오. 파일이름에는 리눅스 배포판의 이름과 버전등이 명시되어 있습니다. 예를 들어 "bibletime-1.2.2-1suse8.1.i586.rpm"은 i586이나 그이상의 SuSE 8.1시스템을 위한 것입니다. </para>
+>바이블타임의 RPM패키지들이 제공되고 있습니다. 파일의 이름을 통해 당신의 시스템을 위한 패키지들이 제공되고 있는지를 확인하십시오. 파일이름에는 리눅스 배포판의 이름과 버전등이 명시되어 있습니다. 예를 들어 "bibletime-1.2.2-1suse8.1.i586.rpm"은 i586이나 그이상의 SuSE 8.1시스템을 위한 것입니다. </para>
 
 <para
-> "바이블타임" 패키지는 프로그램과 영문 문서들을 포함합니다. 프로그램과 문서들의 번역판은 "bibletime-i18n" 패키지를 통해 제공되고 있습니다. </para>
+>"바이블타임" 패키지는 프로그램과 영문 문서들을 포함합니다. 프로그램과 문서들의 번역판은 "bibletime-i18n" 패키지를 통해 제공되고 있습니다. </para>
 
 <para
-> 바이블타임은 <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954"
+>바이블타임은 <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954"
 >sourceforge 프로젝트 페이지</ulink
 >에서 다운로드 하실 수 있습니다. </para>
 
@@ -36,10 +38,9 @@
 ><title
 >설치</title>
 <para
-> <olink targetdocent="documentation_installation_bibletime"
+><olink targetdocent="documentation_installation_bibletime"
 >설치 명령어</olink
 >를 읽으십시오. </para>
 </section>
 
 </webpage>
-

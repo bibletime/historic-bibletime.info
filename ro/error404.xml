@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="error404">
-<config param="desc" value="404: Not found"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="404: Not found"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >Error</title>
@@ -18,12 +20,12 @@
 ><title
 >The document is not available</title>
 <para
-> The document you wanted to get is not available on <ulink url="http://www.bibletime.info/"
+>The document you wanted to get is not available on <ulink url="http://www.bibletime.info/"
 >www.bibletime.info</ulink
 >. Please use the navigation tree on the left to see if the document was moved. </para>
 
 <para
-> If you can't solve the problem please report the URL which failed to <email
+>If you can't solve the problem please report the URL which failed to <email
 >info@bibletime.info</email
 >. Thank you very much! </para>
 
@@ -36,4 +38,3 @@ Local variables:
 mode: docbook
 End:
 -->
-

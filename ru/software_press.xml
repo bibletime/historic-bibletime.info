@@ -4,8 +4,10 @@
 ]>
 
 <webpage id="software_press">
-<config param="desc" value="In the press"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="In the press"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >Пресса о нас</title>
@@ -19,38 +21,38 @@
 ><title
 >Пресса о нас</title>
 <para
-> На сайте <A HREF="http://dot.kde.org/995302757"
+>На сайте <A HREF="http://dot.kde.org/995302757"
 ><b
 >dot.kde.org</b
 ></A
 > Andreas Pour делает следующий вывод в своем обозрении: </para>
 
 <section>
-<para
-> <blockquote
-> <attribution
->Andreas Pour (&copy; 2001 Andreas "Dre" Pour. Все права защищены)</attribution
-> <para
-> Bibletime является действительно Божьим посланием для религиозных пользователей KDE. Очень легкая в использовании, хотя потребуется немного времени, чтобы изучить некоторые особенности. Я думаю, что следующий релиз сделает её ещё лучше, особенно предоставляя графический интерфейс (GUI) для сложной установки и настройки Sword. С другой стороны, моё личное пожелание в том, чтобы использовать KHTML для возможностей улучшенной навигации.  </para
-> </blockquote
-> </para>
+<para>
+	<blockquote>
+	<attribution
+>Andreas Pour (&copy; 2001 Andreas "Dre" Pour. Все права защищены)</attribution>
+	<para
+>Bibletime является действительно Божьим посланием для религиозных пользователей KDE. Очень легкая в использовании, хотя потребуется немного времени, чтобы изучить некоторые особенности. Я думаю, что следующий релиз сделает её ещё лучше, особенно предоставляя графический интерфейс (GUI) для сложной установки и настройки Sword. С другой стороны, моё личное пожелание в том, чтобы использовать KHTML для возможностей улучшенной навигации.  </para>
+	</blockquote>
+</para>
 </section>
 
 <section>
 <para
-> Немецкий журнал "Pfarrer &amp; PC" провел обзор программ по изучению Библии для Linux, который включал BibleTime среди "Gnomesword" и "Volksbibel 2000". Их заключение о BibleTime на немецком звучит так: </para>
+>Немецкий журнал "Pfarrer &amp; PC" провел обзор программ по изучению Библии для Linux, который включал BibleTime среди "Gnomesword" и "Volksbibel 2000". Их заключение о BibleTime на немецком звучит так: </para>
+
+<para>
+	<blockquote>
+	<attribution
+>Pfarrer &amp; PC 2002 (&copy; Pfarrer &amp; PC 2002)</attribution>
+	<para lang="de"
+>Trotzdem: Alles dran, alles drin - BibleTime ist ein funktional wie optisch gelungenes Bibel-Programm, dem man unter Linux große Verbreitung wünschen darf. Ein wenig bedauerlich ist das copyrightbedingte Fehlen der »großen« zeitgenössischen Bibelübersetzungen. Dafür beschert BibleTime dem Nutzer Einblicke in selten genutzte Übersetzungen und ein gutes Handling griechischer und hebräischer Originaltexte. </para>
+	</blockquote>
+</para>
 
 <para
-> <blockquote
-> <attribution
->Pfarrer &amp; PC 2002 (&copy; Pfarrer &amp; PC 2002)</attribution
-> <para lang="de"
-> Trotzdem: Alles dran, alles drin - BibleTime ist ein funktional wie optisch gelungenes Bibel-Programm, dem man unter Linux große Verbreitung wünschen darf. Ein wenig bedauerlich ist das copyrightbedingte Fehlen der »großen« zeitgenössischen Bibelübersetzungen. Dafür beschert BibleTime dem Nutzer Einblicke in selten genutzte Übersetzungen und ein gutes Handling griechischer und hebräischer Originaltexte. </para
-> </blockquote
-> </para>
-
-<para
-> Обзор находится на: <ulink url="http://www.pfarrer-pc.de/magazin/2-02/art02-02-bibli.php"
+>Обзор находится на: <ulink url="http://www.pfarrer-pc.de/magazin/2-02/art02-02-bibli.php"
 >www.pfarrer-pc.de</ulink
 > </para>
 </section>
@@ -58,4 +60,3 @@
 </section>
 
 </webpage>
-

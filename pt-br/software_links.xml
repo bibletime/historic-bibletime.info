@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_links">
-<config param="desc" value="Link collection"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Link collection"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Links</title>
@@ -19,10 +21,10 @@
 ><title
 >Lista de páginas cristãs importantes</title>
 <para
-> Existem muitas outras páginas cristãs na internet. Algumas são mais, outras menos importantes. Nós coletamos uma lista de todas as páginas que nós achamos importantes. </para>
+>Existem muitas outras páginas cristãs na internet. Algumas são mais, outras menos importantes. Nós coletamos uma lista de todas as páginas que nós achamos importantes. </para>
 
 <para
-> Desde que nós não somos autores das páginas lincadas nós não somos responsáveis pelo seu conteúdo, nós explicitamente nos disassociamos do conteúdo das páginas lincadas! Isto é necessário porque as leis alemãs dizem que você é responsável pelo conteúdo de páginas lincadas a menos que você explicitamente se disassocie delas. </para>
+>Desde que nós não somos autores das páginas lincadas nós não somos responsáveis pelo seu conteúdo, nós explicitamente nos disassociamos do conteúdo das páginas lincadas! Isto é necessário porque as leis alemãs dizem que você é responsável pelo conteúdo de páginas lincadas a menos que você explicitamente se disassocie delas. </para>
 
 	<section
 ><title
@@ -33,7 +35,7 @@
 >Bible Technologies Group</ulink
 >.</title>
 			<para
-> O lar do novo formato de texto de troca comum OSIS, que esperamos será usado por muitas sociedades Bíblicas e editoras do mundo </para>
+>O lar do novo formato de texto de troca comum OSIS, que esperamos será usado por muitas sociedades Bíblicas e editoras do mundo </para>
 		</formalpara>
 
 		<formalpara
@@ -42,7 +44,7 @@
 >Sociedade Bíblica CrossWire</ulink
 >.</title>
 			<para
-> A sociedade Bíblica Crosswire é uma das poucas organizações cristãs no mundo que doam sem custo tudo o que produzem! Crosswire suporta o projeto Sword, o projeto KJV2003 e algumas outras coisas legais. </para>
+>A sociedade Bíblica Crosswire é uma das poucas organizações cristãs no mundo que doam sem custo tudo o que produzem! Crosswire suporta o projeto Sword, o projeto KJV2003 e algumas outras coisas legais. </para>
 		</formalpara>
 	</section>
 
@@ -55,7 +57,7 @@
 >Gnomesword</ulink
 >.</title>
 			<para
-> Gnomesword é uma interface gráfica para o Sword usando o kit de ferramentas Gnome. Uma aplicação realmente boa. Nao deixe de checar! </para>
+>Gnomesword é uma interface gráfica para o Sword usando o kit de ferramentas Gnome. Uma aplicação realmente boa. Nao deixe de checar! </para>
 		</formalpara>
 	</section>
 
@@ -69,7 +71,7 @@
 >BibleWorks</ulink
 >.</title>
 			<para
-> BibleWorks é uma das melhores aplicações para estudo da Bíblia para Windows!Muito bom mas muito caro também. Só é útil para escolas. </para>
+>BibleWorks é uma das melhores aplicações para estudo da Bíblia para Windows!Muito bom mas muito caro também. Só é útil para escolas. </para>
 		</formalpara>
 
 		<formalpara
@@ -78,7 +80,7 @@
 >BibleWorkshop</ulink
 >.</title>
 			<para
-> O programa Bible Workshop é uma aplicação poderosa de estudo da Bíblia para Windows, que está disponível em inglês, alemão e francês. É possível melhorar o Bible Workshop usando bibliotecas de Texto que você pode comprar. </para>
+>O programa Bible Workshop é uma aplicação poderosa de estudo da Bíblia para Windows, que está disponível em inglês, alemão e francês. É possível melhorar o Bible Workshop usando bibliotecas de Texto que você pode comprar. </para>
 		</formalpara>
 
 		<formalpara
@@ -87,7 +89,7 @@
 >Logos</ulink
 >.</title>
 			<para
-> Logos é uma das melhores aplicações para estudo da Bíblia para Windows.Você pode comprar muitos, muitos textos para melhorá-lo. </para>
+>Logos é uma das melhores aplicações para estudo da Bíblia para Windows.Você pode comprar muitos, muitos textos para melhorá-lo. </para>
 		</formalpara>
 
 		<formalpara
@@ -96,7 +98,7 @@
 >OnlineBible</ulink
 >.</title>
 			<para
-> A Bíblia online é uma aplicação poderosa de estudo da Bíblia para Windows. </para>
+>A Bíblia online é uma aplicação poderosa de estudo da Bíblia para Windows. </para>
 		</formalpara>
 
 		<formalpara
@@ -105,7 +107,7 @@
 >Sword para Windows</ulink
 >.</title>
 			<para
-> Esta é a aplicação de estudo da Bíblia para Windows feito pelo time do Sword!Sword é suportado pela Sociedade Bíblica Crosswire. </para>
+>Esta é a aplicação de estudo da Bíblia para Windows feito pelo time do Sword!Sword é suportado pela Sociedade Bíblica Crosswire. </para>
 		</formalpara>
 
 		<formalpara
@@ -114,7 +116,7 @@
 >Volksbibel</ulink
 >.</title>
 			<para
-> Volksbibel 2000.2 é um software de estudo da Bíblia alemão, baseado em metacartão, para Windows, Linux e Mac. Apesar de não haver tantos textos quanto em outros softwares, ele tem algumas coisas legais como suporte básico a mapas incluído. Se você é alemão, experimente! </para>
+>Volksbibel 2000.2 é um software de estudo da Bíblia alemão, baseado em metacartão, para Windows, Linux e Mac. Apesar de não haver tantos textos quanto em outros softwares, ele tem algumas coisas legais como suporte básico a mapas incluído. Se você é alemão, experimente! </para>
 		</formalpara>
 	</section>
 
@@ -128,7 +130,7 @@
 >MacSword para MacOS X</ulink
 >.</title>
 			<para
-> MacSword é um novo software de estudo da Bíblia para o novo sistema Macintosh OS X. As telas parecem muito promissoras! </para>
+>MacSword é um novo software de estudo da Bíblia para o novo sistema Macintosh OS X. As telas parecem muito promissoras! </para>
 		</formalpara>
 	</section>
 
@@ -142,11 +144,10 @@
 >SourceForge</ulink
 >.</title>
 			<para
-> SourceForge nos provê as ferramentas para desenvolver o BibleTime com muitos membros do time ao mesmo tempo! Nós poupamos muito tempo e dinheiro usando os seus serviços. </para>
+>SourceForge nos provê as ferramentas para desenvolver o BibleTime com muitos membros do time ao mesmo tempo! Nós poupamos muito tempo e dinheiro usando os seus serviços. </para>
 		</formalpara>
 	</section>
 
 </section>
 
 </webpage>
-

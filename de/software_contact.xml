@@ -4,8 +4,10 @@
 ]>
 
 <webpage id="contact">
-<config param="desc" value="Contact"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Contact"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Kontakt</title>
@@ -24,7 +26,7 @@
 >Einen Fehlerbericht schicken</ulink
 ></title>
 	<para
-> Wenn Sie Fehler in BibleTime finden, benutzen Sie bitte diesen Link, damit die Fehler in späteren Versionen behoben werden können. </para>
+>Wenn Sie Fehler in BibleTime finden, benutzen Sie bitte diesen Link, damit die Fehler in späteren Versionen behoben werden können. </para>
 	</formalpara>
 
 	<formalpara
@@ -33,7 +35,7 @@
 >Hilfe bekommen</ulink
 ></title>
 	<para
-> Wenn Sie Probleme mit BibleTIme haben benutzen Sie bitte diesen Link um Hilfe zur Lösung zu bekommen. </para>
+>Wenn Sie Probleme mit BibleTIme haben benutzen Sie bitte diesen Link um Hilfe zur Lösung zu bekommen. </para>
 	</formalpara>
 
 	<formalpara
@@ -42,7 +44,7 @@
 >Schicken Sie eine Funktions-Idee</ulink
 ></title>
 	<para
-> Wenn Sie eine Idee haben, wie man BibleTime verbessern kann, benutzen Sie bitte diesen Link um uns darauf aufmerksam zu machen! </para>
+>Wenn Sie eine Idee haben, wie man BibleTime verbessern kann, benutzen Sie bitte diesen Link um uns darauf aufmerksam zu machen! </para>
 	</formalpara>
 
 	<formalpara
@@ -51,10 +53,9 @@
 >Webseitenprobleme berichten</ulink
 ></title>
 	<para
-> Wenn Sie Probleme mit den Internetseiten haben oder wenn Sie Verbesserungideen haben schicken Sie uns bitte diese mit diesem Link! </para>
+>Wenn Sie Probleme mit den Internetseiten haben oder wenn Sie Verbesserungideen haben schicken Sie uns bitte diese mit diesem Link! </para>
 	</formalpara>
 
 </section>
 
 </webpage>
-

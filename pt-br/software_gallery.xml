@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_gallery">
-<config param="desc" value="Gallery"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Gallery"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Galeria</title>
@@ -27,203 +29,212 @@
 >Code2000</ulink
 > Unicode font. Click on the preview images to see a large and detailed version of each screenshot.</para>
 
-	<mediaobject
-> <caption
-> <formalpara
+	<mediaobject>
+		<caption>
+			<formalpara
 ><title
->BHS - renderização de hebraico</title
-> <para
+>BHS - renderização de hebraico</title>
+				<para
 ><emphasis
 >BHS</emphasis
 > (sigla para <emphasis
 >Biblia Hebraica Stuttgartensia</emphasis
->), o melhor texto disponível para o Antigo Testamento em Hebraico.</para
-> <para
+>), o melhor texto disponível para o Antigo Testamento em Hebraico.</para>
+				<para
 >As you can see, BibleTime renders the text correctly from right to left. Those of you who can read Hebrew will notice that the Vowel Points and the Cantillation Marks (you can switch both of them on and off) are displayed correctly. <ulink url="/images/gallery/bhs.png"
 >Large screenshot</ulink
-> </para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/bhs_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->BHS - renderização de hebraico</phrase
-> </textobject
-> </mediaobject>
+> </para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/bhs_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>BHS - renderização de hebraico</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Peshitta - Tradução síria recente</title
-> <para
+>Peshitta - Tradução síria recente</title>
+				<para
 >A <emphasis
 >Peshitta</emphasis
-> contem um texto recente em Sírio, da direita para a esquerda.</para
-> <para
+> contem um texto recente em Sírio, da direita para a esquerda.</para>
+				<para
 >QT renderiza esse texto muito bem com Code2000, que é uma das poucas fontes que suportam caracteres sírios. <ulink url="/images/gallery/peshitta.png"
 >Ver Tela Ampliada</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/peshitta_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Peshitta - Tradução síria recente</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/peshitta_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Peshitta - Tradução síria recente</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Bíblia Árabe</title
-> <para
+>Bíblia Árabe</title>
+				<para
 ><emphasis
 >AraSVD</emphasis
 >: A Bíblia Árabe. Um bom exemplo de renderização da direta para esquerda de caracteres complexos- Árabe é provavelmente um dos conjuntos de caracteres mais complexos do mundo. Essa tela foi capturada com as quebras de linha desligadas, resultando em um texto mais legível. <ulink url="/images/gallery/arasvd.png"
 >Ver Tela Ampliada</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/arasvd_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Bíblia Árabe</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/arasvd_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Bíblia Árabe</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Renderização de Chinês</title
-> <para
+>Renderização de Chinês</title>
+				<para
 ><emphasis
 >ChiGU</emphasis
 >: Texto Bíblico em Chinês. Desde a QT3, BibleTime consegue quebrar corretamente os parágrafos (como você deve saber, não há espaço entre as palavras). <ulink url="/images/gallery/chigu.png"
 >Ver Tela Ampliada</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/chigu_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Renderização de Chinês</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/chigu_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Renderização de Chinês</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Renderização de Grego com números de Strong e marcações morfológicas</title
-> <para
+>Renderização de Grego com números de Strong e marcações morfológicas</title>
+				<para
 ><emphasis
 >IGNT</emphasis
->: The Interlinear Greek New Testament. The green numbers in "<![CDATA[< 
+>: The Interlinear Greek New Testament. The green numbers in "<![CDATA[<
 >]]>" brackets are Strongnumbers, whereas the numbers in "( )" brackets are Morphologic Tags. Both of them can displayed in a tooltip using a predefined Strong's and Morphology dictionary, as you can see in the example. <ulink url="/images/gallery/ignt.png"
 >Large screenshot</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/ignt_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Renderização de Grego com números de Strong e marcações morfológicas</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/ignt_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Renderização de Grego com números de Strong e marcações morfológicas</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Coreano e Tailandês</title
-> <para
+>Coreano e Tailandês</title>
+				<para
 ><emphasis
 >Kor</emphasis
 > e <emphasis
 >ThaiKJV</emphasis
 >. Coreano e Tailandês são bons exemplos de Unicode, já que atualmente são cobertos por diversos conjuntos de caracteres Unicode. Eles são exibidos em visualização paralela em uma única janela. A primeira linha do texto tailandês que é um pouco menor é um título de sessão e pode ser ligado e desligado usando o primeiro botão da barra de ferramentas. <ulink url="/images/gallery/korthai.png"
 >Ver Tela Ampliada</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/korthai_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Coreano e Tailandês</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/korthai_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Coreano e Tailandês</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Búlgaro com notas de rodapé</title
-> <para
+>Búlgaro com notas de rodapé</title>
+				<para
 ><emphasis
 >Búlgaro</emphasis
 >: A Bíbla no idioma da Bulgária. Búlgaro usa o conjunto de caracteres Kyrillic, que também é usado em outros idiomas, como Russo. Note o texto marcado - é uma "nota de rodapé". O menu popup mostra como podem ser ligadas e desligadas. <ulink url="/images/gallery/bulgarian.png"
 >Ver Tela Ampliada</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/bulgarian_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Búlgaro com notas de rodapé</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/bulgarian_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Búlgaro com notas de rodapé</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Vietnamita e Romeno</title
-> <para
+>Vietnamita e Romeno</title>
+				<para
 ><emphasis
 >Viet</emphasis
 > e <emphasis
 >RomCor</emphasis
 >. Leste Europeu e Leste Asiárico! Vietnamita e Romenos não estão ligados geograficamente, embora nessa tela eles aparentem ser similares. <ulink url="/images/gallery/vietromcor.png"
 >Ver Tela Ampliada</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/vietromcor_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Vietnamita e Romeno</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/vietromcor_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Vietnamita e Romeno</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Esperanto sem o número dos versículos e quebras de linhas</title
-> <para
+>Esperanto sem o número dos versículos e quebras de linhas</title>
+				<para
 >SIM, existe uma Bíblia para quem prefere falar Esperanto. Este não é umbom exemplo Unicode, já que os caracteres exibidos vem do conjunto de caracteres iso-8859-1, mas isso mostra como o texto se parece após desligar-se os números dos versículos e quebras de linhas.  <ulink url="/images/gallery/esperanto.png"
 >Ver Tela Ampliada</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/esperanto_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Esperanto sem o número dos versículos e quebras de linhas</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/esperanto_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Esperanto sem o número dos versículos e quebras de linhas</phrase>
+		</textobject>
+	</mediaobject>
 
 <!-- This is the template.
 
@@ -252,4 +263,3 @@
 </section>
 
 </webpage>
-

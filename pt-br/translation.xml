@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="translation">
-<config param="desc" value="Software page"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Software page"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >Tradução</title>
@@ -18,29 +20,29 @@
 ><title
 >Ajude a traduzir BibleTime no seu idioma</title>
 <para
-> Esse é uma parte do desenvolvimento do software onde é necessária a ajuda de várias pessoas. Nós desejamos oferecer o BibleTime para os usuários na maior quantidade de idiomas possíveis. As seguintes áreas estào abertas para suas contribuições: <orderedlist numeration="arabic"
-> <listitem
+>Esse é uma parte do desenvolvimento do software onde é necessária a ajuda de várias pessoas. Nós desejamos oferecer o BibleTime para os usuários na maior quantidade de idiomas possíveis. As seguintes áreas estào abertas para suas contribuições: <orderedlist numeration="arabic">
+	<listitem
 ><para
 >Traduzir o site do www.bibletime.info</para
-></listitem
-> <listitem
+></listitem>
+	<listitem
 ><para
 >Traduzir a inteface do programa</para
-></listitem
-> <listitem
+></listitem>
+	<listitem
 ><para
 >Traduzir o Livro de Mão do programa</para
-></listitem
-> </orderedlist
-> </para>
+></listitem>
+</orderedlist>
+</para>
 
 <para
-> Nessa página você pode encontrar estatísticas de quão completa está cada uma das traduções existentes para essas áreas, bem como links para os modelos de tradução que você pode usar para sumbeter novas traduções que ainda não existem. Se uma tradução no seu idioma ainda não existe, simplesmente faça download do templete, traduza-o e envie-o para <email
+>Nessa página você pode encontrar estatísticas de quão completa está cada uma das traduções existentes para essas áreas, bem como links para os modelos de tradução que você pode usar para sumbeter novas traduções que ainda não existem. Se uma tradução no seu idioma ainda não existe, simplesmente faça download do templete, traduza-o e envie-o para <email
 >info@bibletime.info</email
 >. Se você não está satisfeito com o estado da tradução na sua linguagem, você pode fazer download do arquivo correspondente, atualizar a tradução e enviar-nos. Em ambos os casos, nós iremos integrar o seu trabalho assim que possível. </para>
 
 <para
-> Para o processo de tradução, nós recomendamos que você use o excelente programa <ulink url="http://i18n.kde.org/tools/kbabel/"
+>Para o processo de tradução, nós recomendamos que você use o excelente programa <ulink url="http://i18n.kde.org/tools/kbabel/"
 >KBabel</ulink
 >. Ele tem várias funções avançadas e é de grande ajuda. </para>
 </section>
@@ -50,31 +52,33 @@
 ><title
 >Traduzir o site do www.bibletime.info</title>
 <para
-> Se a tradução do website no seu idioma não existe ainda, você pode fazer donwload e traduzir o <ulink url="/en/pot/full.pot"
+>Se a tradução do website no seu idioma não existe ainda, você pode fazer donwload e traduzir o <ulink url="/en/pot/full.pot"
 >Modelo de Tradução da Página Web</ulink
 >. Se você quiser atualizar uma tradução existente, use os links na tabela abaixo para baixar o arquivo correspondente. </para>
-	<ssi mode="exec" cgi="/postats/website_stats.pl"/>
+	<ssi mode="exec" cgi="/postats/website_stats.pl"
+></ssi>
 </section>
 
 <section
 ><title
 >Traduzir a inteface do programa</title>
 <para
-> Se a tradução da interface do programa no seu idioma não existe ainda, você pode fazer donwload e traduzir o <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD"
+>Se a tradução da interface do programa no seu idioma não existe ainda, você pode fazer donwload e traduzir o <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD"
 >Modelo de Tradução da Interface do Programa</ulink
 >. Se você quiser atualizar uma tradução existente, use os links na tabela abaixo para baixar o arquivo correspondente. </para>
-	<ssi mode="exec" cgi="/postats/messages_stats.pl"/>
+	<ssi mode="exec" cgi="/postats/messages_stats.pl"
+></ssi>
 </section>
 
 <section
 ><title
->Traduzir o Livro de Mão do programa</title>
+>Traduzir o Livro de Mão do programa.</title>
 <para
-> Se a tradução do livro de mão no seu idioma não existe ainda, você pode fazer donwload e traduzir o <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD"
+>Se a tradução do livro de mão no seu idioma não existe ainda, você pode fazer donwload e traduzir o <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD"
 >Modelo de Tradução do Livro de Mão</ulink
 >. Se você quiser atualizar uma tradução existente, use os links na tabela abaixo para baixar o arquivo correspondente. </para>
-	<ssi mode="exec" cgi="/postats/handbook_stats.pl"/>
+	<ssi mode="exec" cgi="/postats/handbook_stats.pl"
+></ssi>
 </section>
 
 </webpage>
-

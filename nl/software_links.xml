@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_links">
-<config param="desc" value="Link collection"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Link collection"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Links</title>
@@ -19,10 +21,10 @@
 ><title
 >Lijst van belangrijke, christelijke pagina's</title>
 <para
-> There are many other christian pages in the word wide web. Some are more, others are less important. We collected a list of pages which are important in our opinion. </para>
+>There are many other christian pages in the word wide web. Some are more, others are less important. We collected a list of pages which are important in our opinion. </para>
 
 <para
-> Omdat wij niet de auteurs van de gelinkte pagina's zijn, zijn wij niet verantwoordelijk voor hun inhoud, we distantiëren ons met klem van de inhoud van de gelinkte pagina's! Dit is noodzakelijk omdat de Duitse wet zegt dat je verantwoordelijk bent voor de inhoud van gelinkte pagina's tenzij je je met klem van die pagina's distantieert. </para>
+>Omdat wij niet de auteurs van de gelinkte pagina's zijn, zijn wij niet verantwoordelijk voor hun inhoud, we distantiëren ons met klem van de inhoud van de gelinkte pagina's! Dit is noodzakelijk omdat de Duitse wet zegt dat je verantwoordelijk bent voor de inhoud van gelinkte pagina's tenzij je je met klem van die pagina's distantieert. </para>
 
 	<section
 ><title
@@ -33,7 +35,7 @@
 >Bible Technologies Group</ulink
 >.</title>
 			<para
-> De thuisbasis van het nieuwe algemene, tekstuitwisselingsformaat OSIS, dat hopelijk door vele bijbelgenootschappen en -uitgevers wereldwijd gebruikt zal gaan worden. </para>
+>De thuisbasis van het nieuwe algemene, tekstuitwisselingsformaat OSIS, dat hopelijk door vele bijbelgenootschappen en -uitgevers wereldwijd gebruikt zal gaan worden. </para>
 		</formalpara>
 
 		<formalpara
@@ -42,7 +44,7 @@
 >CrossWire Bible Society</ulink
 >.</title>
 			<para
-> De Crosswire Bible Society is een van de weinige christelijke organisaties in de wereld die alles wat ze maken voor iedereen gratis aanbieden! Crosswire ondersteunt onder andere het Sword-project en het KJV2003-project. </para>
+>De Crosswire Bible Society is een van de weinige christelijke organisaties in de wereld die alles wat ze maken voor iedereen gratis aanbieden! Crosswire ondersteunt onder andere het Sword-project en het KJV2003-project. </para>
 		</formalpara>
 	</section>
 
@@ -55,7 +57,7 @@
 >Gnomesword</ulink
 >.</title>
 			<para
-> Gnomesword is een Sword-frontend die gebruik maak van de Gnome-werkset. Een erg goede applicatie. Kijk er eens naar! </para>
+>Gnomesword is een Sword-frontend die gebruik maak van de Gnome-werkset. Een erg goede applicatie. Kijk er eens naar! </para>
 		</formalpara>
 	</section>
 
@@ -69,7 +71,7 @@
 >BibleWorks</ulink
 >.</title>
 			<para
-> BibleWorks is een van de beste bijbelstudie-applicaties voor Windows! Erg goed, maar ook erg duur. Alleen bruikbaar voor bijbelgeleerden. </para>
+>BibleWorks is een van de beste bijbelstudie-applicaties voor Windows! Erg goed, maar ook erg duur. Alleen bruikbaar voor bijbelgeleerden. </para>
 		</formalpara>
 
 		<formalpara
@@ -78,7 +80,7 @@
 >BibleWorkshop</ulink
 >.</title>
 			<para
-> Het programma Bible Workshop is een krachtige, commerciële bijbelstudie-applicatie voor Windows. Het is beschikbaar in het Engels, Duits en Frans. Het is mogelijk de Bible Workshop met te kopen tekstbibliotheken te verrijken. </para>
+>Het programma Bible Workshop is een krachtige, commerciële bijbelstudie-applicatie voor Windows. Het is beschikbaar in het Engels, Duits en Frans. Het is mogelijk de Bible Workshop met te kopen tekstbibliotheken te verrijken. </para>
 		</formalpara>
 
 		<formalpara
@@ -87,7 +89,7 @@
 >Logos</ulink
 >.</title>
 			<para
-> Logos is een van de beste bijbelstudie-applicaties voor Windows. U kunt veel teksten kopen om het te verrijken. </para>
+>Logos is een van de beste bijbelstudie-applicaties voor Windows. U kunt veel teksten kopen om het te verrijken. </para>
 		</formalpara>
 
 		<formalpara
@@ -96,7 +98,7 @@
 >Online Bible</ulink
 >.</title>
 			<para
-> De Online Bible is een krachtige bijbelstudie-applicatie voor Windows. </para>
+>De Online Bible is een krachtige bijbelstudie-applicatie voor Windows. </para>
 		</formalpara>
 
 		<formalpara
@@ -105,7 +107,7 @@
 >Sword for Windows</ulink
 >.</title>
 			<para
-> Dit is de bijbelstudie-applicatie voor Windows gemaakt door het Sword-team! Sword wordt ondersteunt door de Crosswire Bible Society. </para>
+>Dit is de bijbelstudie-applicatie voor Windows gemaakt door het Sword-team! Sword wordt ondersteunt door de Crosswire Bible Society. </para>
 		</formalpara>
 
 		<formalpara
@@ -114,7 +116,7 @@
 >Volksbibel</ulink
 >.</title>
 			<para
-> Volksbible 2000.2 is een Duits, metacard-gebaseerd bijbelstudiegereedschap voor Windows, Linux, en Mac. Alhoewel er niet zoveel teksten als voor andere softwarepakketten beschikbaar zijn, heeft het enkele gave dingen als een rudimentaire kaartenondersteuning. Probeer het uit als u Duits bent (of kent)! </para>
+>Volksbible 2000.2 is een Duits, metacard-gebaseerd bijbelstudiegereedschap voor Windows, Linux, en Mac. Alhoewel er niet zoveel teksten als voor andere softwarepakketten beschikbaar zijn, heeft het enkele gave dingen als een rudimentaire kaartenondersteuning. Probeer het uit als u Duits bent (of kent)! </para>
 		</formalpara>
 	</section>
 
@@ -128,7 +130,7 @@
 >MacSword for OS X</ulink
 >.</title>
 			<para
-> MacSword is een nieuwe bijbelstudie-applicatie voor het nieuwe Macintosh OS X-systeem. De schermafdrukken zien er veelbelovend uit! </para>
+>MacSword is een nieuwe bijbelstudie-applicatie voor het nieuwe Macintosh OS X-systeem. De schermafdrukken zien er veelbelovend uit! </para>
 		</formalpara>
 	</section>
 
@@ -142,11 +144,10 @@
 >SourceForge</ulink
 >.</title>
 			<para
-> SourceForge levert ons de gereedschappen om met veel teamleden tegelijkertijd BibleTime te ontwikkelen! Het gebruik van hun diensten scheelt ons veel tijd en geld. </para>
+>SourceForge levert ons de gereedschappen om met veel teamleden tegelijkertijd BibleTime te ontwikkelen! Het gebruik van hun diensten scheelt ons veel tijd en geld. </para>
 		</formalpara>
 	</section>
 
 </section>
 
 </webpage>
-

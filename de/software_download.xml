@@ -4,8 +4,10 @@
 ]>
 
 <webpage id="software_download">
-<config param="desc" value="Download"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Download"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Herunterladen</title>
@@ -19,13 +21,13 @@
 ><title
 >Wie man BibleTime bekommt</title>
 <para
-> Es gibt verschiedene RPM Pakete von BibleTime. Um zu sehen, ob sie für ihe System erstellt wurden, schauen Sie sich den Dateinamen des Paketes an. Er enthält den abgekürzten Namen und die Version des Linux Systems, für das das Paket erstellt wurde. Zum Beispiel wurde das Paket "bibletime-1.2.2-1suse8.1.i586.rpm" für SuSE 8.1 Systeme gebaut die auf einem i586 oder besser laufen. </para>
+>Es gibt verschiedene RPM Pakete von BibleTime. Um zu sehen, ob sie für ihe System erstellt wurden, schauen Sie sich den Dateinamen des Paketes an. Er enthält den abgekürzten Namen und die Version des Linux Systems, für das das Paket erstellt wurde. Zum Beispiel wurde das Paket "bibletime-1.2.2-1suse8.1.i586.rpm" für SuSE 8.1 Systeme gebaut die auf einem i586 oder besser laufen. </para>
 
 <para
-> Das "bibletime" Paket enthält sowohl die Software als auch die Dokumentation in Englisch. Übersetungsdatein von beiden können im "bibletime-i18n" Paket gefunden werden. </para>
+>Das "bibletime" Paket enthält sowohl die Software als auch die Dokumentation in Englisch. Übersetungsdatein von beiden können im "bibletime-i18n" Paket gefunden werden. </para>
 
 <para
-> Sie können BibleTime auf <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954"
+>Sie können BibleTime auf <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954"
 >unseren SourceForge Seiten</ulink
 > herunterladen. </para>
 
@@ -36,10 +38,9 @@
 ><title
 >Installation</title>
 <para
-> Bitte lesen Sie die <olink targetdocent="documentation_installation_bibletime"
+>Bitte lesen Sie die <olink targetdocent="documentation_installation_bibletime"
 >Installationsanleitung</olink
 >. </para>
 </section>
 
 </webpage>
-

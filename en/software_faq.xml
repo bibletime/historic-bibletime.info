@@ -120,7 +120,7 @@
 
 				<answer>
 					<para>
-					Some modules only contain the text of the old or new testament. Recent versions of BibleTime should only offer the testament which has some te
+					Some modules only contain the text of the old or new testament. Recent versions of BibleTime should only offer the testament which has some text in it.
 					</para>
 				</answer>
 			</qandaentry>
@@ -130,12 +130,3 @@
 </section>
 
 </webpage>
-
-
-
-
-<!--
-Local variables:
-mode: docbook
-End:
--->

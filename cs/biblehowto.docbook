@@ -34,14 +34,14 @@
 
 <authorgroup>
 <author
-> <firstname
+><firstname
 >Bob</firstname
 > <surname
 >Harman</surname
 > </author>
 </authorgroup>
 
-ROLES_OF_TRANSLATORS
+ROLES_OF_TRANSLATORS 
 
 <copyright>
 <year
@@ -66,13 +66,13 @@ ROLES_OF_TRANSLATORS
 
 <legalnotice
 ><para
-> Autorská práva (copyright) k tomuto textu vlastní autor Bob Harman. Text byl přizpůsoben k publikaci spolu s aplikací BibleTime Fredem Saalbachem.</para>
+>Autorská práva (copyright) k tomuto textu vlastní autor Bob Harman. Text byl přizpůsoben k publikaci spolu s aplikací BibleTime Fredem Saalbachem.</para>
 
 <para
-> Pro tuto distribuci tohoto dokumentu spolu s aplikací BibleTime byla poskytnuta neexklusivní práva. Redistribuce jako součást aplikace BibleTime bez úprav a omezená reprodukce podle ustanovení o "slušném užití" Amerického zákona o autorských právech jsou také dovoleny.</para>
+>Pro tuto distribuci tohoto dokumentu spolu s aplikací BibleTime byla poskytnuta neexklusivní práva. Redistribuce jako součást aplikace BibleTime bez úprav a omezená reprodukce podle ustanovení o "slušném užití" Amerického zákona o autorských právech jsou také dovoleny.</para>
 
 <para
-> Pokud máte otázky ohledně používání tohoto textu, kontaktujte autora na adrese Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. Hampton VA 23666 USA <email
+>Pokud máte otázky ohledně používání tohoto textu, kontaktujte autora na adrese Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. Hampton VA 23666 USA <email
 >ncc@ncchampton.org</email
 >.</para>
 
@@ -91,7 +91,7 @@ ROLES_OF_TRANSLATORS
 <title
 >Původní anglické znění:</title>
 <para
-> This the copyright of this text is held by the author Bob Harman. The text was adapted for publication with Bibletime by Fred Saalbach. </para>
+>This the copyright of this text is held by the author Bob Harman. The text was adapted for publication with Bibletime by Fred Saalbach. </para>
 <para
 >Non exclusive serial rights for this distribution of this document with the Bibletime Software have been made. Redistribution as part of the Bibletime software without modification and limited reproduction as provided by the "fair use" provisions of the US copyright code are also permitted.</para>
 </abstract>
@@ -125,4 +125,3 @@ End:
 -->
 
 </webpage>
-

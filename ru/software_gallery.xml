@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_gallery">
-<config param="desc" value="Gallery"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Gallery"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Галерея</title>
@@ -23,207 +25,216 @@
 >Trolltech</ulink
 >. Некоторые из них действительно впечатляют. </para>
 	<para
->Большинство скриншотов были сделаны с использованием превосходного  <ulink url="http://home.att.net/~jameskass/CODE2000.ZIP"
+>Большинство скриншотов были сделаны с использованием превосходного <ulink url="http://home.att.net/~jameskass/CODE2000.ZIP"
 >Code2000</ulink
 > шрифта Unicode. Щелкните на картинке предварительного просмотра, чтобы увидеть большую, со многими деталями версию каждого скриншота. </para>
 
-	<mediaobject
-> <caption
-> <formalpara
+	<mediaobject>
+		<caption>
+			<formalpara
 ><title
->BHS - отображение еврейского</title
-> <para
+>BHS - отображение еврейского</title>
+				<para
 ><emphasis
 >BHS</emphasis
 > (сокращение от <emphasis
 >Biblia Hebraica Stuttgartensia</emphasis
->), лучший доступный текст Ветхого Завета на еврейском языке.</para
-> <para
+>), лучший доступный текст Ветхого Завета на еврейском языке.</para>
+				<para
 >Как вы можете видеть, BibleTime отображает текст корректно справа налево. Те из вас, кто могут читать по еврейски обратят внимание, что черты гласных и знаки кантиляции (Cantillation Marks)отображаются правильно. Вы можете включать и выключать и то, и другое.<ulink url="/images/gallery/bhs.png"
 >Большой скриншот</ulink
-> </para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/bhs_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->BHS - отображение еврейского</phrase
-> </textobject
-> </mediaobject>
+> </para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/bhs_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>BHS - отображение еврейского</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Пешитта (Peshitta) - ранний сирийский перевод</title
-> <para
+>Пешитта (Peshitta) - ранний сирийский перевод</title>
+				<para
 ><emphasis
 >Пешитта (Peshitta)</emphasis
-> содержит ранний сирийский текст, идущий справа налево. </para
-> <para
+> содержит ранний сирийский текст, идущий справа налево. </para>
+				<para
 >QT отображает этот текст очень красиво с помощью шрифта Code2000, которые один из немногих шрифтов, которые поддерживают сирийские буквы. <ulink url="/images/gallery/peshitta.png"
 >Большой скриншот</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/peshitta_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Пешитта (Peshitta) - ранний сирийский перевод</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/peshitta_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Пешитта (Peshitta) - ранний сирийский перевод</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Арабская Библия</title
-> <para
+>Арабская Библия</title>
+				<para
 ><emphasis
 >AraSVD</emphasis
 >: Арабская Библия. Очень хороший пример отображения справа налево сложного алфавита - арабский язык, вероятно, язык с самым сложным алфавитом в мире. Этот скриншот был сделан после того, как перенос по строкам был отключён, чтобы представить более читаемое изображение текста. <ulink url="/images/gallery/arasvd.png"
 >Большой скриншот</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/arasvd_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Арабская Библия</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/arasvd_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Арабская Библия</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Отображение китайского языка</title
-> <para
+>Отображение китайского языка</title>
+				<para
 ><emphasis
 >ChiGU</emphasis
 >: Китайский текст Библии. Начиная с 3й версии QT BibleTime может корректно разрывать параграфы (вы вероятно знаете что, там нет пробелов между словами). <ulink url="/images/gallery/chigu.png"
 >Большой скриншот</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/chigu_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Отображение китайского языка</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/chigu_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Отображение китайского языка</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Отображение греческого с номерами Стронга и морфологическими тегами</title
-> <para
+>Отображение греческого с номерами Стронга и морфологическими тегами</title>
+				<para
 ><emphasis
 >IGNT</emphasis
->: Греческий Новый Завет (The Interlinear Greek New Testament). Зелёные цифры в "<![CDATA[< 
+>: Греческий Новый Завет (The Interlinear Greek New Testament). Зелёные цифры в "<![CDATA[<
 >]]>" скобках - номера Стронга, тогда как цифры в "( )" скобках являются морфологическими тегами. И те, и другие могут включаться в панели инструментов используя выбранный заранее словарь Стронга и морфологический словарь, как вы можете видеть в примере. <ulink url="/images/gallery/ignt.png"
 >Большой скриншот</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/ignt_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Отображение греческого с номерами Стронга и морфологическими тегами</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/ignt_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Отображение греческого с номерами Стронга и морфологическими тегами</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Корейский и тайский</title
-> <para
+>Корейский и тайский</title>
+				<para
 ><emphasis
 >Kor</emphasis
 > и <emphasis
 >ThaiKJV</emphasis
 >. Корейский и тайский очень хороши для примера того, чтобы показать что большинство алфавитов уже перекрыто с помощью Unicode. Они отображаются в параллельном просмотре в одном окне. Первая линия тайского текста имеет немного меньший размер букв. Это заголовок, и он может быть включен и выключен с помощью первой кнопки на панели инструментов окна. <ulink url="/images/gallery/korthai.png"
 >Большой скриншот</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/korthai_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Корейский и тайский</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/korthai_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Корейский и тайский</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Болгарский и сноски</title
-> <para
+>Болгарский и сноски</title>
+				<para
 ><emphasis
 >Bulgarian</emphasis
 >: Библия на болгарском языке. Болгарский использует кириллический алфавит, который также используется в других языках, например - русском.Обратите внимание на помеченный текст - это "сноски". Всплывающее меню показывает как они могут быть включены и выключены. <ulink url="/images/gallery/bulgarian.png"
 >Большой скриншот</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/bulgarian_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Болгарский и сноски</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/bulgarian_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Болгарский и сноски</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Вьетнамский и румынский</title
-> <para
+>Вьетнамский и румынский</title>
+				<para
 ><emphasis
 >Viet</emphasis
 > и <emphasis
 >RomCor</emphasis
 >. Восточная Европа встретилась с Восточной Азией! Вьетнамцы и румыны не соединены географически, хотя они выглядят довольно схоже на этом скриншоте. <ulink url="/images/gallery/vietromcor.png"
 >Большой скриншот</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/vietromcor_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Вьетнамский и румынский</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/vietromcor_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Вьетнамский и румынский</phrase>
+		</textobject>
+	</mediaobject>
 
-		<mediaobject
-> <caption
-> <formalpara
+		<mediaobject>
+		<caption>
+			<formalpara
 ><title
->Эсперанто без номеров стихов и переносов строк</title
-> <para
+>Эсперанто без номеров стихов и переносов строк</title>
+				<para
 >ДА, это Библия для тех из вас, кто предпочитает говорить на Эсперанто. Это не совсем пример Unicode, потому что изображённые буквы взяты из кодировки iso 8859-1. Но это показывает как выглядит текст после того, как отключено отображение номеров стихов и переносов строк. <ulink url="/images/gallery/esperanto.png"
 >Большой скриншот</ulink
-></para
-> </formalpara
-> </caption
-> <imageobject
-> <imagedata fileref="/images/gallery/esperanto_small.jpg" format="JPG"/> </imageobject
-> <textobject
-> <phrase
->Эсперанто без номеров стихов и переносов строк</phrase
-> </textobject
-> </mediaobject>
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/esperanto_small.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>Эсперанто без номеров стихов и переносов строк</phrase>
+		</textobject>
+	</mediaobject>
 
 <!-- This is the template.
 
@@ -252,4 +263,3 @@
 </section>
 
 </webpage>
-

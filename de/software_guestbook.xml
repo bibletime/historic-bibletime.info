@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_guestbook">
-<config param="desc" value="News"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="News"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >Gästebuch</title>
@@ -18,15 +20,15 @@
 ><title
 >BibleTimes Gästebuch</title>
 	<para
-> Diese Seite zeigt BibleTimes Gästebuch. Bitte schreiben Sie uns ihre eigenen Kommentare, wenn Sie möchten. Schreiben Sie ihre Anmerkungen bitte in Englisch, wenn möglich. HTML ist nicht erlaubt und wird entfernt. Sie können normale Zeilenumbrüche benutzen um den Text in Abschnitte einzuteilen. </para>
+>Diese Seite zeigt BibleTimes Gästebuch. Bitte schreiben Sie uns ihre eigenen Kommentare, wenn Sie möchten. Schreiben Sie ihre Anmerkungen bitte in Englisch, wenn möglich. HTML ist nicht erlaubt und wird entfernt. Sie können normale Zeilenumbrüche benutzen um den Text in Abschnitte einzuteilen. </para>
 
 <section
 ><title
 >Schreiben Sie doch bitte ihre Kommentare ins Gästebuch!</title>
-<ssi mode="exec" cgi="/guestbook.pl"/>
+<ssi mode="exec" cgi="/guestbook.pl"
+></ssi>
 </section>
 
 </section>
 
 </webpage>
-

@@ -4,8 +4,10 @@
 ]>
 
 <webpage id="development_join">
-<config param="desc" value="Join us"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="Join us"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 <title
 >Mitmachen</title>
@@ -19,92 +21,93 @@
 ><title
 >Dem BibleTime Team beitreten</title>
 <para
-> Wir sind dankbar für jeden, der uns hilft die BileTime Software, die Dokumentation und die Übersetzungen zu verbessern. </para>
+>Wir sind dankbar für jeden, der uns hilft die BileTime Software, die Dokumentation und die Übersetzungen zu verbessern. </para>
 
 <section
 ><title
 >Die grundlegenden Schritte</title>
 <para
-> Die folgenden Schritte sind für jede Art eines Teammitgliedes nötig. Bitte befolgen Sie sie! </para>
-<para
-> <orderedlist
-> <listitem
-> <para
->Falls Sie nicht bereits einen Account auf SourceForge haben, holen Sie sich bitte einen. Das ganze ist kostenlos. Wir benötigen ihren Benutzernamen, um Sie zu den Teammitgliedern hinzuzufügen, um ihnen Aufgaben zuzuweisen, usw, </para
-> </listitem
-> <listitem
-> <para
->Tragen Sie sich auf der BibleTime Entwickler Mailingliste ein, Alle Entwickler lesen diese Liste, jeder weiß also was los ist. </para
-> </listitem
-> <listitem
-> <para
->Holen Sie sich die Entwicklungsversion von BibleTime und installieren Sie diese. Wenn Sie Hilfe damit benötigen, fragen Sie auf der Mailingliste oder schauen Sie in dem Dokumentations-Abschnitt nach. </para
-> </listitem
-> </orderedlist
-> </para>
+>Die folgenden Schritte sind für jede Art eines Teammitgliedes nötig. Bitte befolgen Sie sie! </para>
+<para>
+	<orderedlist>
+		<listitem>
+			<para
+>Falls Sie nicht bereits einen Account auf SourceForge haben, holen Sie sich bitte einen. Das ganze ist kostenlos. Wir benötigen ihren Benutzernamen, um Sie zu den Teammitgliedern hinzuzufügen, um ihnen Aufgaben zuzuweisen, usw, </para>
+		</listitem>
+
+		<listitem>
+			<para
+>Tragen Sie sich auf der BibleTime Entwickler Mailingliste ein, Alle Entwickler lesen diese Liste, jeder weiß also was los ist. </para>
+		</listitem>
+
+		<listitem>
+			<para
+>Holen Sie sich die Entwicklungsversion von BibleTime und installieren Sie diese. Wenn Sie Hilfe damit benötigen, fragen Sie auf der Mailingliste oder schauen Sie in dem Dokumentations-Abschnitt nach. </para>
+		</listitem>
+	</orderedlist>
+</para>
 </section>
 
 <section
 ><title
 >Die nächsten Schritte für Software Entwickler</title>
-<para
-> <orderedlist
-> <listitem
-> <para
->Arbeiten Sie sich durch einige der QT 3 und KDE 3 Programmier-Schnellkurse, um sich an das Programmieren mit den Dingen zu gewöhnen, die BibleTime benutzt. </para
-> </listitem
-> <listitem
-> <para
->Falls Sie nicht wissen, was Sie tun sollen, fragen Sie bitte auf der Mailingliste nach ein paar Aufgaben. Vergessen Sie nicht uns mitzuteilen, wie schwierig diese sein sollen. </para
-> </listitem
-> </orderedlist
-> </para>
+<para>
+	<orderedlist>
+		<listitem>
+			<para
+>Arbeiten Sie sich durch einige der QT 3 und KDE 3 Programmier-Schnellkurse, um sich an das Programmieren mit den Dingen zu gewöhnen, die BibleTime benutzt. </para>
+		</listitem>
+		<listitem>
+			<para
+>Falls Sie nicht wissen, was Sie tun sollen, fragen Sie bitte auf der Mailingliste nach ein paar Aufgaben. Vergessen Sie nicht uns mitzuteilen, wie schwierig diese sein sollen. </para>
+		</listitem>
+	</orderedlist>
+</para>
 </section>
 
 <section
 ><title
 >Die  nächsten Schritte für Dokumentations-Autoren</title>
-<para
-> <orderedlist
-> <listitem
-> <para
->Lesen Sie die bestehende englische Dokumentation. Diese liegt im docs/ Verzeichnis des bibletime CVS Verzeichnisses. </para
-> </listitem
-> <listitem
-> <para
->Die Dokumentation wird in sogenannten Docbook Dateien in dem Unterverzeichnis "Unicode" jedes Dokumentations-Teiles gespeichert (Handbuch, Anleitung zum Bibelstudium, Installation, Hilfeseiten). Bitte bearbeiten Sie die HTML nicht direkt, da sie automatisch aus den Docbook Dateien erzeugt werden.Die Datein für die Übersetzungen werden auch aus den Docbook Dateien generiert. </para
-> </listitem
-> </orderedlist
-> </para>
+<para>
+	<orderedlist>
+		<listitem>
+			<para
+>Lesen Sie die bestehende englische Dokumentation. Diese liegt im docs/ Verzeichnis des bibletime CVS Verzeichnisses. </para>
+		</listitem>
+		<listitem>
+			<para
+>Die Dokumentation wird in sogenannten Docbook Dateien in dem Unterverzeichnis "Unicode" jedes Dokumentations-Teiles gespeichert (Handbuch, Anleitung zum Bibelstudium, Installation, Hilfeseiten). Bitte bearbeiten Sie die HTML nicht direkt, da sie automatisch aus den Docbook Dateien erzeugt werden.Die Datein für die Übersetzungen werden auch aus den Docbook Dateien generiert. </para>
+		</listitem>
+	</orderedlist>
+</para>
 </section>
 
 
 <section
 ><title
 >Die nächsten Schritte für Übersetzer</title>
-<para
-> <orderedlist
-> <listitem
-> <para
+<para>
+	<orderedlist>
+		<listitem>
+			<para
 >Schauen Sie sich die Internationalsisierungs Seiten des KDE Projektes an. Diese sind auf <ulink url="http://i18n.kde.org/"
 >i18n.kde.org</ulink
-> verfügbar. </para
-> </listitem
-> <listitem
-> <para
->Installieren Sie das Programm KBabel, falls nicht bereits auf ihrem System installiert ist. Dies wird ihnen mit der Übersetzung wirklich helfen. </para
-> </listitem
-> <listitem
-> <para
+> verfügbar. </para>
+		</listitem>
+		<listitem>
+			<para
+>Installieren Sie das Programm KBabel, falls nicht bereits auf ihrem System installiert ist. Dies wird ihnen mit der Übersetzung wirklich helfen. </para>
+		</listitem>
+		<listitem>
+			<para
 >Bitte lesen Sie die Seite über das <olink targetdocent="translation"
 >Übersetzen von BibleTime</olink
->. </para
-> </listitem
-> </orderedlist
-> </para>
+>. </para>
+		</listitem>
+	</orderedlist>
+</para>
 </section>
 
 </section>
 
 </webpage>
-

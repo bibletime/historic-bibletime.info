@@ -3,8 +3,10 @@
 ]>
 
 <webpage id="software_license">
-<config param="desc" value="License"/>
-<config param="rcsdate" value="$Date$"/>
+<config param="desc" value="License"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
 <head>
 	<title
 >라이센스</title>
@@ -17,8 +19,8 @@
 <section
 ><title
 >라이센스</title>
-<literallayout>
-		    GNU 일반 공중 사용 허가서
+<literallayout
+>GNU 일반 공중 사용 허가서
 
   This is an unofficial translation of the GNU General Public License into Korean. 
 It was not published by the Free Software Foundation, and does not legally state 
@@ -346,4 +348,3 @@ GNU 일반 공중 사용 허가서는 자유 소프트웨어를 독점 소프트
 </section>
 
 </webpage>
-

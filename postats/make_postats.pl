@@ -68,7 +68,7 @@ sub bibletime_stats() {
 #website stats
 open(OUT, "> website_stats.txt");
 
-my @langs = sort("bg", "de", "ko", "pt-br", "ro", "ru", "ua");
+my @langs = sort("bg", "cs", "de", "fr", "it", "ko", "nl", "pt-br", "ro", "ru", "ua");
 foreach my $lang (@langs){
 	print OUT &parse_pofile( "../$lang/po/full.po", "$lang" );
 }
