@@ -167,10 +167,10 @@
           </div>
           <div id="rightpanel"></div>
           <div id="content">
-            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821690"></a>Livro de visitas do BibleTime</h2></div></div><div></div></div>
+            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821691"></a>Livro de visitas do BibleTime</h2></div></div><div></div></div>
 	<p> Esta página mostra o livro de visitas do BibleTime. Por favor coloque seus próprios comentários se você quiser. Por favor escreva seus comentários em inglês se possível! </p>
 
-<div class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h3 class="title"><a id="id2821707"></a>Livro de Visitas</h3></div></div><div></div></div>
+<div class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h3 class="title"><a id="id2821708"></a>Livro de Visitas</h3></div></div><div></div></div>
 <!--#exec cgi="/guestbook.pl"-->
 </div>
 
