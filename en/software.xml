@@ -23,6 +23,15 @@ provided by the <ulink url="http://www.crosswire.org/">Crosswire Bible Society</
 </section>
 
 <section><title>News about BibleTime</title>
+	<formalpara><title>2004-05-25: Documentation authors needed</title>
+		<para>
+		The BibleTime team is in urgent need of one or more volunteers who want to work on the documentation. The handbook is outdated and needs an update before the next version.
+		</para>
+		<para>
+		If you would like to help us in this area please contact us at <email>info at bibletime dot info</email>.
+		</para>
+	</formalpara>
+	
 	<formalpara><title>2004-02-09: BibleTime 1.4.1 for Mac OS X</title>
 		<para>
 		On the BibleTime development list <ulink url="http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html">Daniel Glassey writes</ulink> that BibleTime is now available for Mac OSX. To get BibleTime running on Mac please follow the instructions in <ulink url="http://www.crosswire.org/pipermail/bt-devel/2004-February/005163.html">this eMail</ulink> and <ulink url="http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html">this eMail</ulink>. Please report problems or success to <email>info@bibletime.info</email>.
