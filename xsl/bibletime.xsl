@@ -199,6 +199,7 @@
 						<img alt="ko" src="/images/flags/ko.png"/>
 					</a>
 
+					<!--
 					<a title="nl">
 						<xsl:attribute name="href">
 							<xsl:text>../nl/</xsl:text>
@@ -208,7 +209,6 @@
 						<img alt="nl" src="/images/flags/nl.png"/>
 					</a>
 
-					<!--
 					<a title="ro">
 						<xsl:attribute name="href">
 							<xsl:text>../ro/</xsl:text>
@@ -237,9 +237,11 @@
 
 						<img alt="ua" src="../images/flags/ua.png"/>
 					</a>
+
+					<a href="/translation.shtml"><img alt="Translate www.bibletime.info!"
+src="/images/flags/new-lang.png"/></a>
 					-->
 
-					<a href="/translation.shtml"><img alt="Translate www.bibletime.info!" src="/images/flags/new-lang.png"/></a>
 				</div>
 			</div>
 

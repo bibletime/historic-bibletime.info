@@ -22,29 +22,31 @@
 >How to contact us</title>
 	<formalpara
 ><title
+><ulink url="http://www.crosswire.org/forums/mvnforum/listthreads?forum=2"
+>The BibleTime user forum.</ulink
+></title>
+	<para
+>This is the place to ask questions about BibleTime. If you have trouble with installing and/or using BibleTime post a message in the forum, and hopefully you'll have an answer in time. </para>
+	<para
+>If you are an experienced BibleTime user and can spare some time, please regularly check out the forum and answer questions of people who have less experience than you. Thereby you would also help the developers to concentrate on the work of development instead of user support. </para>
+	</formalpara>
+	
+	<formalpara
+><title
 ><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=100954"
 >Send a Bug report</ulink
 ></title>
 	<para
->If you find bugs in BibleTime use this link to report it so it can be fixed in later versions. </para>
+>If you find a bug in BibleTime use this link to report it so it can be fixed in later versions. Please include detailed descriptions of your setup and how the developers can reproduce the bug. </para>
 	</formalpara>
-
-	<formalpara
-><title
-><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=200954"
->Get support</ulink
-></title>
-	<para
->If you have problems with BibleTime use this link to get support how to solve them. </para>
-	</formalpara>
-
+	
 	<formalpara
 ><title
 ><ulink url="http://sourceforge.net/tracker/?atid=350954&amp;group_id=954&amp;func=browse"
->Post a feature request</ulink
+>Send a feature suggestion</ulink
 ></title>
 	<para
->If you have an idea how to improve BibleTime please use this link to tell about it! </para>
+>If you have an idea how to improve BibleTime please use this link to tell the developers about it. </para>
 	</formalpara>
 
 	<formalpara
@@ -53,7 +55,7 @@
 >Report a website problem</ulink
 ></title>
 	<para
->If you have problem with the webpages or if you have some ideas how to improve them please write it down using the link! </para>
+>If you found a problem with the website or have a suggestion how it could be improved, please use this link to tell the webmaster about it. </para>
 	</formalpara>
 
 </section>

@@ -5,3 +5,18 @@ Content-language: en
 URI: de/software_swordcd.shtml
 Content-type: text/html
 Content-language: de
+
+URI: ko/software_swordcd.shtml
+Content-type: text/html
+Content-language: ko
+
+URI: pt-br/software_swordcd.shtml
+Content-type: text/html
+Content-language: pt-br
+
+URI: ru/software_swordcd.shtml
+Content-type: text/html
+Content-language: ru
+
+URI: default/software_swordcd.shtml
+Content-type: text/html

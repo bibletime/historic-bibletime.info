@@ -5,3 +5,18 @@ Content-language: en
 URI: de/biblehowto.html
 Content-type: text/html
 Content-language: de
+
+URI: ko/biblehowto.html
+Content-type: text/html
+Content-language: ko
+
+URI: pt-br/biblehowto.html
+Content-type: text/html
+Content-language: pt-br
+
+URI: ru/biblehowto.html
+Content-type: text/html
+Content-language: ru
+
+URI: default/biblehowto.html
+Content-type: text/html

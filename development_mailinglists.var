@@ -5,3 +5,18 @@ Content-language: en
 URI: de/development_mailinglists.html
 Content-type: text/html
 Content-language: de
+
+URI: ko/development_mailinglists.html
+Content-type: text/html
+Content-language: ko
+
+URI: pt-br/development_mailinglists.html
+Content-type: text/html
+Content-language: pt-br
+
+URI: ru/development_mailinglists.html
+Content-type: text/html
+Content-language: ru
+
+URI: default/development_mailinglists.html
+Content-type: text/html

@@ -1,3 +1,4 @@
+# translation of full.po to German
 # translation of full.po to Deutsch
 # translation of full.po to
 # translation of full.po to
@@ -23,18 +24,21 @@
 # Joachim Ansorg, 2004.
 # Joachim Ansorg, 2004.
 # Joachim Ansorg, 2004.
+# Joachim Ansorg, 2004.
 # Martin Gruner <mg.pub@gmx.net>, 2004.
+# Joachim Ansorg, 2004.
 msgid ""
 msgstr ""
 "Project-Id-Version: full\n"
 "POT-Creation-Date: 2001-02-09 01:25+0100\n"
-"PO-Revision-Date: 2004-04-10 22:54+0200\n"
-"Last-Translator: Martin Gruner\n"
-"Language-Team: Deutsch <de@li.org>\n"
+"PO-Revision-Date: 2004-04-16 21:02+0200\n"
+"Last-Translator: Joachim Ansorg\n"
+"Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: application/x-xml2pot; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.3.1\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 
 #. Tag: holder
 #: autolayout.xml:4 layout.xml:14
@@ -1915,15 +1919,15 @@ msgstr "Wie man uns kontaktieren kann"
 
 #. Tag: ulink
 #: software_contact.xml:16
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "The BibleTime user forum."
-msgstr "Die BibleTime Entwickler"
+msgstr "Das BibleTime Benutzerforum."
 
 #. Tag: para
 #: software_contact.xml:17
 #, no-c-format
 msgid "This is the place to ask questions about BibleTime. If you have trouble with installing and/or using BibleTime post a message in the forum, and hopefully you'll have an answer in time."
-msgstr ""
+msgstr "Dies ist der richtige Ort um Fragen über BibleTime zu stellen. Wenn Sie Probleme mit der Installation und/oder der Benutzung von BibleTime haben stellen Sie bitte eine Nachricht ins Forum und werden dann hoffentlich bald eine Antwort erhalten."
 
 #. Tag: para
 #: software_contact.xml:21
@@ -1939,33 +1943,33 @@ msgstr "Einen Fehlerbericht schicken"
 
 #. Tag: para
 #: software_contact.xml:29
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "If you find a bug in BibleTime use this link to report it so it can be fixed in later versions. Please include detailed descriptions of your setup and how the developers can reproduce the bug."
-msgstr "Wenn Sie Fehler in BibleTime finden, benutzen Sie bitte diesen Link, damit die Fehler in späteren Versionen behoben werden können."
+msgstr ""
 
 #. Tag: ulink
 #: software_contact.xml:35
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Send a feature suggestion"
-msgstr "Schicken Sie eine Funktions-Idee"
+msgstr "Senden Sie einen Verbesserungsvorschlag"
 
 #. Tag: para
 #: software_contact.xml:36
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "If you have an idea how to improve BibleTime please use this link to tell the developers about it."
-msgstr "Wenn Sie eine Idee haben, wie man BibleTime verbessern kann, benutzen Sie bitte diesen Link um uns darauf aufmerksam zu machen!"
+msgstr "Wenn Sie eine Idee haben, wie man BibleTime verbessern kann, benutzen Sie bitte diesen Link um die Entwickler darauf aufmerksam zu machen."
 
 #. Tag: ulink
 #: software_contact.xml:41
 #, no-c-format
 msgid "Report a website problem"
-msgstr "Webseitenprobleme berichten"
+msgstr "Ein Webseitenproblem berichten"
 
 #. Tag: para
 #: software_contact.xml:42
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "If you found a problem with the website or have a suggestion how it could be improved, please use this link to tell the webmaster about it."
-msgstr "Wenn Sie eine Idee haben, wie man BibleTime verbessern kann, benutzen Sie bitte diesen Link um uns darauf aufmerksam zu machen!"
+msgstr "Wenn Sie ein Problem mit den Internetseiten haben oder einen Verbesserungsvorschlag haben, benutzen Sie bitte diesen Link um uns darauf aufmerksam zu machen."
 
 #. Tag: title
 #: software_download.xml:15
@@ -3559,7 +3563,7 @@ msgstr "09.02.2004: BibleTime 1.4.1 für Mac OS X"
 #: software.xml:27
 #, no-c-format
 msgid "On the BibleTime development list <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\">Daniel Glassey writes</ulink> that BibleTime is now available for Mac OSX. To get BibleTime running on Mac please follow the instructions in <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005163.html\">this eMail</ulink> and <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\">this eMail</ulink>. Please report problems or success to <email>info@bibletime.info</email>."
-msgstr "Auf der BibleTime Entwiclungs-Mailingliste <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\">schreibt Daniel Glassey</ulink>, dass BibleTime jetzt auf Mac OS X läuft. Um BibleTime auf Mac OS X laufen zu lassen, folgen Sie bitte den Anweisungen in <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005163.html\">dieser eMail</ulink> und in <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\">dieser eMail</ulink>. Schicken Sie bitte Bereichte über Erfolge oder Probleme an <email>info@bibletime.info</email>."
+msgstr "Auf der BibleTime Entwicklungs-Mailingliste <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\">schreibt Daniel Glassey</ulink>, dass BibleTime jetzt auf Mac OS X läuft. Um BibleTime auf Mac OS X laufen zu lassen, folgen Sie bitte den Anweisungen in <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005163.html\">dieser eMail</ulink> und in <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\">dieser eMail</ulink>. Schicken Sie bitte Bereichte über Erfolge oder Probleme an <email>info@bibletime.info</email>."
 
 #. Tag: title
 #: software.xml:32

@@ -5,3 +5,18 @@ Content-language: en
 URI: de/devotional.html
 Content-type: text/html
 Content-language: de
+
+URI: ko/devotional.html
+Content-type: text/html
+Content-language: ko
+
+URI: pt-br/devotional.html
+Content-type: text/html
+Content-language: pt-br
+
+URI: ru/devotional.html
+Content-type: text/html
+Content-language: ru
+
+URI: default/devotional.html
+Content-type: text/html

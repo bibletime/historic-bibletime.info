@@ -5,3 +5,18 @@ Content-language: en
 URI: de/translation.shtml
 Content-type: text/html
 Content-language: de
+
+URI: ko/translation.shtml
+Content-type: text/html
+Content-language: ko
+
+URI: pt-br/translation.shtml
+Content-type: text/html
+Content-language: pt-br
+
+URI: ru/translation.shtml
+Content-type: text/html
+Content-language: ru
+
+URI: default/translation.shtml
+Content-type: text/html

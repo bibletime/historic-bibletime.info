@@ -5,3 +5,18 @@ Content-language: en
 URI: de/software_screenshots.html
 Content-type: text/html
 Content-language: de
+
+URI: ko/software_screenshots.html
+Content-type: text/html
+Content-language: ko
+
+URI: pt-br/software_screenshots.html
+Content-type: text/html
+Content-language: pt-br
+
+URI: ru/software_screenshots.html
+Content-type: text/html
+Content-language: ru
+
+URI: default/software_screenshots.html
+Content-type: text/html

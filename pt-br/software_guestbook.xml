@@ -20,11 +20,15 @@
 ><title
 >Livro de visitas do BibleTime</title>
 	<para
->Esta página mostra o livro de visitas do BibleTime. Por favor coloque seus próprios comentários se você quiser. Por favor escreva seus comentários em inglês se possível! HTML não é permitido e será removido. Você pode usar quebras de linha normais para dividir em parágrafos. </para>
+>This is the place to leave positive or negative comments about the BibleTime project. This is not the place to ask questions, please use <ulink url="http://www.crosswire.org/forums/mvnforum/listthreads?forum=2"
+>the BibleTime forum</ulink
+> instead. </para>
+	<para
+>Please write in English, if possible. HTML is not allowed and will be removed, but you may use normal line breaks to divide into paragraphs. </para>
 
 <section
 ><title
->Por favor, adicione seus comentários no nosso Livro de Visitas.</title>
+>Please add your comments here:</title>
 <ssi mode="exec" cgi="/guestbook.pl"
 ></ssi>
 </section>

@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 
+
 # This is a guestbook application for te XML docbook-xml-website based pages
 # The different parts can be embedded online by using SSI calls in the generated HTML pages.
 #

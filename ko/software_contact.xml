@@ -22,29 +22,31 @@
 >바이블타임팀에 연락하기</title>
 	<formalpara
 ><title
+><ulink url="http://www.crosswire.org/forums/mvnforum/listthreads?forum=2"
+>The BibleTime user forum.</ulink
+></title>
+	<para
+>This is the place to ask questions about BibleTime. If you have trouble with installing and/or using BibleTime post a message in the forum, and hopefully you'll have an answer in time. </para>
+	<para
+>If you are an experienced BibleTime user and can spare some time, please regularly check out the forum and answer questions of people who have less experience than you. Thereby you would also help the developers to concentrate on the work of development instead of user support. </para>
+	</formalpara>
+	
+	<formalpara
+><title
 ><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=100954"
 >버그 리포트 제출하기</ulink
 ></title>
 	<para
->바이블타임을 사용하시다가 버그를 발견하시면 이 링크를 통해 알려주시기 바랍니다. 버그는 다음 버전에서 고쳐질 것입니다. </para>
+>If you find a bug in BibleTime use this link to report it so it can be fixed in later versions. Please include detailed descriptions of your setup and how the developers can reproduce the bug. </para>
 	</formalpara>
-
-	<formalpara
-><title
-><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=200954"
->지원 얻기</ulink
-></title>
-	<para
->바이블타임을 사용하시다가 문제가 발생하면, 아래의 링크를 통해 어떻게 문제를 해결해야 할지를 안내받으시기 바랍니다. </para>
-	</formalpara>
-
+	
 	<formalpara
 ><title
 ><ulink url="http://sourceforge.net/tracker/?atid=350954&amp;group_id=954&amp;func=browse"
->새기능 요청하기</ulink
+>Send a feature suggestion</ulink
 ></title>
 	<para
->바이블타임의 개선을 위해 어떠한 아이디어라도 있으시면, 이 링크를 통해 저희에게 말씀해주시기 바랍니다! </para>
+>If you have an idea how to improve BibleTime please use this link to tell the developers about it. </para>
 	</formalpara>
 
 	<formalpara
@@ -53,7 +55,7 @@
 >웹사이트의 문제 리포트하기</ulink
 ></title>
 	<para
->웹페이지에서 문제를 발견하시거나, 사이트 개선을 위한 아이디어가 있으시다면 링크를 통해 알려주십시오! </para>
+>If you found a problem with the website or have a suggestion how it could be improved, please use this link to tell the webmaster about it. </para>
 	</formalpara>
 
 </section>

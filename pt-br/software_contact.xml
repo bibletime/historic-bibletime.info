@@ -22,29 +22,31 @@
 >Como contactar-nos</title>
 	<formalpara
 ><title
+><ulink url="http://www.crosswire.org/forums/mvnforum/listthreads?forum=2"
+>The BibleTime user forum.</ulink
+></title>
+	<para
+>This is the place to ask questions about BibleTime. If you have trouble with installing and/or using BibleTime post a message in the forum, and hopefully you'll have an answer in time. </para>
+	<para
+>If you are an experienced BibleTime user and can spare some time, please regularly check out the forum and answer questions of people who have less experience than you. Thereby you would also help the developers to concentrate on the work of development instead of user support. </para>
+	</formalpara>
+	
+	<formalpara
+><title
 ><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=100954"
 >Enviar uma comunicação de Bug</ulink
 ></title>
 	<para
->Se você achar bugs no BibleTime use o link para comunicá-lo para que seja corrigido em versões posteriores. </para>
+>If you find a bug in BibleTime use this link to report it so it can be fixed in later versions. Please include detailed descriptions of your setup and how the developers can reproduce the bug. </para>
 	</formalpara>
-
-	<formalpara
-><title
-><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=200954"
->Obtenha suporte</ulink
-></title>
-	<para
->Se você tiver problemas com o BibleTime use esse link para obter suporte sobre como resolvê-lo. </para>
-	</formalpara>
-
+	
 	<formalpara
 ><title
 ><ulink url="http://sourceforge.net/tracker/?atid=350954&amp;group_id=954&amp;func=browse"
->Solicite uma nova função</ulink
+>Send a feature suggestion</ulink
 ></title>
 	<para
->Se você tem uma idéia de como melhorar o BibleTime, por favor use o link para nos dizê-la! </para>
+>If you have an idea how to improve BibleTime please use this link to tell the developers about it. </para>
 	</formalpara>
 
 	<formalpara
@@ -53,7 +55,7 @@
 >Informe problemas no website</ulink
 ></title>
 	<para
->Se você tiver problemas com a página web ou se você tiver idéis de como melhorá-la, por favor, escreva para nós usando o link! </para>
+>If you found a problem with the website or have a suggestion how it could be improved, please use this link to tell the webmaster about it. </para>
 	</formalpara>
 
 </section>

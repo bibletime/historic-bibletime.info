@@ -38,154 +38,135 @@ msgstr ""
 msgid "Devotional"
 msgstr ""
 
-#. Tag: title
-#: autolayout.xml:13 software_swordcdcheck.xml:9
-#, no-c-format
-msgid "Sword CD order checl"
-msgstr ""
-
-#. Tag: title
-#: autolayout.xml:17 software_swordcdsend.xml:9
-#, no-c-format
-msgid "Sword CD order: Sending"
-msgstr ""
-
 #
 #. Tag: title
-#: autolayout.xml:21 software_swordcd.xml:10
-#, no-c-format
-msgid "Sword CD"
-msgstr "CD Sword"
-
-#
-#. Tag: title
-#: autolayout.xml:25 index.xml:9
+#: autolayout.xml:13 index.xml:9
 #, no-c-format
 msgid "BibleTime"
 msgstr "BibleTime"
 
 #
 #. Tag: title
-#: autolayout.xml:28 software.xml:10
+#: autolayout.xml:16 software.xml:10
 #, no-c-format
 msgid "Software"
 msgstr "Logiciel"
 
 #
 #. Tag: title
-#: autolayout.xml:31 software_about.xml:9
+#: autolayout.xml:19 software_about.xml:9
 #, no-c-format
 msgid "About BibleTime"
 msgstr "A propos de BibleTime"
 
 #
 #. Tag: title
-#: autolayout.xml:35 software_screenshots.xml:9
+#: autolayout.xml:23 software_screenshots.xml:9
 #, no-c-format
 msgid "Screenshots"
 msgstr "Captures écran"
 
 #
 #. Tag: title
-#: autolayout.xml:39 software_gallery.xml:9 software_gallery.xml:14
+#: autolayout.xml:27 software_gallery.xml:9 software_gallery.xml:14
 #, no-c-format
 msgid "Gallery"
 msgstr ""
 
 #
 #. Tag: title
-#: autolayout.xml:43 software_download.xml:10 software_installation.xml:12
+#: autolayout.xml:31 software_download.xml:10 software_installation.xml:12
 #, no-c-format
 msgid "Download"
 msgstr "Téléchargement"
 
 #
 #. Tag: title
-#: autolayout.xml:47 software_faq.xml:9
+#: autolayout.xml:35 software_faq.xml:9
 #, no-c-format
 msgid "<title>FAQ</title>"
 msgstr "<title>FAQ</title>"
 
 #
 #. Tag: title
-#: autolayout.xml:51 software_links.xml:9
+#: autolayout.xml:39 software_links.xml:9
 #, no-c-format
 msgid "Links"
 msgstr "Liens"
 
 #
 #. Tag: title
-#: autolayout.xml:55 software_linkus.xml:9
+#: autolayout.xml:43 software_linkus.xml:9
 #, no-c-format
 msgid "Link to us"
 msgstr "Liens vers nous"
 
 #
 #. Tag: title
-#: autolayout.xml:59 software_guestbook.xml:9
+#: autolayout.xml:47 software_guestbook.xml:9
 #, no-c-format
 msgid "Guestbook"
 msgstr "Livre d'or"
 
 #
 #. Tag: title
-#: autolayout.xml:63 software_press.xml:10 software_press.xml:15
+#: autolayout.xml:51 software_press.xml:10 software_press.xml:15
 #, no-c-format
 msgid "In the press"
 msgstr "Dans la presse"
 
 #
 #. Tag: title
-#: autolayout.xml:67 software_contact.xml:10
+#: autolayout.xml:55 software_contact.xml:10
 #, no-c-format
 msgid "Contact"
 msgstr "Contact"
 
 #
 #. Tag: title
-#: autolayout.xml:71 software_license.xml:9 software_license.xml:14
+#: autolayout.xml:59 software_license.xml:9 software_license.xml:14
 #, no-c-format
 msgid "License"
 msgstr "License"
 
 #
 #. Tag: title
-#: autolayout.xml:76 development.xml:10
+#: autolayout.xml:64 development.xml:10
 #, no-c-format
 msgid "Development"
 msgstr "Développement"
 
 #
 #. Tag: title
-#: autolayout.xml:79 development_help.xml:10
+#: autolayout.xml:67 development_help.xml:10
 #, no-c-format
 msgid "Help us"
 msgstr "Aidez-nous"
 
 #
 #. Tag: title
-#: autolayout.xml:83 development_join.xml:10
+#: autolayout.xml:71 development_join.xml:10
 #, no-c-format
 msgid "Join us"
 msgstr "Joignez-nous"
 
 #
 #. Tag: title
-#: autolayout.xml:87 development_mailinglists.xml:10
+#: autolayout.xml:75 development_mailinglists.xml:10
 #, no-c-format
 msgid "Mailinglists"
 msgstr "Forums"
 
 #
 #. Tag: title
-#: autolayout.xml:92 translation.xml:9
+#: autolayout.xml:80 translation.xml:9
 #, no-c-format
 msgid "Translation"
 msgstr "Traduction"
 
 #
 #. Tag: title
-#: autolayout.xml:96 biblehowto.docbook:17
+#: autolayout.xml:84 biblehowto.docbook:17
 #, no-c-format
 msgid "Biblestudy HowTo"
 msgstr "HowTo d'étude biblique"
@@ -2209,57 +2190,58 @@ msgstr ""
 #
 #. Tag: ulink
 #: software_contact.xml:16
-#, no-c-format
-msgid "Send a Bug report"
-msgstr ""
+#, fuzzy, no-c-format
+msgid "The BibleTime user forum."
+msgstr "Les développeurs BibleTime - www.bibletime.info"
 
-#
 #. Tag: para
 #: software_contact.xml:17
 #, no-c-format
-msgid "If you find bugs in BibleTime use this link to report it so it can be fixed in later versions."
+msgid "This is the place to ask questions about BibleTime. If you have trouble with installing and/or using BibleTime post a message in the forum, and hopefully you'll have an answer in time."
 msgstr ""
 
-#
-#. Tag: ulink
-#: software_contact.xml:22
-#, no-c-format
-msgid "Get support"
-msgstr ""
-
-#
 #. Tag: para
-#: software_contact.xml:23
+#: software_contact.xml:21
 #, no-c-format
-msgid "If you have problems with BibleTime use this link to get support how to solve them."
+msgid "If you are an experienced BibleTime user and can spare some time, please regularly check out the forum and answer questions of people who have less experience than you. Thereby you would also help the developers to concentrate on the work of development instead of user support."
 msgstr ""
 
 #
 #. Tag: ulink
 #: software_contact.xml:28
 #, no-c-format
-msgid "Post a feature request"
+msgid "Send a Bug report"
 msgstr ""
 
-#
 #. Tag: para
 #: software_contact.xml:29
 #, no-c-format
-msgid "If you have an idea how to improve BibleTime please use this link to tell about it!"
+msgid "If you find a bug in BibleTime use this link to report it so it can be fixed in later versions. Please include detailed descriptions of your setup and how the developers can reproduce the bug."
+msgstr ""
+
+#. Tag: ulink
+#: software_contact.xml:35
+#, no-c-format
+msgid "Send a feature suggestion"
+msgstr ""
+
+#. Tag: para
+#: software_contact.xml:36
+#, no-c-format
+msgid "If you have an idea how to improve BibleTime please use this link to tell the developers about it."
 msgstr ""
 
 #
 #. Tag: ulink
-#: software_contact.xml:34
+#: software_contact.xml:41
 #, no-c-format
 msgid "Report a website problem"
 msgstr ""
 
-#
 #. Tag: para
-#: software_contact.xml:35
+#: software_contact.xml:42
 #, no-c-format
-msgid "If you have problem with the webpages or if you have some ideas how to improve them please write it down using the link!"
+msgid "If you found a problem with the website or have a suggestion how it could be improved, please use this link to tell the webmaster about it."
 msgstr ""
 
 #
@@ -2457,200 +2439,206 @@ msgstr ""
 msgid "Some modules only contain the text of the old or new testament. Recent versions of BibleTime should only offer the testament which has some text in it."
 msgstr ""
 
-#
 #. Tag: para
 #: software_gallery.xml:16
 #, no-c-format
-msgid "You can find some nice screenshots of BibleTime here, showing one or two text module(s) each. They demonstrate the powerful Unicode handling mechanisms of <ulink url=\"http://www.trolltech.com\">Trolltech's</ulink> QT 3. Some of the screenshots are really impressive."
+msgid "This page refers to BibleTime 1.2 and needs to be updated soon, as display quality has improved a lot in the meantime."
 msgstr ""
 
 #
 #. Tag: para
 #: software_gallery.xml:19
 #, no-c-format
+msgid "You can find some nice screenshots of BibleTime here, showing one or two text module(s) each. They demonstrate the powerful Unicode handling mechanisms of <ulink url=\"http://www.trolltech.com\">Trolltech's</ulink> QT 3. Some of the screenshots are really impressive."
+msgstr ""
+
+#
+#. Tag: para
+#: software_gallery.xml:22
+#, no-c-format
 msgid "Most of the screenshots were created using the superb <ulink url=\"http://home.att.net/~jameskass/CODE2000.ZIP\">Code2000</ulink> Unicode font. Click on the preview images to see a large and detailed version of each screenshot."
 msgstr ""
 
 #. Tag: title
-#: software_gallery.xml:25
+#: software_gallery.xml:28
 #, no-c-format
 msgid "<title>BHS - hebrew rendering</title>"
 msgstr ""
 
 #
 #. Tag: para
-#: software_gallery.xml:26
+#: software_gallery.xml:29
 #, no-c-format
 msgid "The <emphasis>BHS</emphasis> (short for <emphasis>Biblia Hebraica Stuttgartensia</emphasis>), the best available text of the Hebrew Old Testament."
 msgstr ""
 
 #
 #. Tag: para
-#: software_gallery.xml:28
+#: software_gallery.xml:31
 #, no-c-format
 msgid "As you can see, BibleTime renders the text correctly from right to left. Those of you who can read Hebrew will notice that the Vowel Points and the Cantillation Marks (you can switch both of them on and off) are displayed correctly. <ulink url=\"/images/gallery/bhs.png\">Large screenshot</ulink>"
 msgstr ""
 
 #. Tag: phrase
-#: software_gallery.xml:39
+#: software_gallery.xml:42
 #, no-c-format
 msgid "<phrase>BHS - hebrew rendering</phrase>"
 msgstr ""
 
 #. Tag: title
-#: software_gallery.xml:45
+#: software_gallery.xml:48
 #, no-c-format
 msgid "<title>Peshitta - early syrian translation</title>"
 msgstr ""
 
 #
 #. Tag: para
-#: software_gallery.xml:46
+#: software_gallery.xml:49
 #, no-c-format
 msgid "The <emphasis>Peshitta</emphasis> contains an early Syrian text, running from right to left."
 msgstr ""
 
 #
 #. Tag: para
-#: software_gallery.xml:47
+#: software_gallery.xml:50
 #, no-c-format
 msgid "QT renders this text very nice with Code2000, which is one of the very few fonts that support syrian characters. <ulink url=\"/images/gallery/peshitta.png\">Large screenshot</ulink>"
 msgstr ""
 
 #. Tag: phrase
-#: software_gallery.xml:55
+#: software_gallery.xml:58
 #, no-c-format
 msgid "<phrase>Peshitta - early syrian translation</phrase>"
 msgstr ""
 
 #. Tag: title
-#: software_gallery.xml:61
+#: software_gallery.xml:64
 #, no-c-format
 msgid "<title>The Arabic Bible</title>"
 msgstr ""
 
 #
 #. Tag: para
-#: software_gallery.xml:62
+#: software_gallery.xml:65
 #, no-c-format
 msgid "<emphasis>AraSVD</emphasis>: The Arabic Bible. Very nice example for right-to-left rendering of a complex script - Arabic is probably one of the most complicated scripts of the world. This screenshot was taken after linebreaks were switched off, providing a more readable text view. <ulink url=\"/images/gallery/arasvd.png\">Large screenshot</ulink>"
 msgstr ""
 
 #. Tag: phrase
-#: software_gallery.xml:72
+#: software_gallery.xml:75
 #, no-c-format
 msgid "<phrase>The Arabic Bible</phrase>"
 msgstr ""
 
 #. Tag: title
-#: software_gallery.xml:78
+#: software_gallery.xml:81
 #, no-c-format
 msgid "<title>Chinese rendering</title>"
 msgstr ""
 
 #
 #. Tag: para
-#: software_gallery.xml:79
+#: software_gallery.xml:82
 #, no-c-format
 msgid "<emphasis>ChiGU</emphasis>: Chinese Bible text. Since QT 3 BibleTime can correctly break the paragraphs (as you may know, there are no spaces between words). <ulink url=\"/images/gallery/chigu.png\">Large screenshot</ulink>"
 msgstr ""
 
 #. Tag: phrase
-#: software_gallery.xml:88
+#: software_gallery.xml:91
 #, no-c-format
 msgid "<phrase>Chinese rendering</phrase>"
 msgstr ""
 
 #. Tag: title
-#: software_gallery.xml:94
+#: software_gallery.xml:97
 #, no-c-format
 msgid "<title>Greek rendering with Strong's numbers and morphological tags</title>"
 msgstr ""
 
 #. Tag: para
-#: software_gallery.xml:95
+#: software_gallery.xml:98
 #, no-c-format
 msgid "<emphasis>IGNT</emphasis>: The Interlinear Greek New Testament. The green numbers in \"<![CDATA[<>]]>\" brackets are Strongnumbers, whereas the numbers in \"( )\" brackets are Morphologic Tags. Both of them can displayed in a tooltip using a predefined Strong's and Morphology dictionary, as you can see in the example. <ulink url=\"/images/gallery/ignt.png\">Large screenshot</ulink>"
 msgstr ""
 
 #. Tag: phrase
-#: software_gallery.xml:106
+#: software_gallery.xml:109
 #, no-c-format
 msgid "<phrase>Greek rendering with Strong's numbers and morphological tags</phrase>"
 msgstr ""
 
 #. Tag: title
-#: software_gallery.xml:112
+#: software_gallery.xml:115
 #, no-c-format
 msgid "<title>Korean and Thai</title>"
 msgstr ""
 
 #
 #. Tag: para
-#: software_gallery.xml:113
+#: software_gallery.xml:116
 #, no-c-format
 msgid "<emphasis>Kor</emphasis> and <emphasis>ThaiKJV</emphasis>. Korean and Thai are very good Unicode examples covered by an amount of Unicode scripts already. They are displayed in a parallel view in one window. The first line of Thai text is of a little smaller pointsize. It is a section heading, and those can be turned on and off using the first toolbutton in the display window. <ulink url=\"/images/gallery/korthai.png\">Large screenshot</ulink>"
 msgstr ""
 
 #. Tag: phrase
-#: software_gallery.xml:125
+#: software_gallery.xml:128
 #, no-c-format
 msgid "<phrase>Korean and Thai</phrase>"
 msgstr ""
 
 #. Tag: title
-#: software_gallery.xml:131
+#: software_gallery.xml:134
 #, no-c-format
 msgid "<title>Bulgarian and footnotes</title>"
 msgstr ""
 
 #
 #. Tag: para
-#: software_gallery.xml:132
+#: software_gallery.xml:135
 #, no-c-format
 msgid "<emphasis>Bulgarian</emphasis>: The Bible in Bulgarian language. Bulgarian uses the Kyrillic script, which is also used in other languages like Russian. Notice the marked text - it is a \"footnote\". The popup menu shows how those can be turned on and off. <ulink url=\"/images/gallery/bulgarian.png\">Large screenshot</ulink>"
 msgstr ""
 
 #. Tag: phrase
-#: software_gallery.xml:142
+#: software_gallery.xml:145
 #, no-c-format
 msgid "<phrase>Bulgarian and footnotes</phrase>"
 msgstr ""
 
 #. Tag: title
-#: software_gallery.xml:148
+#: software_gallery.xml:151
 #, no-c-format
 msgid "<title>Vietnamese and Romanian</title>"
 msgstr ""
 
 #
 #. Tag: para
-#: software_gallery.xml:149
+#: software_gallery.xml:152
 #, no-c-format
 msgid "<emphasis>Viet</emphasis> and <emphasis>RomCor</emphasis>. East Europe meets East Asia! Vietnamese and Romanian are not geographically linked, though they look somehow similar in this screenshot. <ulink url=\"/images/gallery/vietromcor.png\">Large screenshot</ulink>"
 msgstr ""
 
 #. Tag: phrase
-#: software_gallery.xml:158
+#: software_gallery.xml:161
 #, no-c-format
 msgid "<phrase>Vietnamese and Romanian</phrase>"
 msgstr ""
 
 #. Tag: title
-#: software_gallery.xml:164
+#: software_gallery.xml:167
 #, no-c-format
 msgid "<title>Esperanto without verse numbers and linebreaks</title>"
 msgstr ""
 
 #
 #. Tag: para
-#: software_gallery.xml:165
+#: software_gallery.xml:168
 #, no-c-format
 msgid "YES, there is a Bible for those of you who prefer to speak Esperanto. This is not really a Unicode example, since the displayed characters come from the iso 8859-1 charset. But this shows how text looks like after switching off versenumbers and linebreaks. <ulink url=\"/images/gallery/esperanto.png\">Large screenshot</ulink>"
 msgstr ""
 
 #. Tag: phrase
-#: software_gallery.xml:175
+#: software_gallery.xml:178
 #, no-c-format
 msgid "<phrase>Esperanto without verse numbers and linebreaks</phrase>"
 msgstr ""
@@ -2662,17 +2650,22 @@ msgstr ""
 msgid "BibleTime's Guestbook"
 msgstr ""
 
-#
 #. Tag: para
 #: software_guestbook.xml:15
 #, no-c-format
-msgid "This page shows BibleTime's guestbook. Please post your own comments if you like. Please write your comments in English if possible! HTML is not allowed and will be removed. You may use normal line breaks to divide into paragraphs."
+msgid "This is the place to leave positive or negative comments about the BibleTime project. This is not the place to ask questions, please use <ulink url=\"http://www.crosswire.org/forums/mvnforum/listthreads?forum=2\">the BibleTime forum</ulink> instead."
+msgstr ""
+
+#. Tag: para
+#: software_guestbook.xml:19
+#, no-c-format
+msgid "Please write in English, if possible. HTML is not allowed and will be removed, but you may use normal line breaks to divide into paragraphs."
 msgstr ""
 
 #. Tag: title
-#: software_guestbook.xml:19
+#: software_guestbook.xml:24
 #, no-c-format
-msgid "Please add your comments to our guestbook!"
+msgid "Please add your comments here:"
 msgstr ""
 
 #. Tag: title
@@ -3837,54 +3830,12 @@ msgstr ""
 msgid "<phrase>New search dialog</phrase>"
 msgstr ""
 
-#. Tag: title
-#: software_swordcdcheck.xml:14
-#, no-c-format
-msgid "Check your Sword CD order"
-msgstr ""
-
-#. Tag: section
-#: software_swordcdcheck.xml:14
-#, no-c-format
-msgid "If anything is wrong in the information you entered please go back one page and correct it."
-msgstr ""
-
-#. Tag: title
-#: software_swordcdcheck.xml:17
-#, no-c-format
-msgid "Order details"
-msgstr ""
-
-#. Tag: title
-#: software_swordcdcheck.xml:35
-#, no-c-format
-msgid "Name:"
-msgstr ""
-
-#. Tag: title
-#: software_swordcdcheck.xml:39
-#, no-c-format
-msgid "Street:"
-msgstr ""
-
-#. Tag: title
-#: software_swordcdcheck.xml:43
-#, no-c-format
-msgid "Town:"
-msgstr ""
-
-#. Tag: title
-#: software_swordcdcheck.xml:47
-#, no-c-format
-msgid "Country:"
-msgstr ""
-
 #
 #. Tag: title
-#: software_swordcdcheck.xml:51
-#, fuzzy, no-c-format
-msgid "Number of CDs ordered:"
-msgstr "Nombre de copies"
+#: software_swordcd.xml:10
+#, no-c-format
+msgid "Sword CD"
+msgstr "CD Sword"
 
 #
 #. Tag: title
@@ -4013,18 +3964,6 @@ msgid "<html:input name=\"Check order\" type=\"submit\" value=\"Check order\"></
 msgstr ""
 
 #. Tag: title
-#: software_swordcdsend.xml:44
-#, no-c-format
-msgid "Sword CD order sent"
-msgstr ""
-
-#. Tag: para
-#: software_swordcdsend.xml:45
-#, no-c-format
-msgid "The CD order was sent to the BibleTime developers. You will receive the CD as soon as possible and time permits. You should receive a confirmation eMail in the next few minutes with the details of your order."
-msgstr ""
-
-#. Tag: title
 #: translation.xml:14
 #, no-c-format
 msgid "Help translate BibleTime into your language"
@@ -4101,6 +4040,11 @@ msgstr ""
 #, no-c-format
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
 msgstr ""
+
+#
+#, fuzzy
+#~ msgid "Number of CDs ordered:"
+#~ msgstr "Nombre de copies"
 
 #
 #~ msgid "Error"
