@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE layout PUBLIC "-//Norman Walsh//DTD Website Layout V2.4.0//EN"
+          "../en/schema/dtd/layout.dtd">
+<layout>
+  <style title="Blue" src="blue.css" type="text/css"/>
+
+  <config param="text-prefix" value="txt_"/>
+
+	<copyright>
+    	<year
+>1999</year>
+		<year
+>2000</year>
+		<year
+>2001</year>
+		<year
+>2002</year>
+		<year
+>2003</year>
+    	<holder role="http://www.bibletime.info/"
+>Екипът на &bibletime;, info@bibletime.info</holder>
+  </copyright>
+
+  <notoc page="error404.xml" filename="error404.html"/>
+
+  <toc page="index.xml" filename="no_index.html">
+
+		<tocentry page="software.xml" filename="index.html">
+			<tocentry page="software_about.xml" filename="software_about.html"/>
+			<tocentry page="software_screenshots.xml" filename="software_screenshots.html"/>
+			<tocentry page="software_gallery.xml" filename="software_gallery.html"/>
+			<tocentry page="software_download.xml" filename="software_download.html"/>
+			<tocentry page="software_press.xml" filename="software_press.html"/>
+			<tocentry page="software_contact.xml" filename="software_contact.html"/>
+			<tocentry page="software_guestbook.xml" filename="software_guestbook.shtml"/>
+			<tocentry page="software_links.xml" filename="software_links.html"/>
+			<tocentry page="software_linkus.xml" filename="software_linkus.html"/>
+			<tocentry page="software_license.xml" filename="software_license.html"/>
+		</tocentry>
+
+		<tocentry page="documentation.xml" filename="documentation.html">
+			<tocentry page="documentation_requirements.xml" filename="documentation_requirements.html"/>
+			<tocentry tocskip="1" page="documentation_installation.xml" filename="documentation_installation.html">
+				<tocentry page="documentation_installation_bibletime.xml" filename="documentation_installation_bibletime.html"/>
+				<tocentry page="documentation_installation_sword.xml" filename="documentation_installation_sword.html"/>
+				<tocentry page="documentation_installation_modules.xml" filename="documentation_installation_modules.html"/>
+			</tocentry>
+			<tocentry page="documentation_faq.xml" filename="documentation_faq.html"/>
+		</tocentry>
+
+		<tocentry page="modules.xml" filename="modules.html">
+			<tocentry page="modules_swordcd.xml" filename="modules_swordcd.shtml"/>
+	  	</tocentry>
+
+		<tocentry page="development.xml" filename="development.html">
+			<tocentry page="development_help.xml" filename="development_help.html"/>
+			<tocentry page="development_join.xml" filename="development_join.html"/>
+			<tocentry page="development_mailinglists.xml" filename="development_mailinglists.html"/>
+	  	</tocentry>
+
+		<tocentry page="biblehowto.docbook" filename="biblehowto.html"/>
+
+	</toc>
+</layout>
+

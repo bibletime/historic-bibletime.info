@@ -4,6 +4,7 @@
 <!ENTITY software_download SYSTEM "software_download.xml" NDATA XML>
 <!ENTITY documentation_requirements SYSTEM "documentation_requirements.xml" NDATA XML>
 <!ENTITY documentation_installation_modules SYSTEM "documentation_installation_modules.xml" NDATA XML>
+<!ENTITY documentation_faq SYSTEM "documentation_faq.xml" NDATA XML>
 ]>
 
 <webpage id="documentation_installation_bibletime">

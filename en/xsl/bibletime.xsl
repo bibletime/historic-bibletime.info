@@ -185,13 +185,13 @@
 						<img alt="pt-br" src="/images/flags/pt-br.png"/>
 					</a>
 
-					<a title="kr">
+					<a title="ko">
 						<xsl:attribute name="href">
-							<xsl:text>/kr/</xsl:text>
+							<xsl:text>/ko/</xsl:text>
 							<xsl:value-of select="$htmlfilename"/>
 						</xsl:attribute>
 
-						<img alt="kr" src="/images/flags/kr.png"/>
+						<img alt="ko" src="/images/flags/ko.png"/>
 					</a>
 
 					<a title="ro">
@@ -221,7 +221,7 @@
 						<img alt="ua" src="/images/flags/ua.png"/>
 					</a>
 
-					<a href="/translate/index.html"><img alt="Translate www.bibletime.info!" src="/images/flags/new-lang.png"/></a>
+					<a href="/translate.shtml"><img alt="Translate www.bibletime.info!" src="/images/flags/new-lang.png"/></a>
 				</div>
 			</div>
 

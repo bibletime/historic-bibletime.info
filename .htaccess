@@ -47,7 +47,7 @@ RewriteRule	^(software|documentation|modules|contact|development)/([^/]+)/([^/]+
 # Handle stuff like
 #	Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.2.1) Gecko/20021204
 # to find out the language
-RewriteRule	 ^(de|en|pt-br|ro|ru|ua)/?$		/$1/index.html	[R,L]
+RewriteRule	 ^(de|en|pt-br|ko|ro|ru|ua)/?$		/$1/index.html	[R,L]
 RewriteRule	 ^/?$					/index.html	[R,L]
 
 RewriteRule	 ^.+/(.+\.css)$				/$1
@@ -55,9 +55,9 @@ RewriteRule	 ^.+/(.+\.pl)$				/$1
 RewriteRule	 ^.+/(favicon.ico)$			/$1
 
 # If the / URI was called try to redirect into the right language folder
-RewriteCond  %{HTTP_USER_AGENT}  	^.*[;].(de|pt-br|ro|ru|ua)[-]?
+RewriteCond  %{HTTP_USER_AGENT}  	^.*[;].(de|pt-br|ko|ro|ru|ua)[-]?
 RewriteRule  ^([^/]*\.s?html)$		/%1/$1  [L,S]
 
 # Default english redirection
-RewriteCond  %{HTTP_USER_AGENT}		!^(de|pt-br|ro|ru|ua)[-]?
+RewriteCond  %{HTTP_USER_AGENT}		!^(de|pt-br|ko|ro|ru|ua)[-]?
 RewriteRule  ^([^/]*\.s?html)$		/en/$1  [L,S]

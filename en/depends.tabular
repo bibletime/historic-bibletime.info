@@ -1,4 +1,4 @@
-website: ./index.html ./software_about.html ./software_screenshots.html ./software_gallery.html ./software_download.html ./software_press.html ./software_contact.html ./software_guestbook.shtml ./software_links.html ./software_linkus.html ./software_license.html ./documentation.html ./documentation_requirements.html ./documentation_installation.html ./documentation_installation_bibletime.html ./documentation_installation_sword.html ./documentation_installation_modules.html ./documentation_faq.html ./modules.html ./modules_swordcd.shtml ./development.html ./development_help.html ./development_join.html ./development_mailinglists.html ./biblehowto.html ./no_index.html ./error404.html 
+website: ./index.html ./software_about.html ./software_screenshots.html ./software_gallery.html ./software_download.html ./software_press.html ./software_contact.html ./software_guestbook.shtml ./software_links.html ./software_linkus.html ./software_license.html ./documentation.html ./documentation_requirements.html ./documentation_installation.html ./documentation_installation_bibletime.html ./documentation_installation_sword.html ./documentation_installation_modules.html ./documentation_faq.html ./modules.html ./modules_swordcd.shtml ./development.html ./development_help.html ./development_join.html ./development_mailinglists.html ./biblehowto.html ./no_index.html ./error404.html ./translation.shtml 
 
 ./no_index.html: index.xml
 ./index.html: software.xml
@@ -27,10 +27,11 @@ website: ./index.html ./software_about.html ./software_screenshots.html ./softwa
 ./development_mailinglists.html: development_mailinglists.xml
 ./biblehowto.html: biblehowto.docbook
 ./error404.html: error404.xml
+./translation.shtml: translation.xml
 
 distclean: clean
 	rm -f autolayout.xml depends.tabular
 
 clean:
-	rm -f ./index.html ./software_about.html ./software_screenshots.html ./software_gallery.html ./software_download.html ./software_press.html ./software_contact.html ./software_guestbook.shtml ./software_links.html ./software_linkus.html ./software_license.html ./documentation.html ./documentation_requirements.html ./documentation_installation.html ./documentation_installation_bibletime.html ./documentation_installation_sword.html ./documentation_installation_modules.html ./documentation_faq.html ./modules.html ./modules_swordcd.shtml ./development.html ./development_help.html ./development_join.html ./development_mailinglists.html ./biblehowto.html ./no_index.html ./error404.html 
+	rm -f ./index.html ./software_about.html ./software_screenshots.html ./software_gallery.html ./software_download.html ./software_press.html ./software_contact.html ./software_guestbook.shtml ./software_links.html ./software_linkus.html ./software_license.html ./documentation.html ./documentation_requirements.html ./documentation_installation.html ./documentation_installation_bibletime.html ./documentation_installation_sword.html ./documentation_installation_modules.html ./documentation_faq.html ./modules.html ./modules_swordcd.shtml ./development.html ./development_help.html ./development_join.html ./development_mailinglists.html ./biblehowto.html ./no_index.html ./error404.html ./translation.shtml 
 

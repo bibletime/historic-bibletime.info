@@ -38,7 +38,7 @@ msgstr "Die BibleTime Entwickler - www.bibletime.info"
 msgid "Error"
 msgstr "Fehler"
 
-#: index.docbook:9 index.docbook:66 index.docbook:13
+#: index.docbook:9 index.docbook:66 index.docbook:14
 #, no-c-format
 msgid "BibleTime"
 msgstr "BibleTime"
@@ -544,73 +544,73 @@ msgstr "Warum ist eines der beiden Testamente eines Bibel-Modules leer?"
 msgid "Some modules only contain the text of the old or new testament. Recent versions of BibleTime should only offer the testament which has some te"
 msgstr "Einige Module enthalten nur den Text des alten oder neuen Testamentes.Neuere Versionen von BibleTime sollten nur die Testamente anzeigen, die auch einen Inhalt haben."
 
-#: index.docbook:18
+#: index.docbook:19
 #, no-c-format
 msgid "Installation of BibleTime"
 msgstr "Installation von BibleTime"
 
-#: index.docbook:19
+#: index.docbook:20
 #, no-c-format
 msgid "This page explains how BibleTime should be installed. Please follow these steps to get a working installation of BibleTime quickly."
 msgstr "Diese Seite erklärt, wie man BibleTime installieren sollte. Bitte folgen Sie  den Schritten um möglichst schnell BibleTime zum Laufen zu bekommen."
 
-#: index.docbook:23
+#: index.docbook:24
 #, no-c-format
 msgid "The two ways to install BibleTime"
 msgstr "Die zwei Wege BibleTime zu installieren"
 
-#: index.docbook:24
+#: index.docbook:25
 #, no-c-format
 msgid "There are two possibilities to install BibleTime on your system:"
 msgstr "Es gibt zwei Möglichkeiten, um BibleTime auf ihrem System zu installieren:"
 
-#: index.docbook:24
+#: index.docbook:25
 #, no-c-format
 msgid "Install using prebuilt binary packages, like RPM or DEB"
 msgstr "Installation mit vorkompilierten Binärpaketen, wie z.B. RPM oder DEB"
 
-#: index.docbook:24
+#: index.docbook:25
 #, no-c-format
 msgid "Compile BibleTime from sources on your own system"
 msgstr "Übersetzen Sie BibleTime selbst auf ihrem eigenen System "
 
-#: index.docbook:32
+#: index.docbook:33
 #, no-c-format
 msgid "We recommend the installation using the binary packages. It's the simplest way."
 msgstr "Wir empfehlen die Installation mit den Binärpaketen. Es ist der einfachste Weg."
 
-#: index.docbook:37
+#: index.docbook:38
 #, no-c-format
 msgid "Prebuilt binary packages"
 msgstr "Vorkompilierte Binärpakete"
 
-#: index.docbook:38
+#: index.docbook:39
 #, no-c-format
 msgid "We try to provide packages for the most important Linux distributions. These include RedHat, Mandrake and SuSE."
 msgstr "Wie versuchen Pakete für die wichtigsten Linux Distributionen zur Verfügung zu stellen. Diese enthalten RedHat, Mandrake und SuSE."
 
-#: index.docbook:42
+#: index.docbook:43
 #, no-c-format
 msgid "First download the binary package for your Linux distribution. For example: You want to download BibleTime 1.2.2 for SuSE Linux 8.1. In this case you have to download the package \"bibletime-1.2.2-1suse8.1.i586.rpm\". Please don't forgot to download the package bibletime-i18n to get the documentation and the translations, which are available for BibleTime."
 msgstr "Laden Sie zuerst das Binärpaket für ihre Linux-Version herunter. Zum Beispiel: Sie möchten BibleTime 1.2.2. für SuSE 8.1. In diesem Falle müssen Sie das Paket \"bibletime-1.2.2-1suse8.1.i586.rpm\" herunterladen. Vergessen Sie auch nicht, das Paket bibletime-i18n zu installieren, da dieses die Übersetzungen des Programms und der Dokumentation enthält."
 
-#: index.docbook:49
+#: index.docbook:50
 #, no-c-format
 msgid "As you can see each package name contains the Linux distribution and version is was built for. Please don't try to install a package on another system as it was built for."
 msgstr "Wie Sie sehen, enthält jeder Paketname die Linuxdistribution und deren Version, für das es erstellt wurde. Versuchen Sie bitte nicht, ein Paket auf einem anderem System zu installieren, als für das es erstellt wurde."
 
-#: index.docbook:53
+#: index.docbook:54
 #, no-c-format
 msgid "You can download BibleTime here: <olink targetdocent=\"software_download\">Download BibleTime</olink>. Don't forget to install some text modules after you installed BibleTime: <olink targetdocent=\"documentation_installation_modules\">How to install the text modules</olink>."
 msgstr "Laden Sie BibleTime hier herunter: <olink targetdocent=\"software_download\">BibleTime herunterladen</olink>. Vergessen Sie nicht danach einige Module zu installieren <olink targetdocent=\"documentation_installation_modules\">Wie man Module installiert</olink>."
 
-#: index.docbook:60
+#: index.docbook:61
 #, no-c-format
 msgid "Compilation from source code"
 msgstr "Übersetzung des Quellcodes"
 
-#: index.docbook:61
-#, no-c-format
+#: index.docbook:62
+#, fuzzy, no-c-format
 msgid ""
 "Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources: <orderedlist> <listitem> Install the required software: <olink targetdocent=\"documentation_requirements\">BibleTime's requirements</olink> </listitem> <listitem> Get the source code package of BibeTime: <olink targetdocent=\"software_download\">Download</olink> </listitem> <listitem> Compile and install BibleTime: <programlisting>\n"
 "<![CDATA[\n"
@@ -618,7 +618,7 @@ msgid ""
 "\tmake\n"
 " \tmake install\n"
 "]]>\n"
-"\t\t\t</programlisting> You can get your KDE directory by running the command <command>kde-config --prefix</command>. If you get problems please read the FAQ here: <olink targetdocent=\"documentation_faq\">FAQ</olink>. If there's no solution of your problem, please contact us at <email>info@bibletime.info</email> </listitem> </orderedlist> Don't forget to install some text modules after you installed BibleTime: <olink targetdocent=\"documentation_installation_modules\">How to install the text modules</olink>."
+"\t\t\t</programlisting> You can get your KDE directory by running the command <command>kde-config --prefix</command>. If you get problems please read the <olink targetdocent=\"documentation_faq\">FAQ</olink>. If there's no solution of your problem, please contact us at <email>info@bibletime.info</email> </listitem> </orderedlist> Don't forget to install some text modules after you installed BibleTime: <olink targetdocent=\"documentation_installation_modules\">How to install the text modules</olink>."
 msgstr ""
 "Die Installation vom Quellcode ist schwieriger als die Installation mit Binärpaketen. Bitte befolgen Sie die nächsten Schritte, wenn Sie vom Quellcode installieren wollen: <orderedlist> <listitem> Benötigte Software installieren: <olink targetdocent=\"documentation_requirements\">BibleTimes Anforderungen</olink> </listitem> <listitem> Get the source code package of BibeTime: <olink targetdocent=\"software_download\">Herunterladen</olink> </listitem> <listitem> BibleTime übersetzen und installieren  <programlisting>\n"
 "<![CDATA[\n"

@@ -24,7 +24,7 @@ msgstr ""
 msgid "Error"
 msgstr ""
 
-#: index.docbook:9 index.docbook:66 index.docbook:13
+#: index.docbook:9 index.docbook:66 index.docbook:14
 #, no-c-format
 msgid "BibleTime"
 msgstr ""
@@ -642,58 +642,58 @@ msgid ""
 "versions of BibleTime should only offer the testament which has some te"
 msgstr ""
 
-#: index.docbook:18
+#: index.docbook:19
 #, no-c-format
 msgid "Installation of BibleTime"
 msgstr ""
 
-#: index.docbook:19
+#: index.docbook:20
 #, no-c-format
 msgid ""
 "This page explains how BibleTime should be installed. Please follow these "
 "steps to get a working installation of BibleTime quickly."
 msgstr ""
 
-#: index.docbook:23
+#: index.docbook:24
 #, no-c-format
 msgid "The two ways to install BibleTime"
 msgstr ""
 
-#: index.docbook:24
+#: index.docbook:25
 #, no-c-format
 msgid "There are two possibilities to install BibleTime on your system:"
 msgstr ""
 
-#: index.docbook:24
+#: index.docbook:25
 #, no-c-format
 msgid "Install using prebuilt binary packages, like RPM or DEB"
 msgstr ""
 
-#: index.docbook:24
+#: index.docbook:25
 #, no-c-format
 msgid "Compile BibleTime from sources on your own system"
 msgstr ""
 
-#: index.docbook:32
+#: index.docbook:33
 #, no-c-format
 msgid ""
 "We recommend the installation using the binary packages. It's the simplest "
 "way."
 msgstr ""
 
-#: index.docbook:37
+#: index.docbook:38
 #, no-c-format
 msgid "Prebuilt binary packages"
 msgstr ""
 
-#: index.docbook:38
+#: index.docbook:39
 #, no-c-format
 msgid ""
 "We try to provide packages for the most important Linux distributions. These "
 "include RedHat, Mandrake and SuSE."
 msgstr ""
 
-#: index.docbook:42
+#: index.docbook:43
 #, no-c-format
 msgid ""
 "First download the binary package for your Linux distribution. For example: "
@@ -703,7 +703,7 @@ msgid ""
 "and the translations, which are available for BibleTime."
 msgstr ""
 
-#: index.docbook:49
+#: index.docbook:50
 #, no-c-format
 msgid ""
 "As you can see each package name contains the Linux distribution and version "
@@ -711,7 +711,7 @@ msgid ""
 "it was built for."
 msgstr ""
 
-#: index.docbook:53
+#: index.docbook:54
 #, no-c-format
 msgid ""
 "You can download BibleTime here: <olink targetdocent=\"software_download"
@@ -721,12 +721,12 @@ msgid ""
 "olink>."
 msgstr ""
 
-#: index.docbook:60
+#: index.docbook:61
 #, no-c-format
 msgid "Compilation from source code"
 msgstr ""
 
-#: index.docbook:61
+#: index.docbook:62
 #, no-c-format
 msgid ""
 "Installation using BibleTime's source code is more difficult than using "
@@ -743,12 +743,12 @@ msgid ""
 "]]>\n"
 "\t\t\t</programlisting> You can get your KDE directory by running the "
 "command <command>kde-config --prefix</command>. If you get problems please "
-"read the FAQ here: <olink targetdocent=\"documentation_faq\">FAQ</olink>. If "
-"there's no solution of your problem, please contact us at "
-"<email>info@bibletime.info</email> </listitem> </orderedlist> Don't forget "
-"to install some text modules after you installed BibleTime: <olink "
-"targetdocent=\"documentation_installation_modules\">How to install the text "
-"modules</olink>."
+"read the <olink targetdocent=\"documentation_faq\">FAQ</olink>. If there's "
+"no solution of your problem, please contact us at <email>info@bibletime."
+"info</email> </listitem> </orderedlist> Don't forget to install some text "
+"modules after you installed BibleTime: <olink targetdocent="
+"\"documentation_installation_modules\">How to install the text modules</"
+"olink>."
 msgstr ""
 
 #: index.docbook:14
