@@ -24,7 +24,7 @@ msgid "Welcome to the BibleTime project!"
 msgstr "Willkommen zum BibleTime Projekt!"
 
 #: index.docbook:24
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "BibleTime is a Bible study application for Linux. We think that BibleTime is a useful tool for every christian using Linux."
 msgstr "BibleTime ist ein Bibelstudienprogramm für Linux. Wir denken, dass BibleTime ein nützliches Werkzeug für jeden Christen ist, der Linux benutzt."
 

@@ -65,34 +65,7 @@
 ><title
 >Übersetzung des Quellcodes</title>
 	<para
-> Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources: <orderedlist
-> <listitem
-> Install the required software: <olink targetdocent="documentation_requirements"
->BibleTime's requirements</olink
-> </listitem
-> <listitem
-> Get the source code package of BibeTime: <olink targetdocent="software_download"
->Download</olink
-> </listitem
-> <listitem
-> Compile and install BibleTime: <programlisting>
-<![CDATA[
-	./configure --prefix=<your KDE directory>
-	make
- 	make install
-]]>
-			</programlisting
-> You can get your KDE directory by running the command <command
->kde-config --prefix</command
->. If you get problems please read the FAQ here: <olink targetdocent="documentation_faq"
->FAQ</olink
->. If there's no solution of your problem, please contact us at <email
->info@bibletime.info</email
-> </listitem
-> </orderedlist
-> Don't forget to install some text modules after you installed BibleTime: <olink targetdocent="documentation_installation_modules"
->How to install the text modules</olink
->. </para>
+>  </para>
 </section>
 
 </section>

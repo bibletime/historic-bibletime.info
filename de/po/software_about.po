@@ -26,7 +26,7 @@ msgstr "Was BibleTime ist ..."
 #: index.docbook:15
 #, no-c-format
 msgid "BibleTime is a free Bible study application for Linux systems. BibleTime uses the desktop environment KDE."
-msgstr "BibleTime ist eine freie Bibelsudien-Anwendung für Linux Systeme. BibleTime benutzt die KDE Umgebung."
+msgstr "BibleTime ist eine freie Bibelstudien-Anwendung für Linux Systeme. BibleTime benutzt die KDE Umgebung."
 
 #: index.docbook:18
 #, no-c-format

@@ -105,4 +105,3 @@ msgstr "Fordern Sie die Datein für die Übersetzung auf der bt-devel Mailinglis
 
 #~ msgid "Please don't edit the HTML files directly because they're generated from the docbook files. The translation file are also generated from the docbook data."
 #~ msgstr "Bitte bearbeiten Sie die HTML nicht direkt, da diese aus den Docbook Dateien generiert werden. Die Übersetzungsdateien werden ebenfalls aus den Docbook Dateien erzeugt."
-

@@ -219,6 +219,10 @@ textarea:focus {
 	background-color:transparent;
 }
 
+#content img {
+	border:none;
+}
+
 #content .section {
 	margin-bottom:15px;
 }
@@ -248,7 +252,7 @@ textarea:focus {
 }
 
 .blockquote {
-	margin-bottom:25px;
+	margin-bottom:15px;
 }
 
 .blockquote p {
@@ -302,7 +306,7 @@ p.title {
 	background-repeat:repeat-x;
 	margin:0px;
 	border-top:1px solid black;
-	padding-top:1px;
+	padding-top:0px;
 	padding-left:10px;
 	padding-right:10px;
 	text-align:center;
@@ -375,4 +379,5 @@ tr.question  {
 	margin:0px;
 	font-weight:bold;
 	font-size:1.2em;
+	vertical-align:top;
 }

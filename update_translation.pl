@@ -1,4 +1,6 @@
 #!/usr/bin/perl
+
+use lib "Perl";
 use File::Path;
 use File::Copy;
 use File::Compare;

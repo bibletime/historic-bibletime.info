@@ -17,10 +17,10 @@
             rewritePrefix="xsl/"/>
 
 <rewriteURI uriStartString="http://docbook.sourceforge.net/release/xsl/current/html/"
-            rewritePrefix="/usr/share/sgml/docbook/stylesheet/xsl/nwalsh/html/"/>
+            rewritePrefix="/usr/share/sgml/docbook/docbook-xsl-stylesheets-1.60.1/html/"/>
 
 <rewriteURI uriStartString="http://docbook.sourceforge.net/release/xsl/current/xhtml/"
-            rewritePrefix="/usr/share/sgml/docbook/stylesheet/xsl/nwalsh/xhtml/"/>
+            rewritePrefix="/usr/share/sgml/docbook/docbook-xsl-stylesheets-1.60.1/xhtml/"/>
 
 <!-- Website DTD locations -->
 
