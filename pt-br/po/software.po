@@ -13,22 +13,27 @@ msgstr ""
 "Content-Type: application/x-xml2pot; charset=utf-8\n"
 "Content-Transfer-Encoding: ENCODING\n"
 
-#: index.docbook:11
+#: index.docbook:10
 #, no-c-format
 msgid "Software"
 msgstr "Software"
 
-#: index.docbook:16
+#: index.docbook:15
 #, no-c-format
 msgid "Welcome to the BibleTime project!"
 msgstr "Bem vindo(a) ao projeto BibleTime!"
 
-#: index.docbook:24
+#: index.docbook:16
 #, no-c-format
-msgid "BibleTime is a Bible study application for Linux. We think that BibleTime is a useful tool for every christian using Linux."
+msgid "startup logo"
 msgstr ""
 
-#: index.docbook:27
+#: index.docbook:24
 #, no-c-format
-msgid "If you want to know more about BibleTime please read the \"About BibleTime\" pages: <olink targetdocent=\"software_about\">About BibleTime</olink>"
+msgid "BibleTime is a Bible study application for Linux. We think that BibleTime is a useful tool for every christian using Linux!"
+msgstr ""
+
+#: index.docbook:29
+#, no-c-format
+msgid "If you want to know more about BibleTime please read the \"About BibleTime\" page: <olink targetdocent=\"software_about\">About BibleTime</olink>"
 msgstr ""

@@ -1,6 +1,5 @@
 <!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
-<!ENTITY software_intro SYSTEM "software_intro.xml" NDATA XML>
 <!ENTITY software_about SYSTEM "software_about.xml" NDATA XML>
 ]>
 
@@ -13,21 +12,23 @@
 <summary
 >Introduction</summary>
 <keywords
->BibleTime, Software</keywords>
+>Norman Walsh, DSSSL, SGML, XML, DocBook, Website</keywords>
 </head>
 
 <section
 ><title
 >Willkommen zum BibleTime Projekt!</title>
-<para>
-		<inlinemediaobject>
-			<imageobject>
-				<imagedata fileref="/images/startuplogo.png" format="PNG" align="left"/>
-			</imageobject>
-		</inlinemediaobject>
-</para>
+<mediaobject
+> <imageobject
+> <imagedata fileref="/images/startuplogo.png" format="PNG"/> </imageobject
+> <textobject
+> <phrase
+>startup logo</phrase
+> </textobject
+> </mediaobject>
 <para
 > BibleTime ist ein Bibelstudienprogramm für Linux. Wir denken, dass BibleTime ein nützliches Werkzeug für jeden Christen ist, der Linux benutzt. </para>
+
 <para
 > Wenn Sie mehr über BibleTime wissen möchten, lesen Sie bitte die "Über BibleTime"  Seiten: <olink targetdocent="software_about"
 >Über BibleTime</olink

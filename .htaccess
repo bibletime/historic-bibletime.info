@@ -33,9 +33,9 @@ RewriteRule	^contact/linkus/$		software_linkus.html
 
 
 # Rewrite rules for better CGI navigation
-RewriteRule	^(software|documentation|modules|contact|development)/?$		$1.html
-RewriteRule	^(software|documentation|modules|contact|development)/([^/]+)/?$	$1_$2.html
-RewriteRule	^(software|documentation|modules|contact|development)/([^/]+)/([^/]+)/?$	$1_$2_$3.html
+RewriteRule	^(software|documentation|modules|contact|development)/?$		$1.html [R,L]
+RewriteRule	^(software|documentation|modules|contact|development)/([^/]+)/?$	$1_$2.html [R,L]
+RewriteRule	^(software|documentation|modules|contact|development)/([^/]+)/([^/]+)/?$	$1_$2_$3.html  [R,L]
 
 
 # Handle stuff like

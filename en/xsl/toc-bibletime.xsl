@@ -7,7 +7,6 @@
 						encoding="UTF-8"
 />
 
-<xsl:param name="nav.graphics" select="1"/>
 <xsl:param name="nav.pointer" select="0"/>
 <xsl:param name="nav.revisionflag" select="0"/>
 

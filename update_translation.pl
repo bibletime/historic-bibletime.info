@@ -203,9 +203,11 @@ autolayout.xml: layout.xml
 
 %.html: autolayout.xml
 	$(PROC) --output $@  $(STYLEOPT)  $(STYLESHEET)  $(filter-out autolayout.xml,$^)
+	../fixhtml.pl $@
 
 %.shtml: autolayout.xml
 	$(PROC) --output $@  $(STYLEOPT)  $(STYLESHEET)  $(filter-out autolayout.xml,$^)
+	../fixhtml.pl $@
 
 depends: autolayout.xml
 	$(PROC) --output depends.tabular $(STYLEOPT) $(STYLEDIR)/makefile-dep.xsl $<
@@ -220,7 +222,6 @@ sub run_make() {
 	my $lang = shift;
 	`cd $lang && make clean && make`;
 }
-
 
 my $lang = $ARGV[0] || die "Please give a language to work on!";
 

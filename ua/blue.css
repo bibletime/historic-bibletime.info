@@ -64,7 +64,7 @@ h6 {
 
 h1,h2,h3,h4,h5,h6 {
 	font-weight:bold;
-	color:#140366;
+	color:#0226b0;
 	background-color:transparent;
 	text-align:left;
 }
@@ -100,45 +100,47 @@ textarea:focus {
 /* --------------------- Header stuff ------------------------ */
 #pagetop {
 	padding:0px;
-	height:86px;
-	border-bottom:1px solid black;
+	margin:0px;
+	height:99px;
+	border-bottom:1px solid #75a0ff;
+	background-image:url(/images/pagetop-right.png);
+	background-repeat:repeat-x;
 }
 
 #pagetop img.left {
-	padding:0px 0px 0px 0px;
-	margin:0px 0px 0px 0px;
-}
-#pagetop img.right {
-	padding:0px 0px 0px 0px;
-	margin:0px 0px 0px 0px;
-	position:absolute;
-	top:0px;
-	right:0px;
-	height:86px;
+	padding:0px;
+	margin:0px;
+	height:99px;
 }
 
 #pagetop #flags {
-	width:120px;
+	padding:0px;
 	position:absolute;
-	right:5px;
-	top:5px;
-	text-align:right;
+	height:15px;
+	right:10px;
+	top:10px;
+	text-align:center;
+	padding:5px;
 }
+
 
 #pagetop #flags img {
 	border:0px;
-	margin:2px;
+	margin:1px 3px;
+	border:1px solid white;
 }
 
 /* --------------------- page stuff, sourrounds content ------------------------ */
 #page {
-	background-image:url(/images/sidebar-bg.png);
+	background-image:url(/images/sidebar-bg.jpg);
 	background-repeat:repeat-y;
 	background-color:white;
 	color:black;
 	border-spacing:0px;
 	border-collapse:collapse;
 	width:100%;
+	margin:0px;
+	padding:0px;
 }
 
 /* --------------------- Navigation stuff ------------------------ */
@@ -305,7 +307,7 @@ p.title {
 	background-image:url(/images/bar-bottom.png);
 	background-repeat:repeat-x;
 	margin:0px;
-	border-top:1px solid black;
+	border-top:1px solid #b2c7fe;
 	padding-top:0px;
 	padding-left:10px;
 	padding-right:10px;
@@ -378,10 +380,11 @@ table tr.toc {
 table .qandadiv h4.title {
 	margin-top:10px;
 	border-bottom:1px solid black;
+	width:100%;
 }
 
 table tr.question td {
-	background-color:#B4B2CD;
+	background-color:#a8c3ff;
 	color:white;
 	font-weight:bold;
 	font-size:1em;

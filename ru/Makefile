@@ -18,9 +18,11 @@ autolayout.xml: layout.xml
 
 %.html: autolayout.xml
 	$(PROC) --output $@  $(STYLEOPT)  $(STYLESHEET)  $(filter-out autolayout.xml,$^)
+	../fixhtml.pl $@
 
 %.shtml: autolayout.xml
 	$(PROC) --output $@  $(STYLEOPT)  $(STYLESHEET)  $(filter-out autolayout.xml,$^)
+	../fixhtml.pl $@
 
 depends: autolayout.xml
 	$(PROC) --output depends.tabular $(STYLEOPT) $(STYLEDIR)/makefile-dep.xsl $<

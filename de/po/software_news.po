@@ -25,8 +25,8 @@ msgstr "Neues über BibleTime"
 
 #: index.docbook:15
 #, no-c-format
-msgid "2003-10-08: New webpages"
-msgstr "08.10.2003: Neue Internetseiten"
+msgid "2003-10-16: New webpages"
+msgstr "16.10.2003: Neue Internetseiten"
 
 #: index.docbook:16
 #, no-c-format

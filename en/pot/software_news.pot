@@ -26,7 +26,7 @@ msgstr ""
 
 #: index.docbook:15
 #, no-c-format
-msgid "2003-10-08: New webpages"
+msgid "2003-10-16: New webpages"
 msgstr ""
 
 #: index.docbook:16

@@ -1,8 +1,10 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 xmlns:html='http://www.w3.org/1999/xhtml'
-                xmlns:doc="http://nwalsh.com/xsl/documentation/1.0"
-                exclude-result-prefixes="html doc"
+				xmlns='http://www.w3.org/1999/xhtml'
+                xmlns:doc="http://docbook.sourceforge.net/release/xsl/current/doc/"
+                exclude-result-prefixes="doc html"
                 version="1.0">
 
 <xsl:import href="website-common.xsl"/>
@@ -12,9 +14,18 @@
 <xsl:output method="xml"
             indent="no"
 			encoding="UTF-8"
-            doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN"
-            doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+            doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN"
+            doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
 />
+
+<!--
+<xsl:output method="xml"
+            indent="yes"
+			encoding="UTF-8"
+            doctype-public="-//W3C//DTD XHTML 1.1//EN"
+            doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11-flat.dtd"
+/>
+-->
 
 <xsl:param name="autolayout" select="document($autolayout-file, /*)"/>
 
@@ -39,6 +50,12 @@
 <xsl:param name="make.year.ranges">1</xsl:param>
 <xsl:param name="nav.graphics">1</xsl:param>
 
+
+<!-- ==================================================================== -->
+<xsl:param name="html.base">http://www.bibletime.info/</xsl:param>
+<xsl:param name="generate.id.attributes" select="0"/>
+<!-- ==================================================================== -->
+
 <xsl:template match="ssi">
 	<xsl:variable name="page" select="."/>
 	<xsl:variable name="mode" select="$page/@mode"/>
@@ -51,8 +68,8 @@
 					<xsl:when test="$cgi != ''">
 							<xsl:comment>#exec cgi="<xsl:value-of select="$cgi"/>"</xsl:comment>
 					</xsl:when>
-					<xsl:when test="$cmd != ''">
-							<xsl:comment>#exec cmd="<xsl:value-of select="$cmd"/>"</xsl:comment>
+					<xsl:when test="$exec != ''">
+							<xsl:comment>#exec cmd="<xsl:value-of select="$exec"/>"</xsl:comment>
 					</xsl:when>
 				</xsl:choose>
 		</xsl:when>
@@ -131,8 +148,7 @@
 
 		<body>
 			<div id="pagetop">
-				<img height="86" class="left" alt="left" src="/images/pagetop-left.png"/>
-				<img height="86" class="right" alt="right" src="/images/pagetop-right.png"/>
+				<img height="99" class="left" alt="pagetop logo" src="/images/pagetop-left.png"/>
 
 				<div id="flags">
 					<a title="en" href="/en/"><img alt="en" src="/images/flags/en.png"/></a>
@@ -143,7 +159,7 @@
 					<a title="ru" href="/ru/"><img alt="ru" src="/images/flags/ru.png"/></a>
 					<a title="ua" href="/ua/"><img alt="ua" src="/images/flags/ua.png"/></a>
 
-					<a href="/"><img alt="newlang" src="/images/flags/new-lang.png"/></a>
+					<a href="/translate/index.html"><img alt="Translate www.bibletime.info!" src="/images/flags/new-lang.png"/></a>
 				</div>
 			</div>
 
@@ -165,6 +181,13 @@
 						<a href="http://www.sf.net/projects/bibletime/"><img src="http://sourceforge.net/sflogo.php?group_id=954&amp;type=1" alt="sf logo" width="88" height="31"/></a>
 						<br/>
 						<img alt="counter" src="http://cgicounter.puretec.de/cgi-bin/cnt?clsid=6bfe60d8ff2e9c56d7db8be538c054421"/>
+						<br/>
+
+						<!--
+						<a href="http://validator.w3.org/check/referer"><img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0!" height="31" width="88" /></a>
+						<br/>
+						-->
+						<a href="http://jigsaw.w3.org/css-validator/"><img src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!"/></a>
 					</div>
 				</div>
 
