@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_about SYSTEM "software_about.xml" NDATA XML>
 <!ENTITY software_download SYSTEM "software_download.xml" NDATA XML>

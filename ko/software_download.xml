@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY documentation_installation_bibletime SYSTEM "documentation_installation_bibletime.xml" NDATA XML>
 ]>

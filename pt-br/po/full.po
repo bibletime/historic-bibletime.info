@@ -3333,4 +3333,3 @@ msgstr ""
 #, no-c-format
 msgid "The following charts show the current translations and how much translations work they still need. If you speak one of those languages and want to update a translation just click on the download link and start working on the update. Don't hesitate to ask us <email>info@bibletime.info</email> if you have questions about the translation."
 msgstr ""
-

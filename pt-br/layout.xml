@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE layout PUBLIC "-//Norman Walsh//DTD Website Layout V2.4.0//EN"
-          "../en/schema/dtd/layout.dtd">
+          "../schema/dtd/layout.dtd">
 <layout>
   <style title="Blue" src="blue.css" type="text/css"/>
 

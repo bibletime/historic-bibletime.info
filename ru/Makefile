@@ -1,5 +1,5 @@
 PROC=SGML_CATALOG_FILES="../catalog.xml" xsltproc
-STYLEDIR=../en/xsl
+STYLEDIR=../xsl
 TABSTYLE=$(STYLEDIR)/bibletime.xsl
 STYLESHEET=$(TABSTYLE)
 

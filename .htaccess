@@ -58,6 +58,8 @@ RewriteRule	 ^.+/(favicon.ico)$			/$1
 RewriteCond  %{HTTP_USER_AGENT}  	^.*[;].(de|pt-br|ko|ro|ru|ua)[-]?
 RewriteRule  ^([^/]*\.s?html)$		/%1/$1  [L,S]
 
+
 # Default english redirection
 RewriteCond  %{HTTP_USER_AGENT}		!^(de|pt-br|ko|ro|ru|ua)[-]?
 RewriteRule  ^([^/]*\.s?html)$		/en/$1  [L,S]
+
