@@ -1,0 +1,115 @@
+# translation of index.po to ukrainian
+# translation of index.po to russian
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# Vlad Savitsky <vlad_savitsky@mail.ru>, 2003
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: index\n"
+"POT-Creation-Date: 2001-02-09 01:25+0100\n"
+"PO-Revision-Date: 2003-07-17 10:37+0300\n"
+"Last-Translator: Vlad Savitsky <vlad_savitsky@mail.ru>\n"
+"Language-Team: ukrainian <uk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0.1\n"
+
+#: index.docbook:19
+#, no-c-format
+msgid "The Biblestudy HowTo"
+msgstr "Как изучать Библию"
+
+#: index.docbook:22
+#, no-c-format
+msgid "<firstname>Bob</firstname> <surname>Harman</surname>"
+msgstr "<firstname>Bob</firstname> <surname>Harman</surname>"
+
+#: index.docbook:28
+#, no-c-format
+msgid "ROLES_OF_TRANSLATORS"
+msgstr ""
+"<othercredit role=\"translator\">"
+"<firstname>Влад</firstname><surname>Савицкий</surname>"
+"<affiliation><address><email>vlad_savitsky@mail.ru</email></address>"
+"</affiliation><contrib></contrib></othercredit>"
+
+#: index.docbook:32
+#, no-c-format
+msgid "The team of &bibletime;, info@bibletime.info"
+msgstr "Команда &bibletime;, info@bibletime.info"
+
+#: index.docbook:35
+#, no-c-format
+msgid "Bob Harman"
+msgstr "Bob Harman"
+
+#: index.docbook:38
+#, no-c-format
+msgid "The copyright of this text is held by the author Bob Harman. The text was adapted for publication with BibleTime by Fred Saalbach."
+msgstr ""
+"Авторское право на этот текст принадлежит автору Bob Harman. "
+"Fred Saalbach адаптировал текст для BibleTime."
+
+#: index.docbook:42
+#, no-c-format
+msgid "Non exclusive serial rights for this distribution of this document with the &bibletime; Software have been made. Redistribution as part of the Bibletime software without modification and limited reproduction as provided by the \"fair use\" provisions of the US copyright code are also permitted."
+msgstr ""
+"Не эксклюзивные права на распространение этого документа "
+"с программой &bibletime; были предоставлены. "
+"Распространение как часть программы Bibletime без изменения "
+"и без ограничения воспроизведения согласно "
+"положению \"честное использование\" (\"fair use\") закона "
+"об авторском праве США, также разрешено."
+
+#: index.docbook:48
+#, no-c-format
+msgid "For questions regarding the use of this material contact Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. Hampton VA 23666 USA <email>ncc@ncchampton.org</email>."
+msgstr ""
+"По вопросам, касающимся использования этих материалов обращайтесь к "
+"Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. "
+"Hampton VA 23666 USA <email>ncc@ncchampton.org</email>."
+
+#: index.docbook:52
+#, no-c-format
+msgid "Scripture quotes are from the New American Standard Bible unless otherwise indicated"
+msgstr "Цитаты из Писания взяты из Синодального перевода Библии, если иное не указано."
+
+#: index.docbook:61
+#, no-c-format
+msgid "Abstract"
+msgstr "Резюме"
+
+#: index.docbook:62
+#, no-c-format
+msgid "The <application>Biblestudy HowTo</application> is a guide for studying the Bible."
+msgstr "<application>Как изучать Библию</application> это помощник для изучения Библии."
+
+#: index.docbook:65
+#, no-c-format
+msgid "It is the hope of the &bibletime; team that this HowTo will provoke the readers to study the scriptures to see what they say. This particular study guide has been chosen as it takes care not to advocate any particular denominational doctrine. We expect you to read and study the scriptures to understand what they say. If you start with the attitude that you want to have the Lord sow his word in your heart He will not disappoint you."
+msgstr ""
+"Надежда команды &bibletime; что это руководство побудит читателей "
+"изучать Писание, чтобы узнать в нём говорится."
+"Это особенное обучающее руководство было выбрано потому, "
+"что оно не защищает никакую особую деноминационную доктрину."
+"Мы ожидаем, что вы сами будете читать и изучать Писания, "
+"чтобы понять что они говорят."
+"Если вы начнёте с желанием, чтобы Господь сеял Своё слово в ваше "
+"сердце, - Он не разочарует вас."
+
+#: index.docbook:75
+#, no-c-format
+msgid "Bible"
+msgstr "Библию"
+
+#: index.docbook:76
+#, no-c-format
+msgid "Study"
+msgstr "Изучать"
+
+#: index.docbook:77
+#, no-c-format
+msgid "HowTo"
+msgstr "Как"
+

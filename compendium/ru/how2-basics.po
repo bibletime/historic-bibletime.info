@@ -1,0 +1,430 @@
+# translation of how2-basics.po to ukrainian
+# translation of how2-basics.po to russian
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# Vlad Savitsky <vlad_savitsky@mail.ru>, 2003
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: how2-basics\n"
+"POT-Creation-Date: 2001-02-09 01:25+0100\n"
+"PO-Revision-Date: 2003-07-17 13:21+0300\n"
+"Last-Translator: Vlad Savitsky <vlad_savitsky@mail.ru>\n"
+"Language-Team: ukrainian <uk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0.1\n"
+
+#: index.docbook:1
+#, no-c-format
+msgid "Bible Study Basics"
+msgstr "Основы изучения Библии"
+
+#: index.docbook:4
+#, no-c-format
+msgid "Our Purpose as we Approach the Bible"
+msgstr "Наша цель сделать Библию доступной"
+
+#: index.docbook:5
+#, no-c-format
+msgid "Jn.5:39-40<emphasis>\"You search the Scriptures, because you think that in them you have eternal life; and it is these that bear witness of Me; and you are unwilling to come to Me, that you may have life.\"</emphasis>"
+msgstr ""
+"Ин.5:39-40<emphasis>\"Исследуйте Писания, ибо вы думаете чрез них "
+"иметь жизнь вечную; а они свидетельствуют о Мне. "
+"Но вы не хотите придти ко Мне, чтобы иметь жизнь.\"</emphasis>"
+
+#: index.docbook:11
+#, no-c-format
+msgid "The chief purpose of the book is to bring us to the Person. Martin Luther said \"we go to the cradle only for the sake of the baby\"; just so in Bible study, we do it not for its own sake but for fellowship with God."
+msgstr ""
+"Основная цель книги - привести нас к Личности. Мартин Лютер сказал: "
+"\"мы идём к колыбели только ради ребёнка\"; "
+"также в изучении Библии, мы делаем это не ради самого изучения, "
+"но ради отношений с Богом."
+
+#: index.docbook:17
+#, no-c-format
+msgid "The Jews to whom Jesus spoke... imagined that to possess Scripture was tantamount to possessing life. Hillel used to say, \"He who has gotten to himself words of Torah has gotten to himself the life of the world to come.\" Their study was an end in itself. In this they were grievously deceived. ..."
+msgstr ""
+"Иудеи, с которыми Иисус говорил... "
+"считали, что обладать Писанием было равноценно обладанию жизнью."
+"Гиллель говорил, \"Тот, кто приобрёл для себя слова Торы, "
+"приобрёл себе жизнь мира, который придёт.\" "
+"Их изучение было замкнуто на самом изучении. В этом они тяжко заблуждались. ..."
+
+#: index.docbook:22
+#, no-c-format
+msgid "There is neither merit nor profit in the reading of Scripture for its own sake, but only if it effectively introduces us to Jesus Christ. Whenever the Bible is read, what is needed is an eager expectation that through it we may meet Christ."
+msgstr ""
+"Нет ни заслуги, ни пользы в чтении Писания ради самого чтения, "
+"но только если это действительно приведёт нас к Иисусу Христу. "
+"Когда бы ни читалась Библия, необходимо усердное ожидание того, "
+"чтобы через чтение встретиться со Христом."
+
+#: index.docbook:29
+#, no-c-format
+msgid "Approaches to God's Word"
+msgstr "Приближение к Слову Божьему"
+
+#: index.docbook:30
+#, no-c-format
+msgid "Hearing and reading provide a telescopic view of the scripture while study and memorization provide a microscopic view of scripture. Meditating on the scriptures brings hearing, reading, studying and memorization together and cements the word in our minds."
+msgstr ""
+"Слышание и чтение дают телескопический взгляд на Писание "
+"в то время как изучение и запоминание дают микроскопический взгляд на Писание. "
+"Размышление над Писанием соединяет вместе слышание, чтение, "
+"изучение и запоминание скрепляет слово в нашем уме."
+
+#: index.docbook:36
+#, no-c-format
+msgid "Hear"
+msgstr "Слышать"
+
+#: index.docbook:37
+#, no-c-format
+msgid "Lk.11:28 <emphasis>\"blessed are those who hear the word of God, and observe it.\"</emphasis>"
+msgstr "Луки.11:28 <emphasis>\"... блаженны слышащие слово Божие и соблюдающие его.\"</emphasis>"
+
+#: index.docbook:42
+#, no-c-format
+msgid "Read"
+msgstr "Читать"
+
+#: index.docbook:42
+#, no-c-format
+msgid "Rev.1:3 <emphasis>\"Blessed is he who reads and those who hear the words of this prophecy...\"</emphasis>"
+msgstr "Откр.1:3 <emphasis>\"Блажен читающий и слушающие слова пророчества сего...\"</emphasis>"
+
+#: index.docbook:45
+#, no-c-format
+msgid "1 Tim.4:13 <emphasis>\"give attention to the public reading of Scripture...\"</emphasis>"
+msgstr "1 Тим.4:13 <emphasis>\"Доколе не приду, занимайся чтением...\"</emphasis>"
+
+#: index.docbook:49
+#, no-c-format
+msgid "Study"
+msgstr "Изучать"
+
+#: index.docbook:50
+#, no-c-format
+msgid "Acts 17:11 <emphasis>\"Now these were more noble-minded than those in Thessalonica, for they received the word with great eagerness, examining the Scriptures daily, to see whether these things were so.\"</emphasis>"
+msgstr ""
+"Деян.17:11 <emphasis>\" "
+"Здешние были благомысленнее Фессалоникских: "
+"они приняли слово со всем усердием, "
+"ежедневно разбирая Писания, точно ли это так.\"</emphasis>"
+
+#: index.docbook:53
+#, no-c-format
+msgid "2 Tim.2:15 <emphasis>\"Be diligent [KJV `Study'] to present yourself approved to God as a workman who does not need to be ashamed, handling accurately the word of truth.\"</emphasis>"
+msgstr "2 Тим.2:15 <emphasis>\"Старайся [KJV `Изучай, чтобы'] представить себя Богу достойным, делателем неукоризненным, верно преподающим слово истины.\"</emphasis>"
+
+#: index.docbook:59
+#, no-c-format
+msgid "Memorize"
+msgstr "Запоминать"
+
+#: index.docbook:60
+#, no-c-format
+msgid "Ps.119:11 <emphasis>\"Thy word I have hid in my heart, that I may not sin against Thee.\"</emphasis>"
+msgstr ""
+"Пс.119:11 <emphasis>\"В сердце моем сокрыл я слово Твое, "
+"чтобы не грешить пред Тобою.\"</emphasis>"
+
+#: index.docbook:63
+#, no-c-format
+msgid "Meditate"
+msgstr "Размышлять"
+
+#: index.docbook:64
+#, no-c-format
+msgid "Ps.1:2-3 <emphasis>\"But his delight is in the law of the Lord, And in His law he meditates day and night. And he will be like a tree firmly planted by streams of water, Which yields its fruit in its season, And its leaf does not wither; And in whatever he does, he prospers.\"</emphasis>"
+msgstr ""
+"Пс.1:2-3 <emphasis>\"но в законе Господа воля его, "
+"и о законе Его размышляет он день и ночь! "
+"И будет он как дерево, посаженное при потоках вод, "
+"которое приносит плод свой во время свое, "
+"и лист которого не вянет; и во всем, что он ни делает, успеет.\"</emphasis>"
+
+#: index.docbook:68
+#, no-c-format
+msgid "The Navigators illustrate this by saying that as the thumb can touch all the fingers, we can meditate on the Word as we do any of the first four. Meditation is a key to revelation. A new Christian needs to hear and read the Bible more than they need to study and memorize it. This is so that they become familiar with the overall message of the Bible."
+msgstr ""
+"Навигаторы объясняют это, говоря, что как большой палец может коснуться "
+"каждого пальца, мы можем размышлять над Словом, "
+"если делаем что-либо из этих четырёх, перечисленных выше."
+"Размышление это ключ к откровению. "
+"Новообращённый христианин больше нуждается в том, чтобы слушать и читать Библию, "
+"чем в том, чтобы исследовать и запоминать её. "
+"Это так до тех пор, пока они не познакомятся хорошо с общей идеей Библии."
+
+#: index.docbook:75
+#, no-c-format
+msgid "Types of Bible Studies"
+msgstr "Типы изучения Библии"
+
+#: index.docbook:76
+#, no-c-format
+msgid "Topical Study"
+msgstr "Тематическое изучение"
+
+#: index.docbook:76
+#, no-c-format
+msgid "Pick out a certain topic and follow it through, using cross-references or a concordance."
+msgstr ""
+"Выбрать определённую тему и исследовать её, используя перекрёстные ссылки "
+"или симфонию."
+
+#: index.docbook:81
+#, no-c-format
+msgid "Character Study"
+msgstr "Изучение действующих лиц"
+
+#: index.docbook:82
+#, no-c-format
+msgid "Studying the life of a Bible character, e.g. Joseph's life in Gen.37-50."
+msgstr "Изучая жизнь Библейских персонажей, напр. жизнь Иосифа в Быт.37-50."
+
+#: index.docbook:84
+#, no-c-format
+msgid "Expository Study"
+msgstr "Объяснительное изучение"
+
+#: index.docbook:84
+#, no-c-format
+msgid "Studying a certain passage: paragraph, chapter, or book."
+msgstr "Изучение определённого отрывка: параграфа, главы или книги."
+
+#: index.docbook:89
+#, no-c-format
+msgid "Basics of Correct Interpretation"
+msgstr "Основы правильного истолкования"
+
+#: index.docbook:92
+#, no-c-format
+msgid "Content"
+msgstr "Содержание"
+
+#: index.docbook:93
+#, no-c-format
+msgid "What does it say? What does it say in the original language? Be careful with definitions. Don't read into it what it doesn't say."
+msgstr ""
+"Что это значит? Что это значит на языке оригинала? "
+"Будьте осторожны с определениями. "
+"Не ищите в них того, о чём они не говорят."
+
+#: index.docbook:96
+#, no-c-format
+msgid "Context"
+msgstr "Контекст"
+
+#: index.docbook:97
+#, no-c-format
+msgid "What do the verses around it say? \"Context is king\" is the rule -- the passage must make sense within the structure of the entire passage and book."
+msgstr ""
+"Что говорится в ближайших стихах? \"Контекст - король\" - это правило: "
+"отрывок должен иметь смысл в структуре большего отрывка и книги."
+
+#: index.docbook:101
+#, no-c-format
+msgid "Cross-reference"
+msgstr "Перекрёстные ссылки"
+
+#: index.docbook:102
+#, no-c-format
+msgid "What do other verses about this subject say through the rest of the Bible? God doesn't contradict Himself, so our interpretation needs to stand the test of other scriptures."
+msgstr ""
+"Что говорят об этой теме другие стихи во всей Библии? "
+"Бог не противоречит Себе, поэтому наше истолкование нуждается "
+"в проверке по всему Писанию."
+
+#: index.docbook:107
+#, no-c-format
+msgid "An Expository Study of Matthew 6:1-18"
+msgstr "Объяснительное изучение отрывка Мтф.6:1-18"
+
+#: index.docbook:109
+#, no-c-format
+msgid "Let's study together Mt.6:1-18. Read it to yourself, first looking for the key verse, the verse that sums up the whole passage. Think you have it? Test it by picking different places in the passage and asking yourself if they relate to the thought of the key verse. Once you find it, write it as Roman numeral One of your outline:"
+msgstr ""
+"Давайте изучим вместе Мтф.6:1-18. "
+"Сначала прочтите отрывок, стараясь найти ключевой стих - стих, который "
+"суммирует весь отрывок. Думаете - нашли? "
+"Проверьте его, беря разные места из отрывка и спрашивая себя "
+"соответствуют ли они к мысли ключевого стиха. "
+"Как только вы его нашли, - запишите его как римскую цифру Один в вашем конспекте:"
+
+#: index.docbook:112
+#, no-c-format
+msgid "I. BEWARE OF PRACTICING YOUR RIGHTEOUSNESS BEFORE MEN TO BE NOTICED"
+msgstr "I. ОСТЕРЕГАЙСЯ ПРОЯВЛЯТЬ СВОЮ ПРАВЕДНОСТЬ НАПОКАЗ"
+
+#: index.docbook:115
+#, no-c-format
+msgid "What does \"practicing your righteousness\" mean? Does the passage give any examples? What area of our lives is being addressed? our motives! What sub-headings develop this thought?"
+msgstr ""
+"Что значит \" проявлять свою праведность\"? "
+"Даёт ли отрывок какие-либо примеры? "
+"Какой сферы нашей жизни это касается? наши мотивы! "
+"Какие подзаголовки развивают эту мысль?"
+
+#: index.docbook:117
+#, no-c-format
+msgid ""
+"A. WHEN YOU GIVE\n"
+"  B. WHEN YOU FAST\n"
+"  C. WHEN YOU PRAY"
+msgstr ""
+"A. КОГДА ТЫ ДАЁШЬ\n"
+"  Б. КОГДА ТЫ ПОСТИШЬСЯ\n"
+"  В. КОГДА ТЫ МОЛИШЬСЯ"
+
+#: index.docbook:122
+#, no-c-format
+msgid "Now fill in the outline with specific instructions of how to avoid wrong ways of practicing our righteousness:"
+msgstr ""
+"Теперь заполните конспект особыми инструкциями о том, как избежать неверных "
+"путей проявления своей праведности:"
+
+#: index.docbook:124
+#, no-c-format
+msgid ""
+"A. When you give\n"
+"     1. DON'T SOUND A TRUMPET.  (HOW MIGHT SOMEONE \"SOUND A TRUMPET\" TODAY?)\n"
+"     2. DO IT SECRETLY.	ETC."
+msgstr ""
+"A. Когда ты даёшь\n"
+"     1. НЕ ТРУБИ ПЕРЕД СОБОЙ.  (КАК МОЖЕТ КТО-ЛИБО \"ТРУБИТЬ ПЕРЕД СОБОЙ\" СЕГОДНЯ?)\n"
+"     2. ДЕЛАЙ ЭТО ПО СЕКРЕТУ.	И ТАК ДАЛЕЕ."
+
+#: index.docbook:130
+#, no-c-format
+msgid "Worksheet: How to Use a Concordance"
+msgstr "Рабочий лист: Как использовать симфонию"
+
+#: index.docbook:132
+#, no-c-format
+msgid "To Find a Particular Verse"
+msgstr "Чтобы найти определённый стих"
+
+#: index.docbook:133
+#, no-c-format
+msgid "Pick out a key word or most-unusual word of the verse."
+msgstr "Выберите ключевое слово или наиболее редкое слово в стихе."
+
+#: index.docbook:133
+#, no-c-format
+msgid "Turn to this word alphabetically."
+msgstr "Найдите это слово по алфавиту."
+
+#: index.docbook:133
+#, no-c-format
+msgid "Go down the column of listings until you find your verse."
+msgstr "Просмотрите колонку списка пока не найдёте ваш стих."
+
+#: index.docbook:138
+#, no-c-format
+msgid ""
+"Find these verses:\n"
+"		\"Faithful are the wounds of a friend.\"\n"
+"		\"We are ambassadors of Christ.\"\n"
+"		The story of the rich man and Lazarus."
+msgstr ""
+"Найдите эти стихи:\n"
+"		\"Искренни укоризны от любящего.\"\n"
+"		\"мы - посланники от имени Христова.\"\n"
+"		История о богаче и Лазаре."
+
+#: index.docbook:146
+#, no-c-format
+msgid "To Do a Topical Study"
+msgstr "Чтобы сделать тематическое исследование"
+
+#: index.docbook:147
+#, no-c-format
+msgid "Let's say you wanted to do a study of the word \"redemption.\" First you would look up that word in the concordance and look up references listed for it. Then you could look up related words and references listed for them, e.g. \"redeem, redeemed, ransom,\" even \"buy\" or \"bought.\""
+msgstr ""
+"Предположим вы хотите сделать исследование слова \"искупление\". "
+"Сначала вам нужно найти слово в симфонии и просмотреть ссылки, приведённые для него. "
+"Затем вы можете проверить слова, которые как-то связаны с искомым, и ссылки для них, "
+"напр. \"выкупать\", \"искупленный\", \"ransom\", и даже \"покупать\" или \"купил\"."
+
+#: index.docbook:153
+#, no-c-format
+msgid "To Clarify Word Meanings in the Greek and Hebrew"
+msgstr "Чтобы прояснить значение слова в греческом или еврейском языке"
+
+#: index.docbook:154
+#, no-c-format
+msgid "What if you noticed a contradiction in the KJV between Mt.7:1 \"Judge not lest you be judged\" and 1 Cor.2:15 \"He that is spiritual judgeth all things.\" Maybe there are two different Greek words here, both being translated \"judge\" in English? (We're using Strong's from here out.)"
+msgstr ""
+"Что если вы заметили противоречие в Мтф.7:1 \"Не судите, да не судимы будете\" "
+"и 1 Кор.2:15 \"Но духовный судит о всем...\". "
+"Возможно, что два различных греческих слова были переведены на русский одним словом \"судить\"? "
+"(Мы используем Словари Стронга здесь и далее)."
+
+#: index.docbook:157
+#, no-c-format
+msgid "Look up \"judge.\""
+msgstr "Найдите \"судить\"."
+
+#: index.docbook:157
+#, no-c-format
+msgid "Go down the column of entries to Mt.7:1. To the right is a number, 2919. This refers to the Greek word used. Write it down."
+msgstr ""
+"Просмотрите колонку записей и найдите Мтф.7:1. Справа число - 2919. "
+"Оно ссылается на использованное греческое слово. Запишите его. "
+
+#: index.docbook:157
+#, no-c-format
+msgid "Now look up \"judgeth.\""
+msgstr "Теперь найдите \"судимы\"."
+
+#: index.docbook:157
+#, no-c-format
+msgid "Go down the column to 1 Cor.2:15 . . . . . 350."
+msgstr "Просмотрите колонку до 1 Кор.2:15 . . . . . 350."
+
+#: index.docbook:157
+#, no-c-format
+msgid "Turn in the back to the Greek dictionary. (Remember, you're in the NT so the language is Greek, while the OT is Hebrew.) Compare the meaning of 2919 with the meaning of 350 and you have your answer!"
+msgstr ""
+"Откройте греческий словарь сзади. "
+"(Помните, вы в Новом Завете, поэтому язык греческий; для Ветхого Завета - еврейский). "
+"Сравните значение 2919 со значением 350. Вот и ответ!"
+
+#: index.docbook:168
+#, no-c-format
+msgid "To Find Meanings of Names"
+msgstr "Чтобы найти значения имён"
+
+#: index.docbook:169
+#, no-c-format
+msgid "By the same process we can find the meaning of a name in the Greek or Hebrew."
+msgstr "Таким же образом мы можем найти значение имени в греческом или еврейском."
+
+#: index.docbook:170
+#, no-c-format
+msgid "Look up these names and write down their meaning:"
+msgstr "Найдите эти имена и запишите их значения:"
+
+#: index.docbook:171
+#, no-c-format
+msgid "Nabal"
+msgstr "Навал (Nabal)"
+
+#: index.docbook:171
+#, no-c-format
+msgid "Abigail"
+msgstr "Авигея (Abigail)"
+
+#: index.docbook:171
+#, no-c-format
+msgid "Joshua"
+msgstr "Иисус (Joshua)"
+
+#: index.docbook:171
+#, no-c-format
+msgid "Barnabus"
+msgstr "Варнава (Barnabus)"
+

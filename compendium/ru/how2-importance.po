@@ -1,0 +1,491 @@
+# translation of how2-importance.po to ukrainian
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# Vlad Savitsky <vlad_savitsky@mail.ru>, 2003
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: how2-importance\n"
+"POT-Creation-Date: 2001-02-09 01:25+0100\n"
+"PO-Revision-Date: 2003-07-17 10:37+0300\n"
+"Last-Translator: Vlad Savitsky <vlad_savitsky@mail.ru>\n"
+"Language-Team: ukrainian <uk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0.1\n"
+
+#: index.docbook:1
+#, no-c-format
+msgid "Importance of God's Word"
+msgstr ""
+
+#: index.docbook:2
+#, no-c-format
+msgid "Understanding God's word is of great importance to all who call on God's name. Study of the Bible is one of the primary ways that we learn to communicate with God."
+msgstr ""
+
+#: index.docbook:6
+#, no-c-format
+msgid "A Book that is Unique"
+msgstr ""
+
+#: index.docbook:8
+#, no-c-format
+msgid "The Bible stands alone in many ways. It is unique in:"
+msgstr ""
+
+#: index.docbook:11
+#, no-c-format
+msgid "popularity. Bible sales in North America: more than $500 million per year. The Bible is both the the all-time and year-to-year best seller!"
+msgstr ""
+
+#: index.docbook:11
+#, no-c-format
+msgid "authorship. It was written over a period of 1600 years by 40 different authors from different backgrounds, yet reads as if written by one."
+msgstr ""
+
+#: index.docbook:11
+#, no-c-format
+msgid "preservation. F. F. Bruce in <emphasis>Are New Testament Documents Reliable?</emphasis> compares New Testament manuscripts with other ancient texts:"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "Comparison of New Testament manuscripts with other ancient texts."
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "Work"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "When Written"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "Earliest Copy"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "Time Lapse"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "Number of Copies"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "Herodotus"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "448-428 B.C."
+msgstr ""
+
+#: index.docbook:31 index.docbook:31 index.docbook:31
+#, no-c-format
+msgid "900 A.D."
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "1300 years"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "<entry>8 </entry>"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "Tacitus"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "100 A.D."
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "1100 A.D."
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "1000 years"
+msgstr ""
+
+#: index.docbook:31 index.docbook:31
+#, no-c-format
+msgid "<entry>20 </entry>"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "Caesar's <emphasis>Gallic War</emphasis>"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "50-58 B.C."
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "950 years"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "<entry>10 </entry>"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "Livy's <emphasis>Roman History</emphasis>"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "59 B.C. - 17 A.D."
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "900 years"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "New Testament"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "40 A.D. - 100 A.D."
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "130 A.D. Partial manuscripts 350 A.D. Full manuscripts"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "30 - 310 years"
+msgstr ""
+
+#: index.docbook:31
+#, no-c-format
+msgid "5000 Greek &amp; 10,000 Latin"
+msgstr ""
+
+#: index.docbook:68
+#, no-c-format
+msgid "Ten copies of Caesar's <emphasis>Gallic War</emphasis> exist, the earliest of which was copied 900 years after Caesar wrote the original, etc. For the New Testament we have full manuscripts dating to 350 A. D., papyri containing most of the New Testament from the 200s, and a fragment of John's gospel from 130 A. D. How many manuscripts do we have to compare to each other? 5,000 in Greek and 10,000 in Latin!"
+msgstr ""
+
+#: index.docbook:76
+#, no-c-format
+msgid "\"In the verity and fullness of the evidence on which it rests, the text of the New Testament stands absolutely and unapproachably alone among other ancient prose writings.\""
+msgstr ""
+
+#: index.docbook:81
+#, no-c-format
+msgid "A Book that God Breathed"
+msgstr ""
+
+#: index.docbook:82
+#, no-c-format
+msgid "<emphasis>Heb.4:12 </emphasis>\"<emphasis>For the word of God is living and active... </emphasis>\" Jesus said <emphasis>(Mt.4:4),</emphasis> \"<emphasis>It is written, Man shall not live on bread alone, but on every word that proceeds [lit., is proceeding] from the mouth of God.</emphasis>\" As we read the Bible, God's Spirit is there to speak it to our hearts in a continually-fresh way."
+msgstr ""
+
+#: index.docbook:88
+#, no-c-format
+msgid "2 Tim.3:16 declares, \"<emphasis>All scripture is inspired by God [lit., God-breathed].</emphasis>\" Do you believe this? Before you answer, consider Jesus' attitude toward the Scriptures."
+msgstr ""
+
+#: index.docbook:92
+#, no-c-format
+msgid "He referred to the human authors, but took it for granted that behind them all was a single divine Author. He could equally say 'Moses said' or 'God said' (Mk.7:10). He could quote a comment of the narrator in Genesis 2:24 as an utterance of the Creator Himself (Mt.19:4-5). Similarly He said, 'Well did Isaiah prophesy of you hypocrites, as it is written', when what He went on to quote is the direct speech of the Lord God (Mk.7:6 &amp; Is.29:13). It is from Jesus Himself that the New Testament authors have gained their conviction of the dual authorship of Scripture. For them it was just as true to say that 'God spoke of old to our fathers by the prophets' (Heb.1:1) as it was to say that 'men moved by the Holy Spirit spoke from God' (2 Pe.1:21). God did not speak in such a way as to obliterate the personality of the human authors, nor did men speak in such a way as to corrupt the Word of the divine Author. God spoke. Men spoke. Neither truth must be allowed to detract from the other. ..."
+msgstr ""
+
+#: index.docbook:106
+#, no-c-format
+msgid "This, then, was Christ's view of the Scriptures. Their witness was God's witness. The testimony of the Bible is the testimony of God. And the chief reason why the Christian believes in the divine origin of the Bible is that Jesus Christ Himself taught it."
+msgstr ""
+
+#: index.docbook:112
+#, no-c-format
+msgid "2 Tim.3:16 goes on, \"<emphasis>and profitable for teaching, for correction, for training in righteousness, that the man of God may be adequate, equipped for every good work.</emphasis>\" If we accept that the Bible really is God speaking to us, it follows that it will be our authority in all matters of faith and conduct."
+msgstr ""
+
+#: index.docbook:118
+#, no-c-format
+msgid "A Book that Works"
+msgstr ""
+
+#: index.docbook:119
+#, no-c-format
+msgid "What will studying the Bible do for you? 1 Thess.2:13 says that the Bible \"<emphasis>performs its work in you who believe.</emphasis>\" Beside each scripture, write down the work the Word performs."
+msgstr ""
+
+#: index.docbook:125
+#, no-c-format
+msgid "What does Bible study do for Christians?"
+msgstr ""
+
+#: index.docbook:125
+#, no-c-format
+msgid "Reference"
+msgstr ""
+
+#: index.docbook:125
+#, no-c-format
+msgid "Action"
+msgstr ""
+
+#: index.docbook:125
+#, no-c-format
+msgid "Eph. 5:26"
+msgstr ""
+
+#: index.docbook:125
+#, no-c-format
+msgid "cleanses -- \"...having cleansed her by the washing of water with the word.\""
+msgstr ""
+
+#: index.docbook:125
+#, no-c-format
+msgid "Acts 20:32"
+msgstr ""
+
+#: index.docbook:125
+#, no-c-format
+msgid "builds up -- \" ...the word of His grace, which is able to build you up and to give you the inheritance among all those who are sanctified. \""
+msgstr ""
+
+#: index.docbook:125
+#, no-c-format
+msgid "Rom. 15:4"
+msgstr ""
+
+#: index.docbook:125
+#, no-c-format
+msgid "encourages -- \"that through perseverance and the encouragement of the Scriptures we might have hope.\""
+msgstr ""
+
+#: index.docbook:125
+#, no-c-format
+msgid "Rom. 10:17"
+msgstr ""
+
+#: index.docbook:125
+#, no-c-format
+msgid "gives faith -- \"So faith comes from hearing, and hearing by the word of Christ.\""
+msgstr ""
+
+#: index.docbook:125
+#, no-c-format
+msgid "1 Cor. 10:11"
+msgstr ""
+
+#: index.docbook:125
+#, no-c-format
+msgid "instructs -- \"Now these things happened to them for an example, and they were written for our instruction\""
+msgstr ""
+
+#: index.docbook:125
+#, no-c-format
+msgid "Mt. 4:4"
+msgstr ""
+
+#: index.docbook:125
+#, no-c-format
+msgid "nourishment -- \"But He answered and said, 'It is written, Man shall not live on bread alone, but on every word that proceeds out of the mouth of God.'\""
+msgstr ""
+
+#: index.docbook:201
+#, no-c-format
+msgid "A Book that Liberates"
+msgstr ""
+
+#: index.docbook:202
+#, no-c-format
+msgid "Jn.8:32 \"<emphasis>and you shall know the truth, and the truth shall make you free.</emphasis>\"This is usually quoted by itself. Is this a conditional or unconditional promise? Would it apply to all kinds of knowledge? Find the answers by examining the first half of the sentence, in v.31. \"<emphasis>If you abide in My word, then you are truly disciples of Mine... </emphasis>\""
+msgstr ""
+
+#: index.docbook:209
+#, no-c-format
+msgid "We see that this is a conditional promice, specifically speaking of the truth of God's word."
+msgstr ""
+
+#: index.docbook:211
+#, no-c-format
+msgid "The Greek word for \"wind\" used in Eph.4:14 means a <emphasis>violent wind.</emphasis> \"<emphasis>As a result, we are no longer to be children, tossed here and there by waves, and carried about by every wind of doctrine...</emphasis>\"One thing studying the Bible does for us is to ground us in the truth, with the result that we won't be easily \"blown away.\""
+msgstr ""
+
+#: index.docbook:217
+#, no-c-format
+msgid "<emphasis>But Jesus answered and said to them, </emphasis>\"<emphasis>You are mistaken [KJV Ye do err], not understanding the Scriptures, or the power of God.</emphasis>\"Mt.22:29"
+msgstr ""
+
+#: index.docbook:219
+#, no-c-format
+msgid "What 2 things do we need to know to be kept from error?"
+msgstr ""
+
+#: index.docbook:220
+#, no-c-format
+msgid "God's word"
+msgstr ""
+
+#: index.docbook:220
+#, no-c-format
+msgid "God's power"
+msgstr ""
+
+#: index.docbook:225
+#, no-c-format
+msgid "A Book that Wars"
+msgstr ""
+
+#: index.docbook:226
+#, no-c-format
+msgid "Eph.6:10-18 is one picture of our spiritual armament."
+msgstr ""
+
+#: index.docbook:228
+#, no-c-format
+msgid "Spiritual Armor"
+msgstr ""
+
+#: index.docbook:228
+#, no-c-format
+msgid "Question"
+msgstr ""
+
+#: index.docbook:228
+#, no-c-format
+msgid "Answer"
+msgstr ""
+
+#: index.docbook:228
+#, no-c-format
+msgid "How many of the weapons listed here are defensive weapons?"
+msgstr ""
+
+#: index.docbook:228
+#, no-c-format
+msgid "<entry>5</entry>"
+msgstr ""
+
+#: index.docbook:228
+#, no-c-format
+msgid "How many are offensive?"
+msgstr ""
+
+#: index.docbook:228
+#, no-c-format
+msgid "<entry>One</entry>"
+msgstr ""
+
+#: index.docbook:228
+#, no-c-format
+msgid "Which one(s)?"
+msgstr ""
+
+#: index.docbook:228
+#, no-c-format
+msgid "the word - <foreignphrase>rhema</foreignphrase>"
+msgstr ""
+
+#: index.docbook:242
+#, no-c-format
+msgid "Exhortations"
+msgstr ""
+
+#: index.docbook:243
+#, no-c-format
+msgid "2 Tim.2:15 (KJV) \"<emphasis>Study to show thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.</emphasis>\""
+msgstr ""
+
+#: index.docbook:247
+#, no-c-format
+msgid "Col.3:16 \"<emphasis>Let the word of Christ richly dwell within you; with all wisdom teaching and admonishing one another with psalms and hymns and spiritual songs, singing with thankfulness in your hearts to God.</emphasis>\""
+msgstr ""
+
+#: index.docbook:252
+#, no-c-format
+msgid "If you're rich in something, how much of it do you have?"
+msgstr ""
+
+#: index.docbook:254
+#, no-c-format
+msgid "Not a little!"
+msgstr ""
+
+#: index.docbook:257
+#, no-c-format
+msgid "Eccl.12:11 \"<emphasis>The words of wise men are like goads, and masters of these collections are like well-driven nails; they are given by one Shepherd. But beyond this, my son, be warned: the writing of many books is endless, and excessive devotion to books is wearying to the body.</emphasis>\""
+msgstr ""
+
+#: index.docbook:264
+#, no-c-format
+msgid "Appendix: \"Once for All\""
+msgstr ""
+
+#: index.docbook:268
+#, no-c-format
+msgid "The truth regarding the finality of God's initiative in Christ is conveyed by one word of the Greek Testament, namely the adverb <foreignphrase>hapax</foreignphrase> and <foreignphrase>ephapax</foreignphrase>. It is usually translated in the Authorized Version once, meaning once for all. It is used of what is so done as to be of perpetual validity and never need repetition, and is applied in the NT to both revelation and redemption. Thus, Jude refers to the faith which was once for all delivered to the saints (Jude 3), and Romans says, \"<emphasis>Christ also died for sins once for all</emphasis>\" (Rom.6:10, see also 1 Pe.3:18; Heb.9:26-28)."
+msgstr ""
+
+#: index.docbook:277
+#, no-c-format
+msgid "Thus we may say that God has spoken once for all and Christ has suffered once for all. This means that the Christian revelation and the Christian redemption are both alike in Christ complete. Nothing can be added to either without being derogatory to Christ... These are the two rocks on which the Protestant Reformation was built -- Gods revealed word without the addition of human traditions and Christ's finished work without the addition of human merits. The Reformers great watchwords were <foreignphrase>sola scriptura</foreignphrase> for our authority and <foreignphrase>sola gratia</foreignphrase> for our salvation."
+msgstr ""
+
+#: index.docbook:289
+#, no-c-format
+msgid "Supplement: Bible Reading Programs"
+msgstr ""
+
+#: index.docbook:290
+#, no-c-format
+msgid "Here are some easy programs to systematically read your Bible. You can do more than one at a time if you like, for instance #1 with #4, or #2 with #5. Vary the program from year to year to keep it fresh!"
+msgstr ""
+
+#: index.docbook:294
+#, no-c-format
+msgid "New Testament in a Year: read one chapter each day, 5 days a week."
+msgstr ""
+
+#: index.docbook:294
+#, no-c-format
+msgid "Proverbs in a Month: read one chapter of Proverbs each day, corresponding to the day of the month."
+msgstr ""
+
+#: index.docbook:294
+#, no-c-format
+msgid "Psalms in a Month: read 5 Psalms at intervals of 30 each day, for instance on the 20th you read Ps.20, 50, 80, 110, &amp; 140."
+msgstr ""
+
+#: index.docbook:294
+#, no-c-format
+msgid "Psalms &amp; Proverbs in 6 months: read through Psalms and Proverbs one chapter per day."
+msgstr ""
+
+#: index.docbook:294
+#, no-c-format
+msgid "Old Testament without Psalms &amp; Proverbs in 2 years: if you read one chapter a day of the Old Testament, skipping over Psalms &amp; Proverbs, you will read the Old Testament in 2 years and 2 weeks."
+msgstr ""
+
