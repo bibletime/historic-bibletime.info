@@ -19,7 +19,7 @@
 		<year
 >2003</year>
     	<holder role="http://www.bibletime.info/"
->The BibleTime developers - www.bibletime.info</holder>
+></holder>
   </copyright>
 
   <notoc page="error404.xml" filename="error404.html"/>

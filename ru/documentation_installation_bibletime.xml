@@ -47,17 +47,13 @@
 > Мы стараемся подготовить пакеты исполняемого кода для самых распространенных дистрибуций Linux.  Такими мы считаем RedHat, Mandrake и SuSE. </para>
 
 	<para
-> First download the binary package for your Linux distribution. For example: You want to download BibleTime 1.2.2 for SuSE Linux 8.1. In this case you have to download the package "bibletime-1.2.2-1suse8.1.i586.rpm". Please don't forgot to download the package bibletime-i18n to get the documentation and the translations, which are available for BibleTime. </para>
+>  </para>
 
 	<para
 > Как видите, название файла пакета включает дистрибуцию и версию, для которой этот пакет предназначен.  Пожалуйста, не пытайтесь установить пакет на дистрибуцию для которой он не предназначен. </para>
 
 	<para
-> You can download BibleTime here: <olink targetdocent="software_download"
->Download BibleTime</olink
->. Don't forget to install some text modules after you installed BibleTime: <olink targetdocent="documentation_installation_modules"
->How to install the text modules</olink
->. </para>
+>  </para>
 </section>
 
 
@@ -65,34 +61,7 @@
 ><title
 >Компиляция из исходного кода</title>
 	<para
-> Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources: <orderedlist
-> <listitem
-> Install the required software: <olink targetdocent="documentation_requirements"
->BibleTime's requirements</olink
-> </listitem
-> <listitem
-> Get the source code package of BibeTime: <olink targetdocent="software_download"
->Download</olink
-> </listitem
-> <listitem
-> Compile and install BibleTime: <programlisting>
-<![CDATA[
-	./configure --prefix=<your KDE directory>
-	make
- 	make install
-]]>
-			</programlisting
-> You can get your KDE directory by running the command <command
->kde-config --prefix</command
->. If you get problems please read the FAQ here: <olink targetdocent="documentation_faq"
->FAQ</olink
->. If there's no solution of your problem, please contact us at <email
->info@bibletime.info</email
-> </listitem
-> </orderedlist
-> Don't forget to install some text modules after you installed BibleTime: <olink targetdocent="documentation_installation_modules"
->How to install the text modules</olink
->. </para>
+>  </para>
 </section>
 
 </section>

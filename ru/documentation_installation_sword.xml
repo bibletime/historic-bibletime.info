@@ -7,7 +7,7 @@
 <config param="rcsdate" value="$Date$"/>
 <head>
 <title
->Sword</title>
+></title>
 <summary
 >How to install Swors</summary>
 <keywords
@@ -32,7 +32,7 @@
 
 <para
 > <ulink url="http://www.crosswire.org/sword/software/index.jsp"
->http://www.crosswire.org/sword/software/index.jsp</ulink
+></ulink
 > </para>
 </section>
 

@@ -17,135 +17,113 @@
 
 <section
 ><title
->List of important christian pages</title>
+></title>
 <para
-> There are many other christian pages in the word wide web. Some are more, others are less important. </para>
-
-<para
-> We collected a list of pages which are important in our opinion. </para>
+>  </para>
 
 <para
-> Since we're not author of the linked pages we're not responsible for their content, we explicitely dissociate ourself from the content of the linked pages! This is required because german law says you're responsible for the content of the linked pages unless you explicitely dissociate yourself from these pages. </para>
+>  </para>
+
+<para
+>  </para>
 
 	<section
 ><title
->General christian pages</title>
+></title>
 		<formalpara
 ><title
-><ulink url="http://www.bibletechnologies.net/"
->Bible Technologies Group</ulink
->.</title>
+></title>
 			<para
-> The home of the new common exchange Text format OSIS, which will hopefully be used by many Bible societies and publishers of the world. </para>
+>  </para>
 		</formalpara>
 
 		<formalpara
 ><title
-><ulink url="http://www.crosswire.org/"
->CrossWire Bible Society</ulink
->.</title>
+></title>
 			<para
-> The Crosswire Bible society is one of the few christian organizations in the world providing everything they make free for all! Crosswire supports the Sword project, the KJV2003 project and some other cool things. </para>
+>  </para>
 		</formalpara>
 	</section>
 
 	<section
 ><title
->Biblesoftware for Linux</title>
+></title>
 		<formalpara
 ><title
-><ulink url="http://gnomesword.sf.net/"
->Gnomesword</ulink
->.</title>
+></title>
 			<para
-> Gnomesword is a Sword frontend using the Gnome toolkit. A really good application. Be sure to check it out! </para>
+>  </para>
 		</formalpara>
 	</section>
 
 
 	<section
 ><title
->Biblesoftware for Windows</title>
+></title>
 		<formalpara
 ><title
-><ulink url="http://www.bibleworks.com/"
->BibleWorks</ulink
->.</title>
+></title>
 			<para
-> BibleWorks is one of the best Bible study applications for Windows! Very good but very expensive, too. Only useful for Bible scholars. </para>
+>  </para>
 		</formalpara>
 
 		<formalpara
 ><title
-><ulink url="http://www.bibleworkshop.com/"
->BibleWorkshop</ulink
->.</title>
+></title>
 			<para
-> The Bible Workshop program is a powerful, commercial Bible study application for Windows, which is available in english, german and french. It's possible to enhance the Bible Workshop using Text libraries you can buy. </para>
+>  </para>
 		</formalpara>
 
 		<formalpara
 ><title
-><ulink url="http://www.logos.com/"
->Logos</ulink
->.</title>
+></title>
 			<para
-> Logos is one of the best Bible study applications for Windows. You can buy a lot of texts to enhance it. </para>
+>  </para>
 		</formalpara>
 
 		<formalpara
 ><title
-><ulink url="http://www.onlinebible.org/"
->OnlineBible</ulink
->.</title>
+></title>
 			<para
-> The Online Bible is a powerful Bible study application for Windows. </para>
+>  </para>
 		</formalpara>
 
 		<formalpara
 ><title
-><ulink url="http://www.crosswire.org/sword/"
->Sword for Windows</ulink
->.</title>
+></title>
 			<para
-> This is the Windows Bible study application made by the Sword team! Sword is supported by the Crosswire Bible Society. </para>
+>  </para>
 		</formalpara>
 
 		<formalpara
 ><title
-><ulink url="http://www.volksbibel.de/"
->Volksbibel</ulink
->.</title>
+></title>
 			<para
-> Volksbibel 2000.2 is a German, metacard based software Bible study tool for Windows, Linux and Mac. Althouth there are not so many texts as other software packages have, it has some cool things like basic map support included. If you are german try it out! </para>
+>  </para>
 		</formalpara>
 	</section>
 
 
 	<section
 ><title
->Biblesoftware for Mac</title>
+></title>
 		<formalpara
 ><title
-><ulink url="http://www.macsword.com/"
->MacSword for OS X</ulink
->.</title>
+></title>
 			<para
-> MacSword is a new Bible study application for the new Macintosh OS X system. The screenshots look very promising! </para>
+>  </para>
 		</formalpara>
 	</section>
 
 
 	<section
 ><title
->Development tools</title>
+></title>
 		<formalpara
 ><title
-><ulink url="http://www.sourceforge.net/"
->SourceForge</ulink
->.</title>
+></title>
 			<para
-> SourceForge provides us with the tools to develop BibleTime with many team members at the same time! We save a lot of time and money by using their services. </para>
+>  </para>
 		</formalpara>
 	</section>
 

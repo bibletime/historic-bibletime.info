@@ -17,13 +17,13 @@
 
 <section
 ><title
->Module addons for BibleTime</title>
+></title>
 
 <para
-> A module is a text which can be read within the BibleTime application. There are different module types: Bibles, commentaries, lexicons, daily devotionals and books. </para>
+>  </para>
 
 <para
-> Please read the following page to see how to install the downloaded modules: </para>
+>  </para>
 
 <para
 > <ulink url="/documentation/installation/modules"
@@ -33,22 +33,22 @@
 
 <orderedlist
 ><title
->Available types of modules</title
+></title
 > <listitem
 ><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Bibles"
->Bibles</ulink
+></ulink
 ></listitem
 > <listitem
 ><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Commentaries"
->Commentaries</ulink
+></ulink
 ></listitem
 > <listitem
 ><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Dictionaries"
->Lexicons / Dictionaries</ulink
+></ulink
 ></listitem
 > <listitem
 ><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Books"
->Books</ulink
+></ulink
 ></listitem
 > </orderedlist>
 
