@@ -85,7 +85,6 @@ foreach my $lang (@langs){
 }
 close(OUT);
 
-#bibletime stats
-&bibletime_stats( "../../bibletime-i18n/po", 					"messages_stats.txt" );
-&bibletime_stats( "../../bibletime-i18n/po/howto", 		"howto_stats.txt" );
-&bibletime_stats( "../../bibletime-i18n/po/handbook", "handbook_stats.txt" );
+&bibletime_stats( "../../bibletime-i18n/po", 		"messages_stats.txt" );
+&bibletime_stats( "../../bibletime-i18n/po/howto", 	"howto_stats.txt" );
+&bibletime_stats( "../../bibletime-i18n/po/handbook",   "handbook_stats.txt" );
