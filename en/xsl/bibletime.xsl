@@ -131,18 +131,19 @@
 
 		<body>
 			<div id="header">
-				<img src="/images/pagetop-right.png"/>
+				<img height="86" class="left" alt="left" src="/images/pagetop-left.png"/>
+				<img height="86" class="right" alt="right" src="/images/pagetop-right.png"/>
 
 				<div id="flags">
-					<a title="en" href="/en/"><img src="/images/flags/en.png"/></a>
+					<a title="en" href="/en/"><img alt="en" src="/images/flags/en.png"/></a>
 
-					<a title="de" href="/de/"><img src="/images/flags/de.png"/></a>
-					<a title="pt-br" href="/pt-br/"><img src="/images/flags/pt-br.png"/></a>
-					<a title="ro" href="/ro/"><img src="/images/flags/ro.png"/></a>
-					<a title="ru" href="/ru/"><img src="/images/flags/ru.png"/></a>
-					<a title="ua" href="/ua/"><img src="/images/flags/ua.png"/></a>
+					<a title="de" href="/de/"><img alt="de" src="/images/flags/de.png"/></a>
+					<a title="pt-br" href="/pt-br/"><img alt="pt-br" src="/images/flags/pt-br.png"/></a>
+					<a title="ro" href="/ro/"><img alt="ro" src="/images/flags/ro.png"/></a>
+					<a title="ru" href="/ru/"><img alt="ru" src="/images/flags/ru.png"/></a>
+					<a title="ua" href="/ua/"><img alt="ua" src="/images/flags/ua.png"/></a>
 
-					<a href="/"><img src="/images/flags/new-lang.png"/></a>
+					<a href="/"><img alt="newlang" src="/images/flags/new-lang.png"/></a>
 				</div>
 			</div>
 
@@ -161,9 +162,9 @@
 					</xsl:choose>
 
 					<div id="logos">
-						<a href="http://www.sf.net/projects/bibletime/" target="_blank"><img src="http://sourceforge.net/sflogo.php?group_id=954&amp;type=1" alt="sf logo" width="88" height="31" vspace="3" border="0"/></a>
+						<a href="http://www.sf.net/projects/bibletime/"><img src="http://sourceforge.net/sflogo.php?group_id=954&amp;type=1" alt="sf logo" width="88" height="31"/></a>
 						<br/>
-						<img src="http://cgicounter.puretec.de/cgi-bin/cnt?clsid=6bfe60d8ff2e9c56d7db8be538c054421"/>
+						<img alt="counter" src="http://cgicounter.puretec.de/cgi-bin/cnt?clsid=6bfe60d8ff2e9c56d7db8be538c054421"/>
 					</div>
 				</div>
 
