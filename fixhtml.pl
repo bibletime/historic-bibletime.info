@@ -24,7 +24,7 @@ sub fix_htmlfile() {
 	closedir(DIR);
 }
 
-my $file = $ARGV[0] or die "Need a HTML files as input";
+my $file = $ARGV[0] or die "Need HTML files as input";
 
 die "No HTML files!" unless ($file =~ /html$/);
 
