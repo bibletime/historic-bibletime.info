@@ -1,6 +1,8 @@
 # translation of full.po to 
+# translation of full.po to
 # translation of full.po to Brazilian Portuguese
 # Copyright (C) 2004 Free Software Foundation, Inc.
+# Joachim Ansorg, 2004.
 # Joachim Ansorg, 2004.
 # Samuel Lucas Vaz de Mello <samuelm@estadao.com.br>, 2004.
 # Joachim Ansorg, 2004.
@@ -9,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: full\n"
 "POT-Creation-Date: 2001-02-09 01:25+0100\n"
-"PO-Revision-Date: 2004-01-05 12:26+0100\n"
+"PO-Revision-Date: 2004-01-05 12:33+0100\n"
 "Last-Translator: Joachim Ansorg\n"
 "Language-Team:  <de@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -3331,53 +3333,4 @@ msgstr ""
 #, no-c-format
 msgid "The following charts show the current translations and how much translations work they still need. If you speak one of those languages and want to update a translation just click on the download link and start working on the update. Don't hesitate to ask us <email>info@bibletime.info</email> if you have questions about the translation."
 msgstr ""
-
-#, fuzzy
-#~ msgid "Requirements for BibleTime 1.3"
-#~ msgstr "Requirementos desde o BibleTime 1.3"
-
-#, fuzzy
-#~ msgid "Bible modules"
-#~ msgstr "Sobre o BibleTime"
-
-#, fuzzy
-#~ msgid "Book modules"
-#~ msgstr "Módulos"
-
-#, fuzzy
-#~ msgid "Lexicons"
-#~ msgstr "Licença"
-
-#~ msgid "News"
-#~ msgstr "Notícias"
-
-#~ msgid "What BibleTime is ..."
-#~ msgstr "O que o BibleTime é..."
-
-#~ msgid "BibleTime is a free Bible study application for Linux systems. BibleTime uses the desktop environment KDE."
-#~ msgstr "BibleTime é uma aplicação livre de estudo da Bíblia para sistemas Linux. BibleTime usa o ambiente desktop KDE."
-
-#~ msgid "We think that BibleTime is an easy to use but powerful study tool for christians all over the world."
-#~ msgstr "Nós achamos que o BibleTime é uma ferramenta de estudo poderosa mas fácil de usar para cristãos de todo o mundo."
-
-#, fuzzy
-#~ msgid "For example the package \"bibletime-1.2.2-1suse8.1.i586.rpm\" was made for SuSE 8.1 systems running on a i586 or higher."
-#~ msgstr "Por exemplo o pacote &raquo;bibletime-1.2.2-1suse8.1.i586.rpm&laquo; foi feito para sistemas SuSE 8.1 rodando em um i586 ou maior."
-
-#~ msgid "Please download BibleTime at the Sourceforge project pages of BibleTime:"
-#~ msgstr "Por favor faça o download do BibleTime das páginas do projeto BibleTime no Sourceforge:"
-
-#, fuzzy
-#~ msgid "Please download the packages \"bibletime\" and \"bibletime-i18n\"! Without the \"bibletime-i18n\" package you would have no handbook, daily tips or installation instructions."
-#~ msgstr "Por favor faça o download dos pacotes &raquo;bibletime&laquo; e &raquo;bibletime-doc&laquo;! Sem o pacote &raquo;bibletime-doc&laquo;! você não terá o livro de mão, dicas diárias ou instruções de instalação."
-
-#~ msgid "We try to offer a recommended list of modules which are in your language. Please click on the module types links to get the list of recommended modules. If there's not yet such a list for your language you'll get the recommended english modules."
-#~ msgstr "Nós tentamos oferecer uma lista de módulos recomendados que está em seu idioma. Por favor clique nos links dos tipos de módulo para ter a lista de módulos recomendados. Se ainda não há uma lista para seu idioma você terá uma lista em inglês."
-
-#~ msgid "If you have questions, ideas for new functions or comments to something please use the links on this page to send them to the right place!"
-#~ msgstr "Se você tiver perguntas, idéias para novas funções ou comentários para algo por favor use os links nesta página para enviá-las ao lugar certo!"
-
-#, fuzzy
-#~ msgid "BibleTime 1.3 was released today!"
-#~ msgstr "BibleTime 1.3beta4 liberado"
 
