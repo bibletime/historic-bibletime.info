@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!DOCTYPE autolayout PUBLIC "-//Norman Walsh//DTD Website Autolayout V2.4.1//EN" "http://docbook.sourceforge.net/release/website/2.4.1/schema/dtd/autolayout.dtd">
 <autolayout>
-<style title="Blue" src="blue.css" type="text/css"/><style title="Plain" src="plain.css" type="text/css"/><config param="text-prefix" value="txt_"/><copyright><year>1999</year><year>2000</year><year>2001</year><year>2002</year><year>2003</year><holder role="http://www.bibletime.info/">The BibleTime developers - <ulink url="http://www.bibletime.info/">www.bibletime.info</ulink></holder></copyright><toc page="index.xml" id="index" filename="no_index.html">
-<title>&#x41E; BibleTime</title>
+<style title="Blue" src="blue.css" type="text/css"/><style title="Plain" src="plain.css" type="text/css"/><config param="text-prefix" value="txt_"/><copyright><year>1999</year><year>2000</year><year>2001</year><year>2002</year><year>2003</year><holder role="http://www.bibletime.info/">The BibleTime developers - www.bibletime.info</holder></copyright><toc page="index.xml" id="index" filename="no_index.html">
+<title/>
 <summary>Introduction</summary>
 <tocentry page="software.xml" id="software" filename="index.html">
 <title>&#x41F;&#x440;&#x438;&#x43B;&#x43E;&#x436;&#x435;&#x43D;&#x438;&#x44F;</title>

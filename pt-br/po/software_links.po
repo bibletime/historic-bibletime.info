@@ -125,7 +125,7 @@ msgstr "A Bíblia online é uma aplicação poderosa de estudo da Bíblia para W
 
 #: index.docbook:76
 #, no-c-format
-msgid "<ulink url=\"http://www.bibleworkshop.com/\">Sword for Windows</ulink>."
+msgid "<ulink url=\"http://www.crosswire.org/sword/\">Sword for Windows</ulink>."
 msgstr ""
 
 #: index.docbook:77

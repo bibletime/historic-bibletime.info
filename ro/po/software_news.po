@@ -25,10 +25,19 @@ msgstr "Despre BibleTime"
 
 #: index.docbook:15
 #, no-c-format
-msgid "21.4.2003"
+msgid "2003-08-23: BibleTime 1.3"
 msgstr ""
 
 #: index.docbook:16
-#, fuzzy, no-c-format
-msgid "BibleTime 1.3 was released today!"
-msgstr "A aparut BibleTime 1.3beta4"
+#, no-c-format
+msgid "Version 1.3 of BibleTime is finally available. BibleTime 1.3 contains a lot of new features, usability improvements and bug fixes. Upgrading to version 1.3 is strongly recommended for all our users. You can get the Software here: <ulink url=\"http://www.bibletime.info/software/download/\">Download</ulink>. Binary packages will be released in the next few days."
+msgstr ""
+
+#: index.docbook:21
+#, no-c-format
+msgid "Get the bibletime and the bibletime-i18n packages for full functionality. We're very sorry for the long release time, we hope to shorten it with the next releases."
+msgstr ""
+
+#, fuzzy
+#~ msgid "BibleTime 1.3 was released today!"
+#~ msgstr "A aparut BibleTime 1.3beta4"

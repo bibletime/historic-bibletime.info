@@ -17,5 +17,5 @@ msgstr ""
 
 #: index.docbook:16
 #, no-c-format
-msgid "The BibleTime developers - <ulink url=\"http://www.bibletime.info/\">www.bibletime.info</ulink>"
+msgid "The BibleTime developers - www.bibletime.info"
 msgstr ""

@@ -25,5 +25,5 @@ msgstr "Документація BibleTime"
 
 #: index.docbook:16
 #, fuzzy, no-c-format
-msgid "Since you have to know how to install and use BibleTime we provide here some useful documentation pages and links. Since many users have the same problems with BibleTime please be sure to check the answers there if you have problem."
+msgid "Since you have to know how to install and use BibleTime we provide here some useful documentation pages and links. Since many users have the same problems with BibleTime please be sure to check the answers in the FAQ if you have problem."
 msgstr "Щоб допомогти вам встановити та навчитися користуватися BibleTime ми надаємо на ціх сторінках корисну документацію та посилання.  Оскільки багато користувачів зустрічають одні й тіж проблеми у роботі з BibleTime ми радимо насамперед пошукати відповіді тут, якщо в вас виникнуть запитання."

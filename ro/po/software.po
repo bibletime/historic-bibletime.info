@@ -23,7 +23,12 @@ msgstr "Aplicatia"
 msgid "Welcome to the BibleTime project!"
 msgstr "Bun Venit la proiectul BibleTime!"
 
-#: index.docbook:17
+#: index.docbook:24
 #, no-c-format
-msgid "BibleTime is a Bible study application for Linux. We think that BibleTime is a useful tool for every christian using Linux! If you want to know more about BibleTime please read the &raquo;About BibleTime&laquo; pages: <olink targetdocent=\"software_about\">About BibleTime</olink>"
+msgid "BibleTime is a Bible study application for Linux. We think that BibleTime is a useful tool for every christian using Linux!"
+msgstr ""
+
+#: index.docbook:27
+#, no-c-format
+msgid "If you want to know more about BibleTime please read the \"About BibleTime\" pages: <olink targetdocent=\"software_about\">About BibleTime</olink>"
 msgstr ""
