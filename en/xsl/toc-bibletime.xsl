@@ -15,7 +15,7 @@
 <xsl:param name="toc.spacer.image">/images/blank.gif</xsl:param>
 
 <xsl:param name="nav.icon.path">/images/navicons/</xsl:param>
-<xsl:param name="nav.icon.extension">.png</xsl:param>
+<xsl:param name="nav.icon.extension">.gif</xsl:param>
 
 <!-- styles: folder, folder16, plusminus, triangle, arrow -->
 <xsl:param name="nav.icon.style">bibletime</xsl:param>
