@@ -1,0 +1,74 @@
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="modules_swordcd">
+<config param="desc" value="Sword CD"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>스워드(Sword) CD</title>
+<summary
+>Get the Sword CD</summary>
+<keywords
+>BibleTime, Modules, Sword, CD, CD Order, CD, Order</keywords>
+</head>
+
+<section
+><title
+>스워드(Sword) CD가 무엇입니까?</title>
+<para
+> 스워드(Sword) 프로젝트에서는 윈도우, 리눅스와 MacOS를 위한 모든 프로그램을 포함하는 CD를 제공합니다. CD는 Crosswire Bible society의 다른 프로그램들처럼 무료로 제공됩니다! CD를 다운로드 하시려면 아래를 보십시오. 빠른 인터넷 연결이 없다던가해서, CD를 다운로드 하실 수 없으시다면 CD를 주문하실 수 있습니다. 유럽에 살고 계신다면 바이블타임의 개발자들이 CD를 보내드립니다. 아래의 폼을 작성하셔서 보내주시면 됩니다. </para>
+</section>
+
+
+<section
+><title
+>CD로 무엇을 할 수 있습니까?</title>
+<para
+> 당신은 CD로 몇가지 중요한 것들을 할 수 있습니다: <itemizedlist
+> <listitem
+> <formalpara
+><title
+>성경을 공부할 수 있습니다!</title
+> <para
+> 모든 성경, 주석, 어휘집, glossaries, 신앙서적들을 하나님의 말씀을 공부하는데 사용해주십시오! CD가 더욱 효과적으로 말씀을 공부하는데 도움이 되기를 소망합니다! </para
+> </formalpara
+> </listitem
+> <listitem
+> <formalpara
+><title
+>CD 복사본을 만들 수 있습니다!</title
+> <para
+> CD를 맘껏 복사하셔서 되도록 많은 분들과 나누십시오! 나누실때는 무료로 나눠주시기 바랍니다. 그러실 수 없다면 CD값만을 받으시기 바랍니다. 그 외의 경우에는 CD의 배포가 허용되지 않습니다.  </para
+> </formalpara
+> </listitem
+> </itemizedlist
+> </para>
+</section>
+
+<section
+><title
+>스워드(Sword) CD를 다운로드 하고 싶습니다!</title>
+<para
+> 문제 없습니다! <ulink url="ftp://ftp.crosswire.org/pub/sword/iso/"
+>ftp.crosswire.org/pub/sword/iso/</ulink
+>에서 최신판의 파일을 다운로드하십시오. 파일은 600MB가 넘는 큰 파일입니다. 다운로드하실려면 빠른 인터넷 연결이 필요합니다. </para>
+</section>
+
+<section
+><title
+>스워드(Sword) CD를 주문하고 싶습니다!</title>
+<para
+> 유럽에 살고 계신분이 아니라면, Crosswire의 CD주문 페이지로 가셔서 주문을 하십시오. 유럽에 거주하시는 분들께는 바이블타임 개발자들이 무료로 CD를 보내드립니다. 아래 폼에 필요한 정보들을 기입하시고 보내주십시오. 바이블타임 개발자들이 무료로 CD를 보내드리겠습니다. </para>
+</section>
+
+<section
+><title
+>스워드(Sword) CD</title>
+<ssi mode="exec" cgi="/swordcd.pl"/>
+</section>
+
+</webpage>
+

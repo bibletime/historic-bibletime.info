@@ -1,0 +1,23 @@
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="index">
+<config param="desc" value="The BibleTime Home Page"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>바이블타임</title>
+<summary
+>Introduction</summary>
+<keywords
+>BibleTime, Sword, Index</keywords>
+</head>
+
+<section
+><title
+>바이블타임에 오신 것을 환영합니다!</title>
+</section>
+
+</webpage>
+

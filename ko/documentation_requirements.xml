@@ -1,0 +1,62 @@
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY documentation_installation_sword SYSTEM "documentation_installation_sword.xml" NDATA XML>
+]>
+
+<webpage id="documentation_requirements_bibletime">
+<config param="desc" value="Installation of the BibleTime software"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>필요한 것들</title>
+<summary
+>Introduction to the BibleTime software</summary>
+<keywords
+>BibleTime, Software, Requirements, KDE, QT</keywords>
+</head>
+
+<section
+><title
+>바이블타임 1.1 설치에 필요한 것들</title>
+	<para
+> <itemizedlist
+> <listitem
+> <ulink url="http://www.kde.org/"
+>KDE 2</ulink
+>: 기본 라이브러리들과 기본 패키지들이 필요합니다. KDE 2는 많은 (구버전의) 리눅스 배포판에서 제공이 되고 있습니다. 보통 기본적으로 설치가 됩니다. </listitem
+> <listitem
+> <ulink url="http://www.crosswire.org/sword/software/swordapi.jsp"
+>Sword 1.5.3</ulink
+> 바이너리 패키지로 설치하지 않았을 경우에만 필요합니다. 스워드(Sword)의 설치 명령어는 이곳에서 확인 하실 수 있습니다: <olink targetdocent="documentation_installation_sword"
+>스워드(Sword) 설치</olink
+> </listitem
+> </itemizedlist
+> </para>
+</section>
+
+<section
+><title
+>바이블타임 1.1 설치에 필요한 것들</title>
+	<para
+> <itemizedlist
+> <listitem
+> <ulink url="http://www.kde.org/"
+>KDE 3</ulink
+>: 기본 라이브러리들과 기본 패키지들이 필요합니다. KDE 3는 많은 리눅스 배포판에서 제공이 되고 있습니다. 대부분 기본적으로 설치가 됩니다. </listitem
+> <listitem
+> <ulink url="http://www.crosswire.org/sword/software/swordapi.jsp"
+>Sword 1.5.6</ulink
+> 스워드(Sword)의 설치명령어들은 이곳에서 확인 가능합니다: <olink targetdocent="documentation_installation_sword"
+>스워드(Sword) 설치</olink
+> </listitem
+> <listitem
+> <ulink url="http://curl.sourceforge.net/"
+>Curl 
+>= 7.10</ulink
+>. This is necessary for the remote installation features of the new Sword Setup Dialog. </listitem
+> </itemizedlist
+> </para>
+</section>
+
+</webpage>
+

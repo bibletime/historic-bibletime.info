@@ -1,0 +1,39 @@
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="error404">
+<config param="desc" value="404: Not found"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>에러</title>
+<summary
+>Error 404: File not found</summary>
+<keywords
+>BibleTime, Documentation, FAQ, help, installation, trouble, questions</keywords>
+</head>
+
+<section
+><title
+>문서가 존재하지 않습니다</title>
+<para
+> 원하시는 문서가 <ulink url="http://www.bibletime.info/"
+>www.bibletime.info</ulink
+>에 존재하지 않는다면, 왼쪽에 보이는 네비게이션 트리를 사용해보십시오. 문서가 옮겨졌을 수도 있습니다. </para>
+
+<para
+> 문제가 해결되지 않았다면, 문제가 생긴 URL을 <email
+>info@bibletime.info</email
+>로 알려주시기 바랍니다. 감사합니다! </para>
+
+</section>
+
+</webpage>
+
+<!--
+Local variables:
+mode: docbook
+End:
+-->
+

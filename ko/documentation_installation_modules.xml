@@ -1,0 +1,53 @@
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="documentation_installation_modules">
+<config param="desc" value="Installation of modules"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>모듈</title>
+<summary
+>How to install Sword modules</summary>
+<keywords
+>BibleTime, Sword, Module, Modules, Installation</keywords>
+</head>
+
+<section
+><title
+>스워드(Sword) 텍스트 모듈의 설치</title>
+
+<para
+> 이 페이지는 바이블타임을 더욱 유용하게 해주는 Crosswire의 텍스트 모듈을 설치하는 방법을 설명하고 있습니다. </para>
+
+<para
+> Crosswire Bible society로부터 모듈들을 ZIP 파일로 제공됩니다. 제공되는 모듈들에 대한 정보를 보시려면 "모듈"란을 참고하십시오. </para>
+
+<para
+> 모듈을 설치하기 전에 바이블타임이 설치되었는지를 확인하십시오! </para>
+
+<para
+> 먼저 "스워드(Sword) 디렉토리"를 찾으셔야 합니다. 스워드(Sword directory)는 모든 스워드(Sword)의 데이터를 포함하고 있습니다. 예를 들어 스워드(Sword) 디렉토리에는 기본적으로 "modules/"와 "mods.d/"란 서브디렉토리가 있습니다. </para>
+
+<para
+> 다음 스워드(Sword) 디렉토리안에서 앞서 언급한 두개의 서브디렉토리로 다운로드한 ZIP 파일들을 풀어넣습니다. </para>
+
+<para
+> 바이블타임을 재시작하시면 윈도우의 왼쪽면의 인덱스에서 새모듈을 보실 수 있습니다. </para>
+
+<para
+> 스워드(Sword) 팀이 만든 설치 명령어는 다음에서 확인하실 수 있습니다: </para>
+
+<para
+> <ulink url="http://www.crosswire.org/sword/modules/moduleinstall.jsp"
+>www.crosswire.org/sword/modules/moduleinstall.jsp</ulink
+>. </para>
+
+<para
+> 문제가 발생하면 자주 묻는 문제들(FAQ)란을 참고하십시오. 자주 묻는 문제들(FAQ) 페이지는 이 페이지의 왼쪽의 링크에서 가실 수 있습니다. </para>
+
+</section>
+
+</webpage>
+

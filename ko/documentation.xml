@@ -1,0 +1,33 @@
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="documentation">
+<config param="desc" value="BibleTime's documentation"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>문서</title>
+<summary
+>Introduction</summary>
+<keywords
+>BibleTime, Documentation, FAQ, help, installation, trouble, questions</keywords>
+</head>
+
+<section
+><title
+>바이블타임 문서</title>
+
+<para
+> 바이블타임의 설치와 사용에 관한 문서들과 링크들이 제공됩니다. 사용자들이 같은 문제를 만나는 경우가 많으므로, 문제가 생기면 자주 묻는 질문들(FAQ) 페이지를 확인하십시오. </para>
+
+</section>
+
+</webpage>
+
+<!--
+Local variables:
+mode: docbook
+End:
+-->
+

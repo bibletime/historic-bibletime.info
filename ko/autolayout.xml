@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE autolayout PUBLIC "-//Norman Walsh//DTD Website Autolayout V2.4.1//EN" "http://docbook.sourceforge.net/release/website/2.4.1/schema/dtd/autolayout.dtd">
+<autolayout>
+<style title="Blue" src="blue.css" type="text/css"/><config param="text-prefix" value="txt_"/><copyright><year>1999</year><year>2000</year><year>2001</year><year>2002</year><year>2003</year><holder role="http://www.bibletime.info/">&#xBC14;&#xC774;&#xBE14;&#xD0C0;&#xC784; &#xAC1C;&#xBC1C;&#xC790; - www.bibletime.info</holder></copyright><notoc page="error404.xml" id="error404" filename="error404.html">
+<title>&#xC5D0;&#xB7EC;</title>
+<summary>Error 404: File not found</summary>
+</notoc>
+<toc page="index.xml" id="index" filename="no_index.html">
+<title>&#xBC14;&#xC774;&#xBE14;&#xD0C0;&#xC784;</title>
+<summary>Introduction</summary>
+<tocentry page="software.xml" id="software" filename="index.html">
+<title>&#xC18C;&#xD504;&#xD2B8;&#xC6E8;&#xC5B4;</title>
+<summary>Introduction</summary>
+<tocentry page="software_about.xml" id="software_about" filename="software_about.html">
+<title>&#xBC14;&#xC774;&#xBE14;&#xD0C0;&#xC784;&#xC5D0; &#xAD00;&#xD558;&#xC5EC;</title>
+<summary>Introduction to the BibleTime software</summary>
+</tocentry>
+<tocentry page="software_screenshots.xml" id="software_screenshots" filename="software_screenshots.html">
+<title>&#xC2A4;&#xD06C;&#xB9B0;&#xC0F7;</title>
+<summary>Screenshots of BibleTime</summary>
+</tocentry>
+<tocentry page="software_gallery.xml" id="software_gallery" filename="software_gallery.html">
+<title>&#xAC24;&#xB7EC;&#xB9AC;</title>
+<summary>Gallery of BibleTime</summary>
+</tocentry>
+<tocentry page="software_download.xml" id="software_download" filename="software_download.html">
+<title>&#xB2E4;&#xC6B4;&#xB85C;&#xB4DC;</title>
+<summary>Download BibleTime</summary>
+</tocentry>
+<tocentry page="software_press.xml" id="software_press" filename="software_press.html">
+<title>&#xCD9C;&#xD310;&#xBB3C;&#xC5D0;&#xC11C;</title>
+<summary>BibleTime in the press</summary>
+</tocentry>
+<tocentry page="software_contact.xml" id="contact" filename="software_contact.html">
+<title>&#xC5F0;&#xB77D;&#xCC98;</title>
+<summary>How to contact us</summary>
+</tocentry>
+<tocentry page="software_guestbook.xml" id="software_guestbook" filename="software_guestbook.shtml">
+<title>&#xBC29;&#xBA85;&#xB85D;</title>
+<summary>BibleTime's guestbook</summary>
+</tocentry>
+<tocentry page="software_links.xml" id="software_links" filename="software_links.html">
+<title>&#xB9C1;&#xD06C;</title>
+<summary>Link collection of good sites</summary>
+</tocentry>
+<tocentry page="software_linkus.xml" id="software_linkus" filename="software_linkus.html">
+<title>&#xB9C1;&#xD06C;&#xD558;&#xAE30;</title>
+<summary>How to link to www.bibletime.info</summary>
+</tocentry>
+<tocentry page="software_license.xml" id="software_license" filename="software_license.html">
+<title>&#xB77C;&#xC774;&#xC13C;&#xC2A4;</title>
+<summary>BibleTime's license</summary>
+</tocentry>
+</tocentry>
+<tocentry page="documentation.xml" id="documentation" filename="documentation.html">
+<title>&#xBB38;&#xC11C;</title>
+<summary>Introduction</summary>
+<tocentry page="documentation_requirements.xml" id="documentation_requirements_bibletime" filename="documentation_requirements.html">
+<title>&#xD544;&#xC694;&#xD55C; &#xAC83;&#xB4E4;</title>
+<summary>Introduction to the BibleTime software</summary>
+</tocentry>
+<tocentry page="documentation_installation.xml" id="documentation_installation" filename="documentation_installation.html" tocskip="1">
+<title>&#xC124;&#xCE58;</title>
+<summary>Introduction to the BibleTime software</summary>
+<tocentry page="documentation_installation_bibletime.xml" id="documentation_installation_bibletime" filename="documentation_installation_bibletime.html">
+<title>&#xBC14;&#xC774;&#xBE14;&#xD0C0;&#xC784;</title>
+<summary>Introduction to the BibleTime software</summary>
+</tocentry>
+<tocentry page="documentation_installation_sword.xml" id="documentation_installation_sword" filename="documentation_installation_sword.html">
+<title>&#xC2A4;&#xC6CC;&#xB4DC;(Sword)</title>
+<summary>How to install Swors</summary>
+</tocentry>
+<tocentry page="documentation_installation_modules.xml" id="documentation_installation_modules" filename="documentation_installation_modules.html">
+<title>&#xBAA8;&#xB4C8;</title>
+<summary>How to install Sword modules</summary>
+</tocentry>
+</tocentry>
+<tocentry page="documentation_faq.xml" id="documentation_ifaq" filename="documentation_faq.html">
+<title>&#xC790;&#xC8FC; &#xBB3B;&#xB294; &#xC9C8;&#xBB38;&#xB4E4;(FAQ)</title>
+<summary>FAQ about BibleTime</summary>
+</tocentry>
+</tocentry>
+<tocentry page="modules.xml" id="modules" filename="modules.html">
+<title>&#xBAA8;&#xB4C8;</title>
+<summary>Introduction to Sword modules</summary>
+<tocentry page="modules_swordcd.xml" id="modules_swordcd" filename="modules_swordcd.shtml">
+<title>&#xC2A4;&#xC6CC;&#xB4DC;(Sword) CD</title>
+<summary>Get the Sword CD</summary>
+</tocentry>
+</tocentry>
+<tocentry page="development.xml" id="development" filename="development.html">
+<title>&#xAC1C;&#xBC1C;</title>
+<summary>BibleTime's development</summary>
+<tocentry page="development_help.xml" id="development_help" filename="development_help.html">
+<title>&#xD6C4;&#xC6D0;&#xD558;&#xAE30;</title>
+<summary>BibleTime's development</summary>
+</tocentry>
+<tocentry page="development_join.xml" id="development_join" filename="development_join.html">
+<title>&#xCC38;&#xC5EC;&#xD558;&#xAE30;</title>
+<summary>BibleTime's development</summary>
+</tocentry>
+<tocentry page="development_mailinglists.xml" id="development_mailinglists" filename="development_mailinglists.html">
+<title>&#xBA54;&#xC77C;&#xB9C1;&#xB9AC;&#xC2A4;&#xD2B8;</title>
+<summary>BibleTime's mailinglists</summary>
+</tocentry>
+</tocentry>
+<tocentry page="biblehowto.docbook" id="biblehowto" filename="biblehowto.html">
+<title>&#xBC14;&#xC774;&#xBE14;&#xC2A4;&#xD130;&#xB514; &#xD558;&#xC6B0;&#xD22C;</title>
+<summary>The BibleTime Biblestudy HowTo</summary>
+</tocentry>
+</toc>
+</autolayout>
+

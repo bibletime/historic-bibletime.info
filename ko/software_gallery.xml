@@ -1,0 +1,255 @@
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="software_gallery">
+<config param="desc" value="Gallery"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title
+>갤러리</title>
+	<summary
+>Gallery of BibleTime</summary>
+	<keywords
+>BibleTime, Gallery</keywords>
+</head>
+
+<section
+><title
+>갤러리</title>
+
+	<para
+>이곳에서 (한두가지 텍스트 모듈을 포함하는) 바이블타임의 멋진 스크린샷들을 보실 수 있습니다. <ulink url="http://www.trolltech.com"
+>Trolltech</ulink
+> QT 3의 강력한 유니코드 처리 기술을 보여줍니다. 몇몇 스크린샷들은 굉장히 인상적입니다.</para>
+	<para
+>대부분의 스크린샷은 뛰어난 <ulink url="http://home.att.net/~jameskass/CODE2000.ZIP"
+>Code2000</ulink
+> 유니코드 폰트를 통해 만들어졌습니다. 각 스크린샷의 크고 자세한 사진을 보시려면 미리보기(preview) 이미지를 클릭해주십시오.</para>
+
+	<mediaobject
+> <caption
+> <formalpara
+><title
+>BHS - 히브리어 번역문</title
+> <para
+><emphasis
+>BHS</emphasis
+> (<emphasis
+>Biblia Hebraica Stuttgartensia</emphasis
+>)는 히브리어 구약성경중 가장 훌륭한 텍스트입니다.</para
+> <para
+>보시는 바와 같이 바이블타임은 텍스트를 오른쪽에서 왼쪽순으로 바르게 번역해놓았습니다. 히브리어를 읽으실 수 있는 분들은 모음 점들과 Cantillation Marks들도 표현되고 있는 것을 발견하셨을 겁니다. (그 두가지는 on/off하시는 것도 가능합니다) <ulink url="/images/gallery/bhs.png"
+>큰 스크린샷</ulink
+> </para
+> </formalpara
+> </caption
+> <imageobject
+> <imagedata fileref="/images/gallery/bhs_small.jpg" format="JPG"/> </imageobject
+> <textobject
+> <phrase
+>BHS - 히브리어 번역문</phrase
+> </textobject
+> </mediaobject>
+
+		<mediaobject
+> <caption
+> <formalpara
+><title
+>Peshitta - 고대 시리아의(syrian) 번역문</title
+> <para
+><emphasis
+>Peshitta</emphasis
+>는 (오른쪽에서 왼쪽으로 씌여진) 고대 시리아의 텍스트를 제공합니다.</para
+> <para
+>QT는 이 텍스트를 (시리아의 폰트를 제공하는 몇 안되는 폰트중 하나인) Code2000을 사용하여 훌륭하게 보여줍니다. <ulink url="/images/gallery/peshitta.png"
+>큰 스크린샷</ulink
+></para
+> </formalpara
+> </caption
+> <imageobject
+> <imagedata fileref="/images/gallery/peshitta_small.jpg" format="JPG"/> </imageobject
+> <textobject
+> <phrase
+>Peshitta - 고대 시리아의(syrian) 번역문</phrase
+> </textobject
+> </mediaobject>
+
+		<mediaobject
+> <caption
+> <formalpara
+><title
+>아라비아어(Arabic) 성경</title
+> <para
+><emphasis
+>AraSVD</emphasis
+>: 아립어성경. 복잡한 스크립트의 오른쪽에서 왼쪽으로의 정렬의 훌륭한 예제입니다 - 아랍어는 세상에서 가장 복잡한 언어중의 하나입니다. 이 스크린샷은 라인브레이크를 오프시킨 후, 좀 더 읽기 편한 텍스트 뷰를 만든후 제작되었습니다. <ulink url="/images/gallery/arasvd.png"
+>큰 스크린샷</ulink
+></para
+> </formalpara
+> </caption
+> <imageobject
+> <imagedata fileref="/images/gallery/arasvd_small.jpg" format="JPG"/> </imageobject
+> <textobject
+> <phrase
+>아라비아어(Arabic) 성경</phrase
+> </textobject
+> </mediaobject>
+
+		<mediaobject
+> <caption
+> <formalpara
+><title
+>중국어 번역</title
+> <para
+>스크린샷<emphasis
+>ChiGU</emphasis
+>: 중국어 성경. QT 3용의 바이블타임에서는 완벽하게 단락들을 분리해냅니다. (아시다시피 중국어의 단어사이에는 공백이 없습니다.). <ulink url="/images/gallery/chigu.png"
+>큰 스크린샷</ulink
+></para
+> </formalpara
+> </caption
+> <imageobject
+> <imagedata fileref="/images/gallery/chigu_small.jpg" format="JPG"/> </imageobject
+> <textobject
+> <phrase
+>중국어 번역</phrase
+> </textobject
+> </mediaobject>
+
+		<mediaobject
+> <caption
+> <formalpara
+><title
+>스트롱 넘버와 형태 태그가 포함된 헬라어 번역</title
+> <para
+><emphasis
+>IGNT</emphasis
+>: The Interlinear Greek New Testament. The green numbers in "<![CDATA[< 
+>]]>" brackets are Strongnumbers, whereas the numbers in "( )" brackets are Morphologic Tags. Both of them can displayed in a tooltip using a predefined Strong's and Morphology dictionary, as you can see in the example. <ulink url="/images/gallery/ignt.png"
+>큰 스크린샷</ulink
+></para
+> </formalpara
+> </caption
+> <imageobject
+> <imagedata fileref="/images/gallery/ignt_small.jpg" format="JPG"/> </imageobject
+> <textobject
+> <phrase
+>스트롱 넘버와 형태 태그가 포함된 헬라어 번역</phrase
+> </textobject
+> </mediaobject>
+
+		<mediaobject
+> <caption
+> <formalpara
+><title
+>한국어와 태국어</title
+> <para
+><emphasis
+>한글개역성경</emphasis
+>과 <emphasis
+>ThaiKJV</emphasis
+>. 한국어와 태국어는 기존의 유니코드 스크립트중에서도 매우 훌륭한 유니코드의 예입니다. 한 윈도우에 동시에 보여지고 있습니다. 타이 텍스트의 첫줄은 약간 작은 포인트사이즈를 사용합니다. It is a section heading, and those can be turned on and off using the first toolbutton in the display window. <ulink url="/images/gallery/korthai.png"
+>큰 스크린샷</ulink
+></para
+> </formalpara
+> </caption
+> <imageobject
+> <imagedata fileref="/images/gallery/korthai_small.jpg" format="JPG"/> </imageobject
+> <textobject
+> <phrase
+>한국어와 태국어</phrase
+> </textobject
+> </mediaobject>
+
+		<mediaobject
+> <caption
+> <formalpara
+><title
+>불가리아어와 footnotes</title
+> <para
+><emphasis
+>Bulgarian</emphasis
+>: 불가리아어 성경. Bulgarian uses the Kyrillic script, which is also used in other languages like Russian. Notice the marked text - it is a "footnote". The popup menu shows how those can be turned on and off. <ulink url="/images/gallery/bulgarian.png"
+>Large screenshot</ulink
+></para
+> </formalpara
+> </caption
+> <imageobject
+> <imagedata fileref="/images/gallery/bulgarian_small.jpg" format="JPG"/> </imageobject
+> <textobject
+> <phrase
+>불가리아어와 footnotes</phrase
+> </textobject
+> </mediaobject>
+
+		<mediaobject
+> <caption
+> <formalpara
+><title
+>베트남어와 Romanian</title
+> <para
+><emphasis
+>Viet</emphasis
+> and <emphasis
+>RomCor</emphasis
+>. East Europe meets East Asia! Vietnamese and Romanian are not geographically linked, though they look somehow similar in this screenshot. <ulink url="/images/gallery/vietromcor.png"
+>Large screenshot</ulink
+></para
+> </formalpara
+> </caption
+> <imageobject
+> <imagedata fileref="/images/gallery/vietromcor_small.jpg" format="JPG"/> </imageobject
+> <textobject
+> <phrase
+>베트남어와 Romanian</phrase
+> </textobject
+> </mediaobject>
+
+		<mediaobject
+> <caption
+> <formalpara
+><title
+>절과 줄바꿈이 없는 에스페란토어</title
+> <para
+>네, 에스페란토어를 선호하시는 분을 위한 에스페란토어 성경도 있습니다. 정확히는 유니코드 예제는 아닙니다. iso 8859-1의 문자셋을 사용합니다. 하지만 절과 줄바꿈을 끈 멋진 텍스트를 보여주는 예입니다. <ulink url="/images/gallery/esperanto.png"
+>큰 스크린샷</ulink
+></para
+> </formalpara
+> </caption
+> <imageobject
+> <imagedata fileref="/images/gallery/esperanto_small.jpg" format="JPG"/> </imageobject
+> <textobject
+> <phrase
+>절과 줄바꿈이 없는 에스페란토어</phrase
+> </textobject
+> </mediaobject>
+
+<!-- This is the template.
+
+		<mediaobject>
+		<caption>
+			<formalpara
+><title
+></title>
+				<para>
+				<ulink url="/images/gallery/X_small.jpg"
+></ulink
+></para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/gallery/X.png" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+></phrase>
+		</textobject>
+	</mediaobject>
+
+-->
+
+</section>
+
+</webpage>
+

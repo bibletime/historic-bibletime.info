@@ -1,0 +1,60 @@
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="contact">
+<config param="desc" value="Contact"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title
+>연락처</title>
+	<summary
+>How to contact us</summary>
+	<keywords
+>BibleTime, Contact, Contact us, help, support</keywords>
+</head>
+
+<section
+><title
+>바이블타임팀에 연락하기</title>
+	<formalpara
+><title
+><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=100954"
+>버그 리포트 제출하기</ulink
+></title>
+	<para
+> 바이블타임을 사용하시다가 버그를 발견하시면 이 링크를 통해 알려주시기 바랍니다. 버그는 다음 버전에서 고쳐질 것입니다. </para>
+	</formalpara>
+
+	<formalpara
+><title
+><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=200954"
+>지원 얻기</ulink
+></title>
+	<para
+> 바이블타임을 사용하시다가 문제가 발생하면, 아래의 링크를 통해 어떻게 문제를 해결해야 할지를 안내받으시기 바랍니다. </para>
+	</formalpara>
+
+	<formalpara
+><title
+><ulink url="http://sourceforge.net/tracker/?atid=350954&amp;group_id=954&amp;func=browse"
+>새기능 요청하기</ulink
+></title>
+	<para
+> 바이블타임의 개선을 위해 어떠한 아이디어라도 있으시면, 이 링크를 통해 저희에게 말씀해주시기 바랍니다! </para>
+	</formalpara>
+
+	<formalpara
+><title
+><ulink url="http://sourceforge.net/tracker/?atid=511478&amp;group_id=954&amp;func=browse"
+>웹사이트의 문제 리포트하기</ulink
+></title>
+	<para
+> 웹페이지에서 문제를 발견하시거나, 사이트 개선을 위한 아이디어가 있으시다면 링크를 통해 알려주십시오! </para>
+	</formalpara>
+
+</section>
+
+</webpage>
+

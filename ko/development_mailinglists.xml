@@ -1,0 +1,56 @@
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="development_mailinglists">
+<config param="desc" value="mailinglists us"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>메일링리스트</title>
+<summary
+>BibleTime's mailinglists</summary>
+<keywords
+>BibleTime, mailinglist, subscribe, unsubscribe</keywords>
+</head>
+
+<section
+><title
+>바이블타임 개발 메일링리스트</title>
+<para
+> 바이블타임 프로젝트의 메일링리스트에 가입하기위해서는 다음의 웹페이지를 방문하셔서 당신의 이메일 주소를 입력하십시오: </para>
+<para
+> <ulink url="http://www.crosswire.org/mailman/listinfo/bt-devel"
+>www.crosswire.org/mailman/listinfo/bt-devel</ulink
+>. </para>
+
+<para
+> 바이블타임 개발 메일링리스트의 아카이브는 다음에서 확인하실 수 있습니다: </para>
+<para
+> <ulink url="http://www.crosswire.org/pipermail/bt-devel/"
+>www.crosswire.org/pipermail/bt-devel</ulink
+> </para>
+</section>
+
+<section
+><title
+>스워드(Sword) 개발 메일링리스트</title>
+<para
+> 스워드(Sword) 프로젝트의 개발 메일링리스트에 가입하시려면 다음의 웹페이지에 방문하셔서 당신의 이메일 주소를 입력하십시오: </para>
+
+<para
+> <ulink url="http://www.crosswire.org/mailman/listinfo/sword-devel"
+>www.crosswire.org/mailman/listinfo/sword-devel</ulink
+>. </para>
+<para
+> 스워드(Sword) 개발 메일링리스트의 아카이브는 다음에서 확인하실 수 있습니다: </para>
+
+<para
+> <ulink url="http://www.crosswire.org/pipermail/sword-devel/"
+>www.crosswire.org/pipermail/sword-devel</ulink
+> </para>
+</section>
+
+</webpage>
+

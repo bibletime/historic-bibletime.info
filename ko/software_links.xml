@@ -1,0 +1,155 @@
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="software_links">
+<config param="desc" value="Link collection"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title
+>링크</title>
+	<summary
+>Link collection of good sites</summary>
+	<keywords
+>BibleTime, Link, Collection, Software</keywords>
+</head>
+
+
+<section
+><title
+>중요한 크리스챤 사이트들</title>
+<para
+> 인터넷에는 많은 크리스챤 사이트가 존재합니다. 어떠한 것들은 더 중요하고, 어떠한 것들은 덜 중요합니다. </para>
+
+<para
+> 저희 생각에 중요하다고 생각되는 사이트들의 리스트를 만들어 보았습니다. </para>
+
+<para
+> 저희는 링크된 사이트들의 제작자가 아니므로, 컨텐츠들에 대한 책임과 관련이 없습니다! 독일법에서는 링크된 페이지들과 관련이 없다는 것을 명시하지 않으면, 링크 페이지들에 대한 책임이 있으므로 이를 명시할 필요가 있습니다. </para>
+
+	<section
+><title
+>일반적인 크리스챤 사이트들</title>
+		<formalpara
+><title
+><ulink url="http://www.bibletechnologies.net/"
+>Bible Technologies Group</ulink
+>.</title>
+			<para
+> The home of the new common exchange Text format OSIS, which will hopefully be used by many Bible societies and publishers of the world. </para>
+		</formalpara>
+
+		<formalpara
+><title
+><ulink url="http://www.crosswire.org/"
+>CrossWire Bible Society</ulink
+>.</title>
+			<para
+> Crosswire Bible society는 모두를 위한 무료 자료를 배포하고 있는 몇몇 안되는 기독교 단체중의 하나입니다! Crosswire는 스워드(Sword) 프로젝트, KJV2003프로젝트와 그 밖의 훌륭한 프로젝트들을 지원합니다. </para>
+		</formalpara>
+	</section>
+
+	<section
+><title
+>리눅스용 성경 프로그램</title>
+		<formalpara
+><title
+><ulink url="http://gnomesword.sf.net/"
+>Gnomesword</ulink
+>.</title>
+			<para
+> Gnomesword는 Gnome 툴킷을 사용하는 스워드(Sword)의 프론트엔드입니다. 매우 훌륭한 프로그램이므로, 사용해보시기 바립니다! </para>
+		</formalpara>
+	</section>
+
+
+	<section
+><title
+>윈도우용 성경 프로그램</title>
+		<formalpara
+><title
+><ulink url="http://www.bibleworks.com/"
+>BibleWorks</ulink
+>.</title>
+			<para
+> BibleWorks는 가장 훌륭한 윈도우용 성경프로그램 중 하나입니다! 굉장히 훌륭하지만, 비싸기도 합니다. 성경학자들을 위한 프로그램입니다. </para>
+		</formalpara>
+
+		<formalpara
+><title
+><ulink url="http://www.bibleworkshop.com/"
+>BibleWorkshop</ulink
+>.</title>
+			<para
+> Bible Workshop 프로그램은 강력한 윈도우용 유료 성경 프로그램으로 영어, 독어 및 불어 버전이 제공됩니다. Bible Workshop의 유료 텍스트 라이브러리들이 제공됩니다. </para>
+		</formalpara>
+
+		<formalpara
+><title
+><ulink url="http://www.logos.com/"
+>Logos</ulink
+>.</title>
+			<para
+> Logos는 가장 훌륭한 윈도우용 성경공부 프로그램 중의 하나입니다. 많은 텍스트들을 구입하셔서 사용하실 수 있스니다. </para>
+		</formalpara>
+
+		<formalpara
+><title
+><ulink url="http://www.onlinebible.org/"
+>OnlineBible</ulink
+>.</title>
+			<para
+> Online Bible은 강력한 윈도우용 성경공부 프로그램입니다. </para>
+		</formalpara>
+
+		<formalpara
+><title
+><ulink url="http://www.crosswire.org/sword/"
+>Sword for Windows</ulink
+>.</title>
+			<para
+> 스워드(Sword) 팀에 의해 만들어진 윈도우용 성경공부 프로그램입니다! 스워드(Sword)는 Crosswire Bible Society에 의해서 지원되고 있습니다. </para>
+		</formalpara>
+
+		<formalpara
+><title
+><ulink url="http://www.volksbibel.de/"
+>Volksbibel</ulink
+>.</title>
+			<para
+> Volksbibel 2000.2는 독일어판 (윈도우, 리눅스와 Mac을 지원하는) metacard based software 성경공부 프로그램입니다. 다른 프로그램들처럼 많은 텍스트들이 제공되지는 않지만, 기본적인 지도 제공과 같은 훌륭한 기능들을 갖고 있습니다. 독일인이라면 한번 사용해보실 것을 권고합니다! </para>
+		</formalpara>
+	</section>
+
+
+	<section
+><title
+>Mac용 성경프로그램</title>
+		<formalpara
+><title
+><ulink url="http://www.macsword.com/"
+>MacSword for OS X</ulink
+>.</title>
+			<para
+> MacSword는 새 Macintosh OS X 시스템을 위한 새로운 성경 공부 프로그램입니다. 멋진 스크린샷을 제공하는 전도유망한 프로그램입니다! </para>
+		</formalpara>
+	</section>
+
+
+	<section
+><title
+>개발툴</title>
+		<formalpara
+><title
+><ulink url="http://www.sourceforge.net/"
+>SourceForge</ulink
+>.</title>
+			<para
+> SourceForge는 다른 팀 멤버들과 함께 바이블타임 개발을 위한 많은 툴들을 제공합니다. SourceForge의 서비스들을 사용하여 많은 시간과 비용이 절약되고 있습니다. </para>
+		</formalpara>
+	</section>
+
+</section>
+
+</webpage>
+

@@ -1,0 +1,50 @@
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="software_about">
+<config param="desc" value="Software page"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title
+>바이블타임에 관하여</title>
+	<summary
+>Introduction to the BibleTime software</summary>
+	<keywords
+>BibleTime, Software, About</keywords>
+</head>
+
+<section
+><title
+>바이블타임의 역사</title>
+<para
+> 1999년 6월 Thomas Hagedorn, Thorsten Uhlmann과 Joachim Ansorg이 KDE 1.0용의 성경공부 프로그램을 만드는 작업을 시작했습니다. </para>
+
+<para
+> 첫버전인 버전 0.1이 2달후에 릴리즈되었습니다. 이 버전은 가장 기본적인 기능만을 제공하는 간단한 것이었습니다. </para>
+
+<para
+> 3개월 후에 정성들여서 만든 버전 0.2가 대중에 공개되었습니다. 이 버전은 기본적인 프린팅과 검색, 개인묵상을 위한 간단한 에디터를 제공하는 더욱 성숙된 버전이었습니다. </para>
+
+<para
+> 바이블타임 0.2는 나중에 KDE 2용으로 포팅되었고, 더욱 울륭한 인터페이스를 지원하고, 개선된 프린팅과 많은 변화를 가져온 훌륭한 프로그램으로 바뀌었습니다. 이 버전이 바이블타임 0.3입니다. </para>
+
+<para
+> 버전 0.3이 발표된지 거의 일년후에 안정적이라 할 수 있는 첫번째 버전인 바이블타임 1.0이 릴리즈되었습니다.  </para>
+
+<para
+> 그후 바이블타임 1.1과 1.2가 발표되었습니다. 바이블타임 1.2는 KDE 3.0을 지원하는 최초의 바이블타임 버전입니다. </para>
+</section>
+
+<section
+><title
+>바이블타임의 미래</title>
+<para
+> 저희는 하나님께서 저희에게 새팀 멤버들로 저희의 사역을 축복하시는 것에 감사드립니다. 하나님은 선하십니다! </para>
+
+<para
+> 바이블타임이 일반적인 성경 공부 프로그램으로써 충분히 성숙해질 때까지 저희는 이 사역을 계속할 것입니다. </para>
+</section>
+
+</webpage>
+

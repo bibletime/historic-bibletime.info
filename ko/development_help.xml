@@ -1,0 +1,57 @@
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="development_help">
+<config param="desc" value="Help us"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>후원하기</title>
+<summary
+>BibleTime's development</summary>
+<keywords
+>BibleTime, Help us, Help BibleTime, Software</keywords>
+</head>
+
+<section
+><title
+>후원하기...</title>
+<para
+> 저희의 목표는 바이블타임을 많은 그리스도인들이 그분과의 관계를 발전시키는데 도움이 되는 훌륭한 성경공부프로그램으로 만드는 것입니다! 그러기위해서 당신의 도움이 필요합니다! 저희와 함께 사역하실 수 있는 다양한 방법이 있습니다. 바이블타임 소프트웨어의 발전을 위한 사역에 참여하고 싶으시다면 이 페이지를 읽어주십시오. </para>
+
+<section
+><title
+>기도해주시겠습니까?</title>
+<para
+> 중보기도는 누구나가 동참할 수 있는 방법입니다. 당신께서 스워드(Sword)와 바이블타임 프로젝트를 위해 기도해주신다면, 당신은 프로젝트팀과 함께 사역하고 있는것입니다. </para>
+</section>
+
+<section
+><title
+>프로그래밍을 할 줄 아십니까?</title>
+<para
+> C++로 프로그래밍을 할 줄 아십니까? KDE 프로그래밍 환경에 익숙하시거나 배워보실 의향이 있으십니까? 당신께서 바이블타임 소스코드를 개발하는 작업에 정기적으로 시간을 투자할 수 있다면, 저희팀에 합류하실 것을 권유합니다! 팀에 합류하시려면 이 섹션의 "팀에 동참하기" 페이지를 읽어주십시오. </para>
+</section>
+
+<section
+><title
+>문서 작성을 할 줄 아십니까?</title>
+<para
+> 바이블타임의 영문 문서화 작업에 자신이 있으십니까? 그렇다면, 이 섹션의 "팀에 동참하기" 페이지를 읽어주십시오. </para>
+</section>
+
+<section
+><title
+>영문 번역에 자신이 있으십니까?</title>
+<para
+> 바이블타임이 모든 사람에게 유용한 프로그램이 되기를 소망합니다. 그러기위해서는 (아직 당신의 언어로의 번역 작업이 이루어지지 않았다면) 번역 작업이 반드시 필요합니다. 번역 작업을 하길 원하시면, info@bibletime.info로 연락을 주십시오. 번역작업이 다른 분에 의해서 시작이 되지는 않았는지를 확인한후, 번역이 되어야할 파일들을 보내드리겠습니다. </para>
+
+<para
+> 번역 작업을 하실 때는 "KBabel"이란 프로그램을 사용해주시기 바랍니다! 번역 작업을 간편하게 해주는 좋은 툴입니다. </para>
+</section>
+</section>
+
+</webpage>
+

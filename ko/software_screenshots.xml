@@ -1,0 +1,62 @@
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="software_screenshots">
+<config param="desc" value="News"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title
+>스크린샷</title>
+	<summary
+>Screenshots of BibleTime</summary>
+	<keywords
+>BibleTime, Screenshots, Software</keywords>
+</head>
+
+<section
+><title
+>바이블타임 1.3의 스크린샷</title>
+
+	<mediaobject
+> <caption
+> <formalpara
+><title
+>1.3에서 개선된 사항들</title
+> <para
+> 바이블타임 1.3에서 몇가지 개선된 것들이 있습니다. 왼쪽의 트리가 모듈 타입과 언어별로 정렬되었습니다. 새 바이블타임은 각 언어 고유의 폰트 사용을 지원하기 때문에 오른쪽 디스플레이 윈도우의 헬라어 텍스트도 더욱 깔끔하게 보여집니다. <ulink url="/images//screenshots/1-large.jpg"
+>큰 스크린샷</ulink
+> </para
+> </formalpara
+> </caption
+> <imageobject
+> <imagedata fileref="/images/screenshots/1.jpg" format="JPG"/> </imageobject
+> <textobject
+> <phrase
+>바이블타임 1.3에서 개선된 사항들</phrase
+> </textobject
+> </mediaobject>
+
+	<mediaobject
+> <caption
+> <formalpara
+><title
+>새 검책 창</title
+> <para
+> 전 버전의 검색창은 사용하기가 쉽지 않았습니다. 새 검색창은 윈도우 오른쪽의 새 모듈 선택기와 같이 동작합니다. <ulink url="/images/screenshots/2-large.jpg"
+>큰 스크린샷</ulink
+> </para
+> </formalpara
+> </caption
+> <imageobject
+> <imagedata fileref="/images/screenshots/2.jpg" format="JPG"/> </imageobject
+> <textobject
+> <phrase
+>새 검책 창</phrase
+> </textobject
+> </mediaobject>
+
+</section>
+
+</webpage>
+
