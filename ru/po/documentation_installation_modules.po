@@ -31,8 +31,8 @@ msgid "This page explains how to add the text modules, which are available from 
 msgstr "На этой странице вы узнаете как установить текстовые модули, которые предоставляет общество Crosswire, чтобы раскрыть потенциал BibleTime."
 
 #: index.docbook:20
-#, no-c-format
-msgid "The modules are available as ZIP files from the Crosswire Bible society. Have a look into the &raquo;Modules&laquo; section of the BibleTime web pages to get an overview of the available modules."
+#, fuzzy, no-c-format
+msgid "The modules are available as ZIP files from the Crosswire Bible society. Have a look into the \"Modules\" section of the BibleTime web pages to get an overview of the available modules."
 msgstr "Модули можно загрузить в формате ZIP с сайта Crosswire Bible Society.  Загляните в секцию \"Модули\" нашего вебсайта, чтобы ознакомиться с существующими модулями."
 
 #: index.docbook:24
@@ -41,8 +41,8 @@ msgid "Before you start installing modules please make sure BibleTime is install
 msgstr "Внимание: перед тем, как устанавливать модули убедитесь, что на компьютере уже установлена программа BibleTime!"
 
 #: index.docbook:28
-#, no-c-format
-msgid "First you have to find the directory, which we'll call now &raquo;Sword directory&laquo;, on your system. The Sword directory contains all Sword data, i.e. it contains at least the sub-directories &raquo;modules/&laquo; and &raquo;mods.d/&laquo;."
+#, fuzzy, no-c-format
+msgid "First you have to find the directory, which we'll call now \"Sword directory\", on your system. The Sword directory contains all Sword data, i.e. it contains at least the sub-directories \"modules/\" and \"mods.d/\"."
 msgstr "Во-первых, нужно найти на вашей системе директорию, которая называется \"Sword\". Директория Sword содержит все библиотеки Sword, то есть, она содержит по меньшей мере поддиректории \"modules\" и \"mods.d\"."
 
 #: index.docbook:32

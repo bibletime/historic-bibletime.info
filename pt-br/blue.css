@@ -1,6 +1,7 @@
 html, body {
 	padding:0px;
 	margin:0px;
+	font-size:13pt;
 }
 
 body, p, h1, h2, h3, h4, h5, h6, a:link, a:visited, a:hover, a:active, a:focus {
@@ -151,13 +152,12 @@ textarea:focus {
 	padding:0px 0px 0px 3px;
 	margin-right:0px;
 	margin-top:10px;
-	font-size:0.95em;
 }
 
 #navigation .toplevel {
 	color:black;
 	background-color:transparent;
-	font-size:0.85em;
+	font-size:0.9em;
 	font-weight:bold;
 }
 
@@ -182,7 +182,7 @@ textarea:focus {
 
 #navigation .shrink1, .shrink2, .shrink3, .shrink4 {
 	font-size:0.8em;
-	font-weight:bolder;
+	font-weight:bold;
 }
 
 #navigation .curpage {
@@ -196,6 +196,8 @@ textarea:focus {
 	 background-color:transparent;
 	 color:white;
 	 padding-right:2px;
+	 margin-top:1px;
+	 margin-bottom:2px;
 	 vertical-align:top;
 }
 

@@ -10,7 +10,7 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-xml2pot; charset=utf-8\n"
+"Content-Type: application/x-xml2pot; charset=UTF-8\n"
 "Content-Transfer-Encoding: ENCODING\n"
 
 #: index.docbook:9
@@ -29,8 +29,8 @@ msgid "This page explains how to add the text modules, which are available from 
 msgstr "Aceasta pagina explica felul in care trebuie adaugate modulele, care sunt disponibile la Crosswire, pentru ca BibleTime sa fie intr-adevar folositor."
 
 #: index.docbook:20
-#, no-c-format
-msgid "The modules are available as ZIP files from the Crosswire Bible society. Have a look into the &raquo;Modules&laquo; section of the BibleTime web pages to get an overview of the available modules."
+#, fuzzy, no-c-format
+msgid "The modules are available as ZIP files from the Crosswire Bible society. Have a look into the \"Modules\" section of the BibleTime web pages to get an overview of the available modules."
 msgstr "Aceste module sunt diponibile ca arhive zip la Crosswire Bible society. Viziteaza sectiunea &raquo;Module&laquo; a site-ului BibleTime pentru a vedea lista modulelor diponibile."
 
 #: index.docbook:24
@@ -39,8 +39,8 @@ msgid "Before you start installing modules please make sure BibleTime is install
 msgstr "Inainte de instalarea modulelor verifica daca BibleTime este instalat!"
 
 #: index.docbook:28
-#, no-c-format
-msgid "First you have to find the directory, which we'll call now &raquo;Sword directory&laquo;, on your system. The Sword directory contains all Sword data, i.e. it contains at least the sub-directories &raquo;modules/&laquo; and &raquo;mods.d/&laquo;."
+#, fuzzy, no-c-format
+msgid "First you have to find the directory, which we'll call now \"Sword directory\", on your system. The Sword directory contains all Sword data, i.e. it contains at least the sub-directories \"modules/\" and \"mods.d/\"."
 msgstr "Mai intai trebuie sa afli directorul, pe care-l vom numi acum &raquo; directorul Sword&laquo;, din sistemul tau. Directorul Sword contine toate datele Sword, el avand cel putin  sub-directoarele &raquo;modules/&laquo; and &raquo;mods.d/&laquo;."
 
 #: index.docbook:32

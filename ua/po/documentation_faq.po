@@ -10,7 +10,7 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-xml2pot; charset=utf-8\n"
+"Content-Type: application/x-xml2pot; charset=UTF-8\n"
 "Content-Transfer-Encoding: ENCODING\n"
 
 #: index.docbook:9
@@ -35,7 +35,7 @@ msgstr ""
 
 #: index.docbook:23
 #, no-c-format
-msgid "Please run configure with the parameter --prefix=&lt;your KDE directory&gt;. Then run make and make install as usual. The KDE directories for the widely used Linux distributions are: <orderedlist> <listitem>RedHat: /usr</listitem> <listitem>SuSE: /opt/kde3</listitem> <listitem>Mandrake: /usr</listitem> </orderedlist> Alternatively you can run the command &raquo;kde-config --prefix&laquo; to get your KDE directory. The commands are:"
+msgid "Please run configure with the parameter --prefix=&lt;your KDE directory&gt;. Then run make and make install as usual. The KDE directories for the widely used Linux distributions are: <orderedlist> <listitem>RedHat: /usr</listitem> <listitem>SuSE: /opt/kde3</listitem> <listitem>Mandrake: /usr</listitem> </orderedlist> Alternatively you can run the command \"kde-config --prefix\" to get your KDE directory. The commands are:"
 msgstr ""
 
 #: index.docbook:23

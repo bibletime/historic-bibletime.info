@@ -31,8 +31,8 @@ msgid "There are several RPM packages available of BibleTime. To see whether the
 msgstr "Существует несколько пакетов RPM для BibleTime. Чтобы узнать есть ли пакет для вашей системы посмотрите на название файла пакета. Название файла включает краткое название и версию дистрибутива Linux, для которого этот файл предназначен."
 
 #: index.docbook:20
-#, no-c-format
-msgid "For example the package &raquo;bibletime-1.2.2-1suse8.1.i586.rpm&laquo; was made for SuSE 8.1 systems running on a i586 or higher."
+#, fuzzy, no-c-format
+msgid "For example the package \"bibletime-1.2.2-1suse8.1.i586.rpm\" was made for SuSE 8.1 systems running on a i586 or higher."
 msgstr "Так, на пример, файл \"bibletime-1.2.2-1suse8.1.i586.rpm\" был сделан для дистрибутива SuSE 8.1, установленного на компьютере i586 и выше."
 
 #: index.docbook:24
@@ -47,7 +47,7 @@ msgstr ""
 
 #: index.docbook:31
 #, fuzzy, no-c-format
-msgid "Please download the packages &raquo;bibletime&laquo; and &raquo;bibletime-doc&laquo;! Without the &raquo;bibletime-doc&laquo; package you would have no handbook, daily tips or installation instructions."
+msgid "Please download the packages \"bibletime\" and \"bibletime-i18n\"! Without the \"bibletime-i18n\" package you would have no handbook, daily tips or installation instructions."
 msgstr "Загрузите пакеты \"bibletime\" и \"bibletime-doc\"! Без пакета \"bibletime-doc\" у вас не будет справочника пользователя, советов на каждый день и инструкции по установке."
 
 #: index.docbook:36

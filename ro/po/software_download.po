@@ -10,7 +10,7 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-xml2pot; charset=utf-8\n"
+"Content-Type: application/x-xml2pot; charset=UTF-8\n"
 "Content-Transfer-Encoding: ENCODING\n"
 
 #: index.docbook:10
@@ -29,8 +29,8 @@ msgid "There are several RPM packages available of BibleTime. To see whether the
 msgstr "Sunt cateva pachete RPM disponibile cu BibleTime. Pentru a vedea daca au fost facute pentru sistemul tau uita-te la numele pachetului. El contine numele abreviat si versiunea distributiei de Linux pentru care au fost facute."
 
 #: index.docbook:20
-#, no-c-format
-msgid "For example the package &raquo;bibletime-1.2.2-1suse8.1.i586.rpm&laquo; was made for SuSE 8.1 systems running on a i586 or higher."
+#, fuzzy, no-c-format
+msgid "For example the package \"bibletime-1.2.2-1suse8.1.i586.rpm\" was made for SuSE 8.1 systems running on a i586 or higher."
 msgstr "De exemplu pachetul &raquo;bibletime-1.2.2-1suse8.1.i586.rpm&laquo; a fost facut pentru SuSE 8.1 ruland pe un i586 sau mai bun."
 
 #: index.docbook:24
@@ -45,7 +45,7 @@ msgstr ""
 
 #: index.docbook:31
 #, fuzzy, no-c-format
-msgid "Please download the packages &raquo;bibletime&laquo; and &raquo;bibletime-doc&laquo;! Without the &raquo;bibletime-doc&laquo; package you would have no handbook, daily tips or installation instructions."
+msgid "Please download the packages \"bibletime\" and \"bibletime-i18n\"! Without the \"bibletime-i18n\" package you would have no handbook, daily tips or installation instructions."
 msgstr "Te rog descarca pachetele &raquo;bibletime&laquo; si &raquo;bibletime-doc&laquo;! Fara pachetul &raquo;bibletime-doc&laquo; nu vei avea manual, sfaturi zilnice si instructiuni de instalare."
 
 #: index.docbook:36
