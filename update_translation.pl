@@ -104,7 +104,6 @@ sub make_makefile() {
 	copy("en/depends.tabular", "$dest/");
 	copy("en/VERSION"        , "$dest/");
 	copy("en/catalog.xml"    , "$dest/");
-	copy("en/*.css"          , "$dest/");
 }
 
 sub run_make() {
