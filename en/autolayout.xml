@@ -19,6 +19,10 @@
 <title>Screenshots</title>
 <summary>Screenshots of BibleTime</summary>
 </tocentry>
+<tocentry page="software_gallery.xml" id="software_gallery" filename="software_gallery.html">
+<title>Gallery</title>
+<summary>Gallery of BibleTime</summary>
+</tocentry>
 <tocentry page="software_download.xml" id="software_download" filename="software_download.html">
 <title>Download</title>
 <summary>Download BibleTime</summary>
