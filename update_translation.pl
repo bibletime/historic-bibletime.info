@@ -175,7 +175,7 @@ sub make_makefile() {
 	#copy all required files!
 	`cp -R $dest/../en/schema $dest/../en/xsl $dest/`;
 	`cp $dest/../en/catalog.xml $dest/../en/VERSION $dest/`;
-	`cp $dest/../en/*.css $dest/`;
+	#`cp $dest/../en/*.css $dest/`;
 	#`cp $dest/../software_guestbook.xml $dest/`;
 
 	open(OUT, "> $dest/Makefile");
@@ -221,10 +221,12 @@ sub run_make() {
 
 
 my $lang = $ARGV[0] || die "Please give a language to work on!";
-print "Working on $lang ...\n";
 
-&update_pot_files($ENV{"PWD"} . "/en",  $ENV{"PWD"} . "/en/pot/");
-&update_po_files($ENV{"PWD"}. "/en",  $ENV{"PWD"} . "/$lang/po/", $ENV{"PWD"} . "/en/pot/",$lang);
-&make_xml_files($ENV{"PWD"}. "/en", $ENV{"PWD"} . "/$lang/po/", $ENV{"PWD"} . "/$lang/");
-&make_makefile("$lang");
-&run_make("$lang");
+while ($lang = shift(@ARGV)) {
+	print "Working on $lang ...\n";
+	&update_pot_files($ENV{"PWD"} . "/en",  $ENV{"PWD"} . "/en/pot/");
+	&update_po_files($ENV{"PWD"}. "/en",  $ENV{"PWD"} . "/$lang/po/", $ENV{"PWD"} . "/en/pot/",$lang);
+	&make_xml_files($ENV{"PWD"}. "/en", $ENV{"PWD"} . "/$lang/po/", $ENV{"PWD"} . "/$lang/");
+	&make_makefile("$lang");
+	&run_make("$lang");
+}
