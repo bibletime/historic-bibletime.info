@@ -1,2 +1,9 @@
 # robots.txt for www.bibletime.info
-
+User-agent: *
+Allow: /ua/
+Allow: /ro/
+Allow: /no/
+Allow: /it/
+Allow: /fr/
+Allow: /bg/
+Allow: /cs/

@@ -21,18 +21,18 @@ msgstr ""
 
 #. Tag: holder
 #: autolayout.xml:4 layout.xml:14
-#, no-c-format
-msgid "The BibleTime developers - www.bibletime.info"
-msgstr "Desenvolvedores do BibleTime - www.bibletime.info"
+#, fuzzy, no-c-format
+msgid "The BibleTime developers"
+msgstr "Desenvolvimento do BibleTime"
 
 #. Tag: title
-#: autolayout.xml:5 error404.xml:9
+#: autolayout.xml:5
 #, no-c-format
 msgid "Error"
 msgstr "Erro"
 
 #. Tag: title
-#: autolayout.xml:9 devotional.xml:10
+#: autolayout.xml:9 devotional.xml:9
 #, no-c-format
 msgid "Devotional"
 msgstr ""
@@ -473,9 +473,9 @@ msgid "Please read the following pages very carefully to see whether you can hel
 msgstr "Por favor leia as seguintes páginas muito cuidadosamente para ver se você pode nos ajudar com o desenvolvimento!"
 
 #. Tag: title
-#: devotional.xml:15
+#: error404.xml:9
 #, no-c-format
-msgid "Come to the light"
+msgid "Error 404: File not found"
 msgstr ""
 
 #. Tag: title
@@ -1841,12 +1841,6 @@ msgstr "A parábola do mordomo injusto em Lc 16.1-9. O que essa parábola signif
 #, no-c-format
 msgid "The steward is commended for only one thing, his shrewdness in using what he had to prepare for a time when he wouldn't have it. But he is not commended for his unethical behavior in cheating his master."
 msgstr "O mordomo é elogiado por uma única coisa, sua sagacidade em usar o que ele tinha que preparar para quando ele não tivesse. Mas ele não estava sendo elogiado por seu comportamento não-ético enganando o seu mestre."
-
-#. Tag: title
-#: index.xml:14
-#, no-c-format
-msgid "Welcome to BibleTime!"
-msgstr "Bem vindo ao BibleTime!"
 
 #. Tag: title
 #: software_about.xml:14
@@ -3945,6 +3939,12 @@ msgstr "<title>Traduzir o Livro de Mão do programa.</title>"
 #, no-c-format
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
 msgstr "Se a tradução do livro de mão no seu idioma não existe ainda, você pode fazer donwload e traduzir o <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\">Modelo de Tradução do Livro de Mão</ulink>. Se você quiser atualizar uma tradução existente, use os links na tabela abaixo para baixar o arquivo correspondente."
+
+#~ msgid "The BibleTime developers - www.bibletime.info"
+#~ msgstr "Desenvolvedores do BibleTime - www.bibletime.info"
+
+#~ msgid "Welcome to BibleTime!"
+#~ msgstr "Bem vindo ao BibleTime!"
 
 #~ msgid "You can find the application package on our download page."
 #~ msgstr "Você pode encontrar o pacote de aplicação na nossa página de downloads."

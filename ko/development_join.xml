@@ -9,12 +9,12 @@
 <config param="rcsdate" value="$Date$"
 ></config>
 <head>
-<title
+	<title
 >참여하기</title>
-<summary
+	<summary
 >BibleTime's development</summary>
-<keywords
->BibleTime, Join the team, join, team</keywords>
+	<keywords
+>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, development team, join</keywords>
 </head>
 
 <section

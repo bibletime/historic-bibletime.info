@@ -22,19 +22,19 @@ msgstr ""
 #
 #. Tag: holder
 #: autolayout.xml:4 layout.xml:14
-#, no-c-format
-msgid "The BibleTime developers - www.bibletime.info"
+#, fuzzy, no-c-format
+msgid "The BibleTime developers"
 msgstr "Les développeurs BibleTime - www.bibletime.info"
 
 #
 #. Tag: title
-#: autolayout.xml:5 error404.xml:9
+#: autolayout.xml:5
 #, no-c-format
 msgid "Error"
 msgstr "Erreur"
 
 #. Tag: title
-#: autolayout.xml:9 devotional.xml:10
+#: autolayout.xml:9 devotional.xml:9
 #, no-c-format
 msgid "Devotional"
 msgstr ""
@@ -541,9 +541,9 @@ msgid "Please read the following pages very carefully to see whether you can hel
 msgstr ""
 
 #. Tag: title
-#: devotional.xml:15
+#: error404.xml:9
 #, no-c-format
-msgid "Come to the light"
+msgid "Error 404: File not found"
 msgstr ""
 
 #
@@ -2124,13 +2124,6 @@ msgstr "La parabole de l'économe infidèle dans Luc 16:1-9. Quel est le sujet d
 #, no-c-format
 msgid "The steward is commended for only one thing, his shrewdness in using what he had to prepare for a time when he wouldn't have it. But he is not commended for his unethical behavior in cheating his master."
 msgstr "L'économe n'est loué que pour une seule chose, son habileté à utiliser ce qu'il avait pour se préparer pour le temps ou il ne l'aurait plus. Mais il n'est pas loué pour son comportement contraire à l'éthique en trompant son maître."
-
-#
-#. Tag: title
-#: index.xml:14
-#, no-c-format
-msgid "Welcome to BibleTime!"
-msgstr ""
 
 #
 #. Tag: title

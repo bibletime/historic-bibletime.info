@@ -144,6 +144,40 @@ sub run_make() {
 	`cd $lang && make clean && make`;
 }
 
+sub create_apache_files() {
+	my $source = shift;
+	my $dest = shift;
+	my $langs = shift;
+	
+	print "Creating apache files...\n";
+	
+	opendir(DIR, $source);
+	while (my $file = readdir(DIR)) {
+		next unless ($file =~ /\.html|.shtml$/);
+		
+		my $htmlfile = $file;
+		$file =~ s/\.html|\.shtml$/.var/;
+
+		print "\tCreating VAR file for $file\n";
+		
+		open(OUT, "> $dest/$file");
+		print OUT "URI: en/$htmlfile\n";
+		print OUT "Content-type: text/html\n";
+		print OUT "Content-language: en\n";
+		
+		foreach my $lang (@$langs) {
+			print OUT "\nURI: $lang/$htmlfile\n";
+			print OUT "Content-type: text/html\n";
+			print OUT "Content-language: $lang\n";
+		}
+		
+		close(OUT);
+		
+	}
+	
+	closedir(DIR);
+}
+
 # Either the parameters or the languages we know
 my @langs;
 while (my $lang = pop(@ARGV)) {
@@ -155,6 +189,7 @@ if (!@langs) {
 }
 
 #required for all languages
+&create_apache_files($ENV{"PWD"} . "/en", ".", \@langs);
 &update_pot_files($ENV{"PWD"} . "/en",  $ENV{"PWD"} . "/en/pot/");
 
 while (my $lang = shift(@langs)) {
@@ -171,3 +206,4 @@ while (my $lang = shift(@langs)) {
 
 #Now update the statistics. At the end so we get all changed to the PO files.
 `cd postats && perl make_postats.pl > /dev/null 2>&1; cd ..`;
+

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!DOCTYPE autolayout PUBLIC "-//Norman Walsh//DTD Website Autolayout V2.4.1//EN" "http://docbook.sourceforge.net/release/website/2.4.1/schema/dtd/autolayout.dtd">
 <autolayout>
-<style title="Blue" src="blue.css" type="text/css"/><copyright><year>1999</year><year>2000</year><year>2001</year><year>2002</year><year>2003</year><year>2004</year><holder role="http://www.bibletime.info/">The BibleTime developers - www.bibletime.info</holder></copyright><notoc page="error404.xml" id="error404" filename="error404.html">
-<title>Error</title>
+<style title="Blue" src="blue.css" type="text/css"/><copyright><year>1999</year><year>2000</year><year>2001</year><year>2002</year><year>2003</year><year>2004</year><holder role="http://www.bibletime.info/">The BibleTime developers</holder></copyright><notoc page="error404.xml" id="error404" filename="error404.html">
+<title>Error 404: File not found</title>
 <summary>Error 404: File not found</summary>
 </notoc>
 <notoc page="devotional.xml" id="devotional" filename="devotional.html">
@@ -11,10 +11,10 @@
 </notoc>
 <toc page="index.xml" id="index" filename="no_index.html">
 <title>BibleTime</title>
-<summary>Introduction</summary>
+<summary>Start page</summary>
 <tocentry page="software.xml" id="software" filename="index.html">
 <title>Software</title>
-<summary>Introduction</summary>
+<summary>Welcome to BibleTime</summary>
 <tocentry page="software_about.xml" id="software_about" filename="software_about.html">
 <title>About BibleTime</title>
 <summary>Introduction to the BibleTime software</summary>
@@ -82,7 +82,7 @@
 </tocentry>
 <tocentry page="translation.xml" id="translation" filename="translation.shtml">
 <title>Translation</title>
-<summary>Introduction</summary>
+<summary>BibleTime translation statistics</summary>
 </tocentry>
 <tocentry page="biblehowto.docbook" id="biblehowto" filename="biblehowto.html">
 <title>Biblestudy HowTo</title>

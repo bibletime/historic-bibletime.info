@@ -22,35 +22,35 @@ sub new {
 
 #	if (!%SSI::SwordCD::country_map) {
 		%SSI::SwordCD::country_map = (
-			"Unknown"			=> 	$self->i18n_safe("-- Not in this list!"),
+			#"Unknown"			=> 	$self->i18n_safe("-- Not in this list!"),
 			"Austria" 		=>	$self->i18n_safe("Austria"),
 			"Belgium" 		=>	$self->i18n_safe("Belgium"),
 			"Croatia" 		=> 	$self->i18n_safe("Croatia"),
 			"Czech Republic"	=>	$self->i18n_safe("Czech Republic"),
-			"Denmark"			=>	$self->i18n_safe("Denmark"),
-			"Finland"			=>	$self->i18n_safe("Finland"),
-			"France"			=>	$self->i18n_safe("France"),
-			"Germany"			=>	$self->i18n_safe("Germany"),
-			"Greece"			=>	$self->i18n_safe("Greece"),
+			"Denmark"		=>	$self->i18n_safe("Denmark"),
+			"Finland"		=>	$self->i18n_safe("Finland"),
+			"France"		=>	$self->i18n_safe("France"),
+			"Germany"		=>	$self->i18n_safe("Germany"),
+			"Greece"		=>	$self->i18n_safe("Greece"),
 			"Gibraltar"		=>	$self->i18n_safe("Gibraltar"),
-			"Hungary"			=>	$self->i18n_safe("Hungary"),
-			"Ireland"			=>	$self->i18n_safe("Ireland"),
-			"Italy"				=>	$self->i18n_safe("Italy"),
-			"Netherlands"	=>	$self->i18n_safe("Netherlands"),
-			"Norway"			=>	$self->i18n_safe("Norway"),
-			"Poland"			=>	$self->i18n_safe("Poland"),
+			"Hungary"		=>	$self->i18n_safe("Hungary"),
+			"Ireland"		=>	$self->i18n_safe("Ireland"),
+			"Italy"			=>	$self->i18n_safe("Italy"),
+			"Netherlands"		=>	$self->i18n_safe("Netherlands"),
+			"Norway"		=>	$self->i18n_safe("Norway"),
+			"Poland"		=>	$self->i18n_safe("Poland"),
 			"Portugal"		=>	$self->i18n_safe("Portugal"),
-			"Romania"			=>	$self->i18n_safe("Romania"),
-			"Russia"			=>	$self->i18n_safe("Russia"),
+			"Romania"		=>	$self->i18n_safe("Romania"),
+			"Russia"		=>	$self->i18n_safe("Russia"),
 			"Slovakia"		=>	$self->i18n_safe("Slovakia"),
 			"Slovenia"		=>	$self->i18n_safe("Slovenia"),
-			"Spain"				=>	$self->i18n_safe("Spain"),
-			"Sweden"			=>	$self->i18n_safe("Sweden"),
-			"Switzerland"	=>	$self->i18n_safe("Switzerland"),
-			"Turkey"			=>	$self->i18n_safe("Turkey"),
-			"Unkraine		"	=>	$self->i18n_safe("Ukraine"),
+			"Spain"			=>	$self->i18n_safe("Spain"),
+			"Sweden"		=>	$self->i18n_safe("Sweden"),
+			"Switzerland"		=>	$self->i18n_safe("Switzerland"),
+			"Turkey"		=>	$self->i18n_safe("Turkey"),
+			"Unkraine"		=>	$self->i18n_safe("Ukraine"),
 			"United Kingdom"	=>	$self->i18n_safe("United Kingdom"),
-			"Yugoslavia"	=>	$self->i18n_safe("Yugoslavia"),
+			"Yugoslavia"		=>	$self->i18n_safe("Yugoslavia"),
 		);
 #	};
 
@@ -88,7 +88,7 @@ sub show_orderForm() {
 
 	$ret .= $q->Tr(
 		$q->td(
-			$self->i18n("Your full name:")
+			$self->i18n("Full name:")
 		),
 		$q->td(
 			$q->textfield({-name=>'name',-size=>'35'})
@@ -97,7 +97,7 @@ sub show_orderForm() {
 
 	$ret .= $q->Tr(
 		$q->td(
-			$self->i18n("Your street and number:")
+			$self->i18n("Street and number:")
 		),
 		$q->td(
 			$q->textfield({-name=>'street',-size=>'35'})
@@ -106,7 +106,7 @@ sub show_orderForm() {
 
 	$ret .= $q->Tr(
 		$q->td(
-			$self->i18n("Your town:")
+			$self->i18n("Town and post code:")
 		),
 		$q->td(
 			$q->textfield({-name=>'town',-size=>'35'})
@@ -115,7 +115,7 @@ sub show_orderForm() {
 
 	$ret .= $q->Tr(
 		$q->td(
-			$self->i18n("Your country:")
+			$self->i18n("Country:")
 		),
 		$q->td(
 			$q->popup_menu({-name=>'country', -values=>\@countries, -default=>$self->i18n_safe("United Kingdom")})
@@ -124,7 +124,7 @@ sub show_orderForm() {
 
 	$ret .= $q->Tr(
 		$q->td(
-			$self->i18n("How many CDs do you want?")
+			$self->i18n("How many CDs?")
 		),
 		$q->td(
 			$q->popup_menu({-name=>'cds',-values=>["1","2","3","4","5"], -default=>'1'})
@@ -133,7 +133,7 @@ sub show_orderForm() {
 
 	$ret .= $q->Tr(
 		$q->td(
-			$self->i18n("Your eMail address:")
+			$self->i18n("eMail address:")
 		),
 		$q->td(
 			$q->textfield({-name=>'email',-size=>'35'})

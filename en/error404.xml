@@ -6,9 +6,9 @@
 <config param="desc" value="404: Not found"/>
 <config param="rcsdate" value="$Date$"/>
 <head>
-<title>Error</title>
-<summary>Error 404: File not found</summary>
-<keywords>BibleTime, Documentation, FAQ, help, installation, trouble, questions</keywords>
+	<title>Error 404: File not found</title>
+	<summary>Error 404: File not found</summary>
+	<keywords>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, file not found, error</keywords>
 </head>
 
 <section><title>The document is not available</title>

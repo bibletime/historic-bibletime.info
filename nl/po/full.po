@@ -16,18 +16,18 @@ msgstr ""
 
 #. Tag: holder
 #: autolayout.xml:4 layout.xml:14
-#, no-c-format
-msgid "The BibleTime developers - www.bibletime.info"
-msgstr "De BibleTime-ontwikkelaars - www.bibletime.info"
+#, fuzzy, no-c-format
+msgid "The BibleTime developers"
+msgstr "BibleTime's ontwikkeling"
 
 #. Tag: title
-#: autolayout.xml:5 error404.xml:9
+#: autolayout.xml:5
 #, no-c-format
 msgid "Error"
 msgstr "Foutmelding"
 
 #. Tag: title
-#: autolayout.xml:9 devotional.xml:10
+#: autolayout.xml:9 devotional.xml:9
 #, fuzzy, no-c-format
 msgid "Devotional"
 msgstr "Overdenkingen"
@@ -468,9 +468,9 @@ msgid "Please read the following pages very carefully to see whether you can hel
 msgstr "Lees de volgende pagina's goed om te zien of u ons kunt helpen met de ontwikkeling!"
 
 #. Tag: title
-#: devotional.xml:15
+#: error404.xml:9
 #, no-c-format
-msgid "Come to the light"
+msgid "Error 404: File not found"
 msgstr ""
 
 #. Tag: title
@@ -1835,12 +1835,6 @@ msgstr "De gelijkenis van de onrechtvaardige rentmeester in Luk.16:1-9. Wat is h
 #, no-c-format
 msgid "The steward is commended for only one thing, his shrewdness in using what he had to prepare for a time when he wouldn't have it. But he is not commended for his unethical behavior in cheating his master."
 msgstr "De rentmeester wordt geloofd om zijn scherpzinnigheid betreffende het veiligstellen van zijn eigen hachje. Maar van zijn onethische gedrag (zijn heer oplichten) wordt niets gezegd."
-
-#. Tag: title
-#: index.xml:14
-#, no-c-format
-msgid "Welcome to BibleTime!"
-msgstr "Welkom bij BibleTime!"
 
 #. Tag: title
 #: software_about.xml:14
@@ -3932,6 +3926,12 @@ msgstr ""
 #, no-c-format
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
 msgstr ""
+
+#~ msgid "The BibleTime developers - www.bibletime.info"
+#~ msgstr "De BibleTime-ontwikkelaars - www.bibletime.info"
+
+#~ msgid "Welcome to BibleTime!"
+#~ msgstr "Welkom bij BibleTime!"
 
 #~ msgid "<ulink url=\"http://www.crosswire.org/mailman/listinfo/bt-devel\">www.crosswire.org/mailman/listinfo/bt-devel</ulink>."
 #~ msgstr "<ulink url=\"http://www.crosswire.org/mailman/listinfo/bt-devel\">www.crosswire.org/mailman/listinfo/bt-devel</ulink>."

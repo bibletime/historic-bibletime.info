@@ -16,18 +16,18 @@ msgstr ""
 
 #. Tag: holder
 #: autolayout.xml:4 layout.xml:14
-#, no-c-format
-msgid "The BibleTime developers - www.bibletime.info"
-msgstr "Разработчики BibleTime - www.bibletime.info"
+#, fuzzy, no-c-format
+msgid "The BibleTime developers"
+msgstr "Разработка BibleTime"
 
 #. Tag: title
-#: autolayout.xml:5 error404.xml:9
+#: autolayout.xml:5
 #, no-c-format
 msgid "Error"
 msgstr "Ошибка"
 
 #. Tag: title
-#: autolayout.xml:9 devotional.xml:10
+#: autolayout.xml:9 devotional.xml:9
 #, no-c-format
 msgid "Devotional"
 msgstr ""
@@ -468,9 +468,9 @@ msgid "Please read the following pages very carefully to see whether you can hel
 msgstr "Внимательно прочтите эти страницы с тем, чтобы узнать сможете ли вы нам помочь!"
 
 #. Tag: title
-#: devotional.xml:15
+#: error404.xml:9
 #, no-c-format
-msgid "Come to the light"
+msgid "Error 404: File not found"
 msgstr ""
 
 #. Tag: title
@@ -1840,12 +1840,6 @@ msgstr "Притча о неверному управителе в Луки.16:1
 #, no-c-format
 msgid "The steward is commended for only one thing, his shrewdness in using what he had to prepare for a time when he wouldn't have it. But he is not commended for his unethical behavior in cheating his master."
 msgstr "Управитель получил похвалу только за одно - его догадливость в том, что он использовал то, что имел, чтобы приготовиться к тому дню, когда он не будет распоряжаться имением. Но его не похвалили за его безнравственное поведение и обкрадывание своего господина. "
-
-#. Tag: title
-#: index.xml:14
-#, no-c-format
-msgid "Welcome to BibleTime!"
-msgstr "Проект BibleTime приветствует вас!"
 
 #. Tag: title
 #: software_about.xml:14
@@ -4000,6 +3994,12 @@ msgstr "<title>Перевести руководство к программе.<
 #, no-c-format
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
 msgstr "Если перевод Руководства на ваш язык ещё не существует, то вы можете загрузить и перевести <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> Шаблон для перевода руководства</ulink>. Если вы хотите обновить существующий перевод, то используйте ссылки в таблице снизу, чтобы загрузить соответствующий файл. "
+
+#~ msgid "The BibleTime developers - www.bibletime.info"
+#~ msgstr "Разработчики BibleTime - www.bibletime.info"
+
+#~ msgid "Welcome to BibleTime!"
+#~ msgstr "Проект BibleTime приветствует вас!"
 
 #~ msgid "Documentation"
 #~ msgstr "Документация"

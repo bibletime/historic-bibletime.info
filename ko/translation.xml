@@ -8,12 +8,12 @@
 <config param="rcsdate" value="$Date$"
 ></config>
 <head>
-<title
+	<title
 >Translation</title>
-<summary
->Introduction</summary>
-<keywords
->BibleTime, Jesus, God, Bible study, Crosswire, Sword</keywords>
+	<summary
+>BibleTime translation statistics</summary>
+	<keywords
+>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, tramslation, webpage</keywords>
 </head>
 
 <section

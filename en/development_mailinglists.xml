@@ -7,9 +7,9 @@
 <config param="desc" value="mailinglists us"/>
 <config param="rcsdate" value="$Date$"/>
 <head>
-<title>Mailinglists</title>
-<summary>BibleTime's mailinglists</summary>
-<keywords>BibleTime, mailinglist, subscribe, unsubscribe</keywords>
+	<title>Mailinglists</title>
+	<summary>BibleTime's mailinglists</summary>
+	<keywords>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, mailing list, help, support, development</keywords>
 </head>
 
 <section><title>BibleTime development mailing list</title>

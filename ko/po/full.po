@@ -22,18 +22,18 @@ msgstr ""
 
 #. Tag: holder
 #: autolayout.xml:4 layout.xml:14
-#, no-c-format
-msgid "The BibleTime developers - www.bibletime.info"
-msgstr "바이블타임 개발자 - www.bibletime.info"
+#, fuzzy, no-c-format
+msgid "The BibleTime developers"
+msgstr "바이블타임 개발"
 
 #. Tag: title
-#: autolayout.xml:5 error404.xml:9
+#: autolayout.xml:5
 #, no-c-format
 msgid "Error"
 msgstr "에러"
 
 #. Tag: title
-#: autolayout.xml:9 devotional.xml:10
+#: autolayout.xml:9 devotional.xml:9
 #, no-c-format
 msgid "Devotional"
 msgstr ""
@@ -474,9 +474,9 @@ msgid "Please read the following pages very carefully to see whether you can hel
 msgstr "어떻게 개발에 함께 하실 수 있는지를 확인하시려면 다음의 페이지들을 읽어주십시오!"
 
 #. Tag: title
-#: devotional.xml:15
+#: error404.xml:9
 #, no-c-format
-msgid "Come to the light"
+msgid "Error 404: File not found"
 msgstr ""
 
 #. Tag: title
@@ -1841,12 +1841,6 @@ msgstr "The parable of the unrighteous steward in 눅 16:1-9. 우화의 요점�
 #, no-c-format
 msgid "The steward is commended for only one thing, his shrewdness in using what he had to prepare for a time when he wouldn't have it. But he is not commended for his unethical behavior in cheating his master."
 msgstr "The steward is commended for only one thing, his shrewdness in using what he had to prepare for a time when he wouldn't have it. But he is not commended for his unethical behavior in cheating his master."
-
-#. Tag: title
-#: index.xml:14
-#, no-c-format
-msgid "Welcome to BibleTime!"
-msgstr "바이블타임에 오신 것을 환영합니다!"
 
 #. Tag: title
 #: software_about.xml:14
@@ -3928,6 +3922,12 @@ msgstr "<title>프로그램 핸드북의 번역.</title>"
 #, no-c-format
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
 msgstr "당신의 언어로 된 핸드북이 존재하지 않는다면, <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> 핸드북 번역 템플릿</ulink>에서 템플릿을 다운로드하여 번역하실 수 있습니다. 기존의 번역을 업데이트하고 싶으시면, 아래의 테이블에서 필요한 파일을 다운로드하실 수 있습니다."
+
+#~ msgid "The BibleTime developers - www.bibletime.info"
+#~ msgstr "바이블타임 개발자 - www.bibletime.info"
+
+#~ msgid "Welcome to BibleTime!"
+#~ msgstr "바이블타임에 오신 것을 환영합니다!"
 
 #~ msgid "We hope to provide more binary RPM packages in the next few days, but we're sorry that we can't provide a SuSE 9.0 RPM application-package because we don't have access to a clean SuSE 9.0 system. If one of our users has a clean SuSE 9.0 system running we'd appreciate his help."
 #~ msgstr "며칠안으로 더 많은 바이너리 RPM 패키지들을 제공하려 합니다, 하지만 SuSE 9.0 RPM 패키지를 제공할 수 없는 것 같습니다. 테스트 할 수 있는 SuSE 9.0 시스템이 없습니다. 사용자 중에서 SuSE 9.0을 사용하고 계신 분이 계시다면 저희를 좀 도와주시기 바랍니다."

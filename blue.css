@@ -141,75 +141,90 @@ textarea:focus {
 
 /* --------------------- Navigation stuff ------------------------ */
 #navigation {
-	width:160px;
+	margin:15px 0 0 5px;
 	float:left;
-	padding:10px 0 0 5px;
-	font-size:0.95em;
-	display:block;
-	clear:none;
+	width:160px;
+	font-size:0.9em;
 	}
-
 #navigation ul {
+	list-style:none;
 	margin:0;
 	padding:0;
-	list-style:none;
+	border-left:2px solid #9CA7D2;
+	border-right:2px solid #9CA7D2;
+	font-size:0.9em;
 	}
-#navigation > ul {
-	font-size: 0.9em;
-	list-style:none;
-	margin:0;
-	padding:0px;
-	border-left:3px solid #9CA7D2;
-	border-right:3px solid #9CA7D2;
-	background-color:#EDF4FF;
-	}
-
+#navigation ul ul {
+	border:none;
+	font-size:1em;
+	}	
+	
 #navigation li {
-	padding:2px 0 2px 10px;
 	display:block;
+	margin:0;
 	}
 #navigation li a {
 	display:block;
-	}
-
-#navigation > ul > li { /* toplevel entries */
+	padding:0 0 0 10px; 
+	margin:0;
 	background-color:#DAE4FF;
-	border-bottom:2px solid #9CA7D2;
-	border-top:2px solid #9CA7D2;
-	padding:1px 0 0 10px;
-	}
-#navigation > ul > li a { /* links in toplevel entries */
+	border-top:1px solid #9CA7D2;
+	border-bottom:1px solid #9CA7D2;
 	font-weight:bold;
-	font-size:1em;
-}
-#navigation > ul > li + li { /* toplevel entries */
-	border-top:none;
-}
-
-#navigation ul ul li { /* child items */
-	padding-left:5px;
-	border-left:15px solid #DAE4FF;
 	}
-#navigation ul li:hover {
+#navigation li a:hover {
 	background-color:#BDCAFF;
+	text-decoration:none;
 	}
-#navigation li.current {
+#navigation li.current span {
+	font-weight:bold;
 	color:black;
-	font-weight: bold;
+	
+	display:block;
+	padding:0 0 0 10px; 
+	margin:0;
+	background-color:#DAE4FF;
+	border-top:1px solid #9CA7D2;
+	border-bottom:1px solid #9CA7D2;
+	}
+#navigation li.current span:hover {
+	background-color:#BDCAFF;
+	text-decoration:none;
+	}
+
+
+#navigation li li {
+	background-color:transparent;
+	padding:0;
+	}
+#navigation li li a {
+	padding:1px 0 1px 20px;
+	background:url(/images/nav-bg.png);
+	background-repeat:repeat;
+	border:none;
+	font-weight:normal;
+	}
+#navigation li li.current span {
+	padding-left:20px;
+	background:url(/images/nav-bg.png);
+	background-repeat:repeat;
+	border:none;
 	}
 
 
 #navigation #logos {
 	text-align:center;
 	margin:35px 0 35px 0;
-	padding:15px 15px 0 15px;
+	padding:0px 15px 0 15px;
 	border:3px solid #9CA7D2;
-	background-color:#DAE4FF;
+	background:url(/images/nav-bg.png);
+	background-repeat:repeat;
 }
 
 #navigation #logos img {
 	border:0px;
-	padding-bottom:15px;
+	padding-bottom:8px;
+	padding-top:8px;
 }
 
 #navigation #copyright {
@@ -217,7 +232,8 @@ textarea:focus {
 	margin:35px 0 35px 0;
 	padding:15px;
 	border:3px solid #9CA7D2;
-	background-color:#DAE4FF;	
+	background:url(/images/nav-bg.png);
+	background-repeat:repeat;
 	font-size:0.7em;
 }
 
@@ -227,11 +243,9 @@ textarea:focus {
         width:auto;
         min-width:120px;
         z-index:3; /* This allows the content to overlap the right menu in narrow windows in good browsers. */	
-	margin:0 170px 0 180px;
+	margin:0 10px 0 180px;
 	padding-top:10px;
-	#padding-bottom:15px;
 	background-color:transparent;
-	clear:none;
 }
 
 #content img {
@@ -368,6 +382,7 @@ pre {
 	margin:0;
 	z-index:2;
 	font-size:0.9em;
+	display:none;
 }
 
 #rightpanel #devotional {

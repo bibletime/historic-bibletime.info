@@ -8,17 +8,12 @@
 <config param="rcsdate" value="$Date$"
 ></config>
 <head>
-<title
+	<title
 >바이블타임</title>
-<summary
->Introduction</summary>
-<keywords
->BibleTime, Sword, Index</keywords>
+	<summary
+>Start page</summary>
+	<keywords
+>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, index</keywords>
 </head>
-
-<section
-><title
->바이블타임에 오신 것을 환영합니다!</title>
-</section>
 
 </webpage>

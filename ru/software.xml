@@ -9,12 +9,12 @@
 <config param="rcsdate" value="$Date$"
 ></config>
 <head>
-<title
+	<title
 >Программы</title>
-<summary
->Introduction</summary>
-<keywords
->BibleTime, Jesus, God, Bible study, Crosswire, Sword</keywords>
+	<summary
+>Welcome to BibleTime</summary>
+	<keywords
+>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, webpage</keywords>
 </head>
 
 <section

@@ -17,17 +17,17 @@ msgstr ""
 #. Tag: holder
 #: autolayout.xml:4 layout.xml:14
 #, fuzzy, no-c-format
-msgid "The BibleTime developers - www.bibletime.info"
+msgid "The BibleTime developers"
 msgstr "Екипът на &bibletime;, info@bibletime.info"
 
 #. Tag: title
-#: autolayout.xml:5 error404.xml:9
+#: autolayout.xml:5
 #, no-c-format
 msgid "Error"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:9 devotional.xml:10
+#: autolayout.xml:9 devotional.xml:9
 #, no-c-format
 msgid "Devotional"
 msgstr ""
@@ -468,9 +468,9 @@ msgid "Please read the following pages very carefully to see whether you can hel
 msgstr ""
 
 #. Tag: title
-#: devotional.xml:15
+#: error404.xml:9
 #, no-c-format
-msgid "Come to the light"
+msgid "Error 404: File not found"
 msgstr ""
 
 #. Tag: title
@@ -1834,12 +1834,6 @@ msgstr "Притчата за неправедния настойник от Л�
 #, no-c-format
 msgid "The steward is commended for only one thing, his shrewdness in using what he had to prepare for a time when he wouldn't have it. But he is not commended for his unethical behavior in cheating his master."
 msgstr "Настойникът е похвален за едно нещо - за остроумния начин по който употребил това, което имал, за да се подготви за времето, когато няма да го има. Но не е похвален за неетичното си поведение и за това, че е измамил господаря си."
-
-#. Tag: title
-#: index.xml:14
-#, no-c-format
-msgid "Welcome to BibleTime!"
-msgstr ""
 
 #. Tag: title
 #: software_about.xml:14

@@ -9,12 +9,12 @@
 <config param="rcsdate" value="$Date$"
 ></config>
 <head>
-<title
+	<title
 >Списки рассылки</title>
-<summary
+	<summary
 >BibleTime's mailinglists</summary>
-<keywords
->BibleTime, mailinglist, subscribe, unsubscribe</keywords>
+	<keywords
+>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, mailing list, help, support, development</keywords>
 </head>
 
 <section

@@ -155,9 +155,9 @@
 		<xsl:apply-templates select="config" mode="head.mode"/>
 
 		<body>
-      <xsl:attribute name="id">
+      			<xsl:attribute name="id">
 				<xsl:value-of select="$id"/>
-      </xsl:attribute>
+      			</xsl:attribute>
 
 			<div id="pagetop">
 				<img height="99" class="left" alt="pagetop logo" src="/images/pagetop-left.png"/>
@@ -290,9 +290,9 @@
 <!-- Called with the devotional file to display the short intro on the right -->
 <xsl:template match="id('devotional')" mode="intro">
 	<div id="devotional">
-	<h3><xsl:value-of select="./child::section[position()=1]/title"/></h3>
-	<p><xsl:value-of select="./child::section[position()=1]/para"/></p>
-	<p>[ <a href="devotional.html">Read more...</a> ]</p>
+		<h3><xsl:value-of select="./child::section[position()=1]/title"/></h3>
+		<p><xsl:value-of select="./child::section[position()=1]/para"/></p>
+		<p>[ <a href="devotional.html">Read more...</a> ]</p>
 	</div>
 </xsl:template>
 

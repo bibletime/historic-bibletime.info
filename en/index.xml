@@ -6,12 +6,9 @@
 <config param="desc" value="The BibleTime Home Page"/>
 <config param="rcsdate" value="$Date$"/>
 <head>
-<title>BibleTime</title>
-<summary>Introduction</summary>
-<keywords>BibleTime, Sword, Index</keywords>
+	<title>BibleTime</title>
+	<summary>Start page</summary>
+	<keywords>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, index</keywords>
 </head>
-
-<section><title>Welcome to BibleTime!</title>
-</section>
 
 </webpage>

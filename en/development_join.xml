@@ -7,9 +7,9 @@
 <config param="desc" value="Join us"/>
 <config param="rcsdate" value="$Date$"/>
 <head>
-<title>Join us</title>
-<summary>BibleTime's development</summary>
-<keywords>BibleTime, Join the team, join, team</keywords>
+	<title>Join us</title>
+	<summary>BibleTime's development</summary>
+	<keywords>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, development team, join</keywords>
 </head>
 
 <section><title>Join the BibleTime team</title>

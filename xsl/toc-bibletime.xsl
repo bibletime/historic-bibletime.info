@@ -128,28 +128,12 @@
   -->
 
   <li>
-	<xsl:choose>
-  		<xsl:when test="$pageid = @id">
-			<xsl:attribute name="class">current</xsl:attribute>
-		</xsl:when>
-	</xsl:choose>
+   <xsl:choose>	
+       <xsl:when test="$pageid = @id">
+	<xsl:attribute name="class">current</xsl:attribute>
 	
-	
-	<xsl:choose>
-		<xsl:when test="$nav.graphics != 0">
-			<xsl:call-template name="link.to.page">
-				<xsl:with-param name="href" select="@href"/>
-				<xsl:with-param name="page" select="$target"/>
-				<xsl:with-param name="relpath" select="$relpath"/>
-				<xsl:with-param name="linktext">
-				</xsl:with-param>
-			</xsl:call-template>
-		</xsl:when>
-	</xsl:choose>
-
-    <xsl:choose>
-      <xsl:when test="$pageid = @id">        
-          <xsl:choose>
+	<span>    
+	    <xsl:choose>
             <xsl:when test="titleabbrev">
               <xsl:apply-templates select="titleabbrev"/>
             </xsl:when>
@@ -157,10 +141,8 @@
               <xsl:apply-templates select="title"/>
             </xsl:otherwise>
           </xsl:choose>
-
-          <xsl:if test="$nav.pointer != '0'">
-            <xsl:value-of select="$nav.text.spacer"/>
-	  </xsl:if>	
+	</span>
+	
       </xsl:when>
       <xsl:otherwise>
           <xsl:call-template name="link.to.page">
@@ -180,9 +162,8 @@
           </xsl:call-template>
       </xsl:otherwise>
     </xsl:choose>
- 	
-  </li>
-    <xsl:choose>
+
+        <xsl:choose>
 		<xsl:when test="$hasdescendant != 0">
 			<ul>
 				<xsl:apply-templates select="tocentry">
@@ -192,7 +173,9 @@
 			</ul>
 		</xsl:when>
       		<xsl:otherwise></xsl:otherwise>
-    </xsl:choose>
+    	</xsl:choose>
+ 	
+  </li>
 
 </xsl:template>
 

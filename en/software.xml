@@ -7,9 +7,9 @@
 <config param="desc" value="Software page"/>
 <config param="rcsdate" value="$Date$"/>
 <head>
-<title>Software</title>
-<summary>Introduction</summary>
-<keywords>BibleTime, Jesus, God, Bible study, Crosswire, Sword</keywords>
+	<title>Software</title>
+	<summary>Welcome to BibleTime</summary>
+	<keywords>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, webpage</keywords>
 </head>
 
 <section><title>Welcome to the BibleTime project.</title>
