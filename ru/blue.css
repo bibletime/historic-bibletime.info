@@ -155,14 +155,14 @@ textarea:focus {
 #navigation .toplevel {
 	color:black;
 	background-color:transparent;
-	font-size:0.75em;
+	font-size:0.85em;
 	font-weight:bold;
 }
 
 #navigation .toplevel * a {
 	color:#140366;
 	background-color:transparent;
-	font-size:1em;
+	font-size:0.9em;
 	font-weight:bold;
 }
 
@@ -179,7 +179,7 @@ textarea:focus {
 }
 
 #navigation .shrink1, .shrink2, .shrink3, .shrink4 {
-	font-size:0.75em;
+	font-size:0.8em;
 	font-weight:bolder;
 }
 

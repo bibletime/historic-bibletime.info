@@ -66,6 +66,7 @@ sub normalize_str {
   my $self = shift;
   my $string = shift;
   my $dequoted = $self->dequote($string);
+
   # This isn't quite perfect, but it's fast and easy
   if ($dequoted =~ /[^n](\\n)+[^\\]/) {
     # Multiline
@@ -73,14 +74,17 @@ sub normalize_str {
     my @lines;
     $output = '""' . "\n";
     @lines = split(/\\n/, $dequoted);
+
+	my $last_line = pop(@lines);
     foreach (@lines) {
-      $output .= $self->quote("$_\\n") . "\n";
+	  $output .= $self->quote("$_\\n") . "\n";
     }
+	$output .= $self->quote("$last_line") . "\n";
     return $output;
   } else {
     # Single line
     return "$string\n";
-  } 
+  }
 }
 
 sub dump {
@@ -109,7 +113,7 @@ sub dump_multi_comment {
  chop($chopped);
  my $result = $leader . $comment;
  $result =~ s/\n/\n$leader/g;
- $result =~ s/^$leader$/$chopped/gm; 
+ $result =~ s/^$leader$/$chopped/gm;
  $result .= "\n";
  return $result;
 }
@@ -186,7 +190,7 @@ sub load_file {
 	  my $key = $po->msgid;
 	  if (defined($entries{$key})) {
              # Prefer translated ones.
-	     $entries{$po->msgid} = $po if $entries{$key}->msgstr !~ /\w/; 
+	     $entries{$po->msgid} = $po if $entries{$key}->msgstr !~ /\w/;
           } else {
              # No previous entry
 	     $entries{$po->msgid} = $po;
@@ -200,10 +204,10 @@ sub load_file {
     } elsif (/^# (.*)/ or /^#$/) {
       # Translator comments
       $po = new Locale::PO unless defined($po);
-      if (defined($po->comment)) { 
-        $po->comment($po->comment . "\n$1"); 
+      if (defined($po->comment)) {
+        $po->comment($po->comment . "\n$1");
       } else {
-        $po->comment($1); 
+        $po->comment($1);
       }
     } elsif (/^#\. (.*)/) {
       # Automatic comments
@@ -212,10 +216,10 @@ sub load_file {
     } elsif (/^#: (.*)/) {
       # reference
       $po = new Locale::PO unless defined($po);
-      if (defined($po->reference)) { 
-        $po->reference($po->reference . "\n$1"); 
+      if (defined($po->reference)) {
+        $po->reference($po->reference . "\n$1");
       } else {
-        $po->reference($1); 
+        $po->reference($1);
       }
     } elsif (/^#, (.*)/) {
       # flags
