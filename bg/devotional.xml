@@ -1,0 +1,27 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="devotional">
+<config param="desc" value="Development"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
+<head>
+	<title
+>Devotional</title>
+	<summary
+>BibleTime devotional</summary>
+	<keywords
+>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword</keywords>
+</head>
+
+<section
+><title
+></title>
+ 
+
+ 
+
+</section>
+</webpage>

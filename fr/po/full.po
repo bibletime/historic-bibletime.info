@@ -38,135 +38,141 @@ msgstr ""
 msgid "Devotional"
 msgstr ""
 
+#. Tag: title
+#: autolayout.xml:13 sidebar_tips.xml:11
+#, no-c-format
+msgid "Sidebar tips"
+msgstr ""
+
 #
 #. Tag: title
-#: autolayout.xml:13 index.xml:9
+#: autolayout.xml:17 index.xml:9
 #, no-c-format
 msgid "BibleTime"
 msgstr "BibleTime"
 
 #
 #. Tag: title
-#: autolayout.xml:16 software.xml:10
+#: autolayout.xml:20 software.xml:10
 #, no-c-format
 msgid "Software"
 msgstr "Logiciel"
 
 #
 #. Tag: title
-#: autolayout.xml:19 software_about.xml:9
+#: autolayout.xml:23 software_about.xml:9
 #, no-c-format
 msgid "About BibleTime"
 msgstr "A propos de BibleTime"
 
 #
 #. Tag: title
-#: autolayout.xml:23 software_screenshots.xml:9
+#: autolayout.xml:27 software_screenshots.xml:9
 #, no-c-format
 msgid "Screenshots"
 msgstr "Captures écran"
 
 #
 #. Tag: title
-#: autolayout.xml:27 software_gallery.xml:9 software_gallery.xml:14
+#: autolayout.xml:31 software_gallery.xml:9 software_gallery.xml:14
 #, no-c-format
 msgid "Gallery"
 msgstr ""
 
 #
 #. Tag: title
-#: autolayout.xml:31 software_download.xml:10 software_installation.xml:12
+#: autolayout.xml:35 software_installation.xml:11
 #, no-c-format
 msgid "Download"
 msgstr "Téléchargement"
 
 #
 #. Tag: title
-#: autolayout.xml:35 software_faq.xml:9
+#: autolayout.xml:39 software_faq.xml:9
 #, no-c-format
 msgid "<title>FAQ</title>"
 msgstr "<title>FAQ</title>"
 
 #
 #. Tag: title
-#: autolayout.xml:39 software_links.xml:9
+#: autolayout.xml:43 software_links.xml:9
 #, no-c-format
 msgid "Links"
 msgstr "Liens"
 
 #
 #. Tag: title
-#: autolayout.xml:43 software_linkus.xml:9
+#: autolayout.xml:47 software_linkus.xml:9
 #, no-c-format
 msgid "Link to us"
 msgstr "Liens vers nous"
 
 #
 #. Tag: title
-#: autolayout.xml:47 software_guestbook.xml:9
+#: autolayout.xml:51 software_guestbook.xml:9
 #, no-c-format
 msgid "Guestbook"
 msgstr "Livre d'or"
 
 #
 #. Tag: title
-#: autolayout.xml:51 software_press.xml:10 software_press.xml:15
+#: autolayout.xml:55 software_press.xml:10 software_press.xml:15
 #, no-c-format
 msgid "In the press"
 msgstr "Dans la presse"
 
 #
 #. Tag: title
-#: autolayout.xml:55 software_contact.xml:10
+#: autolayout.xml:59 software_contact.xml:10
 #, no-c-format
 msgid "Contact"
 msgstr "Contact"
 
 #
 #. Tag: title
-#: autolayout.xml:59 software_license.xml:9 software_license.xml:14
+#: autolayout.xml:63 software_license.xml:9 software_license.xml:14
 #, no-c-format
 msgid "License"
 msgstr "License"
 
 #
 #. Tag: title
-#: autolayout.xml:64 development.xml:10
+#: autolayout.xml:68 development.xml:10
 #, no-c-format
 msgid "Development"
 msgstr "Développement"
 
 #
 #. Tag: title
-#: autolayout.xml:67 development_help.xml:10
+#: autolayout.xml:71 development_help.xml:10
 #, no-c-format
 msgid "Help us"
 msgstr "Aidez-nous"
 
 #
 #. Tag: title
-#: autolayout.xml:71 development_join.xml:10
+#: autolayout.xml:75 development_join.xml:10
 #, no-c-format
 msgid "Join us"
 msgstr "Joignez-nous"
 
 #
 #. Tag: title
-#: autolayout.xml:75 development_mailinglists.xml:10
+#: autolayout.xml:79 development_mailinglists.xml:10
 #, no-c-format
 msgid "Mailinglists"
 msgstr "Forums"
 
 #
 #. Tag: title
-#: autolayout.xml:80 translation.xml:9
+#: autolayout.xml:84 translation.xml:9
 #, no-c-format
 msgid "Translation"
 msgstr "Traduction"
 
 #
 #. Tag: title
-#: autolayout.xml:84 biblehowto.docbook:17
+#: autolayout.xml:88 biblehowto.docbook:17
 #, no-c-format
 msgid "Biblestudy HowTo"
 msgstr "HowTo d'étude biblique"
@@ -530,6 +536,18 @@ msgstr ""
 #: development.xml:20
 #, no-c-format
 msgid "Please read the following pages very carefully to see whether you can help us with the development!"
+msgstr ""
+
+#. Tag: title
+#: devotional.xml:14
+#, no-c-format
+msgid "Wait a minute"
+msgstr ""
+
+#. Tag: para
+#: devotional.xml:15
+#, no-c-format
+msgid "Did you see &quot;The Passion&quot;? Whether you found the film inspiring or not, or you didn't see it at all -- If you want to find out more about the passion of Jesus Christ, you can visit the &quot;<ulink url=\"http://www.the-good-news.org/\">the good news</ulink>&quot; webpages. It has more information ready for you, maybe even in your local language."
 msgstr ""
 
 #
@@ -2113,69 +2131,94 @@ msgstr "L'économe n'est loué que pour une seule chose, son habileté à utilis
 
 #
 #. Tag: title
+#: sidebar_tips.xml:16
+#, fuzzy, no-c-format
+msgid "Translations"
+msgstr "Traduction"
+
+#. Tag: para
+#: sidebar_tips.xml:17
+#, no-c-format
+msgid "It will cost you just a few minutes to update the webpage translation in your language. Help with the translations is something all users can do and which help all users. If you want to help us keeping the translations up to date, please read the page about <olink targetdocent=\"translations\">making translations</olink> and update the translation file of your own language."
+msgstr ""
+
+#. Tag: title
 #: software_about.xml:14
+#, no-c-format
+msgid "Introduction"
+msgstr ""
+
+#. Tag: para
+#: software_about.xml:15
+#, no-c-format
+msgid "BibleTime is a Bible study program for Linux and is based on the K Desktop Environment (KDE)."
+msgstr ""
+
+#
+#. Tag: title
+#: software_about.xml:20
 #, no-c-format
 msgid "The history of BibleTime"
 msgstr ""
 
 #
 #. Tag: para
-#: software_about.xml:15
+#: software_about.xml:21
 #, no-c-format
 msgid "Back in June of 1999 Thomas Hagedorn, Thorsten Uhlmann and Joachim Ansorg started to work on a Bible study application for KDE 1.0."
 msgstr ""
 
 #
 #. Tag: para
-#: software_about.xml:19
+#: software_about.xml:25
 #, no-c-format
 msgid "The first version was released two months later as version 0.1. This version was very simple and supported only the most basic things."
 msgstr ""
 
 #
 #. Tag: para
-#: software_about.xml:23
+#: software_about.xml:29
 #, no-c-format
 msgid "After three months of hard work version 0.2 was released to the public. This version was usable, it supported basic printing, searching and offered a simple editor for personal notes."
 msgstr ""
 
 #
 #. Tag: para
-#: software_about.xml:27
+#: software_about.xml:33
 #, no-c-format
 msgid "BibleTime 0.2 was later ported to KDE 2 and totally redesigned with a more powerful interface, better printing and a lot of internal changes. This version was called BibleTime 0.3"
 msgstr ""
 
 #
 #. Tag: para
-#: software_about.xml:31
+#: software_about.xml:37
 #, no-c-format
 msgid "BibleTime 1.0, which was released almost one year after version 0.3 and was the first version we considered as stable."
 msgstr ""
 
 #
 #. Tag: para
-#: software_about.xml:35
+#: software_about.xml:41
 #, no-c-format
 msgid "BibleTime 1.1 and 1.2 followed later on. BibleTime 1.2 is the first version of BibleTime for version 3.0 of KDE."
 msgstr ""
 
 #
 #. Tag: title
-#: software_about.xml:40
+#: software_about.xml:46
 #, no-c-format
 msgid "The future of BibleTime"
 msgstr ""
 
 #. Tag: para
-#: software_about.xml:41
+#: software_about.xml:47
 #, no-c-format
 msgid "We're grateful that God supports us and that He blesses our work with new team members. God is good!"
 msgstr ""
 
 #
 #. Tag: para
-#: software_about.xml:45
+#: software_about.xml:51
 #, no-c-format
 msgid "We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application."
 msgstr ""
@@ -2242,48 +2285,6 @@ msgstr ""
 #: software_contact.xml:42
 #, no-c-format
 msgid "If you found a problem with the website or have a suggestion how it could be improved, please use this link to tell the webmaster about it."
-msgstr ""
-
-#
-#. Tag: title
-#: software_download.xml:15
-#, no-c-format
-msgid "How to get BibleTime"
-msgstr ""
-
-#
-#. Tag: para
-#: software_download.xml:16
-#, no-c-format
-msgid "There are several RPM packages available of BibleTime. To see whether they were made for your system, have a look at the file name of the package. They contain the abbreviated name and version of the Linux distribution they were made for. For example the package \"bibletime-1.2.2-1suse8.1.i586.rpm\" was made for SuSE 8.1 systems running on a i586 or higher."
-msgstr ""
-
-#
-#. Tag: para
-#: software_download.xml:23
-#, no-c-format
-msgid "The \"bibletime\" package contains the software and documentation in English. Translation files for both are to be found in the \"bibletime-i18n\" package."
-msgstr ""
-
-#
-#. Tag: para
-#: software_download.xml:28
-#, no-c-format
-msgid "You can download BibleTime at <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">our sourceforge project pages</ulink>."
-msgstr ""
-
-#
-#. Tag: title
-#: software_download.xml:36
-#, no-c-format
-msgid "Installation"
-msgstr ""
-
-#
-#. Tag: para
-#: software_download.xml:37
-#, no-c-format
-msgid "Please read the <olink targetdocent=\"documentation_installation_bibletime\">installation instructions</olink>."
 msgstr ""
 
 #
@@ -2669,136 +2670,136 @@ msgid "Please add your comments here:"
 msgstr ""
 
 #. Tag: title
-#: software_installation.xml:17
+#: software_installation.xml:16
 #, no-c-format
 msgid "Download BibleTime"
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:18
+#: software_installation.xml:17
 #, no-c-format
 msgid "This is a short list of available download locations. Packages which are not provided on our SourceForge pages might be outdated. Please see below for detailed download and installation instructions."
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:22
+#: software_installation.xml:21
 #, no-c-format
 msgid "Sourcecode and packages for major Linux distributions can be downloaded from <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">SourceForge</ulink>."
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:27
+#: software_installation.xml:26
 #, no-c-format
 msgid "Debian packages are available for <ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">Debian Unstable</ulink> and <ulink url=\"http://packages.debian.org/stable/x11/bibletime\">Debian Stable</ulink>."
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:32
+#: software_installation.xml:31
 #, no-c-format
 msgid "Gentoo packages are available on <ulink url=\"http://packages.gentoo.org/search/?sstring=bibletime\">www.gentoo.org</ulink>."
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:37
+#: software_installation.xml:36
 #, no-c-format
 msgid "A FreeBSD application port of BibleTime can be found on <ulink url=\"http://www.FreeBSD.org/cgi/ports.cgi?query=bibletime&amp;stype=all\">www.freebsd.org</ulink>."
 msgstr ""
 
 #
 #. Tag: title
-#: software_installation.xml:45
+#: software_installation.xml:44
 #, no-c-format
 msgid "Installation of BibleTime"
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:46
+#: software_installation.xml:45
 #, no-c-format
 msgid "This section explains how to install BibleTime on your system. Basically there are two ways to install it: Either by using prebuilt binary packages or by compiling from source code. Installing BibleTime using prebuilt packages is the easiest way."
 msgstr ""
 
 #
 #. Tag: title
-#: software_installation.xml:50
+#: software_installation.xml:49
 #, no-c-format
 msgid "Prebuilt binary packages"
 msgstr ""
 
 #
 #. Tag: para
-#: software_installation.xml:51
+#: software_installation.xml:50
 #, no-c-format
 msgid "We try to provide packages for the most important Linux distributions. These include RedHat, Mandrake and SuSE."
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:54
+#: software_installation.xml:53
 #, no-c-format
 msgid "First download the binary package for your Linux distribution. For example: You want to download <application>BibleTime 1.4</application> for <productname>SuSE Linux 9.0</productname>. In this case you have to download the package <filename>bibletime-1.4-1.suse9.0.i586.rpm</filename>. Please download the package &quot;bibletime-i18n&quot; package, too. This package contains the available translations of the BibleTime user interface and handbook."
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:57
+#: software_installation.xml:56
 #, no-c-format
 msgid "If there are no packages for your version of Linux you have to install from source code. Please see below how to do that."
 msgstr ""
 
 #. Tag: title
-#: software_installation.xml:61
+#: software_installation.xml:60
 #, no-c-format
 msgid "Installation from source code"
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:62
+#: software_installation.xml:61
 #, no-c-format
 msgid "Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources:"
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:67
+#: software_installation.xml:66
 #, no-c-format
 msgid "At first make sure the required software is installed on your system. Depending on your Linux distribution you have to install the development packages of the required software, too."
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:72
+#: software_installation.xml:71
 #, no-c-format
 msgid "<ulink url=\"http://www.kde.org/\">KDE 3</ulink>."
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:73
+#: software_installation.xml:72
 #, no-c-format
 msgid "At least the libraries and the base package. KDE 3 is shipped with many Linux distributions. Very often it's installed by default."
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:77
+#: software_installation.xml:76
 #, no-c-format
 msgid "<ulink url=\"http://curl.sourceforge.net/\">Curl >= 7.9</ulink>."
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:78
+#: software_installation.xml:77
 #, no-c-format
 msgid "This is necessary for the remote installation features of the new Sword Setup Dialog. Curl has to be installed before Sword."
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:82
+#: software_installation.xml:81
 #, no-c-format
 msgid "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.7</ulink>."
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:83
+#: software_installation.xml:82
 #, no-c-format
 msgid "Installation instructions are available on <ulink url=\"http://www.crosswire.org/sword/software/index.jsp\">www.crosswire.org/sword/software</ulink>. Basically the installation steps are"
 msgstr ""
 
 #. Tag: screen
-#: software_installation.xml:84
+#: software_installation.xml:83
 #, no-c-format
 msgid ""
 "<command>./usrinst.sh --enable-shared --with-curl --without-clucene</command>\n"
@@ -2808,19 +2809,19 @@ msgid ""
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:89
+#: software_installation.xml:88
 #, no-c-format
 msgid "Please note that this list is only valid for the latest version of BibleTime, older versions may require other software."
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:94
+#: software_installation.xml:93
 #, no-c-format
 msgid "Compile and install BibleTime:"
 msgstr ""
 
 #. Tag: screen
-#: software_installation.xml:95
+#: software_installation.xml:94
 #, no-c-format
 msgid ""
 "<command>./configure --prefix=&lt;your KDE directory&gt;</command>\n"
@@ -2829,66 +2830,66 @@ msgid ""
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:98
+#: software_installation.xml:97
 #, no-c-format
 msgid "You can get your KDE directory by running the command <command>kde-config --prefix</command>. If you get problems please read our <olink targetdocent=\"software_faq\">FAQ</olink>. If there's no solution of your problem, please contact us at <email>info@bibletime.info</email>."
 msgstr ""
 
 #. Tag: title
-#: software_installation.xml:108
+#: software_installation.xml:107
 #, no-c-format
 msgid "Install Sword modules"
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:109
+#: software_installation.xml:108
 #, no-c-format
 msgid "You need Sword modules to work with BibleTime. Since version 1.4 BibleTime offers a userfriendly dialog to manage Sword modules. We strongly recommend this way to install modules on your computer."
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:113
+#: software_installation.xml:112
 #, no-c-format
 msgid "Instructions for manual module installation is available on <ulink url=\"http://www.crosswire.org/sword/modules/moduleinstall.jsp\">www.crosswire.org/sword/modules</ulink>."
 msgstr ""
 
 #
 #. Tag: title
-#: software_installation.xml:117
+#: software_installation.xml:116
 #, no-c-format
 msgid "Available types of modules"
 msgstr ""
 
 #. Tag: para
-#: software_installation.xml:118
+#: software_installation.xml:117
 #, no-c-format
 msgid "Here is a list of available module types and where to get more information about the available module types:"
 msgstr ""
 
 #
 #. Tag: ulink
-#: software_installation.xml:122
+#: software_installation.xml:121
 #, no-c-format
 msgid "Bibles"
 msgstr ""
 
 #
 #. Tag: ulink
-#: software_installation.xml:123
+#: software_installation.xml:122
 #, no-c-format
 msgid "Commentaries"
 msgstr ""
 
 #
 #. Tag: ulink
-#: software_installation.xml:124
+#: software_installation.xml:123
 #, no-c-format
 msgid "Lexicons / Dictionaries"
 msgstr ""
 
 #
 #. Tag: ulink
-#: software_installation.xml:125
+#: software_installation.xml:124
 #, no-c-format
 msgid "Books"
 msgstr ""

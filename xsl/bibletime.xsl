@@ -13,7 +13,7 @@
 
 <xsl:output method="xml"
             indent="no"
-	    encoding="UTF-8"
+	       encoding="UTF-8"
             doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN"
             doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
 />
@@ -21,7 +21,7 @@
 <!--
 <xsl:output method="xml"
             indent="yes"
-	    encoding="UTF-8"
+	       encoding="UTF-8"
             doctype-public="-//W3C//DTD XHTML 1.1//EN"
             doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11-flat.dtd"
 />
@@ -33,6 +33,7 @@
 
 <xsl:param name="autolayout" select="document($autolayout-file, /*)"/>
 <xsl:param name="devotional" select="document('devotional.xml', /*)"/>
+<xsl:param name="tips" select="document('sidebar_tips.xml', /*)"/>
 
 <!-- ==================================================================== -->
 
@@ -121,8 +122,7 @@
 				<xsl:apply-templates select="head/copyright" mode="footer.mode"/>
 			</xsl:when>
 			<xsl:otherwise>
-				<xsl:apply-templates mode="footer.mode"
-					select="$autolayout/autolayout/copyright"/>
+				<xsl:apply-templates mode="footer.mode" select="$autolayout/autolayout/copyright"/>
 			</xsl:otherwise>
 		</xsl:choose>
 	</span>
@@ -280,6 +280,7 @@ src="/images/flags/new-lang.png"/></a>
 				
 				<div id="rightpanel">
 					<xsl:apply-templates select="$devotional" mode="intro"/>
+					<xsl:apply-templates select="$tips" mode="tips"/>
 				</div>
 
 			</td></tr></table>
@@ -293,10 +294,30 @@ src="/images/flags/new-lang.png"/></a>
 <xsl:template match="id('devotional')" mode="intro">
 	<div id="devotional">
 		<h3><xsl:value-of select="./child::section[position()=1]/title"/></h3>
-		<p><xsl:value-of select="./child::section[position()=1]/para"/></p>
-		<p>[ <a href="devotional.html">Read more...</a> ]</p>
+		
+		<xsl:apply-templates select="./child::section[position()=1]/para[position()=1]" />	
+		
+		<xsl:if test="count(./child::section[position()=1]/para) &gt; 1">
+			<p>[ <a href="devotional.html">Read more...</a> ]</p>
+		</xsl:if>		
+	
+
 	</div>
 </xsl:template>
+
+<!-- Called with the sidebar_tips file to display the short intro on the right -->
+<xsl:template match="id('sidebar_tips')" mode="tips">
+	<div class="tip">
+		<xsl:for-each select="./child::section">
+			<h3><xsl:value-of select="./title"/></h3>
+		
+			<xsl:apply-templates select="./para" />
+		</xsl:for-each>
+	
+
+	</div>
+</xsl:template>
+
 
 <xsl:template match="config[@param='filename']" mode="head.mode">
 </xsl:template>

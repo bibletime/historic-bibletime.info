@@ -2,7 +2,6 @@
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_about SYSTEM "software_about.xml" NDATA XML>
 <!ENTITY software_faq SYSTEM "software_faq.xml" NDATA XML>
-<!ENTITY modules SYSTEM "modules.xml" NDATA XML>
 ]>
 
 <webpage id="documentation_installation_bibletime">

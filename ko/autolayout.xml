@@ -9,6 +9,10 @@
 <title>Devotional</title>
 <summary>BibleTime devotional</summary>
 </notoc>
+<notoc page="sidebar_tips.xml" id="sidebar_tips" filename="sidebar_tips.html">
+<title>Sidebar tips</title>
+<summary>BibleTime tips</summary>
+</notoc>
 <toc page="index.xml" id="index" filename="no_index.html">
 <title>&#xBC14;&#xC774;&#xBE14;&#xD0C0;&#xC784;</title>
 <summary>Start page</summary>

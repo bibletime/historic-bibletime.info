@@ -24,11 +24,11 @@
 >the BibleTime forum</ulink
 > instead. </para>
 	<para
->Please write in English, if possible. HTML is not allowed and will be removed, but you may use normal line breaks to divide into paragraphs. </para>
+>Schreiben Sie ihre Anmerkungen bitte in Englisch, wenn möglich. HTML ist nicht erlaubt und wird entfernt. Sie können normale Zeilenumbrüche benutzen um den Text in Abschnitte einzuteilen. </para>
 
 <section
 ><title
->Please add your comments here:</title>
+>Bitte geben Sie hier ihre Anmerkungen ein:</title>
 <ssi mode="exec" cgi="/guestbook.pl"
 ></ssi>
 </section>

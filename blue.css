@@ -246,11 +246,11 @@ textarea:focus {
 
 /* --------------------- Content stuff ------------------------ */
 #content {
-        position: relative; /* Position is declared "relative" to gain control of stacking order (z-index). */
-        width:auto;
-        min-width:120px;
-        z-index:3; /* This allows the content to overlap the right menu in narrow windows in good browsers. */	
-	margin:0 10px 0 180px;
+     position: relative; /* Position is declared "relative" to gain control of stacking order (z-index). */
+     width:auto;
+     min-width:120px;
+     z-index:3; /* This allows the content to overlap the right menu in narrow windows in good browsers. */	
+	margin:0 170px 0 180px;
 	padding-top:10px;
 	background-color:transparent;
 }
@@ -389,32 +389,36 @@ pre {
 	margin:0;
 	z-index:2;
 	font-size:0.9em;
-	display:none;
 }
 
 #rightpanel #devotional {
-	border:3px solid #9CA7D2;
+	border:1px solid #9CA7D2;
+	margin-bottom:20px;
+}
+#rightpanel .tip {
+	border:1px solid #9CA7D2;
+	margin-bottom:10px;
 }
 
-#rightpanel #devotional h3 {
-	padding:4px;
+#rightpanel #devotional h3, #rightpanel .tip h3 {
+	padding:2px 10px;
 	margin:0px;
 	background-color:#DAE4FF;
 	vertical-align:middle;
-	font-size:1em;
+	font-size:0.95em;
 	font-weight:bold;
 	color:#0226b0;
-	border-bottom:2px solid #9CA7D2;
+	border-bottom:1px solid #9CA7D2;
 }
 
-#rightpanel #devotional p {
+#rightpanel #devotional p, #rightpanel .tip p {
 	margin:0;
 	padding:4px;
 	text-align:justify;
-	font-size:0.85em;
+	font-size:0.8em;
 }
 
-#rightpanel #devotional p + p {
+#rightpanel #devotional p + p , #rightpanel .tip p + p {
 	margin:0;
 	padding:4px;
 	font-size:0.8em;

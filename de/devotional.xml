@@ -1,0 +1,28 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="devotional">
+<config param="desc" value="Development"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
+<head>
+	<title
+>Andacht</title>
+	<summary
+>BibleTime devotional</summary>
+	<keywords
+>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword</keywords>
+</head>
+
+<section
+><title
+>Moment mal</title>
+<para
+>Haben Sie &quot;Die Passion&quot; gesehen? Ganz gleich ob sie den Film inspirierend fanden oder nicht, oder wenn Sie ihn nicht angeschaut haben -- wenn Sie mehr über die Passion Jesu Christi wissen möchten, dann können Sie die &quot;<ulink url="http://www.the-good-news.org/"
+>the good news</ulink
+>&quot; Webseiten besuchen. Diese halten weitere Informationen für sie bereit, vielleicht sogar in ihrer eigenen Sprache. </para>
+
+</section>
+</webpage>

@@ -11,6 +11,12 @@
 	<keywords>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, about</keywords>
 </head>
 
+<section><title>Introduction</title>
+<para>
+BibleTime is a Bible study program for Linux and is based on the K Desktop Environment (KDE).
+</para>
+</section>
+
 <section><title>The history of BibleTime</title>
 <para>
 Back in June of 1999 Thomas Hagedorn, Thorsten Uhlmann and Joachim Ansorg started to work on a Bible study application for KDE 1.0.

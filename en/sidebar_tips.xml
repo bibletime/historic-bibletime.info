@@ -1,0 +1,24 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY translations SYSTEM "translation.xml" NDATA XML>
+
+]>
+
+<webpage id="sidebar_tips">
+<config param="desc" value="Tips"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title>Sidebar tips</title>
+	<summary>BibleTime tips</summary>
+	<keywords>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword</keywords>
+</head>
+
+<section><title>Translations</title>
+<para>
+It will cost you just a few minutes to update the webpage translation in your language. Help with the translations is something all users can do and which help all users.
+If you want to help us keeping the translations up to date, please read the page about 
+<olink targetdocent="translations">making translations</olink> and update the translation file of your own language.
+</para>
+</section>
+
+</webpage>

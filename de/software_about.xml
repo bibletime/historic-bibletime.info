@@ -18,6 +18,13 @@
 
 <section
 ><title
+>Einleitung</title>
+<para
+>BibleTime ist ein Programm zum Bibelstudium unter Linux und basiert auf der KDE-Umgebung. </para>
+</section>
+
+<section
+><title
 >Die Geschichte von BibleTime</title>
 <para
 >Im Juni 1999 begannen Thomas Hagedorn, Torsten Uhlmann und Joachim Ansorg an einer Bibelstudien-Anwendung für KDE 1.0 zu arbeiten. </para>

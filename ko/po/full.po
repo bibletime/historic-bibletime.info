@@ -39,115 +39,121 @@ msgid "Devotional"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:13 index.xml:9
+#: autolayout.xml:13 sidebar_tips.xml:11
+#, no-c-format
+msgid "Sidebar tips"
+msgstr ""
+
+#. Tag: title
+#: autolayout.xml:17 index.xml:9
 #, no-c-format
 msgid "BibleTime"
 msgstr "바이블타임"
 
 #. Tag: title
-#: autolayout.xml:16 software.xml:10
+#: autolayout.xml:20 software.xml:10
 #, no-c-format
 msgid "Software"
 msgstr "소프트웨어"
 
 #. Tag: title
-#: autolayout.xml:19 software_about.xml:9
+#: autolayout.xml:23 software_about.xml:9
 #, no-c-format
 msgid "About BibleTime"
 msgstr "바이블타임에 관하여"
 
 #. Tag: title
-#: autolayout.xml:23 software_screenshots.xml:9
+#: autolayout.xml:27 software_screenshots.xml:9
 #, no-c-format
 msgid "Screenshots"
 msgstr "스크린샷"
 
 #. Tag: title
-#: autolayout.xml:27 software_gallery.xml:9 software_gallery.xml:14
+#: autolayout.xml:31 software_gallery.xml:9 software_gallery.xml:14
 #, no-c-format
 msgid "Gallery"
 msgstr "갤러리"
 
 #. Tag: title
-#: autolayout.xml:31 software_download.xml:10 software_installation.xml:12
+#: autolayout.xml:35 software_installation.xml:11
 #, no-c-format
 msgid "Download"
 msgstr "다운로드"
 
 #. Tag: title
-#: autolayout.xml:35 software_faq.xml:9
+#: autolayout.xml:39 software_faq.xml:9
 #, no-c-format
 msgid "<title>FAQ</title>"
 msgstr "<title>자주 묻는 질문들(FAQ)</title>"
 
 #. Tag: title
-#: autolayout.xml:39 software_links.xml:9
+#: autolayout.xml:43 software_links.xml:9
 #, no-c-format
 msgid "Links"
 msgstr "링크"
 
 #. Tag: title
-#: autolayout.xml:43 software_linkus.xml:9
+#: autolayout.xml:47 software_linkus.xml:9
 #, no-c-format
 msgid "Link to us"
 msgstr "링크하기"
 
 #. Tag: title
-#: autolayout.xml:47 software_guestbook.xml:9
+#: autolayout.xml:51 software_guestbook.xml:9
 #, no-c-format
 msgid "Guestbook"
 msgstr "방명록"
 
 #. Tag: title
-#: autolayout.xml:51 software_press.xml:10 software_press.xml:15
+#: autolayout.xml:55 software_press.xml:10 software_press.xml:15
 #, no-c-format
 msgid "In the press"
 msgstr "출판물에서"
 
 #. Tag: title
-#: autolayout.xml:55 software_contact.xml:10
+#: autolayout.xml:59 software_contact.xml:10
 #, no-c-format
 msgid "Contact"
 msgstr "연락처"
 
 #. Tag: title
-#: autolayout.xml:59 software_license.xml:9 software_license.xml:14
+#: autolayout.xml:63 software_license.xml:9 software_license.xml:14
 #, no-c-format
 msgid "License"
 msgstr "라이센스"
 
 #. Tag: title
-#: autolayout.xml:64 development.xml:10
+#: autolayout.xml:68 development.xml:10
 #, no-c-format
 msgid "Development"
 msgstr "개발"
 
 #. Tag: title
-#: autolayout.xml:67 development_help.xml:10
+#: autolayout.xml:71 development_help.xml:10
 #, no-c-format
 msgid "Help us"
 msgstr "후원하기"
 
 #. Tag: title
-#: autolayout.xml:71 development_join.xml:10
+#: autolayout.xml:75 development_join.xml:10
 #, no-c-format
 msgid "Join us"
 msgstr "참여하기"
 
 #. Tag: title
-#: autolayout.xml:75 development_mailinglists.xml:10
+#: autolayout.xml:79 development_mailinglists.xml:10
 #, no-c-format
 msgid "Mailinglists"
 msgstr "메일링리스트"
 
 #. Tag: title
-#: autolayout.xml:80 translation.xml:9
+#: autolayout.xml:84 translation.xml:9
 #, fuzzy, no-c-format
 msgid "Translation"
 msgstr "설치"
 
 #. Tag: title
-#: autolayout.xml:84 biblehowto.docbook:17
+#: autolayout.xml:88 biblehowto.docbook:17
 #, no-c-format
 msgid "Biblestudy HowTo"
 msgstr "바이블스터디 하우투"
@@ -466,6 +472,18 @@ msgstr "이 페이지들은 바이블타임의 개발에 함께 하실수 있는
 #, no-c-format
 msgid "Please read the following pages very carefully to see whether you can help us with the development!"
 msgstr "어떻게 개발에 함께 하실 수 있는지를 확인하시려면 다음의 페이지들을 읽어주십시오!"
+
+#. Tag: title
+#: devotional.xml:14
+#, no-c-format
+msgid "Wait a minute"
+msgstr ""
+
+#. Tag: para
+#: devotional.xml:15
+#, no-c-format
+msgid "Did you see &quot;The Passion&quot;? Whether you found the film inspiring or not, or you didn't see it at all -- If you want to find out more about the passion of Jesus Christ, you can visit the &quot;<ulink url=\"http://www.the-good-news.org/\">the good news</ulink>&quot; webpages. It has more information ready for you, maybe even in your local language."
+msgstr ""
 
 #. Tag: title
 #: error404.xml:14
@@ -1831,61 +1849,85 @@ msgid "The steward is commended for only one thing, his shrewdness in using what
 msgstr "The steward is commended for only one thing, his shrewdness in using what he had to prepare for a time when he wouldn't have it. But he is not commended for his unethical behavior in cheating his master."
 
 #. Tag: title
+#: sidebar_tips.xml:16
+#, fuzzy, no-c-format
+msgid "Translations"
+msgstr "설치"
+
+#. Tag: para
+#: sidebar_tips.xml:17
+#, no-c-format
+msgid "It will cost you just a few minutes to update the webpage translation in your language. Help with the translations is something all users can do and which help all users. If you want to help us keeping the translations up to date, please read the page about <olink targetdocent=\"translations\">making translations</olink> and update the translation file of your own language."
+msgstr ""
+
+#. Tag: title
 #: software_about.xml:14
+#, no-c-format
+msgid "Introduction"
+msgstr ""
+
+#. Tag: para
+#: software_about.xml:15
+#, no-c-format
+msgid "BibleTime is a Bible study program for Linux and is based on the K Desktop Environment (KDE)."
+msgstr ""
+
+#. Tag: title
+#: software_about.xml:20
 #, no-c-format
 msgid "The history of BibleTime"
 msgstr "바이블타임의 역사"
 
 #. Tag: para
-#: software_about.xml:15
+#: software_about.xml:21
 #, no-c-format
 msgid "Back in June of 1999 Thomas Hagedorn, Thorsten Uhlmann and Joachim Ansorg started to work on a Bible study application for KDE 1.0."
 msgstr "1999년 6월 Thomas Hagedorn, Thorsten Uhlmann과 Joachim Ansorg이 KDE 1.0용의 성경공부 프로그램을 만드는 작업을 시작했습니다."
 
 #. Tag: para
-#: software_about.xml:19
+#: software_about.xml:25
 #, no-c-format
 msgid "The first version was released two months later as version 0.1. This version was very simple and supported only the most basic things."
 msgstr "첫버전인 버전 0.1이 2달후에 릴리즈되었습니다. 이 버전은 가장 기본적인 기능만을 제공하는 간단한 것이었습니다."
 
 #. Tag: para
-#: software_about.xml:23
+#: software_about.xml:29
 #, no-c-format
 msgid "After three months of hard work version 0.2 was released to the public. This version was usable, it supported basic printing, searching and offered a simple editor for personal notes."
 msgstr "3개월 후에 정성들여서 만든 버전 0.2가 대중에 공개되었습니다. 이 버전은 기본적인 프린팅과 검색, 개인묵상을 위한 간단한 에디터를 제공하는 더욱 성숙된 버전이었습니다."
 
 #. Tag: para
-#: software_about.xml:27
+#: software_about.xml:33
 #, no-c-format
 msgid "BibleTime 0.2 was later ported to KDE 2 and totally redesigned with a more powerful interface, better printing and a lot of internal changes. This version was called BibleTime 0.3"
 msgstr "바이블타임 0.2는 나중에 KDE 2용으로 포팅되었고, 더욱 울륭한 인터페이스를 지원하고, 개선된 프린팅과 많은 변화를 가져온 훌륭한 프로그램으로 바뀌었습니다. 이 버전이 바이블타임 0.3입니다."
 
 #. Tag: para
-#: software_about.xml:31
+#: software_about.xml:37
 #, no-c-format
 msgid "BibleTime 1.0, which was released almost one year after version 0.3 and was the first version we considered as stable."
 msgstr "버전 0.3이 발표된지 거의 일년후에 안정적이라 할 수 있는 첫번째 버전인 바이블타임 1.0이 릴리즈되었습니다. "
 
 #. Tag: para
-#: software_about.xml:35
+#: software_about.xml:41
 #, no-c-format
 msgid "BibleTime 1.1 and 1.2 followed later on. BibleTime 1.2 is the first version of BibleTime for version 3.0 of KDE."
 msgstr "그후 바이블타임 1.1과 1.2가 발표되었습니다. 바이블타임 1.2는 KDE 3.0을 지원하는 최초의 바이블타임 버전입니다."
 
 #. Tag: title
-#: software_about.xml:40
+#: software_about.xml:46
 #, no-c-format
 msgid "The future of BibleTime"
 msgstr "바이블타임의 미래"
 
 #. Tag: para
-#: software_about.xml:41
+#: software_about.xml:47
 #, no-c-format
 msgid "We're grateful that God supports us and that He blesses our work with new team members. God is good!"
 msgstr "저희는 하나님께서 저희에게 새팀 멤버들로 저희의 사역을 축복하시는 것에 감사드립니다. 하나님은 선하십니다!"
 
 #. Tag: para
-#: software_about.xml:45
+#: software_about.xml:51
 #, no-c-format
 msgid "We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application."
 msgstr "바이블타임이 일반적인 성경 공부 프로그램으로써 충분히 성숙해질 때까지 저희는 이 사역을 계속할 것입니다."
@@ -1949,42 +1991,6 @@ msgstr "웹사이트의 문제 리포트하기"
 #, fuzzy, no-c-format
 msgid "If you found a problem with the website or have a suggestion how it could be improved, please use this link to tell the webmaster about it."
 msgstr "바이블타임의 개선을 위해 어떠한 아이디어라도 있으시면, 이 링크를 통해 저희에게 말씀해주시기 바랍니다!"
-
-#. Tag: title
-#: software_download.xml:15
-#, no-c-format
-msgid "How to get BibleTime"
-msgstr "바이블타임 구하기"
-
-#. Tag: para
-#: software_download.xml:16
-#, no-c-format
-msgid "There are several RPM packages available of BibleTime. To see whether they were made for your system, have a look at the file name of the package. They contain the abbreviated name and version of the Linux distribution they were made for. For example the package \"bibletime-1.2.2-1suse8.1.i586.rpm\" was made for SuSE 8.1 systems running on a i586 or higher."
-msgstr "바이블타임의 RPM패키지들이 제공되고 있습니다. 파일의 이름을 통해 당신의 시스템을 위한 패키지들이 제공되고 있는지를 확인하십시오. 파일이름에는 리눅스 배포판의 이름과 버전등이 명시되어 있습니다. 예를 들어 \"bibletime-1.2.2-1suse8.1.i586.rpm\"은 i586이나 그이상의 SuSE 8.1시스템을 위한 것입니다."
-
-#. Tag: para
-#: software_download.xml:23
-#, no-c-format
-msgid "The \"bibletime\" package contains the software and documentation in English. Translation files for both are to be found in the \"bibletime-i18n\" package."
-msgstr "\"바이블타임\" 패키지는 프로그램과 영문 문서들을 포함합니다. 프로그램과 문서들의 번역판은 \"bibletime-i18n\" 패키지를 통해 제공되고 있습니다."
-
-#. Tag: para
-#: software_download.xml:28
-#, no-c-format
-msgid "You can download BibleTime at <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">our sourceforge project pages</ulink>."
-msgstr "바이블타임은 <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">sourceforge 프로젝트 페이지</ulink>에서 다운로드 하실 수 있습니다."
-
-#. Tag: title
-#: software_download.xml:36
-#, no-c-format
-msgid "Installation"
-msgstr "설치"
-
-#. Tag: para
-#: software_download.xml:37
-#, no-c-format
-msgid "Please read the <olink targetdocent=\"documentation_installation_bibletime\">installation instructions</olink>."
-msgstr "<olink targetdocent=\"documentation_installation_bibletime\">설치 명령어</olink>를 읽으십시오."
 
 #. Tag: title
 #: software_faq.xml:14
@@ -2335,133 +2341,133 @@ msgid "Please add your comments here:"
 msgstr "방명록에 메세지를 남겨주세요!"
 
 #. Tag: title
-#: software_installation.xml:17
+#: software_installation.xml:16
 #, fuzzy, no-c-format
 msgid "Download BibleTime"
 msgstr "바이블타임 구하기"
 
 #. Tag: para
-#: software_installation.xml:18
+#: software_installation.xml:17
 #, no-c-format
 msgid "This is a short list of available download locations. Packages which are not provided on our SourceForge pages might be outdated. Please see below for detailed download and installation instructions."
 msgstr "사용가능한 다운로드 지점들의 간단한 리스트입니다. 저희의 SourceForge 페이지에서 제공되지 않는 패키지들은 사용이 중지된 패키지들일 것입니다. 자세한 다운로드 및 설치 명령어를 보시려면 아래를 참고하십시오."
 
 #. Tag: para
-#: software_installation.xml:22
+#: software_installation.xml:21
 #, fuzzy, no-c-format
 msgid "Sourcecode and packages for major Linux distributions can be downloaded from <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">SourceForge</ulink>."
 msgstr "바이블타임은 <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">sourceforge 프로젝트 페이지</ulink>에서 다운로드 하실 수 있습니다."
 
 #. Tag: para
-#: software_installation.xml:27
+#: software_installation.xml:26
 #, no-c-format
 msgid "Debian packages are available for <ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">Debian Unstable</ulink> and <ulink url=\"http://packages.debian.org/stable/x11/bibletime\">Debian Stable</ulink>."
 msgstr "<ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">Debian Unstable</ulink>과 <ulink url=\"http://packages.debian.org/stable/x11/bibletime\">Debian Stable</ulink>을 위한 데비안 패키지가 사용가능합니다."
 
 #. Tag: para
-#: software_installation.xml:32
+#: software_installation.xml:31
 #, no-c-format
 msgid "Gentoo packages are available on <ulink url=\"http://packages.gentoo.org/search/?sstring=bibletime\">www.gentoo.org</ulink>."
 msgstr "젠투 패키지가 <ulink url=\"http://packages.gentoo.org/search/?sstring=bibletime\">www.gentoo.org</ulink>에서 제공되고 있습니다."
 
 #. Tag: para
-#: software_installation.xml:37
+#: software_installation.xml:36
 #, no-c-format
 msgid "A FreeBSD application port of BibleTime can be found on <ulink url=\"http://www.FreeBSD.org/cgi/ports.cgi?query=bibletime&amp;stype=all\">www.freebsd.org</ulink>."
 msgstr "바이블타임의 FreeBSD 포팅 버전을 <ulink url=\"http://www.FreeBSD.org/cgi/ports.cgi?query=bibletime&amp;stype=all\">www.freebsd.org</ulink>에서 구하실 수 있습니다."
 
 #. Tag: title
-#: software_installation.xml:45
+#: software_installation.xml:44
 #, no-c-format
 msgid "Installation of BibleTime"
 msgstr "바이블타임의 설치"
 
 #. Tag: para
-#: software_installation.xml:46
+#: software_installation.xml:45
 #, no-c-format
 msgid "This section explains how to install BibleTime on your system. Basically there are two ways to install it: Either by using prebuilt binary packages or by compiling from source code. Installing BibleTime using prebuilt packages is the easiest way."
 msgstr "이 섹션은 바이블타임을 당신의 시스템에 설치하는 방법을 설명하고 있습니다. 기본적으로 설치하는 두가지 방법이 존재합니다: prebuilt binary packages를 사용하시거나 소스코드로부터 컴파일 하실 수 있습니다. prebuilt packages로 부터 설치하는 것이 가장 쉬운 방법일 것입니다."
 
 #. Tag: title
-#: software_installation.xml:50
+#: software_installation.xml:49
 #, no-c-format
 msgid "Prebuilt binary packages"
 msgstr "미리 만들어진 바이너리 패키지들"
 
 #. Tag: para
-#: software_installation.xml:51
+#: software_installation.xml:50
 #, no-c-format
 msgid "We try to provide packages for the most important Linux distributions. These include RedHat, Mandrake and SuSE."
 msgstr "바이블타임은 RedHat, Mandrake와 SeSE같은 대부분의 리눅스 배폰판들을 위한 패키지를 제공하려고 노력하고 있습니다. "
 
 #. Tag: para
-#: software_installation.xml:54
+#: software_installation.xml:53
 #, fuzzy, no-c-format
 msgid "First download the binary package for your Linux distribution. For example: You want to download <application>BibleTime 1.4</application> for <productname>SuSE Linux 9.0</productname>. In this case you have to download the package <filename>bibletime-1.4-1.suse9.0.i586.rpm</filename>. Please download the package &quot;bibletime-i18n&quot; package, too. This package contains the available translations of the BibleTime user interface and handbook."
 msgstr "먼저 당신의 리눅스 배포판에 맞는 바이너리 패키지를 다운로드하십시오. 예를 들면: SuSE 리눅스 8.1을 위한 바이블타임 1.2.2를 다운로드하고 싶으시다면, \"bibletime-1.2.2-1suse8.1.i586.rpm\" 패키지를 다운로드 하시면 됩니다. 바이블타임의 문서들과 번역 등을 제공하는 bibletime-i18n 패키지도 다운로드 하는 것을 잊지 마십시오."
 
 #. Tag: para
-#: software_installation.xml:57
+#: software_installation.xml:56
 #, no-c-format
 msgid "If there are no packages for your version of Linux you have to install from source code. Please see below how to do that."
 msgstr "당신의 리눅스에 맞는 패키지가 없다면, 소스코드로부터 설치하셔야합니다. 아래의 설명을 참고해주십시오."
 
 #. Tag: title
-#: software_installation.xml:61
+#: software_installation.xml:60
 #, fuzzy, no-c-format
 msgid "Installation from source code"
 msgstr "소스코드로부터 컴파일하기"
 
 #. Tag: para
-#: software_installation.xml:62
+#: software_installation.xml:61
 #, no-c-format
 msgid "Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources:"
 msgstr "바이블타임을 소스코드로부터 설치하는 것은 바이너리 패키지를 사용하는 것보다 좀 더 어렵습니다. 소스로부터 설치하시려면 다음의 순서들을 따라주십시오:"
 
 #. Tag: para
-#: software_installation.xml:67
+#: software_installation.xml:66
 #, no-c-format
 msgid "At first make sure the required software is installed on your system. Depending on your Linux distribution you have to install the development packages of the required software, too."
 msgstr "먼저 필요한 소프트웨어들이 시스템에 설치되어 있는 지를 확인하십시오. 리눅스 배포판에 따라서 필요한 소프트웨어들의 개발판(development) 버전들을 깔아야하는 경우도 있습니다."
 
 #. Tag: para
-#: software_installation.xml:72
+#: software_installation.xml:71
 #, no-c-format
 msgid "<ulink url=\"http://www.kde.org/\">KDE 3</ulink>."
 msgstr "<ulink url=\"http://www.kde.org/\">KDE 3</ulink>."
 
 #. Tag: para
-#: software_installation.xml:73
+#: software_installation.xml:72
 #, no-c-format
 msgid "At least the libraries and the base package. KDE 3 is shipped with many Linux distributions. Very often it's installed by default."
 msgstr "기본 라이브러리들과 기본 패키지들이 필요합니다. KDE 3는 많은 리눅스 배포판에서 제공이 되고 있습니다. 대부분 기본적으로 설치가 됩니다."
 
 #. Tag: para
-#: software_installation.xml:77
+#: software_installation.xml:76
 #, no-c-format
 msgid "<ulink url=\"http://curl.sourceforge.net/\">Curl >= 7.9</ulink>."
 msgstr "<ulink url=\"http://curl.sourceforge.net/\">Curl >= 7.9</ulink>."
 
 #. Tag: para
-#: software_installation.xml:78
+#: software_installation.xml:77
 #, fuzzy, no-c-format
 msgid "This is necessary for the remote installation features of the new Sword Setup Dialog. Curl has to be installed before Sword."
 msgstr "<ulink url=\"http://curl.sourceforge.net/\">Curl >= 7.10</ulink>. 새 스워드(Sword) 설정 창의 원격 설치 기능을 위해서 필요합니다."
 
 #. Tag: para
-#: software_installation.xml:82
+#: software_installation.xml:81
 #, no-c-format
 msgid "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.7</ulink>."
 msgstr "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.7</ulink>."
 
 #. Tag: para
-#: software_installation.xml:83
+#: software_installation.xml:82
 #, no-c-format
 msgid "Installation instructions are available on <ulink url=\"http://www.crosswire.org/sword/software/index.jsp\">www.crosswire.org/sword/software</ulink>. Basically the installation steps are"
 msgstr "설치 명령어는 <ulink url=\"http://www.crosswire.org/sword/software/index.jsp\">www.crosswire.org/sword/software</ulink>에서 확인하실 수 있습니다. 기본적인 설치 과정들은 "
 
 #. Tag: screen
-#: software_installation.xml:84
+#: software_installation.xml:83
 #, no-c-format
 msgid ""
 "<command>./usrinst.sh --enable-shared --with-curl --without-clucene</command>\n"
@@ -2475,19 +2481,19 @@ msgstr ""
 "                                                                <command>make install_config</command>"
 
 #. Tag: para
-#: software_installation.xml:89
+#: software_installation.xml:88
 #, no-c-format
 msgid "Please note that this list is only valid for the latest version of BibleTime, older versions may require other software."
 msgstr "이 리스트는 최신판의 바이블타임에만 적용된다는 것을 명심하십시오. 구버전들은 다른 소프트웨어들을 필요로합니다."
 
 #. Tag: para
-#: software_installation.xml:94
+#: software_installation.xml:93
 #, fuzzy, no-c-format
 msgid "Compile and install BibleTime:"
 msgstr "바이블타임을 설치하는 두가지 방법"
 
 #. Tag: screen
-#: software_installation.xml:95
+#: software_installation.xml:94
 #, no-c-format
 msgid ""
 "<command>./configure --prefix=&lt;your KDE directory&gt;</command>\n"
@@ -2499,61 +2505,61 @@ msgstr ""
 "                                                <command>make install</command>"
 
 #. Tag: para
-#: software_installation.xml:98
+#: software_installation.xml:97
 #, no-c-format
 msgid "You can get your KDE directory by running the command <command>kde-config --prefix</command>. If you get problems please read our <olink targetdocent=\"software_faq\">FAQ</olink>. If there's no solution of your problem, please contact us at <email>info@bibletime.info</email>."
 msgstr "<command>kde-config --prefix</command>란 명령어를 통해서 당신의 KDE 디렉토리를 확인하실 수 있습니다. 문제를 만나셨다면 <olink targetdocent=\"software_faq\">FAQ</olink> 페이지를 읽어주십시오. FAQ에서도 문제에 대한 답을 찾지 못하셨다면, <email>info@bibletime.info</email>로 연락주시기 바랍니다."
 
 #. Tag: title
-#: software_installation.xml:108
+#: software_installation.xml:107
 #, fuzzy, no-c-format
 msgid "Install Sword modules"
 msgstr "스워드(Sword) 텍스트 모듈의 설치"
 
 #. Tag: para
-#: software_installation.xml:109
+#: software_installation.xml:108
 #, no-c-format
 msgid "You need Sword modules to work with BibleTime. Since version 1.4 BibleTime offers a userfriendly dialog to manage Sword modules. We strongly recommend this way to install modules on your computer."
 msgstr "바이블타임을 사용하시려면 스워드(Sword) 모듈이 필요합니다. 바이블타임 버전 1.4 부터는 스워드(Sword) 모듈을 관리하기 위한 편리한 창을 제공합니다. 관리창을 통하여 모듈들을 설치하시기를 권장합니다."
 
 #. Tag: para
-#: software_installation.xml:113
+#: software_installation.xml:112
 #, no-c-format
 msgid "Instructions for manual module installation is available on <ulink url=\"http://www.crosswire.org/sword/modules/moduleinstall.jsp\">www.crosswire.org/sword/modules</ulink>."
 msgstr "수동 모듈 설치에 대한 설명은 <ulink url=\"http://www.crosswire.org/sword/modules/moduleinstall.jsp\">www.crosswire.org/sword/modules</ulink>에서 확인하실 수 있습니다."
 
 #. Tag: title
-#: software_installation.xml:117
+#: software_installation.xml:116
 #, no-c-format
 msgid "Available types of modules"
 msgstr "제공되는 모듈의 종류"
 
 #. Tag: para
-#: software_installation.xml:118
+#: software_installation.xml:117
 #, no-c-format
 msgid "Here is a list of available module types and where to get more information about the available module types:"
 msgstr "이곳에 제공되는 모듈들의 리스트와 자세한 정보를 얻을 수 있는 링크가 있습니다:"
 
 #. Tag: ulink
-#: software_installation.xml:122
+#: software_installation.xml:121
 #, no-c-format
 msgid "Bibles"
 msgstr "성경"
 
 #. Tag: ulink
-#: software_installation.xml:123
+#: software_installation.xml:122
 #, no-c-format
 msgid "Commentaries"
 msgstr "주석문"
 
 #. Tag: ulink
-#: software_installation.xml:124
+#: software_installation.xml:123
 #, no-c-format
 msgid "Lexicons / Dictionaries"
 msgstr "사전(Lexicons/Dictionaries)"
 
 #. Tag: ulink
-#: software_installation.xml:125
+#: software_installation.xml:124
 #, no-c-format
 msgid "Books"
 msgstr "신앙서적"
@@ -3970,6 +3976,24 @@ msgstr "<title>프로그램 핸드북의 번역.</title>"
 #, no-c-format
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
 msgstr "당신의 언어로 된 핸드북이 존재하지 않는다면, <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> 핸드북 번역 템플릿</ulink>에서 템플릿을 다운로드하여 번역하실 수 있습니다. 기존의 번역을 업데이트하고 싶으시면, 아래의 테이블에서 필요한 파일을 다운로드하실 수 있습니다."
+
+#~ msgid "How to get BibleTime"
+#~ msgstr "바이블타임 구하기"
+
+#~ msgid "There are several RPM packages available of BibleTime. To see whether they were made for your system, have a look at the file name of the package. They contain the abbreviated name and version of the Linux distribution they were made for. For example the package \"bibletime-1.2.2-1suse8.1.i586.rpm\" was made for SuSE 8.1 systems running on a i586 or higher."
+#~ msgstr "바이블타임의 RPM패키지들이 제공되고 있습니다. 파일의 이름을 통해 당신의 시스템을 위한 패키지들이 제공되고 있는지를 확인하십시오. 파일이름에는 리눅스 배포판의 이름과 버전등이 명시되어 있습니다. 예를 들어 \"bibletime-1.2.2-1suse8.1.i586.rpm\"은 i586이나 그이상의 SuSE 8.1시스템을 위한 것입니다."
+
+#~ msgid "The \"bibletime\" package contains the software and documentation in English. Translation files for both are to be found in the \"bibletime-i18n\" package."
+#~ msgstr "\"바이블타임\" 패키지는 프로그램과 영문 문서들을 포함합니다. 프로그램과 문서들의 번역판은 \"bibletime-i18n\" 패키지를 통해 제공되고 있습니다."
+
+#~ msgid "You can download BibleTime at <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">our sourceforge project pages</ulink>."
+#~ msgstr "바이블타임은 <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">sourceforge 프로젝트 페이지</ulink>에서 다운로드 하실 수 있습니다."
+
+#~ msgid "Installation"
+#~ msgstr "설치"
+
+#~ msgid "Please read the <olink targetdocent=\"documentation_installation_bibletime\">installation instructions</olink>."
+#~ msgstr "<olink targetdocent=\"documentation_installation_bibletime\">설치 명령어</olink>를 읽으십시오."
 
 #~ msgid "Get support"
 #~ msgstr "지원 얻기"
