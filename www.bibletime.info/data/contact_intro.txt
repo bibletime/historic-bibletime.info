@@ -1,0 +1,7 @@
+<H3>i18n("Contact the BibleTime team")</H3>
+
+<P>
+i18n("If you have questions, ideas for new functions or comments to something please use the links on this page to send them to the right place!")
+<br>
+i18n("The Contact pages have some links to other useful or important pages. If you'd like to put a link to www.bibletime.info on your own pages please have a look into the &raquo;Link to us&laquo; section.")
+</P>

@@ -1,0 +1,277 @@
+<!--
+www.bibletime.info: Server parsed page.
+-->
+
+<HTML>
+<HEAD>
+<TITLE>
+	<TMPL_VAR NAME="PAGE_TITLE">
+</TITLE>
+
+<!--Page specific meta tags-->
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="expires" content="0">
+
+<!--Normal meta tags for search engines-->
+<meta name="author" content="Joachim Ansorg < joachim @ ansorgs . de >">
+
+<meta name="description" lang="en" content="BibleTime is a bible study application for Linux using KDE.">
+<meta name="description" lang="de" content="BibleTime ist ein Bibelstudien Programm für Linux, das KDE benutzt.">
+
+<meta name="keywords" lang="en" content="Bible, KDE, BibleTime, Linux, God, christian, Crosswire, society, lexicon, dictionary, bible study, download, locked, module, Sword, sword">
+<meta name="keywords" lang="de" content="Bibel, KDE, BibleTime, Linux, Gott, Christen, Crosswire, Gesellschaft, Lexikon, Wörterbuch, Bibelstudium, Download, verschlüselt, Modul, Sword, sword">
+
+<meta name="date" content="2002-12-25">
+
+<!--Dublic Core meta tags-->
+
+<meta name="DC.Title" content="BibleTime">
+<meta name="DC.Creator" content="Joachim Ansorg">
+<meta name="DC.Subject" content="Bible study tool for Linux">
+<meta name="DC.Description" content="BibleTime is a bible study application for Linux">
+<meta name="DC.Publisher" content="BibleTime team">
+<meta name="DC.Date" content="2002-12-25">
+<meta name="DC.Type" content="Software">
+<meta name="DC.Format" content="text/html">
+<meta name="DC.Identifier" content="http://www.bibletime.info/">
+<meta name="DC.Language" content="en">
+<meta name="DC.Rights" content="Copyright by the BibleTime developers">
+
+<!--Search engine Robot rules-->
+<meta name="robots" content="follow">
+
+<style type="text/CSS">
+<!--
+body {
+	font-family:Verdana, Arial, Helevtica, sans-serif;
+}
+
+p {
+	text-align:justify;
+	margin-top:3px;
+	font-family:Verdana, Arial, Helevtica, sans-serif;
+}
+
+div.sidebar {
+	padding:3px;
+}
+
+div.sidebar_head {
+	padding:1px;
+ 	color: #140366;
+	font-family:Verdana, Arial, Helevtica, sans-serif;
+	font-size:10pt;
+	font-weight:bold;
+}
+
+div.sidebar_item {
+	padding-left:10px;
+	padding-top:1px;
+	padding-bottom:2px;
+	font-size:9pt;
+}
+
+table.news {
+	font-family:Verdana, Arial, Helevtica, sans-serif;
+	width:80%;
+	margin-bottom:20px;
+	padding: 2px;
+}
+
+table.guestbook_entry {
+	font-family:Verdana, Arial, Helevtica, sans-serif;
+	width:90%;
+	border: medium solid darkBlue;
+	align: center;
+}
+
+td.news_header {
+	padding:5px;
+	font-family:Verdana, Arial, Helevtica, sans-serif;
+	font-size:14pt;
+	font-weight:bold;
+	background-color:#F2F2F2;
+	border: thin solid black;
+}
+
+td.news_author {
+	font-family:Verdana, Arial, Helevtica, sans-serif;
+	font-size:small;
+}
+
+td.news_text {
+	font-family:Verdana, Arial, Helevtica, sans-serif;
+	padding-left:2px;
+}
+
+td.news_image {
+	padding:5px;
+}
+
+td.links_group {
+	background-color:#F0F0F0;
+	border-bottom:thin solid black;
+	padding:3px;
+}
+
+td.links_entry {
+
+}
+
+a:link {
+	font-weight:normal;
+	color:#000080;
+	text-decoration:none
+}
+a:visited {
+	font-weight:normal;
+	color:#000080;
+	text-decoration:none
+}
+a:hover {
+	font-weight:normal;
+	color:#2B70B1;
+	text-decoration:underline;
+}
+a:active {
+	font-weight:normal;
+	color:#2468B1;
+	text-decoration:none
+}
+a:focus {
+	font-weight:normal;
+	color:#000080;
+	text-decoration:none
+}
+
+h1 {
+	font-family:Verdana, Arial, Helevtica, sans-serif;
+	font-size:20pt;
+	font-weight:bold;
+	color:#140366;
+	text-align:left;
+}
+h2 {
+	font-family:Verdana, Arial, Helevtica, sans-serif;
+	font-size:17pt;
+	font-weight:bold;
+	color:#140366;
+	text-align:left;
+}
+h3 {
+	font-family:Verdana, Arial, Helevtica, sans-serif;
+	font-size:16px;
+	font-weight:bold;
+	color:#140366;
+	margin-bottom:2px;
+	padding-bottom:0px;
+	text-align:left;
+}
+h4 {
+font-family:Verdana, Arial, Helevtica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#140366;
+	text-align:left;
+}
+-->
+</style>
+
+</HEAD>
+
+<BODY BGCOLOR="white" TOPMARGIN="0" LEFTMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0">
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td><IMG SRC="/images/pagetop-left.png" width="350" height="86"></td><td align="right" width="156" background="/images/pagetop-right.png" valign="bottom" align="right">
+	<TMPL_LOOP NAME="FLAGS">
+		<A HREF="/index.cgi?page=<TMPL_VAR NAME="CURRENT_PAGE">&lang=<TMPL_VAR NAME="LANGUAGE"><TMPL_VAR NAME="EXTRA_PAGE_PARAMS">">
+		<IMG WIDTH="21" HEIGHT="14" STYLE="padding:2px;" BORDER="0" STYLE="padding:2px;" SRC="/images/flags/<TMPL_VAR NAME="LANGUAGE">.png"></A>
+	</TMPL_LOOP>
+	<!--Language link-->
+</td></tr></table>
+
+<TABLE WIDTH="100%" CELLSPACING="0" BORDER="0" CELLPADDING="0"> <!--äußerste Tabelle-->
+<TR><TD STYLE="height:1px;" HEIGHT="1" BGCOLOR="black" WIDTH="100%" COLSPAN="3"></TD></TR><!--Trennlinie über den Rubriken-->
+<TR><!--Zeile mit Rubriken-->
+	<TD STYLE="padding-left:5px;padding-right:5px;" ALIGN="center" VALIGN="center" BACKGROUND="/images/bar-top.png" HEIGHT="20" COLSPAN="3" WIDTH="100%" BGCOLOR="white">
+		<SPAN STYLE="font-size:15px;">
+  			<TMPL_LOOP NAME="MENU_TOP">
+      				<TMPL_VAR NAME="ITEM">
+   			</TMPL_LOOP>
+		</SPAN>
+	</TD>
+</TR>
+<TR><TD HEIGHT="1" BGCOLOR="black" WIDTH="100%" COLSPAN="3"></TD></TR><!--Trennlinie unter den Rubriken-->
+
+<TR ALIGN="left " VALIGN="top">
+<TD STYLE="background-image:url(/images/sidebar-bg.png); background-repeat:repeat-y;width:135px; max-width:135px;" BACKGROUND="/images/sidebar-bg.png" ALIGN="left" VALIGN="top">
+	<TABLE style="table-layout:fixed; width:135px;" WIDTH="135" CELLSPACING="0" BORDER="0" CELLPADDING="0">
+		<TR ALIGN="left " VALIGN="top">
+			<TD ALIGN="left" VALIGN="top">
+				<DIV class="sidebar">
+					<TMPL_VAR NAME="MENU_SIDEBAR">
+				</DIV>
+			</TD>
+		</TR>
+	</TABLE>
+</TD>
+
+<TD ALIGN="center" VALIGN="top" WIDTH="100%" ROWSPAN="2">
+	<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" STYLE="padding:10px;" width="100%">
+	<TR>
+	<TD ALIGN="left" VALIGN="top" WIDTH="100%">
+		<TMPL_VAR NAME="CONTENT">
+	</TD>
+	</TR>
+	</TABLE>
+</TD>
+
+<TD STYLE="background-image:url(/images/sidebar-right-bg.jpg); background-repeat:repeat-y; width:170px; padding:6px;" ALIGN="left" VALIGN="top" WIDTH="170" ROWSPAN="2">
+	<TABLE STYLE="table-layout:fixed; width:170px;" WIDTH="170" CELLSPACING="0" BORDER="0" CELLPADDING="0">
+<TMPL_IF NAME="DEVOTIONAL">
+	<TR>
+		<TD WIDTH="100%" ALIGN="left" VALIGN="top">
+				<TMPL_VAR NAME="DEVOTIONAL">
+		</TD>
+	</TR>
+</TMPL_IF>
+	
+	<TR>        <!-- The current poll on www.bibletime.info -->
+		<TD WIDTH="100%" ALIGN="left" VALIGN="top">
+			<TMPL_VAR NAME="POLL">
+		</TD>
+	</TR>
+
+
+	</TABLE>
+</TD>
+</TR>
+
+<!--       The counter for www.bibletime.info       -->
+<TR ALIGN="center " VALIGN="bottom">
+<TD STYLE="background-image:url(/images/sidebar-bg.png); background-repeat:repeat-y;width:135px; max-width:135px; padding-bottom:20px; padding-top:15px;" BACKGROUND="/images/sidebar-bg.png" ALIGN="center" VALIGN="bottom">
+		<IMG  SRC="http://cgicounter.puretec.de/cgi-bin/cnt?clsid=6bfe60d8ff2e9c56d7db8be538c054421" BORDER="0">
+		<!--
+		<br><br>
+		<IMG src="http://sourceforge.net/sflogo.php?group_id=954" width="88" height="31" border="0">
+		-->
+		<IMG src="http://sourceforge.net/sflogo.php?group_id=954" width="0" height="0" border="0">
+	</TD>
+</TR>
+
+<TR>
+	<TD STYLE="height:1px;" HEIGHT="1" BGCOLOR="black" WIDTH="100%" COLSPAN="3">
+	</TD>
+</TR><!--Trennlinie über den Rubriken-->
+<TR><!--Zeile am Ende der Seite-->
+	<TD BACKGROUND="/images/bar-bottom.png" STYLE="padding-left:5px;  padding-right:5px;" ALIGN="center" VALIGN="center" HEIGHT="20" COLSPAN="3" WIDTH="100%" BGCOLOR="white">
+		<CENTER>
+			<SMALL>
+				<TMPL_VAR NAME="COPYRIGHT">
+			</SMALL>
+		</CENTER>
+	</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>

@@ -1,0 +1,20 @@
+<H3>BibleTime development mailing list</H3>
+i18n("To subscribe to the development mailing list of the BibleTime project please visit the following web page and enter your eMail address there:")
+<a href="http://www.crosswire.org/mailman/listinfo/bt-devel">www.crosswire.org/mailman/listinfo/bt-devel</a>.
+<br>
+
+i18n("Archives of the BibleTime development mailing list are available at:")
+<a href="http://www.crosswire.org/pipermail/bt-devel/">www.crosswire.org/pipermail/bt-devel</a>
+
+<H3>Sword development mailing list</H3>
+
+i18n("To subscribe to the development mailing list of the Sword project please send an email to majordomo@crosswire.org with the body of the message containing subscribe sword-devel. Depending on your web browser, the following link may do this automatically:")
+<a href="mailto:majordomo@crosswire.org?&amp;body=subscribe%20sword-devel">majordomo@crosswire.org</a>
+
+<br>
+
+i18n("Archives of the Sword project development mailing list are available at:")&nbsp;
+<a href="http://www.bibletechnologieswg.org/cgi-bin/lwgate/sword-devel@crosswire.org">www.bibletechnologieswg.org/cgi-bin/lwgate/sword-devel@crosswire.org</a>
+
+<br>
+<br>

@@ -1,0 +1,24 @@
+i18n("On <A HREF="http://dot.kde.org/995302757"><b>dot.kde.org</b></A> Andreas Pour draws the following conclusion in his review:")
+<br>
+<P STYLE="padding-left:0.5cm;">
+Bibletime is already a true godsend for religious KDE users. It is easily useable though it may take a bit of time to learn some quirks. I think the next release will make it even better, particularly by providing a GUI for the difficult Sword installation/configuration. Besides this, my personal wishlist item is to use KHTML for its advanced navigation features.
+<BR>
+<SMALL>
+<B>i18n("Copyright of the review: &copy; 2001 Andreas "Dre" Pour. All rights reserved.")</B>
+</SMALL>
+</P>
+
+i18n("The german magazine &raquo;Pfarrer &amp; PC&laquo; reviewed Bible software for Linux which also covers BibleTime among &raquo;Gnomesword&laquo; and &raquo;Volksbibel 2000&laquo;. Their conclusion in german for BibleTime:")
+
+<P STYLE="padding-left:0.5cm;">
+Trotzdem: Alles dran, alles drin - BibleTime ist ein funktional wie optisch gelungenes Bibel-Programm, dem man unter Linux große Verbreitung wünschen darf. Ein wenig bedauerlich ist das copyrightbedingte Fehlen der »großen« zeitgenössischen Bibelübersetzungen. Dafür beschert BibleTime dem Nutzer Einblicke in selten genutzte Übersetzungen und ein gutes Handling griechischer und hebräischer Originaltexte.
+<BR>
+<SMALL>
+<B>
+	i18n("Copyright of the review: &copy; Pfarrer & PC 2002.")
+	i18n("The review is online at:") <A HREF="http://www.pfarrer-pc.de/magazin/2-02/art02-02-bibli.php">www.pfarrer-pc.de</A>
+</B>
+</SMALL>
+</P>
+
+

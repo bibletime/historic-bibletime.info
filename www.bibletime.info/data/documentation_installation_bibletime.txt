@@ -1,0 +1,62 @@
+<H3>i18n("Installation of BibleTime")</H3>
+i18n("This page explains how BibleTime should be installed.
+Please follow these steps to get a working installation of BibleTime quickly.")
+
+<H3>i18n("The two ways to install BibleTime")</H3>
+i18n("There are two possibilities to install BibleTime on your system:")
+<OL>
+	<LI>i18n("Install using prebuilt binary packages, like RPM or DEB")</LI>
+	<LI>i18n("Compile BibleTime from sources on your own system")</LI>
+</OL>
+i18n("We recommend the installation using the binary packages. It's the simplest way.")
+
+<H3>i18n("Prebuilt binary packages")</H3>
+i18n("We try to provide packages for the most important Linux distributions. These include RedHat, Mandrake and SuSE.")
+<P>
+i18n("First download the binary package for your Linux distribution. For example:")<BR>
+i18n("You want to download BibleTime 1.2.2 for SuSE Linux 8.1. In this case you have to download the package &raquo;bibletime-1.2.2-1suse8.1.i586.rpm&laquo;.")
+
+i18n("Please don't forgot to download the package bibletime-doc to get the documentation and the translations, which are available for BibleTime.")
+
+<!--
+i18n("If your native language is not english and BibleTime already supports it, you have to download the language package to have BibleTime installed in your own language.")
+i18n("For example: If you're german download the package bibletime-i18n-de.")
+-->
+</P>
+
+<P>
+i18n("As you can see each package name contains the Linux distribution and version is was built for. Please don't try to install a package on another system as it was built for.")
+</P>
+
+<P>
+i18n("You can download BibleTime here:") <A HREF="/software/download/">i18n("Download BibleTime")</A>.
+</P>
+
+<H3>i18n("Compilation from source code")</H3>
+<P>
+i18n("Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources:")
+
+<OL>
+	<LI>
+		i18n("Install the required software:") <A HREF="/documentation/requirements">i18n("BibleTime's requirements")</A>
+	</LI>
+	<LI>
+		i18n("Get the source code package of BibeTime:") <A HREF="/software/download">i18n("Download")</A>
+	</LI>
+	<LI>
+		i18n("Compile and install BibleTime:")
+		<br><br>
+		<CODE>
+		./configure --prefix=&lt;i18n("your KDE directory")&gt;<br>
+		make              <br>
+		make install              <br>
+		</CODE>
+		<br>
+		i18n("You can get your KDE directory by running the command ") <CODE>kde-config --prefix</CODE>.
+		<br>
+		i18n("If you get problems please read the FAQ here:") <A HREF="/documentation/faq">i18n("FAQ")</A>.
+		i18n("If there's no solution of your problem, please contact us at") <A HREF="mailto:info@bibletime.info">info @ bibletime.info</A>
+	</LI>
+</OL>
+
+</P>

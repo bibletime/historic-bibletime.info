@@ -1,0 +1,50 @@
+<H3>i18n("Join the BibleTime team")</H3>
+<P>
+i18n("We are glad for everybody who helps us improving the BibleTime software, it's documentation and it's translations.")
+</P>
+
+<H3>i18n("The basic steps") ...</H3>
+<P>
+i18n("The following are necessary for each type of team member. Please follow them!")
+	<OL>
+		<LI>i18n("If you don't have an account on SourceForge, please sign up for one. It's free.<BR>We need your username to add you to the team members, to assign tasks to you, etc.")</LI>
+		<LI>i18n("Subscribe to the BibleTime development mailing list. All developers read this mailing list, so everybody knows what's hapenning.")</LI>
+		<LI>i18n("Get the development version of BibleTime and install it. If you need help with this ask on the mailing list or look into the documentation section.")</LI>
+	</OL>
+</P>
+
+
+<H3>i18n("The next steps for software developers") ...</H3>
+<P>
+	<OL>
+		<LI>i18n("Work through some of the Qt 3 and KDE 3 tuorials to get used to programming with the things BibleTime uses.")</LI>
+		<LI>i18n("If you don't know what to do please ask on the mailing list for some tasks. Don't forget to add how difficult it should be.")</LI>
+	</OL>
+</P>
+
+
+<H3>i18n("The next steps for documentation authors") ...</H3>
+<P>
+	<OL>
+		<LI>i18n("Read the existing english documentation. It's located in the docs/ directory of the bibletime cvs directory.")</LI>
+		<LI>
+			i18n("The documentation is stored in docbook files in the unicode subdirectories of each documentation part (handbook, Bible study howto, installation, helpdialog).")
+			i18n("Please don't edit the HTML files directly because they're generated from the docbook files. The translation file are also generated from the docbook data.")
+		</LI>
+	</OL>
+</P>
+
+<H3>i18n("The next steps for translators") ...</H3>
+<P>
+	<OL>
+		<LI>
+			i18n("Have a look at the internationaliziation pages of the KDE project. They're located at:") <A HREF="http://i18n.kde.org/" TARGET="_blank">i18n.kde.org</A>
+		</LI>
+		<LI>
+			i18n("Install the program KBabel, if it's not yet installed on your system. It will help you a lot with the translation process.")
+		</LI>
+		<LI>
+			i18n("Request the files for the translation on the bt-devel mailinglist. Normally the software doordinator will create a new CVS module, which will contain the files you'll translate.")
+		</LI>
+	</OL>
+</P>

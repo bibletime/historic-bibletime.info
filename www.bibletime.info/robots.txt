@@ -1,0 +1,6 @@
+# robots.txt for www.bibletime.info
+
+User-agent: *
+Disallow: /data/
+Disallow: /po/
+Disallow: /dynamic-templates/

@@ -1,0 +1,7 @@
+<H3>i18n("BibleTime's development")</H3>
+
+<P>
+i18n("These pages describe how to join in the development of BibleTime and which ways exist to help us! BibleTime's quality and usefulness depends on the help of others to a large degree.")
+<br>
+i18n("Please read the following pages very carefully to see whether you can help us with the development!")
+</P>
