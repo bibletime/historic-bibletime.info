@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: ENCODING\n"
 
 #: index.docbook:10
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Mailinglists"
 msgstr "Mailinglisten"
 
@@ -31,7 +31,7 @@ msgstr "Um sich auf die Entwicklungs-Mailingliste des BibleTime Projektes einzut
 #: index.docbook:19
 #, no-c-format
 msgid "<ulink url=\"http://www.crosswire.org/mailman/listinfo/bt-devel\">www.crosswire.org/mailman/listinfo/bt-devel</ulink>."
-msgstr ""
+msgstr "<ulink url=\"http://www.crosswire.org/mailman/listinfo/bt-devel\">www.crosswire.org/mailman/listinfo/bt-devel</ulink>."
 
 #: index.docbook:23
 #, no-c-format
@@ -41,7 +41,7 @@ msgstr "Archive der BibleTime Entwiclungs Mailingliste sind verfügbar auf:"
 #: index.docbook:26
 #, no-c-format
 msgid "www.crosswire.org/pipermail/bt-devel"
-msgstr ""
+msgstr "www.crosswire.org/pipermail/bt-devel"
 
 #: index.docbook:31
 #, no-c-format
@@ -56,7 +56,7 @@ msgstr "Um sich auf die Entwicklungs-Mailingliste des Sword Projektes einzutrage
 #: index.docbook:36
 #, no-c-format
 msgid "<ulink url=\"http://www.crosswire.org/mailman/listinfo/sword-devel\">www.crosswire.org/mailman/listinfo/sword-devel</ulink>."
-msgstr ""
+msgstr "<ulink url=\"http://www.crosswire.org/mailman/listinfo/sword-devel\">www.crosswire.org/mailman/listinfo/sword-devel</ulink>."
 
 #: index.docbook:39
 #, no-c-format
@@ -66,4 +66,5 @@ msgstr "Archive der Sword Entwicklungs-Mailingliste sind verfügbar auf:"
 #: index.docbook:43
 #, no-c-format
 msgid "www.crosswire.org/pipermail/sword-devel"
-msgstr ""
+msgstr "www.crosswire.org/pipermail/sword-devel"
+
