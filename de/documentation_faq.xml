@@ -57,7 +57,7 @@
 				</question>
 				<answer>
 					<para
-> Bitte installieren Sie das Paket bibletime-doc, das die täglichen Tipps, das Handbuch, die Installationsanleitung und die Anleitung zum Bibelstudium enthält. </para>
+> Bitte installieren Sie das Paket bibletime-i18n, das die täglichen Tipps, das Handbuch, die Installationsanleitung und die Anleitung zum Bibelstudium enthält. </para>
 				</answer>
 			</qandaentry>
 
@@ -65,7 +65,7 @@
 
 		<qandadiv
 ><title
->Usage problems</title>
+>Benutzungsprobleme</title>
 			<qandaentry>
 				<question>
 					<para
@@ -90,7 +90,7 @@
 >www.crosswire.org/sword</ulink
 > for this. </para>
 					<para
-> Stellen Sie zuerst sicher, dass Sie die neuste Version des Modules installiert haben,  das die Probleme verursacht! Schauen Sie dafür auf www.crosswire.org/sword nach. Sie müssen eine Unicode-Schriftart wie Code2000, Arial Unicode MS oder Bitstream Cyberbit, damit die speziellen Unicode-Zeichen angezeigt werden können. Lesen Sie den Abschnitt "Bibletime konfigurieren->Einstellungsdialog->Schriften" im Handbuch von BibleTime um zu sehen, wie man Unicode-Schriften unter Linux einstellt. Eine Online-Version des Handbuchs ist auf ww.bibletime.info verfügbar. </para>
+> You have to install an unicode font like Code2000, Arial Unicode MS or Bitstream Cyberbit to display the special unicode characters. Check the section "Configuring BibleTime->Options Dialog->Fonts" in the handbook of BibleTime how to setup Unicode fonts under Linux. </para>
 				</answer>
 			</qandaentry>
 		</qandadiv>

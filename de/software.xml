@@ -19,13 +19,18 @@
 <section
 ><title
 >Willkommen zum BibleTime Projekt!</title>
+<para>
+		<inlinemediaobject>
+			<imageobject>
+				<imagedata fileref="/images/startuplogo.png" format="PNG" align="left"/>
+			</imageobject>
+		</inlinemediaobject>
+</para>
 <para
-> <inlinemediaobject
-> <imageobject
-> <imagedata fileref="/images/startuplogo.png" format="PNG" align="left"/> </imageobject
-> </inlinemediaobject
-> BibleTime is a Bible study application for Linux. We think that BibleTime is a useful tool for every christian using Linux! If you want to know more about BibleTime please read the &raquo;About BibleTime&laquo; pages: <olink targetdocent="software_about"
->About BibleTime</olink
+> BibleTIme ist ein Bibelstudienprogramm für Linux. Wir denken, dass BibleTime ein nützliches Werkzeug für jeden Christen ist, der Linux benutzt! </para>
+<para
+> Wenn Sie mehr über BibleTime wissen möchten, lesen Sie bitte die "Über BibleTime"  Seiten: <olink targetdocent="software_about"
+>Über BibleTime</olink
 > </para>
 
 </section>

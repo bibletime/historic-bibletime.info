@@ -19,14 +19,14 @@ msgid "Help us"
 msgstr "Helfen Sie uns"
 
 #: index.docbook:15
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Help us ..."
-msgstr "Helfen Sie uns"
+msgstr "Helfen Sie uns ..."
 
 #: index.docbook:16
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Our aim is to make BibleTime into a really mature Bible study application which should be used by christians to grow in their relationship with Him! To make this possible we need your help! It is possible to help us in many ways. Please read this page to whether you can help us improving the BibleTime software."
-msgstr "Um das möglich zu machen, benötigen wir ihre Hilfe! Es gibt viele Wege, dies zu tun. Bitte lesen Sie diese Seite, um zu sehen, ob Sie mithelfen können, BibleTime zu verbessern."
+msgstr "Unser Ziel ist es BibleTime in ein wirklich erwachsenes Programm zu verwandeln, dass von Christen benutzt werden soll um in der Beziehung mit IHM zu wachsen. Um das möglich zu machen benötigen wir ihre Hilfe! Sie können uns auf viele verschiedene Arten helfen.  Bitte lesen Sie diese Seite um zu sehen, ob sie mithelfen könnrn BibleTime zu verbessern."
 
 #: index.docbook:21
 #, no-c-format
@@ -41,12 +41,12 @@ msgstr "Beten ist etwas, was jeder tun kann. Wenn Sie für die Sword und BibleTi
 #: index.docbook:27
 #, no-c-format
 msgid "Do you know how to program software?"
-msgstr "Können Sie Software schreiben?"
+msgstr "Können Sie Software programmieren?"
 
 #: index.docbook:28
-#, fuzzy, no-c-format
-msgid "Do you know how to program in C++? Are you familiar with the KDE programming interface or are motivate to learn it? If you have time to regularly work on the BibleTime source code we ask you to join our team! If you want to join the team, please read the page &raquo;Join the team&laquo; in this section."
-msgstr "Können Sie in C++ programmieren? Kennen sie die KDE Programmierschnittstelle oder sind sie motiviert, sie zu lernen? Wenn Sie regelmäßig Zeit haben, am Quellcode von BibleTime zu arbeiten, bitten wir Sie unserem Team beizutreten!"
+#, no-c-format
+msgid "Do you know how to program in C++? Are you familiar with the KDE programming interface or are motivate to learn it? If you have time to regularly work on the BibleTime source code we ask you to join our team! If you want to join the team, please read the page \"Join the team\" in this section."
+msgstr "Können Sie in C++ programmieren? Kennen sie die KDE Programmierschnittstelle oder sind sie motiviert, diese zu lernen? Wenn Sie regelmäßig Zeit haben, am Quellcode von BibleTime zu arbeiten, bitten wir Sie unserem Team beizutreten; bitte lesen Sie die Seite \"Dem Team beitreten\"  in der aktuellen Rubrik."
 
 #: index.docbook:34
 #, no-c-format
@@ -54,21 +54,21 @@ msgid "Do you know how to write documentation?"
 msgstr "Wissen Sie, wie man Dokumentation schreibt?"
 
 #: index.docbook:35
-#, fuzzy, no-c-format
-msgid "Do you think you would be good in working on BibleTime's english documentation? If you think you are, please read the page &raquo;Join the team&laquo; in this section."
-msgstr "Wenn Sie denken, Sie wären es, lesen Sie bitte die Seite &raquo;Dem Team Beitreten&laquo; in diesem Abschnitt."
+#, no-c-format
+msgid "Do you think you would be good in working on BibleTime's english documentation? If you think you are, please read the page \"Join the team\" in this section."
+msgstr "Denken Sie, sie könnten an der englischen Dokumentation von BibleTime arbeiten? Wenn Sie denken, Sie könnten, lesen Sie bitte die Seite \"Dem Team Beitreten\"; in diesem Abschnitt."
 
 #: index.docbook:41
 #, no-c-format
 msgid "Are you good in translating english into another language?"
-msgstr "Können Sie gut Englisch in eine andere Sprache übersetzen?"
+msgstr "Können Sie Englisch gut in eine andere Sprache übersetzen?"
 
 #: index.docbook:42
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "BibleTime should be useable for everyone. That's why we need a translation into your language, if it's not yet available! If you decide to start working on a translation please contact us at info@bibletime.info to see whether the translation was not yet started by another team member. We will provide you with the files which should be translated."
-msgstr "Wenn Sie entschieden haben, an einer Übersetzung zu arbeiten, kontaktieren Sie uns bitte durch info@bibletime.info um zu erfahren, ob die Übersetzung nicht bereits von einem anderen begonnen wurde. Wir werden ihnen die Dateien schicken, die üersetzt werden müssen."
+msgstr "BibleTime soll für jeden benutzbar sien. Daher benötigen wir eine Übersetzung in ihre Sprache, falls diese noch nicht verfübar ist. Wenn Sie entschieden haben, an einer Übersetzung zu arbeiten, kontaktieren Sie uns bitte durch info@bibletime.info um zu erfahren, ob die Übersetzung nicht bereits von einem anderen begonnen wurde. Wir werden ihnen die Dateien schicken, die üersetzt werden müssen."
 
 #: index.docbook:47
 #, no-c-format
-msgid "Please use the KDE program called &raquo;KBabel&laquo; to translate the files! It's a good tool which simplifies the translation process"
-msgstr "Bitte benutzen Sie das KDE Programm &raquo;KBabel&laquo; um die Dateien zu übersetzen. Es  ist ein gutes Werkzeug für den Übersetzungsvorgang."
+msgid "Please use the KDE program called \"KBabel\" to translate the files! It's a good tool which simplifies the translation process"
+msgstr "Bitte benutzen Sie das KDE Programm \"KBabel\" um die Dateien zu übersetzen. Es  ist ein gutes Werkzeug für den Übersetzungsvorgang."

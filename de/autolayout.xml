@@ -2,7 +2,7 @@
 <!DOCTYPE autolayout PUBLIC "-//Norman Walsh//DTD Website Autolayout V2.4.1//EN" "http://docbook.sourceforge.net/release/website/2.4.1/schema/dtd/autolayout.dtd">
 <autolayout>
 <style title="Blue" src="blue.css" type="text/css"/><style title="Plain" src="plain.css" type="text/css"/><config param="text-prefix" value="txt_"/><copyright><year>1999</year><year>2000</year><year>2001</year><year>2002</year><year>2003</year><holder role="http://www.bibletime.info/">Die BibleTime Entwickler - <ulink url="http://www.bibletime.info/">www.bibletime.info</ulink></holder></copyright><toc page="index.xml" id="index" filename="no_index.html">
-<title>&#xDC;ber BibleTime</title>
+<title/>
 <summary>Introduction</summary>
 <tocentry page="software.xml" id="software" filename="index.html">
 <title>Software</title>
@@ -59,7 +59,7 @@
 <title>Installation</title>
 <summary>Introduction to the BibleTime software</summary>
 <tocentry page="documentation_installation_bibletime.xml" id="documentation_installation_bibletime" filename="documentation_installation_bibletime.html">
-<title>&#xDC;ber BibleTime</title>
+<title>BibleTime</title>
 <summary>Introduction to the BibleTime software</summary>
 </tocentry>
 <tocentry page="documentation_installation_sword.xml" id="documentation_installation_sword" filename="documentation_installation_sword.html">
@@ -101,7 +101,7 @@
 </tocentry>
 </tocentry>
 <tocentry page="biblehowto.docbook" id="biblehowto" filename="biblehowto.html">
-<title>Die Anleitung zum Bibelstudium</title>
+<title>Anleitung zum Bibelstudium</title>
 <summary>The BibleTime Biblestudy HowTo</summary>
 </tocentry>
 </toc>

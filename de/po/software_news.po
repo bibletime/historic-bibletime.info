@@ -19,9 +19,9 @@ msgid "News"
 msgstr "Neues"
 
 #: index.docbook:14
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "News about BibleTime"
-msgstr "Über BibleTime"
+msgstr "Neues über BibleTime"
 
 #: index.docbook:15
 #, no-c-format

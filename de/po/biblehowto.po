@@ -14,9 +14,9 @@ msgstr ""
 "Content-Transfer-Encoding: ENCODING\n"
 
 #: index.docbook:18
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Biblestudy HowTo"
-msgstr "Die Anleitung zum Bibelstudium"
+msgstr "Anleitung zum Bibelstudium"
 
 #: index.docbook:27
 #, no-c-format
@@ -76,7 +76,7 @@ msgstr "Die <application>Anleitung zum Bibelstudium</application> ist ein Handbu
 #: index.docbook:73
 #, no-c-format
 msgid "It is the hope of the &bibletime; team that this HowTo will provoke the readers to study the scriptures to see what they say. This particular study guide has been chosen as it takes care not to advocate any particular denominational doctrine. We expect you to read and study the scriptures to understand what they say. If you start with the attitude that you want to have the Lord sow his word in your heart He will not disappoint you."
-msgstr ""
+msgstr "Es ist die Hoffnung des &bibletime; Teams das diese Anleitung die Leser zum Studieren der Bibel bewegt, um zu sehen was die Bibel zu sagen hat. Genau die Anleitung wurde ausgewählt weil sie keine Werbung für irgendeine religiöse Gruppierung macht. Wir möchten von ihnen, dass Sie die Bibel studieren um zu verstehen, was darin steht. Wenn Sie mit der Erwartungdaran herangehen, dass Gott sein Wort in ihr Herz legen soll wird Er  Sie nicht enttäuschen."
 
 #: index.docbook:83
 #, no-c-format

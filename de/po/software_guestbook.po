@@ -25,8 +25,8 @@ msgstr "BibleTimes Gästebuch"
 
 #: index.docbook:15
 #, no-c-format
-msgid "This page shows BibleTime's guestbook. Please post your own comments if you like. Please write your comments in english if possible! HTML is not allowed and will be removed. You may use normal line breaks to divide into paragraphs."
-msgstr "Diese Seite zeigt BibleTimes Gästebuch. Bitte schreiben Sie uns ihre eigenen Kommentare, wenn Sie möchten. Schreiben Sie ihre Anmerkungen bitte in Englisch, wenn möglich."
+msgid "This page shows BibleTime's guestbook. Please post your own comments if you like. Please write your comments in English if possible! HTML is not allowed and will be removed. You may use normal line breaks to divide into paragraphs."
+msgstr "Diese Seite zeigt BibleTimes Gästebuch. Bitte schreiben Sie uns ihre eigenen Kommentare, wenn Sie möchten. Schreiben Sie ihre Anmerkungen bitte in Englisch, wenn möglich. HTML ist nicht erlaubt und wird entfernt. Sie können normale Zeilenumbrüche benutzen um den Text in Abschnitte einzuteilen."
 
 #~ msgid "The Sword CD"
 #~ msgstr "Die Sword CD"

@@ -37,7 +37,7 @@ msgstr ""
 #: index.docbook:20
 #, no-c-format
 msgid ""
-      "Put the following HTML-code on your pages: <programlisting>\n"
+      "Put the following HTML code on your pages: <programlisting>\n"
       "<![CDATA[\n"
       " <a href=\"http://www.bibletime.info/\" target=\"_blank\"><br/>\n"
       " <img src=\"http://www.bibletime.info/images/banner/big.jpg\" width=\"312\" height=\"60\" border=\"0\"/>\n"
@@ -54,7 +54,7 @@ msgstr ""
 #: index.docbook:43
 #, no-c-format
 msgid ""
-      "Put the following HTML-code on your pages: <programlisting>\n"
+      "Put the following HTML code on your pages: <programlisting>\n"
       "<![CDATA[\n"
       " <a href=\"http://www.bibletime.info/\" target=\"_blank\">\n"
       " <img src=\"http://www.bibletime.info/\" width=\"88\" height=\"31\" border=\"0\"/>\n"

@@ -24,7 +24,7 @@
 ><title
 >1. Großer Banner</title>
 <para
-> Put the following HTML-code on your pages: <programlisting>
+> Verwenden Sie den folgenden HTML Code auf ihren Seiten: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank"
 ><br/>
@@ -33,7 +33,7 @@
 ><br/>
 ]]>
 </programlisting
-> This will look like this: <ulink url="http://www.bibletime.info/"
+> Dies sieht dann wie folgt aus: <ulink url="http://www.bibletime.info/"
 > <mediaobject
 > <imageobject
 > <imagedata fileref="/images/banner/big.jpg" format="JPG"/> </imageobject
@@ -46,14 +46,14 @@
 ><title
 >2. Kleiner Banner</title>
 <para
-> Put the following HTML-code on your pages: <programlisting>
+> Setzen Sie den folgenden HTML Code auf ihre Seiten: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank">
  <img src="http://www.bibletime.info/" width="88" height="31" border="0"/>
  </a>
 ]]>
 </programlisting
-> This will look like this: <ulink url="http://www.bibletime.info/"
+> Dies sieht dann wie folgt aus: <ulink url="http://www.bibletime.info/"
 > <mediaobject
 > <imageobject
 > <imagedata fileref="/images/banner/small.jpg" format="JPG"/> </imageobject
@@ -67,15 +67,15 @@
 ><title
 >3. Textverweis</title>
 <para
-> To insert a simple text link please use the following HTML code on your pages: <programlisting>
+> Um einen einfachen Textverweis einzügen verwenden Sie bitte den folgenden HTML code auf ihren Seiten:: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" TARGET="_blank">
- BibleTime - Bible study software for KDE
+ BibleTime - Bibelsoftware für KDE
  </a>
 ]]>
 </programlisting
-> This will look like this: <ulink url="http://www.bibletime.info/"
->BibleTime - Bible study software for KDE</ulink
+> Dies sieht folgendermaßen aus: <ulink url="http://www.bibletime.info/"
+>BibleTime - Bibelsoftware für KDE</ulink
 > </para>
 </section>
 

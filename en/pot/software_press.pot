@@ -24,22 +24,32 @@ msgstr ""
 msgid "On <ulink url=\"http://dot.kde.org/995302757\">dot.kde.org</ulink> Andreas Pour draws the following conclusion in his review:"
 msgstr ""
 
-#: index.docbook:22
+#: index.docbook:21
+#, no-c-format
+msgid "Andreas Pour (&copy; 2001 Andreas \"Dre\" Pour. All rights reserved)"
+msgstr ""
+
+#: index.docbook:21
 #, no-c-format
 msgid "Bibletime is already a true godsend for religious KDE users. It is easily useable though it may take a bit of time to learn some quirks. I think the next release will make it even better, particularly by providing a GUI for the difficult Sword installation/configuration. Besides this, my personal wishlist item is to use KHTML for its advanced navigation features."
 msgstr ""
 
-#: index.docbook:29
+#: index.docbook:32
 #, no-c-format
-msgid "The german magazine &raquo;Pfarrer &amp; PC&laquo; reviewed Bible software for Linux which also covers BibleTime among &raquo;Gnomesword&laquo; and &raquo;Volksbibel 2000&laquo;. Their conclusion in german for BibleTime:"
+msgid "The German magazine \"Pfarrer &amp; PC\" reviewed Bible software for Linux which also covers BibleTime among \"Gnomesword\" and \"Volksbibel 2000\". Their conclusion in german for BibleTime:"
 msgstr ""
 
-#: index.docbook:34
+#: index.docbook:36
+#, no-c-format
+msgid "Pfarrer &amp; PC 2002 (&copy; Pfarrer &amp; PC 2002)"
+msgstr ""
+
+#: index.docbook:36
 #, no-c-format
 msgid "Trotzdem: Alles dran, alles drin - BibleTime ist ein funktional wie optisch gelungenes Bibel-Programm, dem man unter Linux große Verbreitung wünschen darf. Ein wenig bedauerlich ist das copyrightbedingte Fehlen der »großen« zeitgenössischen Bibelübersetzungen. Dafür beschert BibleTime dem Nutzer Einblicke in selten genutzte Übersetzungen und ein gutes Handling griechischer und hebräischer Originaltexte."
 msgstr ""
 
-#: index.docbook:40
+#: index.docbook:45
 #, no-c-format
 msgid "The review is online at: <ulink url=\"http://www.pfarrer-pc.de/magazin/2-02/art02-02-bibli.php\">www.pfarrer-pc.de</ulink>"
 msgstr ""

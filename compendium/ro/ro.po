@@ -1,18 +1,3 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2001-02-09 01:25+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: application/x-xml2pot; charset=utf-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
-
 msgid "Please enter your name and the comment! The entry was not added to the guestbook!"
 msgstr ""
 
@@ -131,7 +116,7 @@ msgid "Bible Technologies Group"
 msgstr "Bible Technologies Group"
 
 msgid "The home of the new common exchange Text format OSIS, which will hopefully be used by many Bible societies and publishers of the world."
-msgstr ""
+msgstr "Casa noului format de Text comun de schimb OSIS, care speram va fi folosit de multe societati Biblice si Edituri din intreaga lume."
 
 msgid "General christian pages"
 msgstr "Pagini crestine generale"
@@ -140,13 +125,13 @@ msgid "Crosswire Bible Society"
 msgstr "Crosswire Bible Society"
 
 msgid "The Crosswire Bible society is one of the few christian organizations in the world providing everything they make free for all!<BR>  Crosswire supports the Sword project, the KJV2003 project and some other cool things."
-msgstr ""
+msgstr "Societatea Crosswire Bible este una din putinele organizatii crestine din lume oferind tot ceea ce fac gratis pentru toti.<BR>Crosswire suporta proiectul Sword, proiectul KJV2003 si alte lucruri foarte frumoase."
 
 msgid "CLV - german publisher"
 msgstr "CLV - editor german"
 
 msgid "CLV is a German publisher offering free downloads of many of their published  books."
-msgstr ""
+msgstr "CLV este un editor german oferind download-uri gratis la multe din cartile lor publicate."
 
 msgid "Christian publishers"
 msgstr "Editori crestini"
@@ -170,7 +155,7 @@ msgid "BibleWorks"
 msgstr "BibleWorks"
 
 msgid "BibleWorks is one of the best Bible study applications for Windows!  <BR>  Very good but very expensive, too. Only useful for Bible scholars."
-msgstr ""
+msgstr "Bible Works este unul din cele mai bune programe de studiu biblic pentru Windows.<BR>Foarte bun, dar si foarte scump, deasemenea. Bun doar pentru studentii la seminare."
 
 msgid "Biblesoftware for Windows"
 msgstr "Programe de Biblie pentru Windows"
@@ -179,37 +164,37 @@ msgid "BibleWorkshop"
 msgstr "BibleWorkshop"
 
 msgid "The Bible Workshop program is a powerful Bible study application for Windows, which is available in english, german and french.<BR>  It's possible to enhance the Bible Workshop using Text libraries you can buy."
-msgstr ""
+msgstr "Programul \"Bible Workshop\" este un program de studiu biblic puternic pentru Windows, care este disponibil in engleza, germana si franceza.<BR>Este posibil sa imbunatatesti \"Bible Workshop\" folosind librarii Text pe care le poti cumpara."
 
 msgid "Logos"
 msgstr "Logos"
 
 msgid "Logos is one of the best Bible study applications for Windows.  <BR>  You can buy many, many texts to enhance it."
-msgstr ""
+msgstr "\"Logos\" este unul din cele mai bune programe de studiu biblic de sub Windows.<BR>Poti cumpara multe, multe texte pentru a-l imbunatati."
 
 msgid "OnlineBible"
 msgstr "OnlineBible"
 
 msgid "The online Bible is a powerful Bible study application for Windows."
-msgstr ""
+msgstr "OnlineBible este un puternic program de studiu pentru Windows."
 
 msgid "Sword for Windows"
 msgstr "Sword pentru Windows"
 
 msgid "This is the Windows Bible study application made by the Sword team!<BR>  Sword is supported by the Crosswire Bible Society."
-msgstr ""
+msgstr "Acesta este un program de studiu biblic pentru Windows creat de catre echipa Sword.<BR>Sword este acceptat de Societatea Biblica Crosswire."
 
 msgid "Volksbibel 2000.2"
 msgstr "Volksbibel 2000.2"
 
 msgid "Volksbibel 2000.2 is a german, metacard based software Bible study tool for Windows, Linux and Mac.<BR>  Althouth there are not so many texts as other software packages have, it has some cool things like basic map support included.  <BR>  If you are german try it out!"
-msgstr ""
+msgstr "Volksbibel 2002.2 este un program german, bazat pe metacard pentru Windows, Linux si Mac.<BR>Cu toate ca nu are tot atatea texte cate au celelalte programe, are unele lucruri interesante cum ar fi suportul pentru harti.<BR>Daca esti german, incearca-l!"
 
 msgid "MacSword for OS X"
 msgstr "MacSword pentru OS X"
 
 msgid "MacSword is a new Bible study application for the new Macintosh OS X system.<BR>  The screenshots look very promising!"
-msgstr ""
+msgstr "MacSword este un nou program de studiu biblic pentru noul sistem de operare Macintosh OS X.<BR>Screenshot-urile arata foarte promitator!"
 
 msgid "Bible software for Mac"
 msgstr "Programe de Biblie pentru Mac"
@@ -218,10 +203,10 @@ msgid "SourceForge"
 msgstr "SourceForge"
 
 msgid "SourceForge provides us with the tools to develop BibleTime with many team members at the same time! We save a lot of time and money by using their services.<BR>  "
-msgstr ""
+msgstr "SourceForge ne ofera noua numeroase ustensile in dezvoltarea BibleTeam cu mai multi membrii in acelasi timp! Salvam mult timp si bani, folosind serviciile lor."
 
 msgid "Development tools"
-msgstr ""
+msgstr "Unelte dezvoltare"
 
 msgid "&copy; 1999-2003 by the BibleTime project"
 msgstr "&copy; 1999-2003 proiectul BibleTime"
@@ -401,10 +386,10 @@ msgid "Contact the BibleTime team"
 msgstr "Contacteaza echipa BibleTime"
 
 msgid "If you have questions, ideas for new functions or comments to something please use the links on this page to send them to the right place!"
-msgstr ""
+msgstr "Daca aveti intrebari, idei pentru noi functii sau comentarii la ceva, va rugam sa folositi link-urile de pe aceasta pagina pentru a le trimite la locul potrivit!"
 
 msgid "The Contact pages have some links to other useful or important pages. If you'd like to put a link to www.bibletime.info on your own pages please have a look into the &raquo;Link to us&laquo; section."
-msgstr ""
+msgstr "Pafinile de Contact au unele link-uri sau alte pagini utile sau importante. Daca ai dori sa pui un link catre www.bibletime.info pe propria ta pagina, arunca o privire catre sectiunea &raquo;Legaturi catre noi&laquo;."
 
 msgid "Development introduction"
 msgstr ""
@@ -527,43 +512,43 @@ msgid "This screenshot shows some improvements of BibleTime 1.2!"
 msgstr "Aceasta imagine arata imbunatatirile din BibleTime 1.2!"
 
 msgid "As you can see hebrew, chinese, greek and latin characters are displayed correctly! The hebrew is now from right to left with included vowel points and cantilation marks! Chinese has now correct linebreaks! Greek and latin are shown as an demonstration of other languages."
-msgstr ""
+msgstr "Dupa cum vedeti, caracterele evreiesti, chineze si greci sunt afisate corect! Literele evreiesti sunt acum de la dreapta la stanga cu puncte pentru vocale si semne ale cantilatiei! Chineza are acum paragrafele corecte! Germana si greaca sunt aratate ca o demonstratie a celorlalte limbaje."
 
 msgid "This screenshot demonstrates one of the most important improvements: General Book Support (GBS)! As you can see, reading the book &quot;Imitation of Christ&quot; is possible now with BibleTime."
-msgstr ""
+msgstr "Acest screenshot demonstreaza una dintre cele mai importante imbunatatiri: General Book Support (GBS) (Suportul General pentru Carti)! Asa cum poti vedea, citirea cartii &quot;Imitatia lui Christos&quot; este posibila acum cu BibleTime."
 
 msgid "The book modules are available on the webpages of the Crosswire Bible Society!"
-msgstr ""
+msgstr "Modulele ce contin carti sunt disponibile de pe paginile web ale Crosswire Bible Society (Societatea Biblica Crosswire)."
 
 msgid "This screenshots shows the mainwindow of BibleTime 0.3! As you can see many things changed in the current versions."
-msgstr ""
+msgstr "Aceasta poza va arata fereastra principala a BibleTime 0.3! Asa cum vedeti multe lucruri s-au schimbat in versiunea curenta."
 
 msgid "We don't advise to use BibleTime 0.3! Use BibleTime 1.1 if you use KDE 2 and the most current version of BibleTime if you use KDE 3."
-msgstr ""
+msgstr "Nu va sfatuim sa folositi BibleTime 0.3! Folositi BibleTime 1.1 daca utilizati KDE 2 si cea mai noua versiune BibleTime daca aveti KDE 3."
 
 msgid "The main window of version 0.22! BibleTime 0.22 was for KDE 1, as you can 0.2 was usable, fast and easy to use but not as powerful as BibleTime 1.0 or later."
-msgstr ""
+msgstr "Fereastra principala din versiunea 0.22! BibleTime 0.22 a fost pentru KDE 1, asa cum 0.2 a fost utilizabila, rapida si usor de folosit, dar nu la fel de puternica precum BibleTime 1.0 sau versiunile ulterioare."
 
 msgid "As you can see everything changed in comparision with BibleTime 1.2. If you have a slow computer with KDE 1 installed, try to use BibleTime 0.2."
-msgstr ""
+msgstr "Dupa cum vedeti toate sau schimbat in comparatie cu BibleTime 1.2. Daca ai un calculator slab ce are KDE 1 instalat, incearca sa folosesti BibleTime 0.2."
 
 msgid "The BibleTime module gallery"
 msgstr "Galeria modulelor BibleTime"
 
 msgid "You can find some nice screenshots of BibleTime here, showing one or two text module(s) each. They demonstrate the powerful Unicode handling mechanisms of <A HREF=\"http://www.trolltech.com\">Trolltech's</A> QT 3. Some of the screenshots are really impressive and (at least) compare to expensive commercial bible software products."
-msgstr ""
+msgstr "Aici puteti gasi unele poze din BibleTime, aratandu-va unul sau doua module de text fiecare. Ele demonstreaza puterea de manuire a mecanismului Unicode <a href=\"http://www.trolltech.com\">Trolltech</a> QT 3. Unele poze sunt cu adevarat impresionante si (cel putin) comparative cu programe de studiu biblic comerciale si scumpe."
 
 msgid "Most of the screenshots were created using the superb Code2000 Unicode font. Click on the preview images to see a large and detailed version of each screenshot."
 msgstr "Multe din aceste imagini au fost create folosind superbul font Unicod Code2000. Da clic pe imaginile previzualizate pentru a vedea o versiune marita si detaliata a fiecarei imagini."
 
 msgid "<P>The <B>Peshitta</B> contains an early Syrian NT text, running from right to left.</p> <p>QT renders this text very nice with Code2000, which is one of the very few fonts that support syrian characters."
-msgstr ""
+msgstr "<B>Peshitta</b> contine un text timpuriu sirian al Noului Testament, fiind de la dreapta la stanga </p> <p>QT afiseaza acest text foarte frumos cu Code2000 care este unul din putinele font-uri care suporta caractere siriene."
 
 msgid "<P>The <B>BHS</B> (short for <I>Biblia Hebraica Stuttgartensia</I>), the best available text of the Hebrew Old Testament.</P> <P>As you can see, BibleTime renders the text correctly from right to left. Those of you who can read Hebrew will notice that the Vowel Points and the Cantillation Marks (you can switch both of them on and off) are displayed correctly. This (esp. the Cantillation Marks) is a feature that (as far as I know) no commercial project has."
-msgstr ""
+msgstr "<B>BHS</B> (denumirea scurta pentru<I>Biblia Hebraica Stuttgartensia</I>), cel mai bun text disponibil pentru Vechiul Testament in limba ebraica.</P><BR>Dupa cum se observa, BibleTime afiseaza textul corect, de la dreapta la stanga. Aceia dintre voi care pot citi in limba ebraica vor observa ca vocalizarea si semnele de cantitate (ambele pot fi pornite sau oprite) sunt afisate corect. Acestea (in special semnele de cantitate) sunt niste optiuni pe care (din cate cunosc) nici un proiect comercial nu le are."
 
 msgid "<p><B>AraSVD</B>: The Arabic Bible.</p> <p>Very nice example for right-to-left rendering of a complex script - Arabic is probably one of the most complicated scripts of the world. This screenshot was taken after linebreaks were switched off, providing a more readable text view."
-msgstr ""
+msgstr "<p><b>AraSVD</b>: Biblia Arabica.</p><p>Foarte frumos exemplu pentru desenarea de la dreapta la stanga a unor litere complexe. Araba este probabil una dintre cele mai complicate scrieri ale lumii. Aceasta poza a fost facuta dupa ce linebreaks-urile au fost inchise, facand mult mai usoara citirea textului."
 
 msgid "<p><B>ChiGU</B>: Chinese Bible text.</P><p>Since QT 3 BibleTime can correctly break the paragraphs (as you may know, there are no spaces between words)."
 msgstr ""
@@ -1328,14 +1313,38 @@ msgid "The poll wasn't found. Please report this to info@bibletime.info."
 msgstr ""
 
 msgid "Ukraine"
-msgstr ""
+msgstr "Ucraina"
 
 msgid "Developer Wiki area"
 msgstr ""
 
 msgid "Translators wanted for 1.3 release!"
-msgstr ""
+msgstr "Translatori doriti pentru versiunea 1.3!"
 
 msgid "<p>The user interface translations in the following languages need to be revised:<BR> <UL> <LI>Dutch (3% finished) <LI>French (69% finished) <LI>Hungarian (3% finished) <LI>Italian (21% complete) <LI>Norwegian (22% complete) <LI>Polish (39% complete) <LI>Romanian (73% complete) <LI>Russian (57% complete) </UL> </p>  <p>If you know English and one of the languages above please consider to help us! This would help to improve BibleTime and to make it available for more people! </p> <p> We already have complete translations in Bulgarian, Czech, German, Spanish, Finnish, Portoguese Brasilian and Slovak. If you speak another language which is not in the lists please contact us at info@bibleitme.info if you have the time to do a translation. </p> <p> The BibleTime 1.3 release is scheduled to be released in the next two weeks. </p>"
+msgstr "<p>Interfetele cu utilizatorii in urmatoarele limbi trebuiesc revizuite:<BR><UL> <LI>Olandeza (3% terminat) <LI>Franceza (69% terminat) <LI>Ungara (3% terminat) <LI>Italiana (21% terminat) <LI>Norvegiana (22% terminat) <LI>Poloneza (39% terminat) <LI>Romana (73% terminat) <LI>Rusa (57% terminat) </UL> </p> <p>Daca stii engleza si una din limbile de mai sus, te rog gandeste-te sa ne ajuti! Asta va ajuta imbunatatirea BibleTime si disponibilitatea lui pentru mai multi oameni! </p> <p> Deja avem traduceri complete in Bulgara, Ceha, Germana, Spaniola, Finlandeza, Portugeza Braziliana si Slovaca. Daca vorbesti o alta limba care nu este in liste te rog contacteaza-ne la info@bibleitme.info daca ai timp sa faci o traducere. </p> <p> BibleTime 1.3 este planificat sa fie lansat in urmatoarele doua saptamani. </p>"
+
+msgid "Thank you for your comments!"
+msgstr "Multumim pentru comentarii!"
+
+msgid "Your comments were sucessfully added to the guestbook! The BibleTime developers still have to check your comments if it's ok to post them. The comments will appear the next few days if nothing is wrong with them."
+msgstr ""
+
+msgid "BibleTime 1.3"
+msgstr ""
+
+msgid "Version 1.3 of BibleTime is finally available. BibleTime 1.3 contains a lot of new features, usability improvements and bug fixes.  Upgrading to version 1.3 is strongly recommended for all our users.  You can get the Software here: <a href=\"/software/download/\">Download</a>.  Binary packages will be released in the next few days.<br/>  Get the bibletime and the bibletime-i18n packages  for full functionality.  <br/>  We're very sorry for the long release time, we hope to shorten it with the next releases."
+msgstr "BibleTime 1.3 este in acest moment disponibil. BibleTime 1.3 contine multe optiuni noi, imbunatatiri si repara multe erori anterioare. Trecerea la versiunea 1.3 este recomandata tuturor utilizatorilor. Poti obtine programul aici: <a href=\"/software/download/\">Descarca</a>. Forma binara va aparea peste cateva zile. <br/> Foloseste pachetele biletime si bibletime-i18n pentru functionalitate deplina. <br/> Ne cerem scuze pentru timpul indelungat al aparitiei versiunii actuale, speram sa-l scurtam la versiunea viitoare."
+
+msgid "Please download the packages &raquo;bibletime&laquo; and  &raquo;bibletime-i18n&laquo;! Without the &raquo;bibletime-i18n&laquo; package you would have no handbook, daily tips or installation instructions."
+msgstr ""
+
+msgid "Only required if you do not install a precompiled binary package."
+msgstr ""
+
+msgid "Sword 1.5.6 or later"
+msgstr ""
+
+msgid "Please don't forgot to download the package bibletime-i18n to get the documentation and the translations, which are available for BibleTime."
 msgstr ""
 

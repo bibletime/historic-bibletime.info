@@ -69,9 +69,9 @@ msgid "Biblesoftware for Linux"
 msgstr "Bibelsoftware für Linux"
 
 #: index.docbook:43
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "<ulink url=\"http://gnomesword.sf.net/\">Gnomesword</ulink>."
-msgstr "<ulink url=\"http://gnomesword.sf.net/\">Gnomesword.</ulink>."
+msgstr "<ulink url=\"http://gnomesword.sf.net/\">Gnomesword</ulink>."
 
 #: index.docbook:44
 #, no-c-format
@@ -86,7 +86,7 @@ msgstr "Bibelsoftware für Windows"
 #: index.docbook:52
 #, no-c-format
 msgid "<ulink url=\"http://www.bibleworks.com/\">BibleWorks</ulink>."
-msgstr ""
+msgstr "<ulink url=\"http://www.bibleworks.com/\">BibleWorks</ulink>."
 
 #: index.docbook:53
 #, no-c-format
@@ -96,7 +96,7 @@ msgstr "BibleWorks ist eines der besten Bibelstudien-Programme für Windows!  Se
 #: index.docbook:58
 #, no-c-format
 msgid "<ulink url=\"http://www.bibleworkshop.com/\">BibleWorkshop</ulink>."
-msgstr ""
+msgstr "<ulink url=\"http://www.bibleworkshop.com/\">BibleWorkshop</ulink>."
 
 #: index.docbook:59
 #, no-c-format
@@ -106,7 +106,7 @@ msgstr "Das Bible Workshop Programm ist eine mächtiges Bibelstudien Anwendung f
 #: index.docbook:64
 #, no-c-format
 msgid "<ulink url=\"http://www.logos.com/\">Logos</ulink>."
-msgstr ""
+msgstr "<ulink url=\"http://www.logos.com/\">Logos</ulink>."
 
 #: index.docbook:65
 #, no-c-format
@@ -116,17 +116,17 @@ msgstr "Logos ist eine der besten Bibelstudienprogramm für Windows.Sie können 
 #: index.docbook:70
 #, no-c-format
 msgid "<ulink url=\"http://www.onlinebible.org/\">OnlineBible</ulink>."
-msgstr ""
+msgstr "<ulink url=\"http://www.onlinebible.org/\">OnlineBible</ulink>."
 
 #: index.docbook:71
 #, no-c-format
-msgid "The online Bible is a powerful Bible study application for Windows."
+msgid "The Online Bible is a powerful Bible study application for Windows."
 msgstr "Die Online Bibel ist ein mächtiges Bibelstudien Programm für Windows."
 
 #: index.docbook:76
 #, no-c-format
-msgid "<ulink url=\"http://www.bibleworkshop.com/\">Sword for Windows</ulink>."
-msgstr ""
+msgid "<ulink url=\"http://www.crosswire.org/sword/\">Sword for Windows</ulink>."
+msgstr "<ulink url=\"http://www.crosswire.org/sword/\">Sword für Windows</ulink>."
 
 #: index.docbook:77
 #, no-c-format
@@ -136,27 +136,27 @@ msgstr "Dies ist das Windows Bibelprogramm des Sword Teams! Sword wird von der C
 #: index.docbook:82
 #, no-c-format
 msgid "<ulink url=\"http://www.volksbibel.de/\">Volksbibel</ulink>."
-msgstr ""
+msgstr "<ulink url=\"http://www.volksbibel.de/\">Volksbibel</ulink>."
 
 #: index.docbook:83
 #, no-c-format
-msgid "Volksbibel 2000.2 is a german, metacard based software Bible study tool for Windows, Linux and Mac. Althouth there are not so many texts as other software packages have, it has some cool things like basic map support included. If you are german try it out!"
-msgstr "Volksbibel 2000.2 is ein deutsches, metacard basiertes Bibelstudien-Programm für Windows, Linux und Mac. Obwohl nicht so viele Texte wie bei anderen Software-Paketen verfügbar sind, verfügt das Programm über Dinge wie Grundlagen von Landkarten-Unterstützung. Wenn Sie Deutscher sind, probieren Sie es aus!"
+msgid "Volksbibel 2000.2 is a German, metacard based software Bible study tool for Windows, Linux and Mac. Althouth there are not so many texts as other software packages have, it has some cool things like basic map support included. If you are german try it out!"
+msgstr "Volksbibel 2000.2 ist ein deutsches, metacard basiertes Bibelstudien-Programm für Windows, Linux und Mac. Obwohl nicht so viele Texte wie bei anderen Software-Paketen verfügbar sind, verfügt das Programm über Dinge wie Grundlagen von Landkarten-Unterstützung. Wenn Sie Deutscher sind, probieren Sie es aus!"
 
 #: index.docbook:90
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Biblesoftware for Mac"
-msgstr "Bibelsoftware für den Mac"
+msgstr "Bibelsoftware für Macintosh"
 
 #: index.docbook:91
 #, no-c-format
 msgid "<ulink url=\"http://www.macsword.com/\">MacSword for OS X</ulink>."
-msgstr ""
+msgstr "<ulink url=\"http://www.macsword.com/\">MacSword für OS X</ulink>."
 
 #: index.docbook:92
 #, no-c-format
 msgid "MacSword is a new Bible study application for the new Macintosh OS X system. The screenshots look very promising!"
-msgstr "MacSword ist ein neues Bibelstudienprogramm für das neue Macintosh OS X System.Die Bildschirmfotos sehen sehr vielversprechend aus!"
+msgstr "MacSword ist ein neues Bibelstudienprogramm für das neue Macintosh OS X System. Die Bildschirmfotos sehen sehr vielversprechend aus!"
 
 #: index.docbook:99
 #, no-c-format
@@ -166,9 +166,9 @@ msgstr "Entwicklungs-Werkzeuge"
 #: index.docbook:100
 #, no-c-format
 msgid "<ulink url=\"http://www.sourceforge.net/\">SourceForge</ulink>."
-msgstr ""
+msgstr "<ulink url=\"http://www.sourceforge.net/\">SourceForge</ulink>."
 
 #: index.docbook:101
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "SourceForge provides us with the tools to develop BibleTime with many team members at the same time! We save a lot of time and money by using their services."
 msgstr "SourceForge  stellt uns die Werkzeuge zur Verfuegung um BibleTime mit vielen Team-Mitgliedern zur gleichen Zeit su entwickeln! Wie sparen eine Menge Zeit und Geld durch Benutzung des SourceForge Services."

@@ -14,9 +14,9 @@ msgstr ""
 "Content-Transfer-Encoding: ENCODING\n"
 
 #: index.docbook:13
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "BibleTime"
-msgstr "Über BibleTime"
+msgstr "BibleTime"
 
 #: index.docbook:18
 #, no-c-format

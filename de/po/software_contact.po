@@ -21,7 +21,7 @@ msgstr "Kontakt"
 #: index.docbook:15
 #, no-c-format
 msgid "How to contact us"
-msgstr ""
+msgstr "Wie man uns kontaktieren kann"
 
 #: index.docbook:16
 #, no-c-format
@@ -31,12 +31,12 @@ msgstr "Falls Sie Fragen, Ideen für neue Funktionen order Anregungen zu etwas h
 #: index.docbook:20
 #, no-c-format
 msgid "Send a Bug report"
-msgstr ""
+msgstr "Einen Fehlerbericht schicken"
 
 #: index.docbook:21
 #, no-c-format
 msgid "If you find bugs in BibleTime use this link to report it so it can be fixed in later versions."
-msgstr ""
+msgstr "Wenn Sie Fehler in BibleTime finden, benutzen Sie bitte diesen Link, damit die Fehler in späteren Versionen behoben werden können."
 
 #: index.docbook:26
 #, no-c-format
@@ -46,24 +46,24 @@ msgstr "Hilfe bekommen"
 #: index.docbook:27
 #, no-c-format
 msgid "If you have problems with BibleTime use this link to get support how to solve them."
-msgstr ""
+msgstr "Wenn Sie Probleme mit BibleTIme haben benutzen Sie bitte diesen Link um Hilfe zur Lösung zu bekommen."
 
 #: index.docbook:32
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Post a feature request"
 msgstr "Schicken Sie eine Funktions-Idee"
 
 #: index.docbook:33
 #, no-c-format
 msgid "If you have an idea how to improve BibleTime please use this link to tell about it!"
-msgstr ""
+msgstr "Wenn Sie eine Idee haben, wie man BibleTime verbessern kann, benutzen Sie bitte diesen Link um uns darauf aufmerksam zu machen!"
 
 #: index.docbook:38
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Report a website problem"
-msgstr "Seitenprobleme berichten"
+msgstr "Webseitenprobleme berichten"
 
 #: index.docbook:39
 #, no-c-format
-msgid "If you have problem with the webpages or if youhave some ideas how to improve them please write it down using the link!"
-msgstr ""
+msgid "If you have problem with the webpages or if you have some ideas how to improve them please write it down using the link!"
+msgstr "Wenn Sie Probleme mit den Internetseiten haben oder wenn Sie Verbesserungideen haben schicken Sie uns bitte diese mit diesem Link!"

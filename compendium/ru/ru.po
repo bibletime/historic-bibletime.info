@@ -1,16 +1,3 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: index\n"
-"POT-Creation-Date: 2001-02-09 01:25+0100\n"
-"PO-Revision-Date: 2003-07-17 10:37+0300\n"
-"Last-Translator: Vlad Savitsky <vlad_savitsky@mail.ru>\n"
-"Language-Team: ukrainian <uk@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: application/x-xml2pot; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0.1\n"
-
-
 msgid "About BibleTime"
 msgstr "О BibleTime"
 
@@ -195,7 +182,7 @@ msgid "Archives of the Sword development mailing list are available at:"
 msgstr "Архивы рассылки для разработчиков Sword можно найти здесь:"
 
 msgid "Our aim is to make BibleTime into a really mature Bible study application which should be used by christians to grow in their relationship with Him!"
-msgstr "Нашей целью является развитие BibleTime до уровня зрелой программы для изучения Бибилии, которая помогала бы христианам возрастать в своих отношениях с Богом!"
+msgstr "Нашей целью является развитие BibleTime до уровня зрелой программы для изучения Библии, которая помогала бы христианам возрастать в своих отношениях с Богом!"
 
 msgid "To make this possible we need your help! It is possible to help us in many ways. Please read this page to whether you can help us improving the BibleTime software."
 msgstr "Чтобы достичь этой цели нам нужна ваша помощь!  Для вас открыто множество возможностей.  Продолжайте читать, чтобы узнать каким образом вы можете улучшить програмный продукт BibleTime."
@@ -273,19 +260,19 @@ msgid "Read the existing english documentation. It's located in the docs/ direct
 msgstr "Прочитайте уже существующую документацию на английском языке.  Вы найдете ее в под-директории docs/ в директории bibletime cvs."
 
 msgid "The documentation is stored in docbook files in the unicode subdirectories of each documentation part (handbook, Bible study howto, installation, helpdialog)."
-msgstr ""
+msgstr "Документация сохранена в docbook-файлах в unicode поддиректории каждой части документации (handbook, Bible study howto, installation, helpdialog)."
 
 msgid "Please don't edit the HTML files directly because they're generated from the docbook files. The translation file are also generated from the docbook data."
-msgstr ""
+msgstr "Пожалуйста, не редактируйте непосредственно HTML-файлы, потому что они сгенерированы из docbook-файлов. Файл перевода также сгенерирован из docbook данных."
 
 msgid "The next steps for translators"
 msgstr "Последующие шаги для переводчиков"
 
 msgid "Have a look at the internationaliziation pages of the KDE project. They're located at:"
-msgstr ""
+msgstr "Просмотрите страницы по интернационализации проекта KDE: "
 
 msgid "Install the program KBabel, if it's not yet installed on your system. It will help you a lot with the translation process."
-msgstr ""
+msgstr "Установите программу KBabel, если она ещё не установлена на вашем компьютере. Она очень поможет Вам в процессе перевода."
 
 msgid "Request the files for the translation on the bt-devel mailinglist. Normally the software doordinator will create a new CVS module, which will contain the files you'll translate."
 msgstr ""
@@ -399,7 +386,7 @@ msgid "Turkey"
 msgstr ""
 
 msgid "United Kingdom"
-msgstr ""
+msgstr "Великобритания"
 
 msgid "Yugoslavia"
 msgstr ""
@@ -495,7 +482,7 @@ msgid "This screenshot shows some improvements of BibleTime 1.2!"
 msgstr "На этом скриншоте показаны некоторые улучшения в версии 1.2 BibleTime ."
 
 msgid "As you can see hebrew, chinese, greek and latin characters are displayed correctly! The hebrew is now from right to left with included vowel points and cantilation marks! Chinese has now correct linebreaks! Greek and latin are shown as an demonstration of other languages."
-msgstr "Как видите, BibleTime правильно отображает буквы иврита, китайского, греческого и латинского языков!  Тект на иврите отображается справа на лево вместе с гласными знаками vowel points and cantilation marks (ищу правильный перевод - прим. переводчика).  Китайский умеет правильно отображать обрыв строки.  Греческий и латинский показаны, как примеры других индо-европейских языков."
+msgstr "Как видите, BibleTime правильно отображает буквы иврита, китайского, греческого и латинского языков!  Текст на иврите отображается справа на лево вместе с гласными знаками vowel points and cantilation marks (ищу правильный перевод - прим. переводчика).  Китайский умеет правильно отображать обрыв строки.  Греческий и латинский показаны, как примеры других индо-европейских языков."
 
 msgid "This screenshot demonstrates one of the most important improvements: General Book Support (GBS)! As you can see, reading the book &quot;Imitation of Christ&quot; is possible now with BibleTime."
 msgstr ""
@@ -516,7 +503,7 @@ msgid "As you can see everything changed in comparision with BibleTime 1.2. If y
 msgstr ""
 
 msgid "The BibleTime module gallery"
-msgstr ""
+msgstr "Галерея модулей BibleTime"
 
 msgid "You can find some nice screenshots of BibleTime here, showing one or two text module(s) each. They demonstrate the powerful Unicode handling mechanisms of <A HREF=\"http://www.trolltech.com\">Trolltech's</A> QT 3. Some of the screenshots are really impressive and (at least) compare to expensive commercial bible software products."
 msgstr ""
@@ -669,7 +656,7 @@ msgid "Requirements since BibleTime 1.3"
 msgstr ""
 
 msgid "Sword 1.5.5 or later"
-msgstr ""
+msgstr "Sword 1.5.5 или старше."
 
 msgid "This page explains how to install the Sword library, which is required by BibleTime."
 msgstr "Эта страница объясняет шаги установки библиотеки Sword, которая необходима для пользования BibleTime."
@@ -720,7 +707,7 @@ msgid "If your native language is not english and BibleTime already supports it,
 msgstr ""
 
 msgid "For example: If you're german download the package bibletime-i18n-de."
-msgstr ""
+msgstr "Например: Если Вы - немец, то загружайте пакет bibletime-i18n-de."
 
 msgid "As you can see each package name contains the Linux distribution and version is was built for. Please don't try to install a package on another system as it was built for."
 msgstr "Как видите, название файла пакета включает дистрибуцию и версию, для которой этот пакет предназначен.  Пожалуйста, не пытайтесь установить пакет на дистрибуцию для которой он не предназначен."
@@ -831,10 +818,10 @@ msgid "Back to the BibleTime FAQ: "
 msgstr "Вернуться к FAQ BibleTime:"
 
 msgid "Please make sure that the Bible or commentary you selected contains both testaments (OT and NT). Some modules contain only the new testament (e.g. the GerBen  module). If the module has both the problem is probably caused by wrong permissions of the data files. Please set the right permissions of the file and directories.  <p />  The best solution is to create a group called sword and put in this group every user who wants to use  BibleTime  <p />  Now set read-write permissions for the group and change the ownership of every file in the Sword directory to root:sword.  <p />  Execute the following commands to solve the problems:  <p />  <ul>  <li> create a group called sword  </li>  <li> then:  <ul>  <li> cd &lt;your path to SWORD&gt;  </li>  <li> chown root:sword modules mods.d -R  </li>  <li> chmod a+r+X modules/ mods.d/ -R  </li>  <li> chmod g+r+w+X modules/ mods.d/ -R  </li>  <li> chmod u+r+w+X modules/ mods.d/ -R  </li>  </ul>  </li>  </ul>  <p />  These commands set the permission that everybody can read the files, but only the members of the group sword and the owner (root) can write to the files. You need write access for the personal commentary module.  <p />"
-msgstr ""
+msgstr "Пожалуйста, убедитесь что Библия или комментарии, которые вы выбрали, содержат оба Завета (Ветхий и Новый). Некоторые модули содержат только Новый Завет (напр., модуль GerBen). Если в модуле есть оба, то проблема вероятно в неверных установленных правах доступа к файлам данных. Пожалуйста, установите правильные права доступа для файлов и директорий.<p /> Лучшее решение - создать группу с именем sword и добавить к этой группе каждого пользователя, который хочет работать с BibleTime <p /> Теперь установите права чтения-записи для этой группы и измените владельца каждого файла в директории Sword на  root:sword. <p /> Выполните следующие команды для решения проблем: <p /> <ul> <li> создайте группу с именем sword </li> <li> затем: <ul> <li> cd &lt;ваш путь к SWORD&gt; </li> <li> chown root:sword modules mods.d -R </li> <li> chmod a+r+X modules/ mods.d/ -R </li> <li> chmod g+r+w+X modules/ mods.d/ -R </li> <li> chmod u+r+w+X modules/ mods.d/ -R </li> </ul> </li> </ul> <p /> Эти команды устанавливают права доступа так, что любой может читать эти файлы, но только члены группы sword и владелец (root) могут делать записи в эти файлы. Вам нужно право на запись для модуля личных комментариев. <p />"
 
 msgid "Please run configure with the parameter --prefix=&lt;your KDE directory&gt;. Then run make and make install as usual.     The KDE directories for the widely used Linux distributions are:  <OL>  	<LI>RedHat: /usr  	<LI>SuSE: /opt/kde3  	<LI>Mandrake: /usr  </OL>    Alternatively you can run the command &raquo;kde-config --prefix&laquo; to get your KDE directory.  The commands are:   <OL>  <LI><B>./configure --prefix=&lt;your KDE directory&gt; </B>  <LI><B>make </B>  <LI><B>make install </B>  </OL>"
-msgstr ""
+msgstr "Пожалуйста, запустите configure с параметром --prefix=&lt;ваша директория KDE &gt;. Затем запустите make и make install как обычно. Директории KDE для большинства дистрибутивов Linux следующие: <OL> <LI>RedHat: /usr <LI>SuSE: /opt/kde3 <LI>Mandrake: /usr </OL> Кроме того Вы можете запустить команду &raquo;kde-config --prefix&laquo; чтобы узнать Вашу KDE директорию. Команды следующие: <OL> <LI><B>./configure --prefix=&lt;ваша директория KDE &gt; </B> <LI><B>make </B> <LI><B>make install </B> </OL>"
 
 msgid "You need at least BibleTime 1.1 for this. Turn on the default usage of Strong's numbers in the optionsdialog (Sword->Filter settings). Then open the seachdialog and search for <0120> or any other Strong code."
 msgstr "Такой поиск позволяют версии 1.1 и выше.  Для этого включите использование номеров Стронга в окне \"Опции\" (Sword->Установки фильтра). Затем откройте окно поиска и введите номер <0120> или любой другой номер Стронга.<P>(На английском языке существует так называемый конкорданс Стронга (Strong's), в котором каждое слово Библии имеет свой номер для поиска всех его употреблений в оригинале и всех его вариантов перевода на английский язык - примечание переводчика)."
@@ -963,7 +950,7 @@ msgid "What is the Sword CD?"
 msgstr "Что такое Sword на компакт-диске?"
 
 msgid "The Sword project offers a CD which contains all the software for Windows, Linux and Mac OS X."
-msgstr ""
+msgstr "Проект Sword предлагает CD, который содержит все програмное обеспечение для  Windows, Linux и Mac OS X."
 
 msgid "The CD is freely available like all the other things the Crosswire Bible society is offering for you! See below how to download the CD."
 msgstr ""
@@ -975,13 +962,13 @@ msgid "If you're living in Europe the BibleTime developers send out the CDs to y
 msgstr ""
 
 msgid "What can I do with the CD?"
-msgstr ""
+msgstr "Зачем мне CD?"
 
 msgid "You can do several important things with the CD:"
-msgstr ""
+msgstr "Вы можете делать многие важные вещи с этим CD:"
 
 msgid "Study the Bible!"
-msgstr ""
+msgstr "Изучать Библию!"
 
 msgid "Use all the bibles, commentaries, lexicons, glossaries and books to study God's word! We hope, that the CD helps you to study the word in a more efficient way!"
 msgstr ""
@@ -993,13 +980,13 @@ msgid "Please copy the CD and share it with many others! If you can, please do t
 msgstr ""
 
 msgid "I want to download the Sword CD!"
-msgstr ""
+msgstr "Я хочу выкачать Sword CD!"
 
 msgid "No problem! Please download the file with the latest date from <A HREF=\"ftp://ftp.crosswire.org/pub/sword/iso/\">ftp.crosswire.org/pub/sword/iso/</A>."
 msgstr ""
 
 msgid "Don't forget that the file is over 600 MB large and that you should have a fast connection to download it."
-msgstr ""
+msgstr "Не забудьте, что этот файл имеет размер более 600 Мбайт и что Вам потребуется быстрое соединение, чтобы выгрузить его."
 
 msgid "I want to order the Sword CD!"
 msgstr ""
@@ -1011,25 +998,25 @@ msgid "If you're living somewhere in Europe the BibleTime developers will send y
 msgstr ""
 
 msgid "Your full name:"
-msgstr ""
+msgstr "Ваше полное имя:"
 
 msgid "Your street and number:"
-msgstr ""
+msgstr "Ваша улица, номер дома и квартиры:"
 
 msgid "Your town:"
-msgstr ""
+msgstr "Ваш город:"
 
 msgid "Your country:"
-msgstr ""
+msgstr "Ваша страна:"
 
 msgid "How many CDs do you want?"
-msgstr ""
+msgstr "Сколько вы хотите CD?"
 
 msgid "Your eMail address:"
-msgstr ""
+msgstr "Ваш адрес электронной почты:"
 
 msgid "Comments / Notes:"
-msgstr ""
+msgstr "Комментарии / Заметки:"
 
 msgid "Check order"
 msgstr ""
@@ -1038,25 +1025,25 @@ msgid "Reset order"
 msgstr ""
 
 msgid "Please check the information you entered:"
-msgstr ""
+msgstr "Пожалуйста, проверьте информацию,которую Вы ввели:"
 
 msgid "Street:"
-msgstr ""
+msgstr "Улица:"
 
 msgid "Town:"
-msgstr ""
+msgstr "Город:"
 
 msgid "Country:"
-msgstr ""
+msgstr "Страна:"
 
 msgid "Number of CDs:"
 msgstr ""
 
 msgid "Your comments:"
-msgstr ""
+msgstr "Ваш комментарий:"
 
 msgid "Is anything wrong there?"
-msgstr ""
+msgstr "Что-то неверно?"
 
 msgid "If anything is wrong in the information you provided please go back one page and correct it."
 msgstr ""
@@ -1116,7 +1103,7 @@ msgid "Biblesoftware for Linux"
 msgstr ""
 
 msgid "Gnomesword"
-msgstr ""
+msgstr "Gnomesword"
 
 msgid "Gnomesword is a Sword frontend using the Gnome toolkit. A really good application. Be sure to check it out!"
 msgstr ""
@@ -1311,7 +1298,7 @@ msgid "Russian"
 msgstr "Русский"
 
 msgid "We can recommend the following Bibles modules, which are in your language:"
-msgstr ""
+msgstr "Можем рекомендовать следующие библейские модули на вашем языке:"
 
 msgid "BibleTime is a Bible study tool for Linux and Unix systems using KDE"
 msgstr ""
@@ -1365,14 +1352,35 @@ msgid "The poll wasn't found. Please report this to info@bibletime.info."
 msgstr ""
 
 msgid "Translators wanted for 1.3 release!"
-msgstr ""
+msgstr "Требуются переводчики для версии 1.3!"
 
 msgid "<p>The user interface translations in the following languages need to be revised:<BR> <UL> <LI>Dutch (3% finished) <LI>French (69% finished) <LI>Hungarian (3% finished) <LI>Italian (21% complete) <LI>Norwegian (22% complete) <LI>Polish (39% complete) <LI>Romanian (73% complete) <LI>Russian (57% complete) </UL> </p>  <p>If you know English and one of the languages above please consider to help us! This would help to improve BibleTime and to make it available for more people! </p> <p> We already have complete translations in Bulgarian, Czech, German, Spanish, Finnish, Portoguese Brasilian and Slovak. If you speak another language which is not in the lists please contact us at info@bibleitme.info if you have the time to do a translation. </p> <p> The BibleTime 1.3 release is scheduled to be released in the next two weeks. </p>"
-msgstr ""
+msgstr "<p>Необходимо обновить перевод пользовательского интерфейса на такие языки:<BR><UL> <LI>Голландский (3% завершено) <LI>Французский( 69% завершено) <LI>Венгерский (3% завершено) <LI>Итальянский (21% завершено) <LI>Норвежский (22% завершено) <LI>Польский (39% завершено) <LI>Румынский (73% завершено) <LI>Русский (57% завершено) </UL> </p> <p>Если вы владеете английским языком пожалуйста подумайте о том, чтобы помочь нам! Ваш вклад улучшит BibleTime и сделает эту програму доступной людям! </p> <p> Уже завершены переводы програмы на болгарский, чешский, немецкий, испанский, финский, бразильский португальский и словацкий. Если вы владеете языком, который еще не представлен в BibleTime пожалуйста свяжитесь с нами по адресу info@bibleitme.info если вы можете уделить время переводу. </p> <p> Выход BibleTime 1.3 планируется в следующие несколько недель. </p>"
 
 msgid "Ukraine"
-msgstr ""
+msgstr "Украина"
 
 msgid "Developer Wiki area"
+msgstr "Wiki уголок разработчика "
+
+msgid "Please enter a correct amount of CD copies."
+msgstr ""
+
+msgid "BibleTime 1.3"
+msgstr ""
+
+msgid "Version 1.3 of BibleTime is finally available. BibleTime 1.3 contains a lot of new features, usability improvements and bug fixes.  Upgrading to version 1.3 is strongly recommended for all our users.  You can get the Software here: <a href=\"/software/download/\">Download</a>.  Binary packages will be released in the next few days.<br/>  Get the bibletime and the bibletime-i18n packages  for full functionality.  <br/>  We're very sorry for the long release time, we hope to shorten it with the next releases."
+msgstr ""
+
+msgid "Please download the packages &raquo;bibletime&laquo; and  &raquo;bibletime-i18n&laquo;! Without the &raquo;bibletime-i18n&laquo; package you would have no handbook, daily tips or installation instructions."
+msgstr ""
+
+msgid "Please don't forgot to download the package bibletime-i18n to get the documentation and the translations, which are available for BibleTime."
+msgstr ""
+
+msgid "Only required if you do not install a precompiled binary package."
+msgstr ""
+
+msgid "Sword 1.5.6 or later"
 msgstr ""
 

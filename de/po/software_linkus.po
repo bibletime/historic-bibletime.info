@@ -29,14 +29,14 @@ msgid "Please do not copy the images because they may change their design."
 msgstr "Bitte kopieren Sie nicht die Bilder, da sie das Design verändern könnten."
 
 #: index.docbook:19
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Larger banner"
 msgstr "1. Großer Banner"
 
 #: index.docbook:20
 #, no-c-format
 msgid ""
-"Put the following HTML-code on your pages: <programlisting>\n"
+"Put the following HTML code on your pages: <programlisting>\n"
 "<![CDATA[\n"
 " <a href=\"http://www.bibletime.info/\" target=\"_blank\"><br/>\n"
 " <img src=\"http://www.bibletime.info/images/banner/big.jpg\" width=\"312\" height=\"60\" border=\"0\"/>\n"
@@ -44,16 +44,23 @@ msgid ""
 "]]>\n"
 "</programlisting> This will look like this: <ulink url=\"http://www.bibletime.info/\"> <mediaobject> <imageobject> <imagedata fileref=\"/images/banner/big.jpg\" format=\"JPG\"/> </imageobject> </mediaobject> </ulink>"
 msgstr ""
+"Verwenden Sie den folgenden HTML Code auf ihren Seiten: <programlisting>\n"
+"<![CDATA[\n"
+" <a href=\"http://www.bibletime.info/\" target=\"_blank\"><br/>\n"
+" <img src=\"http://www.bibletime.info/images/banner/big.jpg\" width=\"312\" height=\"60\" border=\"0\"/>\n"
+" </a><br/>\n"
+"]]>\n"
+"</programlisting> Dies sieht dann wie folgt aus: <ulink url=\"http://www.bibletime.info/\"> <mediaobject> <imageobject> <imagedata fileref=\"/images/banner/big.jpg\" format=\"JPG\"/> </imageobject> </mediaobject> </ulink>"
 
 #: index.docbook:42
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Smaller banner"
 msgstr "2. Kleiner Banner"
 
 #: index.docbook:43
 #, no-c-format
 msgid ""
-"Put the following HTML-code on your pages: <programlisting>\n"
+"Put the following HTML code on your pages: <programlisting>\n"
 "<![CDATA[\n"
 " <a href=\"http://www.bibletime.info/\" target=\"_blank\">\n"
 " <img src=\"http://www.bibletime.info/\" width=\"88\" height=\"31\" border=\"0\"/>\n"
@@ -61,9 +68,16 @@ msgid ""
 "]]>\n"
 "</programlisting> This will look like this: <ulink url=\"http://www.bibletime.info/\"> <mediaobject> <imageobject> <imagedata fileref=\"/images/banner/small.jpg\" format=\"JPG\"/> </imageobject> </mediaobject> </ulink>"
 msgstr ""
+"Setzen Sie den folgenden HTML Code auf ihre Seiten: <programlisting>\n"
+"<![CDATA[\n"
+" <a href=\"http://www.bibletime.info/\" target=\"_blank\">\n"
+" <img src=\"http://www.bibletime.info/\" width=\"88\" height=\"31\" border=\"0\"/>\n"
+" </a>\n"
+"]]>\n"
+"</programlisting> Dies sieht dann wie folgt aus: <ulink url=\"http://www.bibletime.info/\"> <mediaobject> <imageobject> <imagedata fileref=\"/images/banner/small.jpg\" format=\"JPG\"/> </imageobject> </mediaobject> </ulink>"
 
 #: index.docbook:66
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Text link"
 msgstr "3. Textverweis"
 
@@ -78,3 +92,10 @@ msgid ""
 "]]>\n"
 "</programlisting> This will look like this: <ulink url=\"http://www.bibletime.info/\">BibleTime - Bible study software for KDE</ulink>"
 msgstr ""
+"Um einen einfachen Textverweis einzügen verwenden Sie bitte den folgenden HTML code auf ihren Seiten:: <programlisting>\n"
+"<![CDATA[\n"
+" <a href=\"http://www.bibletime.info/\" TARGET=\"_blank\">\n"
+" BibleTime - Bibelsoftware für KDE\n"
+" </a>\n"
+"]]>\n"
+"</programlisting> Dies sieht folgendermaßen aus: <ulink url=\"http://www.bibletime.info/\">BibleTime - Bibelsoftware für KDE</ulink>"

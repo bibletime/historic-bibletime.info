@@ -4,31 +4,32 @@
   <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="generator" content="Website XSL Stylesheet V0.1&#10;" /><link rel="home" href="no_index.html" title="BibleTime" /><link rel="up" href="modules.html" title="Modules" /><link rel="previous" href="modules.html" title="Modules" /><link rel="next" href="development.html" title="Development" /><link rel="stylesheet" href="blue.css" type="text/css" title="Blue" /><link rel="stylesheet" href="plain.css" type="text/css" title="Plain" />
 <title>www.bibletime.info: Sword CD</title>
 
-<meta name="keyword" content="BibleTime, Modules, Sword, CD" />
+<meta name="keyword" content="BibleTime, Modules, Sword, CD, CD Order, CD, Order" />
 </head>
   <body>
     <div id="header">
-      <img src="/images/pagetop-right.png" />
+      <img height="86" class="left" alt="left" src="/images/pagetop-left.png" />
+      <img height="86" class="right" alt="right" src="/images/pagetop-right.png" />
       <div id="flags">
-        <a title="en" href="/en/">
+        <a alt="en" title="en" href="/en/">
           <img src="/images/flags/en.png" />
         </a>
-        <a title="de" href="/de/">
+        <a alt="de" title="de" href="/de/">
           <img src="/images/flags/de.png" />
         </a>
-        <a title="pt-br" href="/pt-br/">
+        <a alt="pt-br" title="pt-br" href="/pt-br/">
           <img src="/images/flags/pt-br.png" />
         </a>
-        <a title="ro" href="/ro/">
+        <a alt="ro" title="ro" href="/ro/">
           <img src="/images/flags/ro.png" />
         </a>
-        <a title="ru" href="/ru/">
+        <a alt="ru" title="ru" href="/ru/">
           <img src="/images/flags/ru.png" />
         </a>
-        <a title="ua" href="/ua/">
+        <a alt="ua" title="ua" href="/ua/">
           <img src="/images/flags/ua.png" />
         </a>
-        <a href="/">
+        <a alt="newlang" href="/">
           <img src="/images/flags/new-lang.png" />
         </a>
       </div>
@@ -95,12 +96,12 @@
           </div>
           <div id="rightpanel"></div>
           <div id="content">
-            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821808"></a>What is the Sword CD?</h2></div></div><div></div></div>
+            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821844"></a>What is the Sword CD?</h2></div></div><div></div></div>
 <p>
 The Sword project offers a CD which contains all the software for Windows, Linux and Mac OS X. The CD is freely available like all the other things the Crosswire Bible society is offering for you! See below how to download the CD. If you can't download the CD, for example because you don't have a fast connection, you can order the CD. If you're living in Europe the BibleTime developers send out the CDs to you. In this case please fill out the form below and send it away.
 </p>
 </div>
-            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821828"></a>What can I do with the CD?</h2></div></div><div></div></div>
+            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821864"></a>What can I do with the CD?</h2></div></div><div></div></div>
 <p>
 You can do several important things with the CD:
 </p><div class="itemizedlist"><ul><li>
@@ -118,17 +119,17 @@ You can do several important things with the CD:
 	</li></ul></div><p>
 </p>
 </div>
-            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821883"></a>I want to download the Sword CD!</h2></div></div><div></div></div>
+            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821919"></a>I want to download the Sword CD!</h2></div></div><div></div></div>
 <p>
 No problem! Please download the file with the latest date from <a href="ftp://ftp.crosswire.org/pub/sword/iso/" target="_top">ftp.crosswire.org/pub/sword/iso/</a>. Don't forget that the file is over 600 MB large and that you should have a fast connection to download it.
 </p>
 </div>
-            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821907"></a>I want to order the Sword CD!</h2></div></div><div></div></div>
+            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821942"></a>I want to order the Sword CD!</h2></div></div><div></div></div>
 <p>
 If you're NOT living in Europe please go to the Crosswire's CD order page and order the CD there. If you're living somewhere in Europe the BibleTime developers will send you the CD. Please fill in the required information in the form below and send it. The BibleTime developers will send you the CDs for free.
 </p>
 </div>
-            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821924"></a>The Sword CD</h2></div></div><div></div></div>
+            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821959"></a>The Sword CD</h2></div></div><div></div></div>
 <!--#exec cgi="/swordcd.pl"-->
 </div>
           </div>

@@ -54,6 +54,7 @@ sub update_po_files() {
 	while (my $file = readdir(DIR)) {
 		next unless ($file =~ /(\.xml|\.docbook)$/);
 		next if ($file eq "catalog.xml");
+		next if ($file eq "index.xml");
 		next if ($file eq "autolayout.xml");
 
 		my $pofile = $dest . $file;
@@ -221,13 +222,15 @@ sub run_make() {
 
 my $lang = $ARGV[0] || die "Please give a language to work on!";
 
+#required for all languages
+&update_pot_files($ENV{"PWD"} . "/en",  $ENV{"PWD"} . "/en/pot/");
+
 while ($lang = shift(@ARGV)) {
 	if ($lang eq "en") {
 		next;
 	}
 
 	print "Working on $lang ...\n";
-	&update_pot_files($ENV{"PWD"} . "/en",  $ENV{"PWD"} . "/en/pot/");
 	&update_po_files($ENV{"PWD"}. "/en",  $ENV{"PWD"} . "/$lang/po/", $ENV{"PWD"} . "/en/pot/",$lang);
 	&make_xml_files($ENV{"PWD"}. "/en", $ENV{"PWD"} . "/$lang/po/", $ENV{"PWD"} . "/$lang/");
 	&make_makefile("$lang");

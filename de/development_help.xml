@@ -17,9 +17,9 @@
 
 <section
 ><title
->Helfen Sie uns</title>
+>Helfen Sie uns ...</title>
 <para
-> Um das möglich zu machen, benötigen wir ihre Hilfe! Es gibt viele Wege, dies zu tun. Bitte lesen Sie diese Seite, um zu sehen, ob Sie mithelfen können, BibleTime zu verbessern. </para>
+> Unser Ziel ist es BibleTime in ein wirklich erwachsenes Programm zu verwandeln, dass von Christen benutzt werden soll um in der Beziehung mit IHM zu wachsen. Um das möglich zu machen benötigen wir ihre Hilfe! Sie können uns auf viele verschiedene Arten helfen.  Bitte lesen Sie diese Seite um zu sehen, ob sie mithelfen könnrn BibleTime zu verbessern. </para>
 
 <section
 ><title
@@ -30,26 +30,26 @@
 
 <section
 ><title
->Können Sie Software schreiben?</title>
+>Können Sie Software programmieren?</title>
 <para
-> Können Sie in C++ programmieren? Kennen sie die KDE Programmierschnittstelle oder sind sie motiviert, sie zu lernen? Wenn Sie regelmäßig Zeit haben, am Quellcode von BibleTime zu arbeiten, bitten wir Sie unserem Team beizutreten! </para>
+> Können Sie in C++ programmieren? Kennen sie die KDE Programmierschnittstelle oder sind sie motiviert, diese zu lernen? Wenn Sie regelmäßig Zeit haben, am Quellcode von BibleTime zu arbeiten, bitten wir Sie unserem Team beizutreten; bitte lesen Sie die Seite "Dem Team beitreten"  in der aktuellen Rubrik. </para>
 </section>
 
 <section
 ><title
 >Wissen Sie, wie man Dokumentation schreibt?</title>
 <para
-> Wenn Sie denken, Sie wären es, lesen Sie bitte die Seite &raquo;Dem Team Beitreten&laquo; in diesem Abschnitt. </para>
+> Denken Sie, sie könnten an der englischen Dokumentation von BibleTime arbeiten? Wenn Sie denken, Sie könnten, lesen Sie bitte die Seite "Dem Team Beitreten"; in diesem Abschnitt. </para>
 </section>
 
 <section
 ><title
->Können Sie gut Englisch in eine andere Sprache übersetzen?</title>
+>Können Sie Englisch gut in eine andere Sprache übersetzen?</title>
 <para
-> Wenn Sie entschieden haben, an einer Übersetzung zu arbeiten, kontaktieren Sie uns bitte durch info@bibletime.info um zu erfahren, ob die Übersetzung nicht bereits von einem anderen begonnen wurde. Wir werden ihnen die Dateien schicken, die üersetzt werden müssen. </para>
+> BibleTime soll für jeden benutzbar sien. Daher benötigen wir eine Übersetzung in ihre Sprache, falls diese noch nicht verfübar ist. Wenn Sie entschieden haben, an einer Übersetzung zu arbeiten, kontaktieren Sie uns bitte durch info@bibletime.info um zu erfahren, ob die Übersetzung nicht bereits von einem anderen begonnen wurde. Wir werden ihnen die Dateien schicken, die üersetzt werden müssen. </para>
 
 <para
-> Bitte benutzen Sie das KDE Programm &raquo;KBabel&laquo; um die Dateien zu übersetzen. Es  ist ein gutes Werkzeug für den Übersetzungsvorgang. </para>
+> Bitte benutzen Sie das KDE Programm "KBabel" um die Dateien zu übersetzen. Es  ist ein gutes Werkzeug für den Übersetzungsvorgang. </para>
 </section>
 </section>
 
