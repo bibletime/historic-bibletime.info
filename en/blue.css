@@ -3,7 +3,6 @@ html, body {
 	margin:0px;
 }
 
-
 body, p, h1, h2, h3, h4, h5, h6, a:link, a:visited, a:hover, a:active, a:focus {
 	font-family:Verdana, Arial, Tahoma, Helevtica, sans-serif;
 }
@@ -40,27 +39,27 @@ a:focus {
 }
 
 h1 {
-	font-size:1.2em;
-}
-
-h2 {
 	font-size:1.1em;
 }
 
-h3 {
-	font-size:1.08em;
+h2 {
+	font-size:1.07em;
 }
 
-h4 {
+h3 {
 	font-size:1.04em;
 }
 
+h4 {
+	font-size:1.1em;
+}
+
 h5 {
-	font-size:1.02em;
+	font-size:1.0em;
 }
 
 h6 {
-	font-size:1.01em;
+	font-size:0.97em;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -149,6 +148,7 @@ textarea:focus {
 	padding:0px 0px 0px 3px;
 	margin-right:0px;
 	margin-top:10px;
+	font-size:0.95em;
 }
 
 #navigation .toplevel {
@@ -184,6 +184,7 @@ textarea:focus {
 
 #navigation .curpage {
 	color:black;
+	font-size:0.9em;
 	background-color:transparent;
 }
 

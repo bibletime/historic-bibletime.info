@@ -173,10 +173,9 @@ sub make_makefile() {
 	print "Creating Makefile\n";
 
 	#copy all required files!
-	`cp -R $dest/../en/schema $dest/../en/xsl $dest/`;
-	`cp $dest/../en/catalog.xml $dest/../en/VERSION $dest/`;
+	#`cp -R $dest/../en/schema $dest/../en/xsl $dest/`;
+	#cp $dest/../en/catalog.xml $dest/../en/VERSION $dest/`;
 	#`cp $dest/../en/*.css $dest/`;
-	#`cp $dest/../software_guestbook.xml $dest/`;
 
 	open(OUT, "> $dest/Makefile");
 
@@ -223,6 +222,10 @@ sub run_make() {
 my $lang = $ARGV[0] || die "Please give a language to work on!";
 
 while ($lang = shift(@ARGV)) {
+	if ($lang eq "en") {
+		next;
+	}
+
 	print "Working on $lang ...\n";
 	&update_pot_files($ENV{"PWD"} . "/en",  $ENV{"PWD"} . "/en/pot/");
 	&update_po_files($ENV{"PWD"}. "/en",  $ENV{"PWD"} . "/$lang/po/", $ENV{"PWD"} . "/en/pot/",$lang);

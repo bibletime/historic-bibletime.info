@@ -4,7 +4,7 @@
   <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="generator" content="Website XSL Stylesheet V0.1&#10;" /><link rel="home" href="no_index.html" title="BibleTime" /><link rel="up" href="index.html" title="Software" /><link rel="previous" href="software_contact.html" title="Contact" /><link rel="next" href="software_links.html" title="Links" /><link rel="first" href="software_about.html" title="About BibleTime" /><link rel="last" href="software_license.html" title="License" /><link rel="stylesheet" href="blue.css" type="text/css" title="Blue" /><link rel="stylesheet" href="plain.css" type="text/css" title="Plain" />
 	<title>www.bibletime.info: Guestbook</title>
 	
-	<meta name="keyword" content="BibleTime, Guestbook" />
+	<meta name="keyword" content="BibleTime, Software, Sword, User, feedback, Guestbook" />
 </head>
   <body>
     <div id="header">
@@ -172,7 +172,7 @@
 	This page shows BibleTime's guestbook. Please post your own comments if you like. Please write your comments in english if possible! HTML is not allowed and will be removed. You may use normal line breaks to divide into paragraphs.
 	</p>
 
-<div class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h3 class="title"><a id="id2821706"></a>Guestbook</h3></div></div><div></div></div>
+<div class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h3 class="title"><a id="id2821707"></a>Guestbook</h3></div></div><div></div></div>
 <!--#exec cgi="/guestbook.pl"-->
 </div>
 

@@ -3,16 +3,17 @@ html, body {
 	margin:0px;
 }
 
-
-body {
-}
-
 body, p, h1, h2, h3, h4, h5, h6, a:link, a:visited, a:hover, a:active, a:focus {
 	font-family:Verdana, Arial, Tahoma, Helevtica, sans-serif;
 }
 
+p {
+	font-size:0.95em;
+}
+
 a:link, a:visited, a:hover, a:active, a:focus {
 	font-weight:normal;
+	font-size:1em;
 	background-color:transparent;
 }
 
@@ -38,27 +39,27 @@ a:focus {
 }
 
 h1 {
-	font-size:22px;
+	font-size:1.1em;
 }
 
 h2 {
-	font-size:19px;
+	font-size:1.07em;
 }
 
 h3 {
-	font-size:16px;
+	font-size:1.04em;
 }
 
 h4 {
-	font-size:13px;
+	font-size:1.1em;
 }
 
 h5 {
-	font-size:12px;
+	font-size:1.0em;
 }
 
 h6 {
-	font-size:11px;
+	font-size:0.97em;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -147,19 +148,20 @@ textarea:focus {
 	padding:0px 0px 0px 3px;
 	margin-right:0px;
 	margin-top:10px;
+	font-size:0.95em;
 }
 
 #navigation .toplevel {
 	color:black;
 	background-color:transparent;
-	font-size:13px;
+	font-size:0.75em;
 	font-weight:bold;
 }
 
 #navigation .toplevel * a {
 	color:#140366;
 	background-color:transparent;
-	font-size:13px;
+	font-size:1em;
 	font-weight:bold;
 }
 
@@ -176,12 +178,13 @@ textarea:focus {
 }
 
 #navigation .shrink1, .shrink2, .shrink3, .shrink4 {
-	font-size:13px;
+	font-size:0.75em;
 	font-weight:bolder;
 }
 
 #navigation .curpage {
 	color:black;
+	font-size:0.9em;
 	background-color:transparent;
 }
 
@@ -228,6 +231,7 @@ textarea:focus {
 .section p {
 	margin:3px 0px;
 	padding-left:10px;
+	font-size:0.95em;
 }
 
 .section img {
@@ -253,6 +257,7 @@ textarea:focus {
 }*/
 
 .blockquote {
+	margin-bottom:25p;
 }
 
 .blockquote p {
@@ -262,7 +267,7 @@ textarea:focus {
 	color:black;
 }
 .blockquote .attribution {
-	font-size:x-small;
+	font-size:0.9em;
 }
 
 ol {
@@ -271,7 +276,7 @@ ol {
 }
 
 p.title {
-	font-size:normal;
+	font-size:1.0em;
 }
 
 /* --------------------- Right panel stuff ------------------------ */
@@ -291,12 +296,12 @@ p.title {
 	background-color:#EEEEF6;
 	border:1px solid black;
 	vertical-align:middle;
-	font-size:14px;
+	font-size:0.85px;
 }
 
 #rightpanel p {
 	margin:0px;
-	font-size:small;
+	font-size:0.85;
 }
 
 /* --------------------- Footer stuff ------------------------ */
@@ -314,7 +319,7 @@ p.title {
 
 #footer #footcopy{
 	margin-left:100px;
-	font-size:x-small;
+	font-size:0.6em;
 }
 
 /* --------------------- Own stuff ------------------------ */
@@ -338,14 +343,14 @@ div.guestbook .item {
 div.guestbook .item .header {
 	color:black;
 	background-color:#EEEEF6;
-	border: 1px solid black;
+	border:1px solid black;
 	vertical-align:middle;
 	padding:3px;
 	margin-top:15px;
 }
 
 div.guestbook .item .comments {
-	font-size:smaller;
+	font-size:0.9em;
 	padding-left:10px;
 	padding-right:10px;
 }
@@ -376,4 +381,6 @@ tr.question  {
 	color:white;
 	padding:0px;
 	margin:0px;
+	font-weight:bold;
+	font-size:1.2em;
 }

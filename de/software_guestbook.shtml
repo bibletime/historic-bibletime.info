@@ -4,7 +4,7 @@
   <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="generator" content="Website XSL Stylesheet V0.1&#10;" /><link rel="home" href="no_index.html" title="Über BibleTime" /><link rel="up" href="index.html" title="Software" /><link rel="previous" href="software_contact.html" title="Kontakt" /><link rel="next" href="software_links.html" title="Verweise" /><link rel="first" href="software_about.html" title="Über BibleTime" /><link rel="last" href="software_license.html" title="Lizenz" /><link rel="stylesheet" href="blue.css" type="text/css" title="Blue" /><link rel="stylesheet" href="plain.css" type="text/css" title="Plain" />
 	<title>www.bibletime.info: Gästebuch</title>
 	
-	<meta name="keyword" content="BibleTime, Guestbook" />
+	<meta name="keyword" content="BibleTime, Software, Sword, User, feedback, Guestbook" />
 </head>
   <body>
     <div id="header">
@@ -170,7 +170,7 @@
             <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821692"></a>BibleTimes Gästebuch</h2></div></div><div></div></div>
 	<p> Diese Seite zeigt BibleTimes Gästebuch. Bitte schreiben Sie uns ihre eigenen Kommentare, wenn Sie möchten. Schreiben Sie ihre Anmerkungen bitte in Englisch, wenn möglich. </p>
 
-<div class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h3 class="title"><a id="id2821708"></a>Gästebuch</h3></div></div><div></div></div>
+<div class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h3 class="title"><a id="id2821709"></a>Gästebuch</h3></div></div><div></div></div>
 <!--#exec cgi="/guestbook.pl"-->
 </div>
 
