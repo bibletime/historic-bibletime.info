@@ -1,10 +1,10 @@
 PROC=SGML_CATALOG_FILES="../catalog.xml" xsltproc
-STYLEDIR=../en/xsl
+STYLEDIR=../xsl
 TABSTYLE=$(STYLEDIR)/bibletime.xsl
 STYLESHEET=$(TABSTYLE)
 
 # Change the path in output-root to put your HTML output elsewhere
-STYLEOPT= --catalogs --stringparam output-root .
+STYLEOPT= --nonet --catalogs --stringparam output-root .
 
 .PHONY : clean
 

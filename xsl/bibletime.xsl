@@ -203,6 +203,7 @@
 						<img alt="nl" src="/images/flags/nl.png"/>
 					</a>
 
+					<!--
 					<a title="ro">
 						<xsl:attribute name="href">
 							<xsl:text>/ro/</xsl:text>
@@ -211,6 +212,7 @@
 
 						<img alt="ro" src="/images/flags/ro.png"/>
 					</a>
+					-->
 
 					<a title="ru">
 						<xsl:attribute name="href">
@@ -221,7 +223,8 @@
 						<img alt="ru" src="/images/flags/ru.png"/>
 					</a>
 
-					<a title="ua">
+					<!--
+					 <a title="ua">
 						<xsl:attribute name="href">
 							<xsl:text>/ua/</xsl:text>
 							<xsl:value-of select="$htmlfilename"/>
@@ -229,6 +232,7 @@
 
 						<img alt="ua" src="/images/flags/ua.png"/>
 					</a>
+					-->
 
 					<a href="/translation.shtml"><img alt="Translate www.bibletime.info!" src="/images/flags/new-lang.png"/></a>
 				</div>

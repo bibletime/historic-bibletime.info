@@ -219,7 +219,7 @@ textarea:focus {
 
 /* --------------------- Content stuff ------------------------ */
 #content {
-	margin:0px 10px 0px 170px;
+	margin:0px 10px 0px 180px;
 	padding-top:10px;
 	background-color:transparent;
 }
@@ -242,10 +242,22 @@ textarea:focus {
 	margin:0px;
 }
 
-.section p {
+.section p, pre {
 	margin:3px 0px;
 	padding-left:10px;
 	font-size:0.95em;
+}
+
+.section .table {
+	margin:10px;
+	font-size:0.95em;
+	width:94%;
+}
+.section .table .title {
+	font-size:0.8em;
+}
+.section table {
+	width:100%;
 }
 
 .section img {
@@ -257,17 +269,72 @@ textarea:focus {
 }
 
 .blockquote {
-	margin-bottom:15px;
+	margin: 15px 0 15px 0;
+	width: 95%;
 }
-
 .blockquote p {
-	border-top:1px solid black;
-	border-bottom:1px solid black;
+	border-left:4px solid #ADADAD;
 	background-color:#f4f4f4;
 	color:black;
+	padding: 15px;
+	margin:0;
 }
 .blockquote .attribution {
 	font-size:0.9em;
+}
+
+.abstract {
+	margin-top:15px;
+	margin-bottom:15px;
+}
+.abstract .title {
+	font-size:1em;
+	font-weight:bold;
+	margin:0;
+}
+.abstract p {
+	font-size:0.9em;
+	margin: 0;
+}
+
+.titlepage {
+	font-size:0.95em;
+}
+.titlepage hr {
+	display:none;
+}
+
+.toc {
+	margin-top:15px;
+}
+.toc p {
+	font-size:0.9em;
+	margin:0;
+}
+.toc dl {
+	font-size:0.9em;
+	margin:0 0 0 20px;
+}
+
+.list-of-tables {
+	font-size:0.9em;
+}
+.list-of-tables p {
+	margin:0;
+	font-size:0.9em;
+}
+.list-of-tables dl {
+	margin:0;
+	font-size:0.9em;
+	margin:0 0 0 20px;
+}
+
+.chapter {
+	margin-top: 25px;
+}
+.chapter > .titlepage .title {
+	font-size:1.3em;
+	margin:0;
 }
 
 ol {
@@ -277,6 +344,10 @@ ol {
 
 p.title {
 	font-size:1.0em;
+}
+
+pre {
+	white-space:normal;
 }
 
 /* --------------------- Right panel stuff ------------------------ */
@@ -401,11 +472,11 @@ table tr.question td {
 #software #content {
 	padding-bottom: 10px;
 }
-#software #content .section+.section p {
+#software #content .section + .section p {
 	margin: 2px 0 25px 25px;
 	padding-right: 5px;
 }
-#software #content .section+.section p b {
+#software #content .section + .section p b {
 	display: block;
 	clear:right;
 	border-bottom: 2px dashed #B4CAFF;
@@ -438,13 +509,13 @@ table tr.question td {
 	margin: 0;
 	float:left;
 	}
-#translation .language > div+div { /* fuzzy */
+#translation .language > div + div { /* fuzzy */
 	background-color: blue;
 	height:15px;
 	margin:0;
 	float:left;
 	}
-#translation .language > div+div+div { /* untranslated */
+#translation .language > div + div + div { /* untranslated */
 	background-color: red;
 	height:15px;
 	margin:0;

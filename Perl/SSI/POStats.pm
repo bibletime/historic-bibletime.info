@@ -43,7 +43,7 @@ sub show_stats() {
 	my $q = $self->{'cgi_query'};
 	my $ret = "";
 
-	my $file = "postats.txt";
+	my $file = shift || die "No filename given";
 	open(IN, "< $file");
 
 	while (<IN>) {

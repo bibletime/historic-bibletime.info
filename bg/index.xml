@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 ]>
 
@@ -7,7 +7,7 @@
 <config param="rcsdate" value="$Date$"/>
 <head>
 <title
->Bible</title>
+>BibleTime</title>
 <summary
 >Introduction</summary>
 <keywords

@@ -139,7 +139,7 @@ while (my $lang = pop(@ARGV)) {
 	push(@langs, $lang);
 }
 if (!@langs) {
-	@langs = ("de", "pt-br", "nl", "ko", "ro", "ru", "ua");
+	@langs = ("bg", "cs", "de", "fr", "nl", "ko", "pt-br", "ro", "ru", "ua");
 }
 
 #required for all languages

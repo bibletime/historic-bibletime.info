@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 ]>
 
@@ -16,7 +16,7 @@
 
 <section
 ><title
->Начини за изучаване на Библията</title>
+>The history of BibleTime</title>
 <para
 > Back in June of 1999 Thomas Hagedorn, Thorsten Uhlmann and Joachim Ansorg started to work on a Bible study application for KDE 1.0. </para>
 

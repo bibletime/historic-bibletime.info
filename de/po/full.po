@@ -205,7 +205,7 @@ msgstr "Das Copyright dieses Textes liegt bei dem Autoren Bob Harman. Der Text w
 #: index.docbook:50
 #, no-c-format
 msgid "Non exclusive serial rights for this distribution of this document with the &bibletime; Software have been made. Redistribution as part of the Bibletime software without modification and limited reproduction as provided by the \"fair use\" provisions of the US copyright code are also permitted."
-msgstr ""
+msgstr "Non exclusive serial rights for this distribution of this document with the &bibletime; Software have been made. Redistribution as part of the Bibletime software without modification and limited reproduction as provided by the \"fair use\" provisions of the US copyright code are also permitted."
 
 #: index.docbook:56
 #, no-c-format
@@ -844,7 +844,7 @@ msgstr "Offenbarung 1,3 <emphasis><quote>Selig ist, der da liest und die da hör
 #: index.docbook:45
 #, no-c-format
 msgid "1 Tim.4:13 <emphasis>\"give attention to the public reading of Scripture...\"</emphasis>"
-msgstr "1. Timotheus 4,13<emphasis><quote>Fahre fort mit Vorlesen, mit Ermahnen, mit Lehren, bis ich komme. </quote></emphasis>"
+msgstr "1. Timotheus 4,13 <emphasis><quote>Fahre fort mit Vorlesen, mit Ermahnen, mit Lehren, bis ich komme. </quote></emphasis>"
 
 #: index.docbook:50
 #, no-c-format
@@ -3338,7 +3338,7 @@ msgstr "Übersetzung in eine neue Sprache"
 
 #: index.docbook:20
 #, no-c-format
-msgid "If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <ulink url=\"/en/pot/full.pot\">Webpage translation template</ulink>. We recommend to use the program <ulink url=\"http://i18n.kde.org/tools/kbabel/\">KBabel</ulink> to translate the file. If you're finished translating it, send it to <email>info@bibletime.info</email>."
+msgid "If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <ulink url=\"/en/pot/full.pot\">Webpage translation template</ulink>. We recommend to use the program <ulink url=\"http://i18n.kde.org/tools/kbabel/\">KBabel</ulink> to translate the file. If you've finished translating it, please send it to <email>info@bibletime.info</email>."
 msgstr ""
 
 #: index.docbook:26
@@ -3357,3 +3357,4 @@ msgstr ""
 
 #~ msgid "Requirements for BibleTime 1.3"
 #~ msgstr "Anforderungen seit BibleTime 1.3"
+
