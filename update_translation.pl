@@ -153,10 +153,10 @@ sub create_apache_files() {
 	
 	opendir(DIR, $source);
 	while (my $file = readdir(DIR)) {
-		next unless ($file =~ /\.html|.shtml$/);
+		next unless ($file =~ /\.html|\.shtml|\.phtml$/);
 		
 		my $htmlfile = $file;
-		$file =~ s/\.html|\.shtml$/.var/;
+		$file =~ s/\.html|\.shtml|\.phtml$/.var/;
 
 		print "\tCreating VAR file for $file\n";
 		

@@ -1,13 +1,25 @@
 <?xml version="1.0"?>
 <!DOCTYPE autolayout PUBLIC "-//Norman Walsh//DTD Website Autolayout V2.4.1//EN" "http://docbook.sourceforge.net/release/website/2.4.1/schema/dtd/autolayout.dtd">
 <autolayout>
-<style title="Blue" src="blue.css" type="text/css"/><copyright><year>1999</year><year>2000</year><year>2001</year><year>2002</year><year>2003</year><year>2004</year><holder role="http://www.bibletime.info/">The BibleTime developers</holder></copyright><notoc page="error404.xml" id="error404" filename="error404.html">
-<title>Error 404: File not found</title>
+<style title="Blue" src="blue.css" type="text/css"/><copyright><year>1999</year><year>2000</year><year>2001</year><year>2002</year><year>2003</year><year>2004</year><holder role="http://www.bibletime.info/">Die BibleTime Entwickler</holder></copyright><notoc page="error404.xml" id="error404" filename="error404.html">
+<title>Fehler 404: Datei nicht gefunden</title>
 <summary>Error 404: File not found</summary>
 </notoc>
 <notoc page="devotional.xml" id="devotional" filename="devotional.html">
-<title>Devotional</title>
+<title>Andacht</title>
 <summary>BibleTime devotional</summary>
+</notoc>
+<notoc page="software_swordcdcheck.xml" id="software_swordcdcheck" filename="software_swordcdcheck.phtml">
+<title>Sword CD order checl</title>
+<summary>Sword CD order</summary>
+</notoc>
+<notoc page="software_swordcdsend.xml" id="software_swordcdsend" filename="software_swordcdsend.phtml">
+<title>Sword CD order: Sending</title>
+<summary>Sword CD order</summary>
+</notoc>
+<notoc page="software_swordcd.xml" id="software_swordcd" filename="software_swordcd.shtml">
+<title>Sword CD</title>
+<summary>Get the Sword CD</summary>
 </notoc>
 <toc page="index.xml" id="index" filename="no_index.html">
 <title>BibleTime</title>
@@ -34,10 +46,6 @@
 <tocentry page="software_faq.xml" id="documentation_ifaq" filename="software_faq.html">
 <title>FAQ</title>
 <summary>FAQ about BibleTime</summary>
-</tocentry>
-<tocentry page="software_swordcd.xml" id="software_swordcd" filename="software_swordcd.shtml">
-<title>Sword CD</title>
-<summary>Get the Sword CD</summary>
 </tocentry>
 <tocentry page="software_links.xml" id="software_links" filename="software_links.html">
 <title>Verweise</title>

@@ -52,10 +52,67 @@ No problem! Please download the file with the latest date from <ulink url="ftp:/
 <para>
 If you're NOT living in Europe please go to the Crosswire's CD order page and order the CD there. If you're living somewhere in Europe the BibleTime developers will send you the CD. Please fill in the required information in the form below and send it. The BibleTime developers will send you the CDs for free.
 </para>
-</section>
 
-<section><title>The Sword CD</title>
-<ssi mode="exec" cgi="/swordcd.pl"/>
+<html:form method="POST" action="software_swordcdcheck.phtml" enctype="application/x-www-form-urlencoded">
+
+<para>Name: 	<html:input type="text" name="name"></html:input></para>
+<para>Street: 	<html:input type="text" name="street"></html:input></para>
+<para>Town: 	<html:input type="text" name="town"></html:input></para>
+
+<para>Country: 
+	<html:select name="country">
+		<html:option value="Austria">Austria</html:option>
+		<html:option value="Belgium">Belgium</html:option>
+		<html:option value="Croatia">Croatia</html:option>
+		<html:option value="Czech Republic">Czech Republic</html:option>
+		<html:option value="Denmark">Denmark</html:option>
+		<html:option value="Finland">Finland</html:option>
+		<html:option value="France">France</html:option>
+		<html:option value="Germany">Germany</html:option>
+		<html:option value="Gibraltar">Gibraltar</html:option>
+		<html:option value="Greece">Greece</html:option>
+		<html:option value="Hungary">Hungary</html:option>
+		<html:option value="Ireland">Ireland</html:option>
+		<html:option value="Italy">Italy</html:option>
+		<html:option value="Netherlands">Netherlands</html:option>
+		<html:option value="Norway">Norway</html:option>
+		<html:option value="Poland">Poland</html:option>
+		<html:option value="Portugal">Portugal</html:option>
+		<html:option value="Romania">Romania</html:option>
+		<html:option value="Russia">Russia</html:option>
+		<html:option value="Slovakia">Slovakia</html:option>
+		<html:option value="Slovenia">Slovenia</html:option>
+		<html:option value="Spain">Spain</html:option>
+		<html:option value="Sweden">Sweden</html:option>
+		<html:option value="Switzerland">Switzerland</html:option>
+		<html:option value="Turkey">Turkey</html:option>
+		<html:option value="Ukraine">Ukraine</html:option>
+		<html:option selected="selected" value="United Kingdom">United Kingdom</html:option>
+		<html:option value="Yugoslavia">Yugoslavia</html:option>
+	</html:select>
+</para>
+
+<para>Amount of CDs: 
+	<html:select name="cds">
+		<html:option selected="selected">1</html:option>
+		<html:option>2</html:option>
+		<html:option>3</html:option>
+		<html:option>4</html:option>
+		<html:option>5</html:option>
+	</html:select>
+</para>
+
+<para>
+	Comments: <html:textarea name="comments" rows="10" cols="35"></html:textarea>
+</para>
+
+<para>
+	<html:input name="Check order" type="submit" value="Check order"></html:input>
+	&nbsp;
+	<html:input name="Reset order" type="reset" value="Reset order"></html:input>
+</para>
+</html:form>
+
 </section>
 
 </webpage>

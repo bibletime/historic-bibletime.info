@@ -27,10 +27,10 @@ msgid "The BibleTime developers"
 msgstr "바이블타임 개발"
 
 #. Tag: title
-#: autolayout.xml:5
+#: autolayout.xml:5 error404.xml:9
 #, no-c-format
-msgid "Error"
-msgstr "에러"
+msgid "Error 404: File not found"
+msgstr ""
 
 #. Tag: title
 #: autolayout.xml:9 devotional.xml:9
@@ -39,121 +39,133 @@ msgid "Devotional"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:13 index.xml:9
+#: autolayout.xml:13 software_swordcdcheck.xml:9
 #, no-c-format
-msgid "BibleTime"
-msgstr "바이블타임"
+msgid "Sword CD order checl"
+msgstr ""
 
 #. Tag: title
-#: autolayout.xml:16 software.xml:10
+#: autolayout.xml:17 software_swordcdsend.xml:9
 #, no-c-format
-msgid "Software"
-msgstr "소프트웨어"
+msgid "Sword CD order: Sending"
+msgstr ""
 
 #. Tag: title
-#: autolayout.xml:19 software_about.xml:9
-#, no-c-format
-msgid "About BibleTime"
-msgstr "바이블타임에 관하여"
-
-#. Tag: title
-#: autolayout.xml:23 software_screenshots.xml:9
-#, no-c-format
-msgid "Screenshots"
-msgstr "스크린샷"
-
-#. Tag: title
-#: autolayout.xml:27 software_gallery.xml:9 software_gallery.xml:14
-#, no-c-format
-msgid "Gallery"
-msgstr "갤러리"
-
-#. Tag: title
-#: autolayout.xml:31 software_download.xml:10 software_installation.xml:12
-#, no-c-format
-msgid "Download"
-msgstr "다운로드"
-
-#. Tag: title
-#: autolayout.xml:35 software_faq.xml:9
-#, no-c-format
-msgid "<title>FAQ</title>"
-msgstr "<title>자주 묻는 질문들(FAQ)</title>"
-
-#. Tag: title
-#: autolayout.xml:39 software_swordcd.xml:10
+#: autolayout.xml:21 software_swordcd.xml:10
 #, no-c-format
 msgid "Sword CD"
 msgstr "스워드(Sword) CD"
 
 #. Tag: title
-#: autolayout.xml:43 software_links.xml:9
+#: autolayout.xml:25 index.xml:9
+#, no-c-format
+msgid "BibleTime"
+msgstr "바이블타임"
+
+#. Tag: title
+#: autolayout.xml:28 software.xml:10
+#, no-c-format
+msgid "Software"
+msgstr "소프트웨어"
+
+#. Tag: title
+#: autolayout.xml:31 software_about.xml:9
+#, no-c-format
+msgid "About BibleTime"
+msgstr "바이블타임에 관하여"
+
+#. Tag: title
+#: autolayout.xml:35 software_screenshots.xml:9
+#, no-c-format
+msgid "Screenshots"
+msgstr "스크린샷"
+
+#. Tag: title
+#: autolayout.xml:39 software_gallery.xml:9 software_gallery.xml:14
+#, no-c-format
+msgid "Gallery"
+msgstr "갤러리"
+
+#. Tag: title
+#: autolayout.xml:43 software_download.xml:10 software_installation.xml:12
+#, no-c-format
+msgid "Download"
+msgstr "다운로드"
+
+#. Tag: title
+#: autolayout.xml:47 software_faq.xml:9
+#, no-c-format
+msgid "<title>FAQ</title>"
+msgstr "<title>자주 묻는 질문들(FAQ)</title>"
+
+#. Tag: title
+#: autolayout.xml:51 software_links.xml:9
 #, no-c-format
 msgid "Links"
 msgstr "링크"
 
 #. Tag: title
-#: autolayout.xml:47 software_linkus.xml:9
+#: autolayout.xml:55 software_linkus.xml:9
 #, no-c-format
 msgid "Link to us"
 msgstr "링크하기"
 
 #. Tag: title
-#: autolayout.xml:51 software_guestbook.xml:9
+#: autolayout.xml:59 software_guestbook.xml:9
 #, no-c-format
 msgid "Guestbook"
 msgstr "방명록"
 
 #. Tag: title
-#: autolayout.xml:55 software_press.xml:10 software_press.xml:15
+#: autolayout.xml:63 software_press.xml:10 software_press.xml:15
 #, no-c-format
 msgid "In the press"
 msgstr "출판물에서"
 
 #. Tag: title
-#: autolayout.xml:59 software_contact.xml:10
+#: autolayout.xml:67 software_contact.xml:10
 #, no-c-format
 msgid "Contact"
 msgstr "연락처"
 
 #. Tag: title
-#: autolayout.xml:63 software_license.xml:9 software_license.xml:14
+#: autolayout.xml:71 software_license.xml:9 software_license.xml:14
 #, no-c-format
 msgid "License"
 msgstr "라이센스"
 
 #. Tag: title
-#: autolayout.xml:68 development.xml:10
+#: autolayout.xml:76 development.xml:10
 #, no-c-format
 msgid "Development"
 msgstr "개발"
 
 #. Tag: title
-#: autolayout.xml:71 development_help.xml:10
+#: autolayout.xml:79 development_help.xml:10
 #, no-c-format
 msgid "Help us"
 msgstr "후원하기"
 
 #. Tag: title
-#: autolayout.xml:75 development_join.xml:10
+#: autolayout.xml:83 development_join.xml:10
 #, no-c-format
 msgid "Join us"
 msgstr "참여하기"
 
 #. Tag: title
-#: autolayout.xml:79 development_mailinglists.xml:10
+#: autolayout.xml:87 development_mailinglists.xml:10
 #, no-c-format
 msgid "Mailinglists"
 msgstr "메일링리스트"
 
 #. Tag: title
-#: autolayout.xml:84 translation.xml:9
+#: autolayout.xml:92 translation.xml:9
 #, fuzzy, no-c-format
 msgid "Translation"
 msgstr "설치"
 
 #. Tag: title
-#: autolayout.xml:88 biblehowto.docbook:17
+#: autolayout.xml:96 biblehowto.docbook:17
 #, no-c-format
 msgid "Biblestudy HowTo"
 msgstr "바이블스터디 하우투"
@@ -472,12 +484,6 @@ msgstr "이 페이지들은 바이블타임의 개발에 함께 하실수 있는
 #, no-c-format
 msgid "Please read the following pages very carefully to see whether you can help us with the development!"
 msgstr "어떻게 개발에 함께 하실 수 있는지를 확인하시려면 다음의 페이지들을 읽어주십시오!"
-
-#. Tag: title
-#: error404.xml:9
-#, no-c-format
-msgid "Error 404: File not found"
-msgstr ""
 
 #. Tag: title
 #: error404.xml:14
@@ -3768,6 +3774,54 @@ msgid "<phrase>New search dialog</phrase>"
 msgstr "새 검책 창"
 
 #. Tag: title
+#: software_swordcdcheck.xml:14
+#, no-c-format
+msgid "Check your Sword CD order"
+msgstr ""
+
+#. Tag: section
+#: software_swordcdcheck.xml:14
+#, no-c-format
+msgid "If anything is wrong in the information you entered please go back one page and correct it."
+msgstr ""
+
+#. Tag: title
+#: software_swordcdcheck.xml:17
+#, no-c-format
+msgid "Order details"
+msgstr ""
+
+#. Tag: title
+#: software_swordcdcheck.xml:35
+#, no-c-format
+msgid "Name:"
+msgstr ""
+
+#. Tag: title
+#: software_swordcdcheck.xml:39
+#, no-c-format
+msgid "Street:"
+msgstr ""
+
+#. Tag: title
+#: software_swordcdcheck.xml:43
+#, no-c-format
+msgid "Town:"
+msgstr ""
+
+#. Tag: title
+#: software_swordcdcheck.xml:47
+#, no-c-format
+msgid "Country:"
+msgstr ""
+
+#. Tag: title
+#: software_swordcdcheck.xml:51
+#, fuzzy, no-c-format
+msgid "Number of CDs ordered:"
+msgstr "사본의 수"
+
+#. Tag: title
 #: software_swordcd.xml:15
 #, no-c-format
 msgid "What is the Sword CD?"
@@ -3839,11 +3893,59 @@ msgstr "스워드(Sword) CD를 주문하고 싶습니다!"
 msgid "If you're NOT living in Europe please go to the Crosswire's CD order page and order the CD there. If you're living somewhere in Europe the BibleTime developers will send you the CD. Please fill in the required information in the form below and send it. The BibleTime developers will send you the CDs for free."
 msgstr "유럽에 살고 계신분이 아니라면, Crosswire의 CD주문 페이지로 가셔서 주문을 하십시오. 유럽에 거주하시는 분들께는 바이블타임 개발자들이 무료로 CD를 보내드립니다. 아래 폼에 필요한 정보들을 기입하시고 보내주십시오. 바이블타임 개발자들이 무료로 CD를 보내드리겠습니다."
 
-#. Tag: title
-#: software_swordcd.xml:57
+#. Tag: para
+#: software_swordcd.xml:58
 #, no-c-format
-msgid "The Sword CD"
-msgstr "스워드(Sword) CD"
+msgid "Name: <html:input type=\"text\" name=\"name\"></html:input>"
+msgstr ""
+
+#. Tag: para
+#: software_swordcd.xml:59
+#, no-c-format
+msgid "Street: <html:input type=\"text\" name=\"street\"></html:input>"
+msgstr ""
+
+#. Tag: para
+#: software_swordcd.xml:60
+#, no-c-format
+msgid "Town: <html:input type=\"text\" name=\"town\"></html:input>"
+msgstr ""
+
+#. Tag: para
+#: software_swordcd.xml:62
+#, no-c-format
+msgid "Country: <html:select name=\"country\"> <html:option value=\"Austria\">Austria</html:option> <html:option value=\"Belgium\">Belgium</html:option> <html:option value=\"Croatia\">Croatia</html:option> <html:option value=\"Czech Republic\">Czech Republic</html:option> <html:option value=\"Denmark\">Denmark</html:option> <html:option value=\"Finland\">Finland</html:option> <html:option value=\"France\">France</html:option> <html:option value=\"Germany\">Germany</html:option> <html:option value=\"Gibraltar\">Gibraltar</html:option> <html:option value=\"Greece\">Greece</html:option> <html:option value=\"Hungary\">Hungary</html:option> <html:option value=\"Ireland\">Ireland</html:option> <html:option value=\"Italy\">Italy</html:option> <html:option value=\"Netherlands\">Netherlands</html:option> <html:option value=\"Norway\">Norway</html:option> <html:option value=\"Poland\">Poland</html:option> <html:option value=\"Portugal\">Portugal</html:option> <html:option value=\"Romania\">Romania</html:option> <html:option value=\"Russia\">Russia</html:option> <html:option value=\"Slovakia\">Slovakia</html:option> <html:option value=\"Slovenia\">Slovenia</html:option> <html:option value=\"Spain\">Spain</html:option> <html:option value=\"Sweden\">Sweden</html:option> <html:option value=\"Switzerland\">Switzerland</html:option> <html:option value=\"Turkey\">Turkey</html:option> <html:option value=\"Ukraine\">Ukraine</html:option> <html:option selected=\"selected\" value=\"United Kingdom\">United Kingdom</html:option> <html:option value=\"Yugoslavia\">Yugoslavia</html:option> </html:select>"
+msgstr ""
+
+#. Tag: para
+#: software_swordcd.xml:95
+#, no-c-format
+msgid "Amount of CDs: <html:select name=\"cds\"> <html:option selected=\"selected\">1</html:option> <html:option>2</html:option> <html:option>3</html:option> <html:option>4</html:option> <html:option>5</html:option> </html:select>"
+msgstr ""
+
+#. Tag: para
+#: software_swordcd.xml:105
+#, no-c-format
+msgid "Comments: <html:textarea name=\"comments\" rows=\"10\" cols=\"35\"></html:textarea>"
+msgstr ""
+
+#. Tag: para
+#: software_swordcd.xml:109
+#, no-c-format
+msgid "<html:input name=\"Check order\" type=\"submit\" value=\"Check order\"></html:input> &nbsp; <html:input name=\"Reset order\" type=\"reset\" value=\"Reset order\"></html:input>"
+msgstr ""
+
+#. Tag: title
+#: software_swordcdsend.xml:44
+#, no-c-format
+msgid "Sword CD order sent"
+msgstr ""
+
+#. Tag: para
+#: software_swordcdsend.xml:45
+#, no-c-format
+msgid "The CD order was sent to the BibleTime developers. You will receive the CD as soon as possible and time permits. You should receive a confirmation eMail in the next few minutes with the details of your order."
+msgstr ""
 
 #. Tag: title
 #: translation.xml:14
@@ -3922,6 +4024,12 @@ msgstr "<title>프로그램 핸드북의 번역.</title>"
 #, no-c-format
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
 msgstr "당신의 언어로 된 핸드북이 존재하지 않는다면, <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> 핸드북 번역 템플릿</ulink>에서 템플릿을 다운로드하여 번역하실 수 있습니다. 기존의 번역을 업데이트하고 싶으시면, 아래의 테이블에서 필요한 파일을 다운로드하실 수 있습니다."
+
+#~ msgid "Error"
+#~ msgstr "에러"
+
+#~ msgid "The Sword CD"
+#~ msgstr "스워드(Sword) CD"
 
 #~ msgid "The BibleTime developers - www.bibletime.info"
 #~ msgstr "바이블타임 개발자 - www.bibletime.info"

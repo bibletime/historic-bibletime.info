@@ -19,13 +19,19 @@
 	<year
 >2004</year>
     	<holder role="http://www.bibletime.info/"
->The BibleTime developers</holder>
+>Die BibleTime Entwickler</holder>
   </copyright>
 
   <!-- Pages which do not appear in the navigation on the left -->
   <notoc page="error404.xml" filename="error404.html"
 ></notoc>
   <notoc page="devotional.xml" filename="devotional.html"
+></notoc>
+  <notoc page="software_swordcdcheck.xml" filename="software_swordcdcheck.phtml"
+></notoc>
+  <notoc page="software_swordcdsend.xml" filename="software_swordcdsend.phtml"
+></notoc>
+  <notoc page="software_swordcd.xml" filename="software_swordcd.shtml"
 ></notoc>
   
   <toc page="index.xml" filename="no_index.html">
@@ -39,8 +45,6 @@
 		<tocentry page="software_installation.xml" filename="software_installation.html"
 ></tocentry>
 		<tocentry page="software_faq.xml" filename="software_faq.html"
-></tocentry>
-		<tocentry page="software_swordcd.xml" filename="software_swordcd.shtml"
 ></tocentry>
 		<tocentry page="software_links.xml" filename="software_links.html"
 ></tocentry>

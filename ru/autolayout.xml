@@ -9,6 +9,18 @@
 <title>Devotional</title>
 <summary>BibleTime devotional</summary>
 </notoc>
+<notoc page="software_swordcdcheck.xml" id="software_swordcdcheck" filename="software_swordcdcheck.phtml">
+<title>Sword CD order checl</title>
+<summary>Sword CD order</summary>
+</notoc>
+<notoc page="software_swordcdsend.xml" id="software_swordcdsend" filename="software_swordcdsend.phtml">
+<title>Sword CD order: Sending</title>
+<summary>Sword CD order</summary>
+</notoc>
+<notoc page="software_swordcd.xml" id="software_swordcd" filename="software_swordcd.shtml">
+<title>Sword CD</title>
+<summary>Get the Sword CD</summary>
+</notoc>
 <toc page="index.xml" id="index" filename="no_index.html">
 <title>BibleTime</title>
 <summary>Start page</summary>
@@ -34,10 +46,6 @@
 <tocentry page="software_faq.xml" id="documentation_ifaq" filename="software_faq.html">
 <title>&#x427;&#x430;&#x412;&#x43E;</title>
 <summary>FAQ about BibleTime</summary>
-</tocentry>
-<tocentry page="software_swordcd.xml" id="software_swordcd" filename="software_swordcd.shtml">
-<title>Sword CD</title>
-<summary>Get the Sword CD</summary>
 </tocentry>
 <tocentry page="software_links.xml" id="software_links" filename="software_links.html">
 <title>&#x421;&#x441;&#x44B;&#x43B;&#x43A;&#x438;</title>

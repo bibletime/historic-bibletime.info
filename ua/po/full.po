@@ -20,9 +20,9 @@ msgid "The BibleTime developers"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:5
+#: autolayout.xml:5 error404.xml:9
 #, no-c-format
-msgid "Error"
+msgid "Error 404: File not found"
 msgstr ""
 
 #. Tag: title
@@ -32,121 +32,133 @@ msgid "Devotional"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:13 index.xml:9
-#, fuzzy, no-c-format
-msgid "BibleTime"
-msgstr "Щодо BibleTime"
-
-#. Tag: title
-#: autolayout.xml:16 software.xml:10
+#: autolayout.xml:13 software_swordcdcheck.xml:9
 #, no-c-format
-msgid "Software"
-msgstr "Програми"
-
-#. Tag: title
-#: autolayout.xml:19 software_about.xml:9
-#, no-c-format
-msgid "About BibleTime"
-msgstr "Щодо BibleTime"
-
-#. Tag: title
-#: autolayout.xml:23 software_screenshots.xml:9
-#, no-c-format
-msgid "Screenshots"
-msgstr "Скріншоти"
-
-#. Tag: title
-#: autolayout.xml:27 software_gallery.xml:9 software_gallery.xml:14
-#, no-c-format
-msgid "Gallery"
-msgstr "Галерея"
-
-#. Tag: title
-#: autolayout.xml:31 software_download.xml:10 software_installation.xml:12
-#, no-c-format
-msgid "Download"
-msgstr "Завантажити"
-
-#. Tag: title
-#: autolayout.xml:35 software_faq.xml:9
-#, no-c-format
-msgid "<title>FAQ</title>"
+msgid "Sword CD order checl"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:39 software_swordcd.xml:10
+#: autolayout.xml:17 software_swordcdsend.xml:9
+#, no-c-format
+msgid "Sword CD order: Sending"
+msgstr ""
+
+#. Tag: title
+#: autolayout.xml:21 software_swordcd.xml:10
 #, no-c-format
 msgid "Sword CD"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:43 software_links.xml:9
+#: autolayout.xml:25 index.xml:9
+#, fuzzy, no-c-format
+msgid "BibleTime"
+msgstr "Щодо BibleTime"
+
+#. Tag: title
+#: autolayout.xml:28 software.xml:10
+#, no-c-format
+msgid "Software"
+msgstr "Програми"
+
+#. Tag: title
+#: autolayout.xml:31 software_about.xml:9
+#, no-c-format
+msgid "About BibleTime"
+msgstr "Щодо BibleTime"
+
+#. Tag: title
+#: autolayout.xml:35 software_screenshots.xml:9
+#, no-c-format
+msgid "Screenshots"
+msgstr "Скріншоти"
+
+#. Tag: title
+#: autolayout.xml:39 software_gallery.xml:9 software_gallery.xml:14
+#, no-c-format
+msgid "Gallery"
+msgstr "Галерея"
+
+#. Tag: title
+#: autolayout.xml:43 software_download.xml:10 software_installation.xml:12
+#, no-c-format
+msgid "Download"
+msgstr "Завантажити"
+
+#. Tag: title
+#: autolayout.xml:47 software_faq.xml:9
+#, no-c-format
+msgid "<title>FAQ</title>"
+msgstr ""
+
+#. Tag: title
+#: autolayout.xml:51 software_links.xml:9
 #, no-c-format
 msgid "Links"
 msgstr "Посилання"
 
 #. Tag: title
-#: autolayout.xml:47 software_linkus.xml:9
+#: autolayout.xml:55 software_linkus.xml:9
 #, no-c-format
 msgid "Link to us"
 msgstr "Посилання на нас"
 
 #. Tag: title
-#: autolayout.xml:51 software_guestbook.xml:9
+#: autolayout.xml:59 software_guestbook.xml:9
 #, no-c-format
 msgid "Guestbook"
 msgstr "Гостьова книга"
 
 #. Tag: title
-#: autolayout.xml:55 software_press.xml:10 software_press.xml:15
+#: autolayout.xml:63 software_press.xml:10 software_press.xml:15
 #, no-c-format
 msgid "In the press"
 msgstr "У пресі"
 
 #. Tag: title
-#: autolayout.xml:59 software_contact.xml:10
+#: autolayout.xml:67 software_contact.xml:10
 #, no-c-format
 msgid "Contact"
 msgstr "Пишіть нам"
 
 #. Tag: title
-#: autolayout.xml:63 software_license.xml:9 software_license.xml:14
+#: autolayout.xml:71 software_license.xml:9 software_license.xml:14
 #, no-c-format
 msgid "License"
 msgstr "Ліцензія"
 
 #. Tag: title
-#: autolayout.xml:68 development.xml:10
+#: autolayout.xml:76 development.xml:10
 #, no-c-format
 msgid "Development"
 msgstr "Розробка ПЗ"
 
 #. Tag: title
-#: autolayout.xml:71 development_help.xml:10
+#: autolayout.xml:79 development_help.xml:10
 #, no-c-format
 msgid "Help us"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:75 development_join.xml:10
+#: autolayout.xml:83 development_join.xml:10
 #, no-c-format
 msgid "Join us"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:79 development_mailinglists.xml:10
+#: autolayout.xml:87 development_mailinglists.xml:10
 #, no-c-format
 msgid "Mailinglists"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:84 translation.xml:9
+#: autolayout.xml:92 translation.xml:9
 #, no-c-format
 msgid "Translation"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:88 biblehowto.docbook:17
+#: autolayout.xml:96 biblehowto.docbook:17
 #, no-c-format
 msgid "Biblestudy HowTo"
 msgstr ""
@@ -464,12 +476,6 @@ msgstr ""
 #: development.xml:20
 #, no-c-format
 msgid "Please read the following pages very carefully to see whether you can help us with the development!"
-msgstr ""
-
-#. Tag: title
-#: error404.xml:9
-#, no-c-format
-msgid "Error 404: File not found"
 msgstr ""
 
 #. Tag: title
@@ -3389,6 +3395,54 @@ msgid "<phrase>New search dialog</phrase>"
 msgstr ""
 
 #. Tag: title
+#: software_swordcdcheck.xml:14
+#, no-c-format
+msgid "Check your Sword CD order"
+msgstr ""
+
+#. Tag: section
+#: software_swordcdcheck.xml:14
+#, no-c-format
+msgid "If anything is wrong in the information you entered please go back one page and correct it."
+msgstr ""
+
+#. Tag: title
+#: software_swordcdcheck.xml:17
+#, no-c-format
+msgid "Order details"
+msgstr ""
+
+#. Tag: title
+#: software_swordcdcheck.xml:35
+#, no-c-format
+msgid "Name:"
+msgstr ""
+
+#. Tag: title
+#: software_swordcdcheck.xml:39
+#, no-c-format
+msgid "Street:"
+msgstr ""
+
+#. Tag: title
+#: software_swordcdcheck.xml:43
+#, no-c-format
+msgid "Town:"
+msgstr ""
+
+#. Tag: title
+#: software_swordcdcheck.xml:47
+#, no-c-format
+msgid "Country:"
+msgstr ""
+
+#. Tag: title
+#: software_swordcdcheck.xml:51
+#, no-c-format
+msgid "Number of CDs ordered:"
+msgstr ""
+
+#. Tag: title
 #: software_swordcd.xml:15
 #, no-c-format
 msgid "What is the Sword CD?"
@@ -3460,10 +3514,58 @@ msgstr ""
 msgid "If you're NOT living in Europe please go to the Crosswire's CD order page and order the CD there. If you're living somewhere in Europe the BibleTime developers will send you the CD. Please fill in the required information in the form below and send it. The BibleTime developers will send you the CDs for free."
 msgstr ""
 
-#. Tag: title
-#: software_swordcd.xml:57
+#. Tag: para
+#: software_swordcd.xml:58
 #, no-c-format
-msgid "The Sword CD"
+msgid "Name: <html:input type=\"text\" name=\"name\"></html:input>"
+msgstr ""
+
+#. Tag: para
+#: software_swordcd.xml:59
+#, no-c-format
+msgid "Street: <html:input type=\"text\" name=\"street\"></html:input>"
+msgstr ""
+
+#. Tag: para
+#: software_swordcd.xml:60
+#, no-c-format
+msgid "Town: <html:input type=\"text\" name=\"town\"></html:input>"
+msgstr ""
+
+#. Tag: para
+#: software_swordcd.xml:62
+#, no-c-format
+msgid "Country: <html:select name=\"country\"> <html:option value=\"Austria\">Austria</html:option> <html:option value=\"Belgium\">Belgium</html:option> <html:option value=\"Croatia\">Croatia</html:option> <html:option value=\"Czech Republic\">Czech Republic</html:option> <html:option value=\"Denmark\">Denmark</html:option> <html:option value=\"Finland\">Finland</html:option> <html:option value=\"France\">France</html:option> <html:option value=\"Germany\">Germany</html:option> <html:option value=\"Gibraltar\">Gibraltar</html:option> <html:option value=\"Greece\">Greece</html:option> <html:option value=\"Hungary\">Hungary</html:option> <html:option value=\"Ireland\">Ireland</html:option> <html:option value=\"Italy\">Italy</html:option> <html:option value=\"Netherlands\">Netherlands</html:option> <html:option value=\"Norway\">Norway</html:option> <html:option value=\"Poland\">Poland</html:option> <html:option value=\"Portugal\">Portugal</html:option> <html:option value=\"Romania\">Romania</html:option> <html:option value=\"Russia\">Russia</html:option> <html:option value=\"Slovakia\">Slovakia</html:option> <html:option value=\"Slovenia\">Slovenia</html:option> <html:option value=\"Spain\">Spain</html:option> <html:option value=\"Sweden\">Sweden</html:option> <html:option value=\"Switzerland\">Switzerland</html:option> <html:option value=\"Turkey\">Turkey</html:option> <html:option value=\"Ukraine\">Ukraine</html:option> <html:option selected=\"selected\" value=\"United Kingdom\">United Kingdom</html:option> <html:option value=\"Yugoslavia\">Yugoslavia</html:option> </html:select>"
+msgstr ""
+
+#. Tag: para
+#: software_swordcd.xml:95
+#, no-c-format
+msgid "Amount of CDs: <html:select name=\"cds\"> <html:option selected=\"selected\">1</html:option> <html:option>2</html:option> <html:option>3</html:option> <html:option>4</html:option> <html:option>5</html:option> </html:select>"
+msgstr ""
+
+#. Tag: para
+#: software_swordcd.xml:105
+#, no-c-format
+msgid "Comments: <html:textarea name=\"comments\" rows=\"10\" cols=\"35\"></html:textarea>"
+msgstr ""
+
+#. Tag: para
+#: software_swordcd.xml:109
+#, no-c-format
+msgid "<html:input name=\"Check order\" type=\"submit\" value=\"Check order\"></html:input> &nbsp; <html:input name=\"Reset order\" type=\"reset\" value=\"Reset order\"></html:input>"
+msgstr ""
+
+#. Tag: title
+#: software_swordcdsend.xml:44
+#, no-c-format
+msgid "Sword CD order sent"
+msgstr ""
+
+#. Tag: para
+#: software_swordcdsend.xml:45
+#, no-c-format
+msgid "The CD order was sent to the BibleTime developers. You will receive the CD as soon as possible and time permits. You should receive a confirmation eMail in the next few minutes with the details of your order."
 msgstr ""
 
 #. Tag: title

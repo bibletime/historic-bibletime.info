@@ -17,6 +17,9 @@
   <!-- Pages which do not appear in the navigation on the left -->
   <notoc page="error404.xml" filename="error404.html"/>
   <notoc page="devotional.xml" filename="devotional.html"/>
+  <notoc page="software_swordcdcheck.xml" filename="software_swordcdcheck.phtml"/>
+  <notoc page="software_swordcdsend.xml" filename="software_swordcdsend.phtml"/>
+  <notoc page="software_swordcd.xml" filename="software_swordcd.shtml"/>
   
   <toc page="index.xml" filename="no_index.html">
 	<tocentry page="software.xml" filename="index.html">
@@ -25,7 +28,6 @@
 		<tocentry page="software_gallery.xml" filename="software_gallery.html"/>
 		<tocentry page="software_installation.xml" filename="software_installation.html"/>
 		<tocentry page="software_faq.xml" filename="software_faq.html"/>
-		<tocentry page="software_swordcd.xml" filename="software_swordcd.shtml"/>
 		<tocentry page="software_links.xml" filename="software_links.html"/>
 		<tocentry page="software_linkus.xml" filename="software_linkus.html"/>
 		<tocentry page="software_guestbook.xml" filename="software_guestbook.shtml"/>
