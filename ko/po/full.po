@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: index.docbook:4 index.docbook:13
+#: index.docbook:4 index.docbook:14
 #, no-c-format
 msgid "The BibleTime developers - www.bibletime.info"
 msgstr "바이블타임 개발자 - www.bibletime.info"
@@ -55,10 +55,10 @@ msgstr "스크린샷"
 msgid "Gallery"
 msgstr "갤러리"
 
-#: index.docbook:27 index.docbook:36 index.docbook:12
+#: index.docbook:27 index.docbook:10 index.docbook:12
 #, no-c-format
-msgid "Installation"
-msgstr "설치"
+msgid "Download"
+msgstr "다운로드"
 
 #: index.docbook:31 index.docbook:9
 #, no-c-format
@@ -80,7 +80,7 @@ msgstr "링크"
 msgid "Link to us"
 msgstr "링크하기"
 
-#: index.docbook:47 index.docbook:9 index.docbook:19
+#: index.docbook:47 index.docbook:9
 #, no-c-format
 msgid "Guestbook"
 msgstr "방명록"
@@ -100,30 +100,30 @@ msgstr "연락처"
 msgid "License"
 msgstr "라이센스"
 
-#: index.docbook:64 index.docbook:9
-#, fuzzy, no-c-format
-msgid "Translation"
-msgstr "설치"
-
-#: index.docbook:68 index.docbook:10
+#: index.docbook:64 index.docbook:10
 #, no-c-format
 msgid "Development"
 msgstr "개발"
 
-#: index.docbook:71 index.docbook:10
+#: index.docbook:67 index.docbook:10
 #, no-c-format
 msgid "Help us"
 msgstr "후원하기"
 
-#: index.docbook:75 index.docbook:10
+#: index.docbook:71 index.docbook:10
 #, no-c-format
 msgid "Join us"
 msgstr "참여하기"
 
-#: index.docbook:79 index.docbook:10
+#: index.docbook:75 index.docbook:10
 #, no-c-format
 msgid "Mailinglists"
 msgstr "메일링리스트"
+
+#: index.docbook:80 index.docbook:9
+#, fuzzy, no-c-format
+msgid "Translation"
+msgstr "설치"
 
 #: index.docbook:84 index.docbook:18
 #, no-c-format
@@ -295,55 +295,55 @@ msgstr "바이블타임 개발 메일링리스트에 가입을 하십시오. 모
 msgid "Get the development version of BibleTime and install it. If you need help with this ask on the mailing list or look into the documentation section."
 msgstr "개발 버전의 바이블타임을 받으셔서 설치하십시오. 설치에 도움이 필요하시면 메일링리스트에 문의하시거나 문서들을 확인해보시기바랍니다."
 
-#: index.docbook:41
+#: index.docbook:44
 #, no-c-format
 msgid "The next steps for software developers..."
 msgstr "소프트웨어 개발자들을 위한 다음 단계들..."
 
-#: index.docbook:42
+#: index.docbook:45
 #, no-c-format
 msgid "Work through some of the Qt 3 and KDE 3 tuorials to get used to programming with the things BibleTime uses."
 msgstr "바이블타임의 프로그래밍에 사용하는 Qt 3와 KDE 3의 튜토리얼들을 구해서 공부하십시오."
 
-#: index.docbook:42
+#: index.docbook:45
 #, no-c-format
 msgid "If you don't know what to do please ask on the mailing list for some tasks. Don't forget to add how difficult it should be."
 msgstr "어떤 일을 해야할지를 모르시겠다면 메일링리스트에 문의해보십시오. 어느 정도 수준의 작업이 가능한지 첨부하는 것을 잊지마세요."
 
-#: index.docbook:54
+#: index.docbook:59
 #, no-c-format
 msgid "The next steps for documentation authors..."
 msgstr "문서 작성자들을 위한 다음단계들..."
 
-#: index.docbook:55
+#: index.docbook:60
 #, no-c-format
 msgid "Read the existing english documentation. It's located in the docs/ directory of the bibletime cvs directory."
 msgstr "기존의 영문 문서들을 읽으십시오. 문서들은 바이블타임의 cvs 디렉토리의 docs/ 디렉토리안에서 찾으실 수 있습니다."
 
-#: index.docbook:55
+#: index.docbook:60
 #, no-c-format
 msgid "The documentation is stored in docbook files in the unicode subdirectories of each documentation part (handbook, Bible study howto, installation, helpdialog). Please don't edit the HTML files directly because they're generated from the docbook files. The translation file are also generated from the docbook data."
 msgstr "문서들은 각 분서의 부분들(핸드북, 바이블스터디 하우투, 설치, 도움말)의 유니코드 서브디렉토리안에 docbook 파일들로 저장되어 있습니다. HTML 파일들은 docbook 파일에서 자동생성되므로, HTML 파일을 직접 수정하지 마시기 바립니다. 번역 파일들 역시 docbook 파일들로 부터 생성됩니다."
 
-#: index.docbook:69
+#: index.docbook:76
 #, no-c-format
 msgid "The next steps for translators..."
 msgstr "번역자들을 위한 다음 단계들..."
 
-#: index.docbook:70
-#, no-c-format
-msgid "Have a look at the internationaliziation pages of the KDE project. They're located at: <ulink url=\"http://i18n.kde.org/\">i18n.kde.org</ulink>"
+#: index.docbook:77
+#, fuzzy, no-c-format
+msgid "Have a look at the internationaliziation pages of the KDE project. They're located at <ulink url=\"http://i18n.kde.org/\">i18n.kde.org</ulink>."
 msgstr "KDE 프로젝트의 인터네셔널라이제이션 페이지를 확인하십시오. <ulink url=\"http://i18n.kde.org/\">i18n.kde.org</ulink>에서 확인하실 수 있습니다."
 
-#: index.docbook:70
+#: index.docbook:77
 #, no-c-format
 msgid "Install the program KBabel, if it's not yet installed on your system. It will help you a lot with the translation process."
 msgstr "KBabel 프로그램이 설치되어 있지 않다면, 설치하십시오. 번역작업에 많은 도움이 되는 프로그램입니다."
 
-#: index.docbook:70
-#, no-c-format
-msgid "Request the files for the translation on the bt-devel mailinglist. Normally the software doordinator will create a new CVS module, which will contain the files you'll translate."
-msgstr "bt-devel 메일링리스트에 번역을 위한 파일들을 요청하십시오. 보통은 소프트웨어 코디네이터가 당신이 번역해야할 파일들을 포함하는 새 CVS 모듈을 만들어줍니다."
+#: index.docbook:77
+#, fuzzy, no-c-format
+msgid "Read the page about <olink targetdocent=\"translation\">translating BibleTime</olink>."
+msgstr "<olink targetdocent=\"documentation_installation_bibletime\">설치 명령어</olink>를 읽으십시오."
 
 #: index.docbook:15
 #, no-c-format
@@ -351,49 +351,29 @@ msgid "BibleTime development mailing list"
 msgstr "바이블타임 개발 메일링리스트"
 
 #: index.docbook:16
-#, no-c-format
-msgid "To subscribe to the development mailing list of the BibleTime project please visit the following web page and enter your eMail address there:"
+#, fuzzy, no-c-format
+msgid "To subscribe to the development mailing list of the BibleTime project please visit the following web page and enter your eMail address there: <ulink url=\"http://www.crosswire.org/mailman/listinfo/bt-devel\">www.crosswire.org/mailman/listinfo/bt-devel</ulink>."
 msgstr "바이블타임 프로젝트의 메일링리스트에 가입하기위해서는 다음의 웹페이지를 방문하셔서 당신의 이메일 주소를 입력하십시오:"
 
-#: index.docbook:19
-#, no-c-format
-msgid "<ulink url=\"http://www.crosswire.org/mailman/listinfo/bt-devel\">www.crosswire.org/mailman/listinfo/bt-devel</ulink>."
-msgstr "<ulink url=\"http://www.crosswire.org/mailman/listinfo/bt-devel\">www.crosswire.org/mailman/listinfo/bt-devel</ulink>."
+#: index.docbook:20
+#, fuzzy, no-c-format
+msgid "Archives of the BibleTime development mailing list are available at <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/\">www.crosswire.org/pipermail/bt-devel</ulink>."
+msgstr "<ulink url=\"http://www.crosswire.org/sword/modules/moduleinstall.jsp\">www.crosswire.org/sword/modules/moduleinstall.jsp</ulink>."
 
-#: index.docbook:23
-#, no-c-format
-msgid "Archives of the BibleTime development mailing list are available at:"
-msgstr "바이블타임 개발 메일링리스트의 아카이브는 다음에서 확인하실 수 있습니다:"
-
-#: index.docbook:26
-#, no-c-format
-msgid "www.crosswire.org/pipermail/bt-devel"
-msgstr "www.crosswire.org/pipermail/bt-devel"
-
-#: index.docbook:31
+#: index.docbook:25
 #, no-c-format
 msgid "Sword development mailing list"
 msgstr "스워드(Sword) 개발 메일링리스트"
 
-#: index.docbook:32
-#, no-c-format
-msgid "To subscribe to the development mailing list of the Sword project please visit the following web page and enter your eMail address there:"
+#: index.docbook:26
+#, fuzzy, no-c-format
+msgid "To subscribe to the development mailing list of the Sword project please visit the following web page and enter your eMail address there: <ulink url=\"http://www.crosswire.org/mailman/listinfo/sword-devel\">www.crosswire.org/mailman/listinfo/sword-devel</ulink>."
 msgstr "스워드(Sword) 프로젝트의 개발 메일링리스트에 가입하시려면 다음의 웹페이지에 방문하셔서 당신의 이메일 주소를 입력하십시오:"
 
-#: index.docbook:36
-#, no-c-format
-msgid "<ulink url=\"http://www.crosswire.org/mailman/listinfo/sword-devel\">www.crosswire.org/mailman/listinfo/sword-devel</ulink>."
-msgstr "<ulink url=\"http://www.crosswire.org/mailman/listinfo/sword-devel\">www.crosswire.org/mailman/listinfo/sword-devel</ulink>."
-
-#: index.docbook:39
-#, no-c-format
-msgid "Archives of the Sword development mailing list are available at:"
-msgstr "스워드(Sword) 개발 메일링리스트의 아카이브는 다음에서 확인하실 수 있습니다:"
-
-#: index.docbook:43
-#, no-c-format
-msgid "www.crosswire.org/pipermail/sword-devel"
-msgstr "www.crosswire.org/pipermail/sword-devel"
+#: index.docbook:29
+#, fuzzy, no-c-format
+msgid "Archives of the Sword development mailing list are available at <ulink url=\"http://www.crosswire.org/pipermail/sword-devel/\">www.crosswire.org/pipermail/sword-devel</ulink>."
+msgstr "<ulink url=\"http://www.crosswire.org/sword/modules/moduleinstall.jsp\">www.crosswire.org/sword/modules/moduleinstall.jsp</ulink>."
 
 #: index.docbook:15
 #, no-c-format
@@ -1632,11 +1612,6 @@ msgstr "웹사이트의 문제 리포트하기"
 msgid "If you have problem with the webpages or if you have some ideas how to improve them please write it down using the link!"
 msgstr "웹페이지에서 문제를 발견하시거나, 사이트 개선을 위한 아이디어가 있으시다면 링크를 통해 알려주십시오!"
 
-#: index.docbook:10
-#, no-c-format
-msgid "Download"
-msgstr "다운로드"
-
 #: index.docbook:15
 #, no-c-format
 msgid "How to get BibleTime"
@@ -1656,6 +1631,11 @@ msgstr "\"바이블타임\" 패키지는 프로그램과 영문 문서들을 포
 #, no-c-format
 msgid "You can download BibleTime at <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">our sourceforge project pages</ulink>."
 msgstr "바이블타임은 <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">sourceforge 프로젝트 페이지</ulink>에서 다운로드 하실 수 있습니다."
+
+#: index.docbook:36
+#, no-c-format
+msgid "Installation"
+msgstr "설치"
 
 #: index.docbook:37
 #, no-c-format
@@ -1892,87 +1872,117 @@ msgstr "바이블타임 방명록"
 msgid "This page shows BibleTime's guestbook. Please post your own comments if you like. Please write your comments in English if possible! HTML is not allowed and will be removed. You may use normal line breaks to divide into paragraphs."
 msgstr "바이블타임의 방명록페이지입니다. 방명록에 글을 남겨주세요. 가능하면 영문으로 메세지를 남겨주시기 바랍니다! HTML 태그는 허용되지 않으며, 작성후에 삭제됩니다. 단락을 분리하기 위해 줄바꿈을 사용하실 수 있습니다."
 
+#: index.docbook:19
+#, no-c-format
+msgid "Please add your comments to our guestbook!"
+msgstr ""
+
 #: index.docbook:17
+#, fuzzy, no-c-format
+msgid "Download BibleTime"
+msgstr "바이블타임 구하기"
+
+#: index.docbook:18
+#, no-c-format
+msgid "This is a short list of available download locations. Packages which are not provided on our SourceForge pages might be outdated. Please see below for detailed download and installation instructions."
+msgstr ""
+
+#: index.docbook:18
+#, fuzzy, no-c-format
+msgid "Sourcecode and packages for major Linux distributions can be downloaded from <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">SourceForge</ulink>."
+msgstr "바이블타임은 <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">sourceforge 프로젝트 페이지</ulink>에서 다운로드 하실 수 있습니다."
+
+#: index.docbook:18
+#, no-c-format
+msgid "Debian packages are available for <ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">Debian Unstable</ulink> and <ulink url=\"http://packages.debian.org/stable/x11/bibletime\">Debian Stable</ulink>."
+msgstr ""
+
+#: index.docbook:18
+#, no-c-format
+msgid "Gentoo packages are available on <ulink url=\"http://packages.gentoo.org/search/?sstring=bibletime\">www.gentoo.org</ulink>."
+msgstr ""
+
+#: index.docbook:18
+#, no-c-format
+msgid "A FreeBSD application port of BibleTime can be found on <ulink url=\"http://www.FreeBSD.org/cgi/ports.cgi?query=bibletime&amp;stype=all\">www.freebsd.org</ulink>."
+msgstr ""
+
+#: index.docbook:45
 #, no-c-format
 msgid "Installation of BibleTime"
 msgstr "바이블타임의 설치"
 
-#: index.docbook:18
+#: index.docbook:46
 #, no-c-format
-msgid "This page explains how to Install BibleTime on your system. Basically there are two ways to install it: Either by using prebuilt binary packages or by compiling from source code. Installing BibleTime using prebuilt packages is the easiest way."
+msgid "This section explains how to install BibleTime on your system. Basically there are two ways to install it: Either by using prebuilt binary packages or by compiling from source code. Installing BibleTime using prebuilt packages is the easiest way."
 msgstr ""
 
-#: index.docbook:22
+#: index.docbook:50
 #, no-c-format
 msgid "Prebuilt binary packages"
 msgstr "미리 만들어진 바이너리 패키지들"
 
-#: index.docbook:23
+#: index.docbook:51
 #, no-c-format
 msgid "We try to provide packages for the most important Linux distributions. These include RedHat, Mandrake and SuSE."
 msgstr "바이블타임은 RedHat, Mandrake와 SeSE같은 대부분의 리눅스 배폰판들을 위한 패키지를 제공하려고 노력하고 있습니다. "
 
-#: index.docbook:26
+#: index.docbook:54
 #, fuzzy, no-c-format
 msgid "First download the binary package for your Linux distribution. For example: You want to download <application>BibleTime 1.4</application> for <productname>SuSE Linux 9.0</productname>. In this case you have to download the package <filename>bibletime-1.4-1.suse9.0.i586.rpm</filename>. Please download the package &quot;bibletime-i18n&quot; package, too. This package contains the available translations of the BibleTime user interface and handbook."
 msgstr "먼저 당신의 리눅스 배포판에 맞는 바이너리 패키지를 다운로드하십시오. 예를 들면: SuSE 리눅스 8.1을 위한 바이블타임 1.2.2를 다운로드하고 싶으시다면, \"bibletime-1.2.2-1suse8.1.i586.rpm\" 패키지를 다운로드 하시면 됩니다. 바이블타임의 문서들과 번역 등을 제공하는 bibletime-i18n 패키지도 다운로드 하는 것을 잊지 마십시오."
 
-#: index.docbook:29
-#, fuzzy, no-c-format
-msgid "Packages can be downloaded from <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">SourceForge</ulink>."
-msgstr "바이블타임은 <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">sourceforge 프로젝트 페이지</ulink>에서 다운로드 하실 수 있습니다."
-
-#: index.docbook:31
+#: index.docbook:57
 #, no-c-format
-msgid "If there are now packages for your Linux you have to install from source code. Please see below how to do that."
+msgid "If there are no packages for your version of Linux you have to install from source code. Please see below how to do that."
 msgstr ""
 
-#: index.docbook:35
+#: index.docbook:61
 #, fuzzy, no-c-format
 msgid "Installation from source code"
 msgstr "소스코드로부터 컴파일하기"
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid "Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources:"
 msgstr ""
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
-msgid "At first make sure the required software is installed on your system."
+msgid "At first make sure the required software is installed on your system. Depending on your Linux distribution you have to install the development packages of the required software, too."
 msgstr ""
 
-#: index.docbook:36
+#: index.docbook:62
 #, fuzzy, no-c-format
 msgid "<ulink url=\"http://www.kde.org/\">KDE 3</ulink>."
 msgstr "<ulink url=\"http://www.logos.com/\">Logos</ulink>."
 
-#: index.docbook:36
+#: index.docbook:62
 #, fuzzy, no-c-format
 msgid "At least the libraries and the base package. KDE 3 is shipped with many Linux distributions. Very often it's installed by default."
 msgstr "<ulink url=\"http://www.kde.org/\">KDE 3</ulink>: 기본 라이브러리들과 기본 패키지들이 필요합니다. KDE 3는 많은 리눅스 배포판에서 제공이 되고 있습니다. 대부분 기본적으로 설치가 됩니다."
 
-#: index.docbook:36
+#: index.docbook:62
 #, fuzzy, no-c-format
 msgid "<ulink url=\"http://curl.sourceforge.net/\">Curl >= 7.9</ulink>."
 msgstr "<ulink url=\"http://www.sourceforge.net/\">SourceForge</ulink>."
 
-#: index.docbook:36
+#: index.docbook:62
 #, fuzzy, no-c-format
 msgid "This is necessary for the remote installation features of the new Sword Setup Dialog. Curl has to be installed before Sword."
 msgstr "<ulink url=\"http://curl.sourceforge.net/\">Curl >= 7.10</ulink>. 새 스워드(Sword) 설정 창의 원격 설치 기능을 위해서 필요합니다."
 
-#: index.docbook:36
+#: index.docbook:62
 #, fuzzy, no-c-format
 msgid "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.7</ulink>."
 msgstr "<ulink url=\"http://www.crosswire.org/sword/\">Sword for Windows</ulink>."
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid "Installation instructions are available on <ulink url=\"http://www.crosswire.org/sword/software/index.jsp\">www.crosswire.org/sword/software</ulink>. Basically the installation steps are"
 msgstr ""
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid ""
 "<command>./usrinst.sh --enable-shared --with-curl --without-clucene</command>\n"
@@ -1981,22 +1991,17 @@ msgid ""
 "\t\t\t\t\t\t\t\t<command>make install_config</command>"
 msgstr ""
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid "Please note that this list is only valid for the latest version of BibleTime, older versions may require other software."
 msgstr ""
 
-#: index.docbook:36
-#, fuzzy, no-c-format
-msgid "<ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">Get the source code package</ulink> of BibeTime."
-msgstr "바이블타임은 <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">sourceforge 프로젝트 페이지</ulink>에서 다운로드 하실 수 있습니다."
-
-#: index.docbook:36
+#: index.docbook:62
 #, fuzzy, no-c-format
 msgid "Compile and install BibleTime:"
 msgstr "바이블타임을 설치하는 두가지 방법"
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid ""
 "<command>./configure --prefix=&lt;your KDE directory&gt;</command>\n"
@@ -2004,52 +2009,52 @@ msgid ""
 "\t\t\t\t\t\t<command>make install</command>"
 msgstr ""
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid "You can get your KDE directory by running the command <command>kde-config --prefix</command>. If you get problems please read our <olink targetdocent=\"software_faq\">FAQ</olink>. If there's no solution of your problem, please contact us at <email>info@bibletime.info</email>."
 msgstr ""
 
-#: index.docbook:96
+#: index.docbook:117
 #, fuzzy, no-c-format
 msgid "Install Sword modules"
 msgstr "스워드(Sword) 텍스트 모듈의 설치"
 
-#: index.docbook:97
+#: index.docbook:118
 #, no-c-format
 msgid "You need Sword modules to work with BibleTime. Since version 1.4 BibleTime offers a userfriendly dialog to manage Sword modules. We strongly recommend this way to install modules on your computer."
 msgstr ""
 
-#: index.docbook:101
+#: index.docbook:122
 #, fuzzy, no-c-format
 msgid "Instructions for manual module installation is available on <ulink url=\"http://www.crosswire.org/sword/modules/moduleinstall.jsp\">www.crosswire.org/sword/modules</ulink>."
 msgstr "<ulink url=\"http://www.crosswire.org/sword/modules/moduleinstall.jsp\">www.crosswire.org/sword/modules/moduleinstall.jsp</ulink>."
 
-#: index.docbook:105
+#: index.docbook:126
 #, no-c-format
 msgid "Available types of modules"
 msgstr "제공되는 모듈의 종류"
 
-#: index.docbook:106
+#: index.docbook:127
 #, no-c-format
 msgid "Here is a list of available module types and where to get more information about the available module types:"
 msgstr ""
 
-#: index.docbook:108
+#: index.docbook:129
 #, no-c-format
 msgid "Bibles"
 msgstr "성경"
 
-#: index.docbook:108
+#: index.docbook:129
 #, no-c-format
 msgid "Commentaries"
 msgstr "주석문"
 
-#: index.docbook:108
+#: index.docbook:129
 #, no-c-format
 msgid "Lexicons / Dictionaries"
 msgstr "사전(Lexicons/Dictionaries)"
 
-#: index.docbook:108
+#: index.docbook:129
 #, no-c-format
 msgid "Books"
 msgstr "신앙서적"
@@ -2728,151 +2733,146 @@ msgid "List of important christian pages"
 msgstr "중요한 크리스챤 사이트들"
 
 #: index.docbook:16
-#, no-c-format
-msgid "There are many other christian pages in the word wide web. Some are more, others are less important."
+#, fuzzy, no-c-format
+msgid "There are many other christian pages in the word wide web. Some are more, others are less important. We collected a list of pages which are important in our opinion."
 msgstr "인터넷에는 많은 크리스챤 사이트가 존재합니다. 어떠한 것들은 더 중요하고, 어떠한 것들은 덜 중요합니다."
 
-#: index.docbook:20
-#, no-c-format
-msgid "We collected a list of pages which are important in our opinion."
-msgstr "저희 생각에 중요하다고 생각되는 사이트들의 리스트를 만들어 보았습니다."
-
-#: index.docbook:24
+#: index.docbook:21
 #, no-c-format
 msgid "Since we're not author of the linked pages we're not responsible for their content, we explicitely dissociate ourself from the content of the linked pages! This is required because german law says you're responsible for the content of the linked pages unless you explicitely dissociate yourself from these pages."
 msgstr "저희는 링크된 사이트들의 제작자가 아니므로, 컨텐츠들에 대한 책임과 관련이 없습니다! 독일법에서는 링크된 페이지들과 관련이 없다는 것을 명시하지 않으면, 링크 페이지들에 대한 책임이 있으므로 이를 명시할 필요가 있습니다."
 
-#: index.docbook:28
+#: index.docbook:25
 #, no-c-format
 msgid "General christian pages"
 msgstr "일반적인 크리스챤 사이트들"
 
-#: index.docbook:29
+#: index.docbook:26
 #, no-c-format
 msgid "<ulink url=\"http://www.bibletechnologies.net/\">Bible Technologies Group</ulink>."
 msgstr "<ulink url=\"http://www.bibletechnologies.net/\">Bible Technologies Group</ulink>."
 
-#: index.docbook:30
+#: index.docbook:27
 #, no-c-format
 msgid "The home of the new common exchange Text format OSIS, which will hopefully be used by many Bible societies and publishers of the world."
 msgstr "The home of the new common exchange Text format OSIS, which will hopefully be used by many Bible societies and publishers of the world."
 
-#: index.docbook:35
+#: index.docbook:32
 #, no-c-format
 msgid "<ulink url=\"http://www.crosswire.org/\">CrossWire Bible Society</ulink>."
 msgstr "<ulink url=\"http://www.crosswire.org/\">CrossWire Bible Society</ulink>."
 
-#: index.docbook:36
+#: index.docbook:33
 #, no-c-format
 msgid "The Crosswire Bible society is one of the few christian organizations in the world providing everything they make free for all! Crosswire supports the Sword project, the KJV2003 project and some other cool things."
 msgstr "Crosswire Bible society는 모두를 위한 무료 자료를 배포하고 있는 몇몇 안되는 기독교 단체중의 하나입니다! Crosswire는 스워드(Sword) 프로젝트, KJV2003프로젝트와 그 밖의 훌륭한 프로젝트들을 지원합니다."
 
-#: index.docbook:42
+#: index.docbook:39
 #, no-c-format
 msgid "Biblesoftware for Linux"
 msgstr "리눅스용 성경 프로그램"
 
-#: index.docbook:43
+#: index.docbook:40
 #, no-c-format
 msgid "<ulink url=\"http://gnomesword.sf.net/\">Gnomesword</ulink>."
 msgstr "<ulink url=\"http://gnomesword.sf.net/\">Gnomesword</ulink>."
 
-#: index.docbook:44
+#: index.docbook:41
 #, no-c-format
 msgid "Gnomesword is a Sword frontend using the Gnome toolkit. A really good application. Be sure to check it out!"
 msgstr "Gnomesword는 Gnome 툴킷을 사용하는 스워드(Sword)의 프론트엔드입니다. 매우 훌륭한 프로그램이므로, 사용해보시기 바립니다!"
 
-#: index.docbook:51
+#: index.docbook:48
 #, no-c-format
 msgid "Biblesoftware for Windows"
 msgstr "윈도우용 성경 프로그램"
 
-#: index.docbook:52
+#: index.docbook:49
 #, no-c-format
 msgid "<ulink url=\"http://www.bibleworks.com/\">BibleWorks</ulink>."
 msgstr "<ulink url=\"http://www.bibleworks.com/\">BibleWorks</ulink>."
 
-#: index.docbook:53
+#: index.docbook:50
 #, no-c-format
 msgid "BibleWorks is one of the best Bible study applications for Windows! Very good but very expensive, too. Only useful for Bible scholars."
 msgstr "BibleWorks는 가장 훌륭한 윈도우용 성경프로그램 중 하나입니다! 굉장히 훌륭하지만, 비싸기도 합니다. 성경학자들을 위한 프로그램입니다."
 
-#: index.docbook:58
+#: index.docbook:55
 #, no-c-format
 msgid "<ulink url=\"http://www.bibleworkshop.com/\">BibleWorkshop</ulink>."
 msgstr "<ulink url=\"http://www.bibleworkshop.com/\">BibleWorkshop</ulink>."
 
-#: index.docbook:59
+#: index.docbook:56
 #, no-c-format
 msgid "The Bible Workshop program is a powerful, commercial Bible study application for Windows, which is available in english, german and french. It's possible to enhance the Bible Workshop using Text libraries you can buy."
 msgstr "Bible Workshop 프로그램은 강력한 윈도우용 유료 성경 프로그램으로 영어, 독어 및 불어 버전이 제공됩니다. Bible Workshop의 유료 텍스트 라이브러리들이 제공됩니다."
 
-#: index.docbook:64
+#: index.docbook:61
 #, no-c-format
 msgid "<ulink url=\"http://www.logos.com/\">Logos</ulink>."
 msgstr "<ulink url=\"http://www.logos.com/\">Logos</ulink>."
 
-#: index.docbook:65
+#: index.docbook:62
 #, no-c-format
 msgid "Logos is one of the best Bible study applications for Windows. You can buy a lot of texts to enhance it."
 msgstr "Logos는 가장 훌륭한 윈도우용 성경공부 프로그램 중의 하나입니다. 많은 텍스트들을 구입하셔서 사용하실 수 있스니다."
 
-#: index.docbook:70
+#: index.docbook:67
 #, no-c-format
 msgid "<ulink url=\"http://www.onlinebible.org/\">OnlineBible</ulink>."
 msgstr "<ulink url=\"http://www.onlinebible.org/\">OnlineBible</ulink>."
 
-#: index.docbook:71
+#: index.docbook:68
 #, no-c-format
 msgid "The Online Bible is a powerful Bible study application for Windows."
 msgstr "Online Bible은 강력한 윈도우용 성경공부 프로그램입니다."
 
-#: index.docbook:76
+#: index.docbook:73
 #, no-c-format
 msgid "<ulink url=\"http://www.crosswire.org/sword/\">Sword for Windows</ulink>."
 msgstr "<ulink url=\"http://www.crosswire.org/sword/\">Sword for Windows</ulink>."
 
-#: index.docbook:77
+#: index.docbook:74
 #, no-c-format
 msgid "This is the Windows Bible study application made by the Sword team! Sword is supported by the Crosswire Bible Society."
 msgstr "스워드(Sword) 팀에 의해 만들어진 윈도우용 성경공부 프로그램입니다! 스워드(Sword)는 Crosswire Bible Society에 의해서 지원되고 있습니다."
 
-#: index.docbook:82
+#: index.docbook:79
 #, no-c-format
 msgid "<ulink url=\"http://www.volksbibel.de/\">Volksbibel</ulink>."
 msgstr "<ulink url=\"http://www.volksbibel.de/\">Volksbibel</ulink>."
 
-#: index.docbook:83
+#: index.docbook:80
 #, no-c-format
 msgid "Volksbibel 2000.2 is a German, metacard based software Bible study tool for Windows, Linux and Mac. Althouth there are not so many texts as other software packages have, it has some cool things like basic map support included. If you are german try it out!"
 msgstr "Volksbibel 2000.2는 독일어판 (윈도우, 리눅스와 Mac을 지원하는) metacard based software 성경공부 프로그램입니다. 다른 프로그램들처럼 많은 텍스트들이 제공되지는 않지만, 기본적인 지도 제공과 같은 훌륭한 기능들을 갖고 있습니다. 독일인이라면 한번 사용해보실 것을 권고합니다!"
 
-#: index.docbook:90
+#: index.docbook:87
 #, no-c-format
 msgid "Biblesoftware for Mac"
 msgstr "Mac용 성경프로그램"
 
-#: index.docbook:91
+#: index.docbook:88
 #, no-c-format
 msgid "<ulink url=\"http://www.macsword.com/\">MacSword for OS X</ulink>."
 msgstr "<ulink url=\"http://www.macsword.com/\">MacSword for OS X</ulink>."
 
-#: index.docbook:92
+#: index.docbook:89
 #, no-c-format
 msgid "MacSword is a new Bible study application for the new Macintosh OS X system. The screenshots look very promising!"
 msgstr "MacSword는 새 Macintosh OS X 시스템을 위한 새로운 성경 공부 프로그램입니다. 멋진 스크린샷을 제공하는 전도유망한 프로그램입니다!"
 
-#: index.docbook:99
+#: index.docbook:96
 #, no-c-format
 msgid "Development tools"
 msgstr "개발툴"
 
-#: index.docbook:100
+#: index.docbook:97
 #, no-c-format
 msgid "<ulink url=\"http://www.sourceforge.net/\">SourceForge</ulink>."
 msgstr "<ulink url=\"http://www.sourceforge.net/\">SourceForge</ulink>."
 
-#: index.docbook:101
+#: index.docbook:98
 #, no-c-format
 msgid "SourceForge provides us with the tools to develop BibleTime with many team members at the same time! We save a lot of time and money by using their services."
 msgstr "SourceForge는 다른 팀 멤버들과 함께 바이블타임 개발을 위한 많은 툴들을 제공합니다. SourceForge의 서비스들을 사용하여 많은 시간과 비용이 절약되고 있습니다."
@@ -2976,90 +2976,100 @@ msgstr "바이블타임 뉴스"
 
 #: index.docbook:26
 #, no-c-format
-msgid "2004-01-11: New translation effort"
+msgid "2004-01-16: Debian packages available"
 msgstr ""
 
 #: index.docbook:27
 #, no-c-format
+msgid "<ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">Debian packages of BibleTime 1.4</ulink> are available now in Debian Unstable. Be sure to get the <ulink url=\"http://packages.debian.org/unstable/kde/bibletime-i18n\">bibletime-i18n package</ulink>, too. Kudos to our Debian packager Daniel Glassey for his work!"
+msgstr ""
+
+#: index.docbook:32
+#, no-c-format
+msgid "2004-01-11: New translation effort"
+msgstr ""
+
+#: index.docbook:33
+#, no-c-format
 msgid "First of all we want to wish all of you a truly happy and blessed new year."
 msgstr ""
 
-#: index.docbook:30
+#: index.docbook:36
 #, no-c-format
 msgid "As you probably already noticed, there is a new page online called <ulink url=\"translation.shtml\">&quot;Translation&quot;</ulink>. This page gives an introduction into how you can help with the translation of the different areas of the BibleTime project, and offers detailed statistics on the completeness of the existing languages. Be sure to check it out."
 msgstr ""
 
-#: index.docbook:37
+#: index.docbook:43
 #, no-c-format
 msgid "2003-12-29: BibleTime 1.4"
 msgstr "2003-12-29: BibleTime 1.4"
 
-#: index.docbook:38
+#: index.docbook:44
 #, no-c-format
 msgid "The new version 1.4 of BibleTime is now available for download. 1.4 in comparision with version 1.3 contains a new SwordSetup dialog to setup Sword and to install modules from local sources or from the internet. With the SwordSetup part it's also possible to remove modules from disk. 1.4 also contains many new bugfixes. BibleTime 1.4 is available on our download page."
 msgstr "이제 바이블타임의 새버전 1.4를 다운로드하실 수 있습니다. 1.3과는 다르게 1.4에서는 스워드(Sword)의 일반 설정과 인터넷이나 로컬 소스로 부터 모듈을 설치할 수 있는 새로운 설정창이 제공됩니다. 스워드(Sword) 설정 부분에서 모듈을 제거하는 것도 가능합니다. 1.4는 많은 버그픽스들도 포함하고 있습니다. 바이블타임 1.4는 다운로드 페이지에서 구하실 수 있습니다."
 
-#: index.docbook:41
+#: index.docbook:47
 #, no-c-format
 msgid "You need Sword 1.5.7 with enabled curl support to make use of the remote installation features. The binary packages we provide for some of the major linux distributions should work out of the box."
 msgstr "원격 설정 기능을 사용하시려면 curl support가 설정된 스워드(Sword) 1.5.7가 필요합니다. 몇몇의 주요 리눅스 배포판들을 위한 바이너리 패키지가 제공되고 있습니다."
 
-#: index.docbook:44
+#: index.docbook:50
 #, no-c-format
 msgid "If you run into troubles installing BibleTime or you have problems using it please submit a bugreport. We need your support to improve BibleTime."
 msgstr "바이블타임의 설치에 문제가 있거나 사용에 문제가 있다면 버그리포트로 보내주십시오. 바이블타임의 발전을 위해서는 여러분의 도움이 필요합니다."
 
-#: index.docbook:49
+#: index.docbook:55
 #, no-c-format
 msgid "2003-12-03: BibleTime 1.4beta1"
 msgstr "2003-12-03: 바이블타임 1.4beta1"
 
-#: index.docbook:50
+#: index.docbook:56
 #, no-c-format
 msgid "The first testing version of the upcoming BibleTime 1.4 was released today. The new feature in comparision with 1.3 is the new SwordSetup dialog which makes the Sword and module configuration more userfriendly. Using the dialog you can now setup Sword's configuration files, install modules from the internet or from local sources (e.g. a CD) and also uninstall modules from your system. This beta release also contains some important bugfixes."
 msgstr "바이블타임 1.4의 첫 테스트버전이 릴리즈되었습니다. 1.3에 없던 스워드(Sword)사용과 모듈 설치를 편하게 해주는 설치 다이얼로그가 추가 되었습니다. 스워드(Sword)의 설정 파일 관리와 인터넷이나 로컬 소스(CD등)로부터의 모듈 설치/제거 등을 하실 수 있습니다. 이 베타 릴리즈는 몇가지 버그 픽스도 포함하고 있습니다."
 
-#: index.docbook:58
+#: index.docbook:64
 #, no-c-format
 msgid "This 1.4beta1 release is only meant for testing, so we do not provide binary packages. If you know how to compile programs from source code we encourage you to try this beta1 release. You need Sword 1.5.6 with enabled curl support to make use of the remote installation features."
 msgstr "1.4beta1 릴리즈는 테스트용이므로, 바이너리 패키지가 제공되지 않습니다. 프로그램의 소스코드로부터 컴파일해서 설치하실수 있다면, beta1 릴리즈를 사용해보시기를 권고합니다. 원격 설치 기능을 이용하실려면 스워드(Sword) 1.5.6가 필요합니다."
 
-#: index.docbook:65
+#: index.docbook:71
 #, no-c-format
 msgid "2003-10-19: SuSE 9.0 packages"
 msgstr "2003-10-19: SuSE 9.0 패키지"
 
-#: index.docbook:66
+#: index.docbook:72
 #, no-c-format
 msgid "RPM packages are now available for SuSE 9.0. Report any problems to info@bibletime.info. Thank you!"
 msgstr "SuSE 9.0용 RPM 패키지가 제공되고 있습니다. 문제를 발견하시면 info@bibletime.info로 알려주십시오. 감사합니다!"
 
-#: index.docbook:71
+#: index.docbook:77
 #, no-c-format
 msgid "2003-10-16: New webpages"
 msgstr "2003-10-16: 새 웹페이지"
 
-#: index.docbook:72
+#: index.docbook:78
 #, no-c-format
 msgid "BibleTime has now new webpages which offer better navigation, better design and faster page download time."
 msgstr "더 나은 네비게이션과 향상된 디자인, 빠른 페이지 로딩을 지원하는 바이블타임의 새 웹페이지가 오픈하였습니다."
 
-#: index.docbook:76
+#: index.docbook:82
 #, no-c-format
 msgid "If you experience any problems with the new pages please let us know!"
 msgstr "새 페이지들에서 문제를 발견하시면 저희에게 알려주시기 바랍니다."
 
-#: index.docbook:81
+#: index.docbook:87
 #, no-c-format
 msgid "2003-08-23: BibleTime 1.3"
 msgstr "2003-08-23: 바이블타임 1.3"
 
-#: index.docbook:82
+#: index.docbook:88
 #, no-c-format
 msgid "Version 1.3 of BibleTime is finally available. BibleTime 1.3 contains a lot of new features, usability improvements and bug fixes. Upgrading to version 1.3 is strongly recommended for all our users. You can get the Software here: <ulink url=\"http://www.bibletime.info/software/download/\">Download</ulink>. Binary packages will be released in the next few days."
 msgstr "바이블타임 버전 1.3이 마침내 공개되었습니다. 바이블타임 1.3은 성능 개선과 버그픽스 등의 많은 새 기능을 포함합니다. 모든 유저들은 1.3으로 업그레이드 하실 것을 강력이 추천합니다. 이곳에서 프로그램을 구하실 수 있습니다: <ulink url=\"http://www.bibletime.info/software/download/\">다운로드</ulink>. 바이너리 패키지도 며칠 안에 릴리즈 될 것입니다."
 
-#: index.docbook:87
+#: index.docbook:93
 #, no-c-format
 msgid "Get the bibletime and the bibletime-i18n packages for full functionality. We're very sorry for the long release time, we hope to shorten it with the next releases."
 msgstr "완벽한 기능을 위해서는 바이블타임과 bibletime-i18n 패키지를 함께 설치하십시오. 릴리즈 타임이 너무 늦어져서 죄송합니다. 다음 릴리지는 좀 더 빠른 시간 안에 이루어질 수 있도록 하겠습니다."
@@ -3100,31 +3110,46 @@ msgid "The review is online at: <ulink url=\"http://www.pfarrer-pc.de/magazin/2-
 msgstr "온라인 리뷰: <ulink url=\"http://www.pfarrer-pc.de/magazin/2-02/art02-02-bibli.php\">www.pfarrer-pc.de</ulink>"
 
 #: index.docbook:14
-#, no-c-format
-msgid "Screenshots of BibleTime 1.3"
+#, fuzzy, no-c-format
+msgid "Screenshots of BibleTime"
 msgstr "바이블타임 1.3의 스크린샷"
 
 #: index.docbook:16
-#, no-c-format
-msgid "Improvements in 1.3"
-msgstr "1.3에서 개선된 사항들"
+#, fuzzy, no-c-format
+msgid "New Sword setup dialog"
+msgstr "새 검책 창"
 
 #: index.docbook:16
 #, no-c-format
-msgid "Here you can see some improvements of BibleTime 1.3. The tree on the left is now set up by module type and language. The greek text in the right display window is now displayed better because BibleTime supports now own font settings for each language. <ulink url=\"/images//screenshots/1-large.jpg\">Large screenshot</ulink>"
-msgstr "바이블타임 1.3에서 몇가지 개선된 것들이 있습니다. 왼쪽의 트리가 모듈 타입과 언어별로 정렬되었습니다. 새 바이블타임은 각 언어 고유의 폰트 사용을 지원하기 때문에 오른쪽 디스플레이 윈도우의 헬라어 텍스트도 더욱 깔끔하게 보여집니다. <ulink url=\"/images//screenshots/1-large.jpg\">큰 스크린샷</ulink>"
+msgid "Since version 1.4 BibleTime offers a new dialog to manage Sword modules. It is now possible to setup Sword's configuration, install modules and uninstall modules using a userfriendly interface. <ulink url=\"/images//screenshots/3-large.jpg\">Large screenshot</ulink>"
+msgstr ""
 
 #: index.docbook:16
-#, no-c-format
-msgid "Improvements in BibleTime 1.3"
+#, fuzzy, no-c-format
+msgid "Improvements in BibleTime 1.4"
 msgstr "바이블타임 1.3에서 개선된 사항들"
 
 #: index.docbook:33
 #, no-c-format
+msgid "Improvements in 1.3"
+msgstr "1.3에서 개선된 사항들"
+
+#: index.docbook:33
+#, no-c-format
+msgid "Here you can see some improvements of BibleTime 1.3. The tree on the left is now set up by module type and language. The greek text in the right display window is now displayed better because BibleTime supports now own font settings for each language. <ulink url=\"/images//screenshots/1-large.jpg\">Large screenshot</ulink>"
+msgstr "바이블타임 1.3에서 몇가지 개선된 것들이 있습니다. 왼쪽의 트리가 모듈 타입과 언어별로 정렬되었습니다. 새 바이블타임은 각 언어 고유의 폰트 사용을 지원하기 때문에 오른쪽 디스플레이 윈도우의 헬라어 텍스트도 더욱 깔끔하게 보여집니다. <ulink url=\"/images//screenshots/1-large.jpg\">큰 스크린샷</ulink>"
+
+#: index.docbook:33
+#, no-c-format
+msgid "Improvements in BibleTime 1.3"
+msgstr "바이블타임 1.3에서 개선된 사항들"
+
+#: index.docbook:50
+#, no-c-format
 msgid "New search dialog"
 msgstr "새 검책 창"
 
-#: index.docbook:33
+#: index.docbook:50
 #, no-c-format
 msgid "The search dialog of previous versions wasn't easy to use. This is the new search dialog together with the new module chooser window on the right. <ulink url=\"/images/screenshots/2-large.jpg\">Large screenshot</ulink>"
 msgstr "전 버전의 검색창은 사용하기가 쉽지 않았습니다. 새 검색창은 윈도우 오른쪽의 새 모듈 선택기와 같이 동작합니다. <ulink url=\"/images/screenshots/2-large.jpg\">큰 스크린샷</ulink>"
@@ -3243,6 +3268,34 @@ msgstr ""
 #, no-c-format
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
 msgstr ""
+
+#~ msgid "<ulink url=\"http://www.crosswire.org/mailman/listinfo/bt-devel\">www.crosswire.org/mailman/listinfo/bt-devel</ulink>."
+#~ msgstr "<ulink url=\"http://www.crosswire.org/mailman/listinfo/bt-devel\">www.crosswire.org/mailman/listinfo/bt-devel</ulink>."
+
+#~ msgid "Archives of the BibleTime development mailing list are available at:"
+#~ msgstr "바이블타임 개발 메일링리스트의 아카이브는 다음에서 확인하실 수 있습니다:"
+
+#~ msgid "www.crosswire.org/pipermail/bt-devel"
+#~ msgstr "www.crosswire.org/pipermail/bt-devel"
+
+#~ msgid "<ulink url=\"http://www.crosswire.org/mailman/listinfo/sword-devel\">www.crosswire.org/mailman/listinfo/sword-devel</ulink>."
+#~ msgstr "<ulink url=\"http://www.crosswire.org/mailman/listinfo/sword-devel\">www.crosswire.org/mailman/listinfo/sword-devel</ulink>."
+
+#~ msgid "Archives of the Sword development mailing list are available at:"
+#~ msgstr "스워드(Sword) 개발 메일링리스트의 아카이브는 다음에서 확인하실 수 있습니다:"
+
+#~ msgid "www.crosswire.org/pipermail/sword-devel"
+#~ msgstr "www.crosswire.org/pipermail/sword-devel"
+
+#, fuzzy
+#~ msgid "<ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">Get the source code package</ulink> of BibeTime."
+#~ msgstr "바이블타임은 <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">sourceforge 프로젝트 페이지</ulink>에서 다운로드 하실 수 있습니다."
+
+#~ msgid "We collected a list of pages which are important in our opinion."
+#~ msgstr "저희 생각에 중요하다고 생각되는 사이트들의 리스트를 만들어 보았습니다."
+
+#~ msgid "Request the files for the translation on the bt-devel mailinglist. Normally the software doordinator will create a new CVS module, which will contain the files you'll translate."
+#~ msgstr "bt-devel 메일링리스트에 번역을 위한 파일들을 요청하십시오. 보통은 소프트웨어 코디네이터가 당신이 번역해야할 파일들을 포함하는 새 CVS 모듈을 만들어줍니다."
 
 #~ msgid "Documentation"
 #~ msgstr "문서"

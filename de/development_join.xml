@@ -1,6 +1,6 @@
 <!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
-<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+<!ENTITY translation SYSTEM "translation.xml" NDATA XML>
 ]>
 
 <webpage id="development_join">
@@ -29,11 +29,17 @@
 <para
 > <orderedlist
 > <listitem
-> Falls Sie nicht bereits einen Account auf SourceForge haben, holen Sie sich bitte einen. Das ganze ist kostenlos. Wir benötigen ihren Benutzernamen, um Sie zu den Teammitgliedern hinzuzufügen, um ihnen Aufgaben zuzuweisen, usw, </listitem
+> <para
+>Falls Sie nicht bereits einen Account auf SourceForge haben, holen Sie sich bitte einen. Das ganze ist kostenlos. Wir benötigen ihren Benutzernamen, um Sie zu den Teammitgliedern hinzuzufügen, um ihnen Aufgaben zuzuweisen, usw, </para
+> </listitem
 > <listitem
-> Tragen Sie sich auf der BibleTime Entwickler Mailingliste ein, Alle Entwickler lesen diese Liste, jeder weiß also was los ist. </listitem
+> <para
+>Tragen Sie sich auf der BibleTime Entwickler Mailingliste ein, Alle Entwickler lesen diese Liste, jeder weiß also was los ist. </para
+> </listitem
 > <listitem
-> Holen Sie sich die Entwicklungsversion von BibleTime und installieren Sie diese. Wenn Sie Hilfe damit benötigen, fragen Sie auf der Mailingliste oder schauen Sie in dem Dokumentations-Abschnitt nach. </listitem
+> <para
+>Holen Sie sich die Entwicklungsversion von BibleTime und installieren Sie diese. Wenn Sie Hilfe damit benötigen, fragen Sie auf der Mailingliste oder schauen Sie in dem Dokumentations-Abschnitt nach. </para
+> </listitem
 > </orderedlist
 > </para>
 </section>
@@ -44,9 +50,13 @@
 <para
 > <orderedlist
 > <listitem
-> Arbeiten Sie sich durch einige der QT 3 und KDE 3 Programmier-Schnellkurse, um sich an das Programmieren mit den Dingen zu gewöhnen, die BibleTime benutzt. </listitem
+> <para
+>Arbeiten Sie sich durch einige der QT 3 und KDE 3 Programmier-Schnellkurse, um sich an das Programmieren mit den Dingen zu gewöhnen, die BibleTime benutzt. </para
+> </listitem
 > <listitem
-> Falls Sie nicht wissen, was Sie tun sollen, fragen Sie bitte auf der Mailingliste nach ein paar Aufgaben. Vergessen Sie nicht uns mitzuteilen, wie schwierig diese sein sollen. </listitem
+> <para
+>Falls Sie nicht wissen, was Sie tun sollen, fragen Sie bitte auf der Mailingliste nach ein paar Aufgaben. Vergessen Sie nicht uns mitzuteilen, wie schwierig diese sein sollen. </para
+> </listitem
 > </orderedlist
 > </para>
 </section>
@@ -57,9 +67,13 @@
 <para
 > <orderedlist
 > <listitem
-> Lesen Sie die bestehende englische Dokumentation. Diese liegt im docs/ Verzeichnis des bibletime CVS Verzeichnisses. </listitem
+> <para
+>Lesen Sie die bestehende englische Dokumentation. Diese liegt im docs/ Verzeichnis des bibletime CVS Verzeichnisses. </para
+> </listitem
 > <listitem
-> Die Dokumentation wird in sogenannten Docbook Dateien in dem Unterverzeichnis "Unicode" jedes Dokumentations-Teiles gespeichert (Handbuch, Anleitung zum Bibelstudium, Installation, Hilfeseiten). Bitte bearbeiten Sie die HTML nicht direkt, da sie automatisch aus den Docbook Dateien erzeugt werden.Die Datein für die Übersetzungen werden auch aus den Docbook Dateien generiert. </listitem
+> <para
+>Die Dokumentation wird in sogenannten Docbook Dateien in dem Unterverzeichnis "Unicode" jedes Dokumentations-Teiles gespeichert (Handbuch, Anleitung zum Bibelstudium, Installation, Hilfeseiten). Bitte bearbeiten Sie die HTML nicht direkt, da sie automatisch aus den Docbook Dateien erzeugt werden.Die Datein für die Übersetzungen werden auch aus den Docbook Dateien generiert. </para
+> </listitem
 > </orderedlist
 > </para>
 </section>
@@ -71,13 +85,21 @@
 <para
 > <orderedlist
 > <listitem
-> Schauen Sie sich die Internationalsisierungs Seiten des KDE Projektes an. Diese sind auf <ulink url="http://i18n.kde.org/"
+> <para
+>Schauen Sie sich die Internationalsisierungs Seiten des KDE Projektes an. Diese sind auf <ulink url="http://i18n.kde.org/"
 >i18n.kde.org</ulink
-> verfügbar. </listitem
+> verfügbar. </para
+> </listitem
 > <listitem
-> Installieren Sie das Programm KBabel, falls nicht bereits auf ihrem System installiert ist. Dies wird ihnen mit der Übersetzung wirklich helfen. </listitem
+> <para
+>Installieren Sie das Programm KBabel, falls nicht bereits auf ihrem System installiert ist. Dies wird ihnen mit der Übersetzung wirklich helfen. </para
+> </listitem
 > <listitem
-> Fordern Sie die Datein für die Übersetzung auf der bt-devel Mailingliste an. Im Normalfall legt der Software-Koordinator ein neues CVS Modul an, das die Dateien enthält, die sie übersetzen. </listitem
+> <para
+>Bitte lesen Sie die Seite über das <olink targetdocent="translation"
+>Übersetzen von BibleTime</olink
+>. </para
+> </listitem
 > </orderedlist
 > </para>
 </section>

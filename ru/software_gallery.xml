@@ -19,28 +19,28 @@
 >Галерея</title>
 
 	<para
->You can find some nice screenshots of BibleTime here, showing one or two text module(s) each. They demonstrate the powerful Unicode handling mechanisms of <ulink url="http://www.trolltech.com"
->Trolltech's</ulink
-> QT 3. Some of the screenshots are really impressive.</para>
+>Здесь вы сможете найти некоторые красивые скриншоты (screenshots) BibleTime, каждый из которых показывает один или два текстовых модуля. Они демонстрируют мощь механизма поддержки Unicode в QT 3 от <ulink url="http://www.trolltech.com"
+>Trolltech</ulink
+>. Некоторые из них действительно впечатляют. </para>
 	<para
->Most of the screenshots were created using the superb <ulink url="http://home.att.net/~jameskass/CODE2000.ZIP"
+>Большинство скриншотов были сделаны с использованием превосходного  <ulink url="http://home.att.net/~jameskass/CODE2000.ZIP"
 >Code2000</ulink
-> Unicode font. Click on the preview images to see a large and detailed version of each screenshot.</para>
+> шрифта Unicode. Щелкните на картинке предварительного просмотра, чтобы увидеть большую, со многими деталями версию каждого скриншота. </para>
 
 	<mediaobject
 > <caption
 > <formalpara
 ><title
->BHS - hebrew rendering</title
+>BHS - отображение еврейского</title
 > <para
->The <emphasis
+><emphasis
 >BHS</emphasis
-> (short for <emphasis
+> (сокращение от <emphasis
 >Biblia Hebraica Stuttgartensia</emphasis
->), the best available text of the Hebrew Old Testament.</para
+>), лучший доступный текст Ветхого Завета на еврейском языке.</para
 > <para
->As you can see, BibleTime renders the text correctly from right to left. Those of you who can read Hebrew will notice that the Vowel Points and the Cantillation Marks (you can switch both of them on and off) are displayed correctly. <ulink url="/images/gallery/bhs.png"
->Large screenshot</ulink
+>Как вы можете видеть, BibleTime отображает текст корректно справа налево. Те из вас, кто могут читать по еврейски обратят внимание, что черты гласных и знаки кантиляции (Cantillation Marks)отображаются правильно. Вы можете включать и выключать и то, и другое.<ulink url="/images/gallery/bhs.png"
+>Большой скриншот</ulink
 > </para
 > </formalpara
 > </caption
@@ -48,7 +48,7 @@
 > <imagedata fileref="/images/gallery/bhs_small.jpg" format="JPG"/> </imageobject
 > <textobject
 > <phrase
->BHS - hebrew rendering</phrase
+>BHS - отображение еврейского</phrase
 > </textobject
 > </mediaobject>
 
@@ -56,14 +56,14 @@
 > <caption
 > <formalpara
 ><title
->Peshitta - early syrian translation</title
+>Пешитта (Peshitta) - ранний сирийский перевод</title
 > <para
->The <emphasis
->Peshitta</emphasis
-> contains an early Syrian text, running from right to left.</para
+><emphasis
+>Пешитта (Peshitta)</emphasis
+> содержит ранний сирийский текст, идущий справа налево. </para
 > <para
->QT renders this text very nice with Code2000, which is one of the very few fonts that support syrian characters. <ulink url="/images/gallery/peshitta.png"
->Large screenshot</ulink
+>QT отображает этот текст очень красиво с помощью шрифта Code2000, которые один из немногих шрифтов, которые поддерживают сирийские буквы. <ulink url="/images/gallery/peshitta.png"
+>Большой скриншот</ulink
 ></para
 > </formalpara
 > </caption
@@ -71,7 +71,7 @@
 > <imagedata fileref="/images/gallery/peshitta_small.jpg" format="JPG"/> </imageobject
 > <textobject
 > <phrase
->Peshitta - early syrian translation</phrase
+>Пешитта (Peshitta) - ранний сирийский перевод</phrase
 > </textobject
 > </mediaobject>
 
@@ -79,12 +79,12 @@
 > <caption
 > <formalpara
 ><title
->The Arabic Bible</title
+>Арабская Библия</title
 > <para
 ><emphasis
 >AraSVD</emphasis
->: The Arabic Bible. Very nice example for right-to-left rendering of a complex script - Arabic is probably one of the most complicated scripts of the world. This screenshot was taken after linebreaks were switched off, providing a more readable text view. <ulink url="/images/gallery/arasvd.png"
->Large screenshot</ulink
+>: Арабская Библия. Очень хороший пример отображения справа налево сложного алфавита - арабский язык, вероятно, язык с самым сложным алфавитом в мире. Этот скриншот был сделан после того, как перенос по строкам был отключён, чтобы представить более читаемое изображение текста. <ulink url="/images/gallery/arasvd.png"
+>Большой скриншот</ulink
 ></para
 > </formalpara
 > </caption
@@ -92,7 +92,7 @@
 > <imagedata fileref="/images/gallery/arasvd_small.jpg" format="JPG"/> </imageobject
 > <textobject
 > <phrase
->The Arabic Bible</phrase
+>Арабская Библия</phrase
 > </textobject
 > </mediaobject>
 
@@ -100,12 +100,12 @@
 > <caption
 > <formalpara
 ><title
->Chinese rendering</title
+>Отображение китайского языка</title
 > <para
 ><emphasis
 >ChiGU</emphasis
->: Chinese Bible text. Since QT 3 BibleTime can correctly break the paragraphs (as you may know, there are no spaces between words). <ulink url="/images/gallery/chigu.png"
->Large screenshot</ulink
+>: Китайский текст Библии. Начиная с 3й версии QT BibleTime может корректно разрывать параграфы (вы вероятно знаете что, там нет пробелов между словами). <ulink url="/images/gallery/chigu.png"
+>Большой скриншот</ulink
 ></para
 > </formalpara
 > </caption
@@ -113,7 +113,7 @@
 > <imagedata fileref="/images/gallery/chigu_small.jpg" format="JPG"/> </imageobject
 > <textobject
 > <phrase
->Chinese rendering</phrase
+>Отображение китайского языка</phrase
 > </textobject
 > </mediaobject>
 
@@ -121,13 +121,13 @@
 > <caption
 > <formalpara
 ><title
->Greek rendering with Strong's numbers and morphological tags</title
+>Отображение греческого с номерами Стронга и морфологическими тегами</title
 > <para
 ><emphasis
 >IGNT</emphasis
->: The Interlinear Greek New Testament. The green numbers in "<![CDATA[< 
->]]>" brackets are Strongnumbers, whereas the numbers in "( )" brackets are Morphologic Tags. Both of them can displayed in a tooltip using a predefined Strong's and Morphology dictionary, as you can see in the example. <ulink url="/images/gallery/ignt.png"
->Large screenshot</ulink
+>: Греческий Новый Завет (The Interlinear Greek New Testament). Зелёные цифры в "<![CDATA[< 
+>]]>" скобках - номера Стронга, тогда как цифры в "( )" скобках являются морфологическими тегами. И те, и другие могут включаться в панели инструментов используя выбранный заранее словарь Стронга и морфологический словарь, как вы можете видеть в примере. <ulink url="/images/gallery/ignt.png"
+>Большой скриншот</ulink
 ></para
 > </formalpara
 > </caption
@@ -135,7 +135,7 @@
 > <imagedata fileref="/images/gallery/ignt_small.jpg" format="JPG"/> </imageobject
 > <textobject
 > <phrase
->Greek rendering with Strong's numbers and morphological tags</phrase
+>Отображение греческого с номерами Стронга и морфологическими тегами</phrase
 > </textobject
 > </mediaobject>
 
@@ -143,14 +143,14 @@
 > <caption
 > <formalpara
 ><title
->Korean and Thai</title
+>Корейский и тайский</title
 > <para
 ><emphasis
 >Kor</emphasis
-> and <emphasis
+> и <emphasis
 >ThaiKJV</emphasis
->. Korean and Thai are very good Unicode examples covered by an amount of Unicode scripts already. They are displayed in a parallel view in one window. The first line of Thai text is of a little smaller pointsize. It is a section heading, and those can be turned on and off using the first toolbutton in the display window. <ulink url="/images/gallery/korthai.png"
->Large screenshot</ulink
+>. Корейский и тайский очень хороши для примера того, чтобы показать что большинство алфавитов уже перекрыто с помощью Unicode. Они отображаются в параллельном просмотре в одном окне. Первая линия тайского текста имеет немного меньший размер букв. Это заголовок, и он может быть включен и выключен с помощью первой кнопки на панели инструментов окна. <ulink url="/images/gallery/korthai.png"
+>Большой скриншот</ulink
 ></para
 > </formalpara
 > </caption
@@ -158,7 +158,7 @@
 > <imagedata fileref="/images/gallery/korthai_small.jpg" format="JPG"/> </imageobject
 > <textobject
 > <phrase
->Korean and Thai</phrase
+>Корейский и тайский</phrase
 > </textobject
 > </mediaobject>
 
@@ -166,12 +166,12 @@
 > <caption
 > <formalpara
 ><title
->Bulgarian and footnotes</title
+>Болгарский и сноски</title
 > <para
 ><emphasis
 >Bulgarian</emphasis
->: The Bible in Bulgarian language. Bulgarian uses the Kyrillic script, which is also used in other languages like Russian. Notice the marked text - it is a "footnote". The popup menu shows how those can be turned on and off. <ulink url="/images/gallery/bulgarian.png"
->Large screenshot</ulink
+>: Библия на болгарском языке. Болгарский использует кириллический алфавит, который также используется в других языках, например - русском.Обратите внимание на помеченный текст - это "сноски". Всплывающее меню показывает как они могут быть включены и выключены. <ulink url="/images/gallery/bulgarian.png"
+>Большой скриншот</ulink
 ></para
 > </formalpara
 > </caption
@@ -179,7 +179,7 @@
 > <imagedata fileref="/images/gallery/bulgarian_small.jpg" format="JPG"/> </imageobject
 > <textobject
 > <phrase
->Bulgarian and footnotes</phrase
+>Болгарский и сноски</phrase
 > </textobject
 > </mediaobject>
 
@@ -187,14 +187,14 @@
 > <caption
 > <formalpara
 ><title
->Vietnamese and Romanian</title
+>Вьетнамский и румынский</title
 > <para
 ><emphasis
 >Viet</emphasis
-> and <emphasis
+> и <emphasis
 >RomCor</emphasis
->. East Europe meets East Asia! Vietnamese and Romanian are not geographically linked, though they look somehow similar in this screenshot. <ulink url="/images/gallery/vietromcor.png"
->Large screenshot</ulink
+>. Восточная Европа встретилась с Восточной Азией! Вьетнамцы и румыны не соединены географически, хотя они выглядят довольно схоже на этом скриншоте. <ulink url="/images/gallery/vietromcor.png"
+>Большой скриншот</ulink
 ></para
 > </formalpara
 > </caption
@@ -202,7 +202,7 @@
 > <imagedata fileref="/images/gallery/vietromcor_small.jpg" format="JPG"/> </imageobject
 > <textobject
 > <phrase
->Vietnamese and Romanian</phrase
+>Вьетнамский и румынский</phrase
 > </textobject
 > </mediaobject>
 
@@ -210,10 +210,10 @@
 > <caption
 > <formalpara
 ><title
->Esperanto without verse numbers and linebreaks</title
+>Эсперанто без номеров стихов и переносов строк</title
 > <para
->YES, there is a Bible for those of you who prefer to speak Esperanto. This is not really a Unicode example, since the displayed characters come from the iso 8859-1 charset. But this shows how text looks like after switching off versenumbers and linebreaks. <ulink url="/images/gallery/esperanto.png"
->Large screenshot</ulink
+>ДА, это Библия для тех из вас, кто предпочитает говорить на Эсперанто. Это не совсем пример Unicode, потому что изображённые буквы взяты из кодировки iso 8859-1. Но это показывает как выглядит текст после того, как отключено отображение номеров стихов и переносов строк. <ulink url="/images/gallery/esperanto.png"
+>Большой скриншот</ulink
 ></para
 > </formalpara
 > </caption
@@ -221,7 +221,7 @@
 > <imagedata fileref="/images/gallery/esperanto_small.jpg" format="JPG"/> </imageobject
 > <textobject
 > <phrase
->Esperanto without verse numbers and linebreaks</phrase
+>Эсперанто без номеров стихов и переносов строк</phrase
 > </textobject
 > </mediaobject>
 

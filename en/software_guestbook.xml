@@ -16,7 +16,7 @@
 	This page shows BibleTime's guestbook. Please post your own comments if you like. Please write your comments in English if possible! HTML is not allowed and will be removed. You may use normal line breaks to divide into paragraphs.
 	</para>
 
-<section><title>Guestbook</title>
+<section><title>Please add your comments to our guestbook!</title>
 <ssi mode="exec" cgi="/guestbook.pl"/>
 </section>
 

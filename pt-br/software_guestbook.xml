@@ -22,7 +22,7 @@
 
 <section
 ><title
->Livro de Visitas</title>
+>Por favor, adicione seus comentários no nosso Livro de Visitas.</title>
 <ssi mode="exec" cgi="/guestbook.pl"/>
 </section>
 

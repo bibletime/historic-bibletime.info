@@ -35,9 +35,9 @@
 > </para>
 
 <para
-> On this page you can find statistics about the completeness of existing translations for each of these areas, as well as links to translation templates that you can use to submit new translations which do not yet exist. If a translation into your language does not yet exist, just download the templates, translate them and send them to <email
+> Auf dieser Seite können Sie Statistiken über die Vollständigkeit der bestehenden Übersetzungen in jedem dieser Bereiche sehen, aber auch Verweise auf Übersetzungsvorlagen die Sie benutzen können um neue Übersetzungen zu erstellen, die noch nicht vorhanden waren.  Wenn eine Übersetzung in ihrer Sprache noch nicht existiert, laden Sie einfach die Vorlage herunter, übersetzen Sie diese und schicken Sie diese an  <email
 >info@bibletime.info</email
->. If you are not satisfied with the status of your language's translation, you can directly download the corresponding file, update the translation and send it in. In both cases we'll be sure to integrate your work as soon as possible. </para>
+>. Wenn Sie mit dem Status der Übersetzung in ihrer Sprache zufrieden sind, dann laden Sie sich die entsprechende Datei herunter, korrigieren Sie diese und schicken Sie diese an uns. In beiden Fällen werden wir sicherstellen die Arbeit so schnell wir möglich zu integrieren. </para>
 
 <para
 > Für die Übersetzungsarbeit empfehlen wir ihnen das wirklich gute Programm <ulink url="http://i18n.kde.org/tools/kbabel/"
@@ -50,9 +50,9 @@
 ><title
 >Übersetzung der www.bibletime.info Seiten</title>
 <para
-> If a translation of the website to your language does not yet exist, you can download and translate the <ulink url="/en/pot/full.pot"
->Webpage translation template</ulink
->. If you want to update an existing translation, use the links in the table below to download the corresponding file. </para>
+> Wenn eine Übersetzung der Webseite in ihrer Sprache noch nicht  existiert, laden und übersetzen Sie die <ulink url="/en/pot/full.pot"
+>Webseiten Überzetzungsvorlage</ulink
+>. Wenn Sie eine bestehende Übersetzung bearbeiten möchten, benutzen Sie die Verweise in der untenstehenden Tabelle um die entsprechende Datei herunterzuladen. </para>
 	<ssi mode="exec" cgi="/postats/website_stats.pl"/>
 </section>
 
@@ -60,9 +60,9 @@
 ><title
 >Übersetzung der Programmoberfläche</title>
 <para
-> If a translation of the User Interface to your language does not yet exist, you can download and translate the <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD"
-> User Interface translation template</ulink
->. If you want to update an existing translation, use the links in the table below to download the corresponding file. </para>
+> Wenn eine Übersetzung der Benutzeroberfläche in ihrer Sprache noch nicht  existiert, laden und übersetzen Sie die <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD"
+>Benutzeroberflächen Übersetzungsvorlage</ulink
+>. Wenn Sie eine bestehende Übersetzung bearbeiten möchten, benutzen Sie die Verweise in der untenstehenden Tabelle um die entsprechende Datei herunterzuladen. </para>
 	<ssi mode="exec" cgi="/postats/messages_stats.pl"/>
 </section>
 

@@ -9,14 +9,42 @@
 <config param="desc" value="Installation of the BibleTime software"/>
 <config param="rcsdate" value="$Date$"/>
 <head>
-<title>Installation</title>
+<title>Download</title>
 <summary>Installation to the BibleTime software</summary>
 <keywords>BibleTime, Software, Installation, Help, Sword, Download</keywords>
 </head>
 
+<section><title>Download BibleTime</title>
+<para>
+	This is a short list of available download locations. Packages which are not provided on our SourceForge pages might be outdated. Please see below for detailed download and installation instructions.
+	<itemizedlist>
+		<listitem>
+		<para>Sourcecode and packages for major Linux distributions can be downloaded from <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954">SourceForge</ulink>.
+		</para>
+		</listitem>
+
+		<listitem>
+		<para>Debian packages are available for <ulink url="http://packages.debian.org/unstable/kde/bibletime">Debian Unstable</ulink> and <ulink url="http://packages.debian.org/stable/x11/bibletime">Debian Stable</ulink>.
+		</para>
+		</listitem>
+
+		<listitem>
+		<para>Gentoo packages are available on <ulink url="http://packages.gentoo.org/search/?sstring=bibletime">www.gentoo.org</ulink>.
+		</para>
+		</listitem>
+
+		<listitem>
+		<para>A FreeBSD application port of BibleTime can be found on <ulink url="http://www.FreeBSD.org/cgi/ports.cgi?query=bibletime&amp;stype=all">www.freebsd.org</ulink>.
+		</para>
+		</listitem>
+
+	</itemizedlist>
+</para>
+</section>
+
 <section><title>Installation of BibleTime</title>
 <para>
-This page explains how to Install BibleTime on your system. Basically there are two ways to install it: Either by using prebuilt binary packages or by compiling from source code. Installing BibleTime using prebuilt packages is the easiest way.
+This section explains how to install BibleTime on your system. Basically there are two ways to install it: Either by using prebuilt binary packages or by compiling from source code. Installing BibleTime using prebuilt packages is the easiest way.
 </para>
 
 	<section><title>Prebuilt binary packages</title>
@@ -26,9 +54,7 @@ This page explains how to Install BibleTime on your system. Basically there are 
 		<para>First download the binary package for your Linux distribution. For example: You want to download <application>BibleTime 1.4</application> for <productname>SuSE Linux 9.0</productname>. In this case you have to download the package <filename>bibletime-1.4-1.suse9.0.i586.rpm</filename>.
 		Please download the package &quot;bibletime-i18n&quot; package, too. This package contains the available translations of the BibleTime user interface and handbook.
 		</para>
-		<para>Packages can be downloaded from <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954">SourceForge</ulink>.
-		</para>
-		<para>If there are now packages for your Linux you have to install from source code. Please see below how to do that.
+		<para>If there are no packages for your version of Linux you have to install from source code. Please see below how to do that.
 		</para>
 	</section>
 
@@ -38,7 +64,7 @@ This page explains how to Install BibleTime on your system. Basically there are 
 
 		<orderedlist>
 			<listitem>
-				<para>At first make sure the required software is installed on your system.
+				<para>At first make sure the required software is installed on your system. Depending on your Linux distribution you have to install the development packages of the required software, too.
 				</para>
 
 				<itemizedlist>
@@ -66,11 +92,6 @@ This page explains how to Install BibleTime on your system. Basically there are 
 				</itemizedlist>
 
 				<para>Please note that this list is only valid for the latest version of BibleTime, older versions may require other software.
-				</para>
-			</listitem>
-
-			<listitem>
-				<para><ulink url="http://sourceforge.net/project/showfiles.php?group_id=954">Get the source code package</ulink> of BibeTime.
 				</para>
 			</listitem>
 

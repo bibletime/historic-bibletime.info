@@ -2,7 +2,6 @@ ErrorDocument 404 /error404.html
 
 RewriteEngine On
 
-
 #  let the server know that we were reached via /xyz and not
 #  via the physical path prefix /abc/def
 RewriteBase   /
@@ -41,17 +40,18 @@ RewriteRule	^software/gallery$		/software_gallery.html [R,L]
 # Rewrite rules for better CGI navigation
 RewriteRule	^(software|documentation|modules|contact|development)/?$			/$1.html [R,L]
 RewriteRule	^(software|documentation|modules|contact|development)/([^/]+)/?$		/$1_$2.html [R,L]
-RewriteRule	^(software|documentation|modules|contact|development)/([^/]+)/([^/]+)/?$	/$1_$2_$3.html  [R,L]
+RewriteRule	^(software|documentation|modules|contact|development)/([^/]+)/([^/]+)/?$	/$1_$2_$3.html [R,L]
 
 
 # Handle stuff like
 #	Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.2.1) Gecko/20021204
 # to find out the language
+
 RewriteRule	 ^(de|en|pt-br|ko|ro|ru|ua)/?$		/$1/index.html	[R,L]
 RewriteRule	 ^/?$					/index.html	[R,L]
 
 RewriteRule	 ^.+/(.+\.css)$				/$1
-RewriteRule	 ^.+/(.+\.pl)$				/$1
+RewriteRule	 ^.+/((guestbook|swordcd)\.pl)$				/$1
 RewriteRule	 ^.+/(favicon.ico)$			/$1
 
 # If the / URI was called try to redirect into the right language folder

@@ -1,6 +1,6 @@
 <!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
-<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+<!ENTITY translation SYSTEM "translation.xml" NDATA XML>
 ]>
 
 <webpage id="development_join">
@@ -29,11 +29,17 @@
 <para
 > <orderedlist
 > <listitem
-> Se você não tem uma conta no SourceForge, por favor inscreva-se para uma. É grátis. Nós precisamos de seu nome de usuário para adicionar você aos membros do time, para designar tarefas, etc. </listitem
+> <para
+>Se você não tem uma conta no SourceForge, por favor inscreva-se para uma. É grátis. Nós precisamos de seu nome de usuário para adicionar você aos membros do time, para designar tarefas, etc. </para
+> </listitem
 > <listitem
-> Inscreva-se à lista de discussão de desenvolvimento do BibleTime. Todos os desenvolvedores lêm esta lista, então todos sabem o que está acontecendo. </listitem
+> <para
+>Inscreva-se à lista de discussão de desenvolvimento do BibleTime. Todos os desenvolvedores lêm esta lista, então todos sabem o que está acontecendo. </para
+> </listitem
 > <listitem
-> Pegue a versão de desenvolvimento do BibleTime e instale. Se você precisar de ajuda para isto peça na lista de discussão ou procure na seção de documentação. </listitem
+> <para
+>Pegue a versão de desenvolvimento do BibleTime e instale. Se você precisar de ajuda para isto peça na lista de discussão ou procure na seção de documentação. </para
+> </listitem
 > </orderedlist
 > </para>
 </section>
@@ -44,9 +50,13 @@
 <para
 > <orderedlist
 > <listitem
-> Trabalhe com os tutoriais do Qt 3 e KDE 3 para saber como programar as coisas que o BibleTime usa. </listitem
+> <para
+>Trabalhe com os tutoriais do Qt 3 e KDE 3 para saber como programar as coisas que o BibleTime usa. </para
+> </listitem
 > <listitem
-> Se você não sabe o que fazer por favor peça na lista de discussão por algumas tarefas. Não se esqueça de adicionar o nível de dificuldade que devem ter. </listitem
+> <para
+>Se você não sabe o que fazer por favor peça na lista de discussão por algumas tarefas. Não se esqueça de adicionar o nível de dificuldade que devem ter. </para
+> </listitem
 > </orderedlist
 > </para>
 </section>
@@ -57,9 +67,13 @@
 <para
 > <orderedlist
 > <listitem
-> Leia a documentação existente em inglês. Está localizada no diretório docs/ do diretório cvs do BibleTime. </listitem
+> <para
+>Leia a documentação existente em inglês. Está localizada no diretório docs/ do diretório cvs do BibleTime. </para
+> </listitem
 > <listitem
-> A documentação é guardada em arquivos docbook nos subdiretórios unicode de cada parte (livro de mão, Estudo Bíblico HowTo, instalação, diálogo de ajuda). Por favor, não edite os arquivos HTML diretamente porque eles são gerados a partir dos documentos docbook. Os arquivos de tradução também são gerados a partir dos arquivos docbook. </listitem
+> <para
+>A documentação é guardada em arquivos docbook nos subdiretórios unicode de cada parte (livro de mão, Estudo Bíblico HowTo, instalação, diálogo de ajuda). Por favor, não edite os arquivos HTML diretamente porque eles são gerados a partir dos documentos docbook. Os arquivos de tradução também são gerados a partir dos arquivos docbook. </para
+> </listitem
 > </orderedlist
 > </para>
 </section>
@@ -71,13 +85,21 @@
 <para
 > <orderedlist
 > <listitem
-> Dê uma olhada nas páginas de internacionalização do projeto KDE. Eles estão localizados em: <ulink url="http://i18n.kde.org/"
+> <para
+>Dê uma olhada nas páginas de internacionalização do projeto KDE. Eles estão localizados em: <ulink url="http://i18n.kde.org/"
 >i18n.kde.org</ulink
+> </para
 > </listitem
 > <listitem
-> Instale o programa KBabel, se ainda não estiver instalado em seu sistema. Ele irá ajuda-lo muito no processo de tradução. </listitem
+> <para
+>Instale o programa KBabel, se ainda não estiver instalado em seu sistema. Ele irá ajuda-lo muito no processo de tradução. </para
+> </listitem
 > <listitem
-> Requisite os arquivos para a tradução na lista de discussão bt-devel. Normalmente o coordenador de software criará um novo módulo CVS, que irá conter os arquivos que você irá traduzir. </listitem
+> <para
+>Por favor, leia a página sobre a <olink targetdocent="translation"
+>tradução do BibleTime</olink
+>. </para
+> </listitem
 > </orderedlist
 > </para>
 </section>

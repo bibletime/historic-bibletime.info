@@ -7,7 +7,7 @@
 <config param="rcsdate" value="$Date$"/>
 <head>
 	<title
->Ссылка к нам</title>
+>Ссылка на нас</title>
 	<summary
 >How to link to www.bibletime.info</summary>
 	<keywords
@@ -18,20 +18,20 @@
 ><title
 >Как сделать ссылку на www.bibletime.info</title>
 <para
-> Пожалуйста не копируйте картинки, так как они могут изменить свою форму. </para>
+> Пожалуйста, не копируйте картинки, так как дизайн может измениться. </para>
 
 <section
 ><title
->Larger banner</title>
+>Большой баннер</title>
 <para
-> Put the following HTML code on your pages: <programlisting>
+> Поместите следующий HTML-код на ваших страницах: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank">
  <img src="http://www.bibletime.info/images/banner/big.jpg" width="312" height="60" border="0"/>
  </a>
 ]]>
 </programlisting
-> This will look like this: <ulink url="http://www.bibletime.info/"
+> Это будет выглядеть вот так: <ulink url="http://www.bibletime.info/"
 > <mediaobject
 > <imageobject
 > <imagedata fileref="/images/banner/big.jpg" format="JPG"/> </imageobject
@@ -42,16 +42,16 @@
 
 <section
 ><title
->Smaller banner</title>
+>Маленький баннер</title>
 <para
-> Put the following HTML code on your pages: <programlisting>
+> Поместите следующий HTML-код на ваших страницах: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank">
  <img src="http://www.bibletime.info/images/banner/small.jpg" width="88" height="31" border="0"/>
  </a>
 ]]>
 </programlisting
-> This will look like this: <ulink url="http://www.bibletime.info/"
+> Это будет выглядеть вот так: <ulink url="http://www.bibletime.info/"
 > <mediaobject
 > <imageobject
 > <imagedata fileref="/images/banner/small.jpg" format="JPG"/> </imageobject
@@ -63,17 +63,17 @@
 
 <section
 ><title
->Text link</title>
+>Текстовая ссылка</title>
 <para
-> To insert a simple text link please use the following HTML code on your pages: <programlisting>
+> Чтобы вставить простую текстовую ссылку, пожалуйста,используйте следующий HTML-код на ваших страницах: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" TARGET="_blank">
- BibleTime - Bible study software for KDE
+ BibleTime - программа для изучения Библии под KDE
  </a>
 ]]>
 </programlisting
-> This will look like this: <ulink url="http://www.bibletime.info/"
->BibleTime - Bible study software for KDE</ulink
+> Это будет выглядеть вот так: <ulink url="http://www.bibletime.info/"
+>BibleTime - программа для изучения Библии под KDE</ulink
 > </para>
 </section>
 

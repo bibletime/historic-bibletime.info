@@ -1,6 +1,6 @@
 <!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
-<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+<!ENTITY translation SYSTEM "translation.xml" NDATA XML>
 ]>
 
 <webpage id="development_join">
@@ -29,11 +29,17 @@
 <para
 > <orderedlist
 > <listitem
-> Schrijf u in voor een SourceForge-account als u er nog geen heeft, dit is gratis. We hebben uw gebruikersnaam nodig om u toe te voegen aan ons teamleden, om u taken toe te wijzen, enz. </listitem
+> <para
+>Schrijf u in voor een SourceForge-account als u er nog geen heeft, dit is gratis. We hebben uw gebruikersnaam nodig om u toe te voegen aan ons teamleden, om u taken toe te wijzen, enz. </para
+> </listitem
 > <listitem
-> Wordt lid van de BibleTime-ontwikkelingsmailinglijst. Alle ontwikkelaars lezen deze mailinglijst, zodat iedereen weet wat er gebeurt. </listitem
+> <para
+>Wordt lid van de BibleTime-ontwikkelingsmailinglijst. Alle ontwikkelaars lezen deze mailinglijst, zodat iedereen weet wat er gebeurt. </para
+> </listitem
 > <listitem
-> Download en installeer de ontwikkelingsversie van BibleTime. Als u hierbij hulp nodig heeft, vraag hier dan om op de mailinglijst of kijk in de documentatie-sectie. </listitem
+> <para
+>Download en installeer de ontwikkelingsversie van BibleTime. Als u hierbij hulp nodig heeft, vraag hier dan om op de mailinglijst of kijk in de documentatie-sectie. </para
+> </listitem
 > </orderedlist
 > </para>
 </section>
@@ -44,9 +50,13 @@
 <para
 > <orderedlist
 > <listitem
-> Bestudeer enkele Qt 3 en KDE 3 tutorials om bekend te worden met het programmeren van de dingen die BibleTime gebruikt. </listitem
+> <para
+>Bestudeer enkele Qt 3 en KDE 3 tutorials om bekend te worden met het programmeren van de dingen die BibleTime gebruikt. </para
+> </listitem
 > <listitem
-> Als u niet weet wat te doen, vraag dan op de mailinglijst om enkele taken. Vergeet niet te vermelden hoe moeilijk het mag zijn. </listitem
+> <para
+>Als u niet weet wat te doen, vraag dan op de mailinglijst om enkele taken. Vergeet niet te vermelden hoe moeilijk het mag zijn. </para
+> </listitem
 > </orderedlist
 > </para>
 </section>
@@ -57,9 +67,13 @@
 <para
 > <orderedlist
 > <listitem
-> Lees de bestaande Engelse documentatie. Deze is te vinden in de docs/-map van de BibleTime CVS-map. </listitem
+> <para
+>Lees de bestaande Engelse documentatie. Deze is te vinden in de docs/-map van de BibleTime CVS-map. </para
+> </listitem
 > <listitem
-> De documentatie is opgeslagen in de DocBook-bestanden in de Unicode-submappen van ieder documentatie-onderdeel (handboek, Biblestudie HowTo, installatie, hulpdialoog). Bewerk de HTML-bestanden niet direct, omdat deze uit de Docbook-bestanden gegenereerd worden. De vertaalbestanden worden ook uit de Docbook-data gegenereerd. </listitem
+> <para
+>De documentatie is opgeslagen in de DocBook-bestanden in de Unicode-submappen van ieder documentatie-onderdeel (handboek, Biblestudie HowTo, installatie, hulpdialoog). Bewerk de HTML-bestanden niet direct, omdat deze uit de Docbook-bestanden gegenereerd worden. De vertaalbestanden worden ook uit de Docbook-data gegenereerd. </para
+> </listitem
 > </orderedlist
 > </para>
 </section>
@@ -71,13 +85,21 @@
 <para
 > <orderedlist
 > <listitem
-> Neem een kijkje op de internationalisatiepagina's van het KDE-project. Deze zijn te vinden op: <ulink url="http://i18n.kde.org/"
+> <para
+>Have a look at the internationaliziation pages of the KDE project. They're located at <ulink url="http://i18n.kde.org/"
 >i18n.kde.org</ulink
->. </listitem
+>. </para
+> </listitem
 > <listitem
-> Installeer, als het nog niet op uw systeem is geïnstalleerd het programma KBabel. Het zal u veel helpen tijdens het vertalingsproces. </listitem
+> <para
+>Installeer, als het nog niet op uw systeem is geïnstalleerd het programma KBabel. Het zal u veel helpen tijdens het vertalingsproces. </para
+> </listitem
 > <listitem
-> Vraag naar de bestanden voor de vertaling op de bt-devel-mailinglijst. Normaal gesproken zal de softwarecoördinator een nieuwe CVS-module, die de door u te vertalen bestanden bevat, aanmaken. </listitem
+> <para
+>Read the page about <olink targetdocent="translation"
+>translating BibleTime</olink
+>. </para
+> </listitem
 > </orderedlist
 > </para>
 </section>

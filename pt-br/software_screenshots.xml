@@ -16,7 +16,26 @@
 
 <section
 ><title
->Telas do BibleTime 1.3</title>
+>Telas do BibleTime</title>
+
+	<mediaobject
+> <caption
+> <formalpara
+><title
+>Novo diálogo de configuração do Sword</title
+> <para
+> Desde a versão 1.4 BibleTime oferece um novo diálogo para gerenciar a instalação de módulos do Sword. Agora é possível configurar o Sword, instalar e desinstalar módulos usando uma interface amigável. <ulink url="/images//screenshots/3-large.jpg"
+>Ver Tela Ampliada</ulink
+> </para
+> </formalpara
+> </caption
+> <imageobject
+> <imagedata fileref="/images/screenshots/3.jpg" format="JPG"/> </imageobject
+> <textobject
+> <phrase
+>Melhorias no BibleTime 1.4</phrase
+> </textobject
+> </mediaobject>
 
 	<mediaobject
 > <caption

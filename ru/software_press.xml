@@ -19,24 +19,26 @@
 ><title
 >Пресса о нас</title>
 <para
-> On <ulink url="http://dot.kde.org/995302757"
->dot.kde.org</ulink
-> Andreas Pour draws the following conclusion in his review: </para>
+> На сайте <A HREF="http://dot.kde.org/995302757"
+><b
+>dot.kde.org</b
+></A
+> Andreas Pour делает следующий вывод в своем обозрении: </para>
 
 <section>
 <para
 > <blockquote
 > <attribution
->Andreas Pour (&copy; 2001 Andreas "Dre" Pour. All rights reserved)</attribution
+>Andreas Pour (&copy; 2001 Andreas "Dre" Pour. Все права защищены)</attribution
 > <para
-> Bibletime is already a true godsend for religious KDE users. It is easily useable though it may take a bit of time to learn some quirks. I think the next release will make it even better, particularly by providing a GUI for the difficult Sword installation/configuration. Besides this, my personal wishlist item is to use KHTML for its advanced navigation features. </para
+> Bibletime является действительно Божьим посланием для религиозных пользователей KDE. Очень легкая в использовании, хотя потребуется немного времени, чтобы изучить некоторые особенности. Я думаю, что следующий релиз сделает её ещё лучше, особенно предоставляя графический интерфейс (GUI) для сложной установки и настройки Sword. С другой стороны, моё личное пожелание в том, чтобы использовать KHTML для возможностей улучшенной навигации.  </para
 > </blockquote
 > </para>
 </section>
 
 <section>
 <para
-> The German magazine "Pfarrer &amp; PC" reviewed Bible software for Linux which also covers BibleTime among "Gnomesword" and "Volksbibel 2000". Their conclusion in german for BibleTime: </para>
+> Немецкий журнал "Pfarrer &amp; PC" провел обзор программ по изучению Библии для Linux, который включал BibleTime среди "Gnomesword" и "Volksbibel 2000". Их заключение о BibleTime на немецком звучит так: </para>
 
 <para
 > <blockquote
@@ -48,7 +50,7 @@
 > </para>
 
 <para
-> The review is online at: <ulink url="http://www.pfarrer-pc.de/magazin/2-02/art02-02-bibli.php"
+> Обзор находится на: <ulink url="http://www.pfarrer-pc.de/magazin/2-02/art02-02-bibli.php"
 >www.pfarrer-pc.de</ulink
 > </para>
 </section>

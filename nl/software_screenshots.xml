@@ -16,7 +16,26 @@
 
 <section
 ><title
->Schermafdrukken van BibleTime 1.3</title>
+>Screenshots of BibleTime</title>
+
+	<mediaobject
+> <caption
+> <formalpara
+><title
+>New Sword setup dialog</title
+> <para
+> Since version 1.4 BibleTime offers a new dialog to manage Sword modules. It is now possible to setup Sword's configuration, install modules and uninstall modules using a userfriendly interface. <ulink url="/images//screenshots/3-large.jpg"
+>Large screenshot</ulink
+> </para
+> </formalpara
+> </caption
+> <imageobject
+> <imagedata fileref="/images/screenshots/3.jpg" format="JPG"/> </imageobject
+> <textobject
+> <phrase
+>Improvements in BibleTime 1.4</phrase
+> </textobject
+> </mediaobject>
 
 	<mediaobject
 > <caption

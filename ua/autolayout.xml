@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE autolayout PUBLIC "-//Norman Walsh//DTD Website Autolayout V2.4.1//EN" "http://docbook.sourceforge.net/release/website/2.4.1/schema/dtd/autolayout.dtd">
 <autolayout>
-<style title="Blue" src="blue.css" type="text/css"/><copyright><year>1999</year><year>2000</year><year>2001</year><year>2002</year><year>2003</year><holder role="http://www.bibletime.info/">The BibleTime developers - www.bibletime.info</holder></copyright><notoc page="error404.xml" id="error404" filename="error404.html">
+<style title="Blue" src="blue.css" type="text/css"/><copyright><year>1999</year><year>2000</year><year>2001</year><year>2002</year><year>2003</year><year>2004</year><holder role="http://www.bibletime.info/">The BibleTime developers - www.bibletime.info</holder></copyright><notoc page="error404.xml" id="error404" filename="error404.html">
 <title>Error</title>
 <summary>Error 404: File not found</summary>
 </notoc>
@@ -24,7 +24,7 @@
 <summary>Gallery of BibleTime</summary>
 </tocentry>
 <tocentry page="software_installation.xml" id="documentation_installation_bibletime" filename="software_installation.html">
-<title>Installation</title>
+<title>&#x417;&#x430;&#x432;&#x430;&#x43D;&#x442;&#x430;&#x436;&#x438;&#x442;&#x438;</title>
 <summary>Installation to the BibleTime software</summary>
 </tocentry>
 <tocentry page="software_faq.xml" id="documentation_ifaq" filename="software_faq.html">
@@ -60,10 +60,6 @@
 <summary>BibleTime's license</summary>
 </tocentry>
 </tocentry>
-<tocentry page="translation.xml" id="translation" filename="translation.shtml">
-<title>Translation</title>
-<summary>Introduction</summary>
-</tocentry>
 <tocentry page="development.xml" id="development" filename="development.html">
 <title>&#x420;&#x43E;&#x437;&#x440;&#x43E;&#x431;&#x43A;&#x430; &#x41F;&#x417;</title>
 <summary>BibleTime's development</summary>
@@ -79,6 +75,10 @@
 <title>Mailinglists</title>
 <summary>BibleTime's mailinglists</summary>
 </tocentry>
+</tocentry>
+<tocentry page="translation.xml" id="translation" filename="translation.shtml">
+<title>Translation</title>
+<summary>Introduction</summary>
 </tocentry>
 <tocentry page="biblehowto.docbook" id="biblehowto" filename="biblehowto.html">
 <title>Biblestudy HowTo</title>

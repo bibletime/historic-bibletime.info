@@ -40,28 +40,23 @@ a:focus {
 }
 
 h1 {
-	font-size:1.1em;
-}
-
+	font-size:1.15em;
+	}
 h2 {
-	font-size:1.07em;
-}
-
+	font-size:1.1em;
+	}
 h3 {
-	font-size:1.04em;
-}
-
+	font-size:1.05em;
+	}
 h4 {
-	font-size:1.02em;
-}
-
+	font-size:1.05em;
+	}
 h5 {
-	font-size:1.0em;
-}
-
+	font-size:1em;
+	}
 h6 {
-	font-size:0.97em;
-}
+	font-size:1em;
+	}
 
 h1,h2,h3,h4,h5,h6 {
 	font-weight:bold;
@@ -231,39 +226,28 @@ textarea:focus {
 
 #content .section {
 	margin-bottom:15px;
-}
-
+	}
 #content .section > .section {
-	margin-left:10px;
-	margin-bottom:10px;
-}
-
+	margin:15px 0 5px 15px;
+	}
 #content .section .titlepage div div h1,h2,h3,h4,h5,h6 {
 	padding:0px;
 	margin:0px;
-}
-
+	}
 .section p {
-	margin:3px 0px;
-	padding-left:10px;
+	margin:0px 0 5px 0;
+	padding:0 0 0 15px;
 	font-size:0.95em;
-}
-
-.section .table {
-	margin:10px;
-	font-size:0.95em;
-	width:94%;
-}
+	}
 .section .table .title {
 	font-size:0.8em;
-}
+	}
 .section table {
-	width:100%;
-}
-
+	width: 100%;
+	}
 .section img {
 	padding:3px 3px 3px 10px;
-}
+	}
 
 .mediaobject {
 	margin-bottom:30px;
@@ -334,7 +318,7 @@ textarea:focus {
 	margin-top: 25px;
 }
 .chapter > .titlepage .title {
-	font-size:1.3em;
+	font-size:1.2em;
 	margin:0;
 }
 
@@ -350,11 +334,11 @@ p.title {
 
 pre {
 	white-space: normal;
-	margin:10px;
+	margin:5px 15px;
 	font-size:0.95em;
 	line-height: 0.9em;
-	border-left:8px solid #ADADAD;
-	padding:0 5px;
+	border-left:6px solid #ADADAD;
+	padding:0 6px;
 }
 
 
@@ -406,34 +390,34 @@ pre {
 
 div.guestbook {
 	width:100%;
-}
-
+	}
 div.guestbook form.additem {
 	color:black;
 	background-color:white;
 	margin-top:15px;
 	margin-bottom:15px;
-}
-
-
+	}
 div.guestbook .item {
 	width:100%;
-}
-
+	}
 div.guestbook .item .header {
-	color:black;
-	background-color:#EEEEF6;
-	border:1px solid black;
-	vertical-align:middle;
-	padding:3px;
-	margin-top:15px;
-}
-
-div.guestbook .item .comments {
+	border-bottom: 2px dashed #B4CAFF;
+	vertical-align: middle;
+	padding: 1px;
 	font-size:0.9em;
-	padding-left:10px;
-	padding-right:10px;
-}
+	}
+div.guestbook .item .header .name {
+	font-weight: bold;
+	}
+div.guestbook .item .header .contact-info img {
+	vertical-align: bottom;
+	margin: 1px;
+	padding: 1px;
+	}
+div.guestbook .item .comments {
+	font-size:0.85em;
+	padding: 0 10px 15px 10px
+	}
 
 
 div.swordcd {
@@ -501,15 +485,13 @@ table tr.question td {
 /* Entries for the translation statistics */
 #translation {
 	}
-#translation #postats {
-	margin-left: 30px;
-	margin-top:15px;
-	margin-bottom:20px;
+#translation .postats {
+	margin: 15px 0 25px 15px;
 	}
 #translation .language {
 	font-size: 0.8em;
 	width: 90%;
-	margin: 5px 0 25px 0;
+	margin: 5px 0 10px 0;
 	padding:0;
 	}
 #translation .language td.translated { /* translated */

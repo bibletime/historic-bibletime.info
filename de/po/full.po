@@ -36,7 +36,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.0.2\n"
 
-#: index.docbook:4 index.docbook:13
+#: index.docbook:4 index.docbook:14
 #, no-c-format
 msgid "The BibleTime developers - www.bibletime.info"
 msgstr "Die BibleTime Entwickler - www.bibletime.info"
@@ -71,10 +71,10 @@ msgstr "Bildschirmfotos"
 msgid "Gallery"
 msgstr "Galerie"
 
-#: index.docbook:27 index.docbook:36 index.docbook:12
+#: index.docbook:27 index.docbook:10 index.docbook:12
 #, no-c-format
-msgid "Installation"
-msgstr "Installation"
+msgid "Download"
+msgstr "Herunterladen"
 
 #: index.docbook:31 index.docbook:9
 #, no-c-format
@@ -96,7 +96,7 @@ msgstr "Verweise"
 msgid "Link to us"
 msgstr "Auf uns verweisen"
 
-#: index.docbook:47 index.docbook:9 index.docbook:19
+#: index.docbook:47 index.docbook:9
 #, no-c-format
 msgid "Guestbook"
 msgstr "Gästebuch"
@@ -116,30 +116,30 @@ msgstr "Kontakt"
 msgid "License"
 msgstr "Lizenz"
 
-#: index.docbook:64 index.docbook:9
-#, no-c-format
-msgid "Translation"
-msgstr "Übersetzung"
-
-#: index.docbook:68 index.docbook:10
+#: index.docbook:64 index.docbook:10
 #, no-c-format
 msgid "Development"
 msgstr "Entwicklung"
 
-#: index.docbook:71 index.docbook:10
+#: index.docbook:67 index.docbook:10
 #, no-c-format
 msgid "Help us"
 msgstr "Helfen Sie uns"
 
-#: index.docbook:75 index.docbook:10
+#: index.docbook:71 index.docbook:10
 #, no-c-format
 msgid "Join us"
 msgstr "Mitmachen"
 
-#: index.docbook:79 index.docbook:10
+#: index.docbook:75 index.docbook:10
 #, no-c-format
 msgid "Mailinglists"
 msgstr "Mailinglisten"
+
+#: index.docbook:80 index.docbook:9
+#, no-c-format
+msgid "Translation"
+msgstr "Übersetzung"
 
 #: index.docbook:84 index.docbook:18
 #, no-c-format
@@ -311,55 +311,55 @@ msgstr "Tragen Sie sich auf der BibleTime Entwickler Mailingliste ein, Alle Entw
 msgid "Get the development version of BibleTime and install it. If you need help with this ask on the mailing list or look into the documentation section."
 msgstr "Holen Sie sich die Entwicklungsversion von BibleTime und installieren Sie diese. Wenn Sie Hilfe damit benötigen, fragen Sie auf der Mailingliste oder schauen Sie in dem Dokumentations-Abschnitt nach."
 
-#: index.docbook:41
+#: index.docbook:44
 #, no-c-format
 msgid "The next steps for software developers..."
 msgstr "Die nächsten Schritte für Software Entwickler"
 
-#: index.docbook:42
+#: index.docbook:45
 #, no-c-format
 msgid "Work through some of the Qt 3 and KDE 3 tuorials to get used to programming with the things BibleTime uses."
 msgstr "Arbeiten Sie sich durch einige der QT 3 und KDE 3 Programmier-Schnellkurse, um sich an das Programmieren mit den Dingen zu gewöhnen, die BibleTime benutzt."
 
-#: index.docbook:42
+#: index.docbook:45
 #, no-c-format
 msgid "If you don't know what to do please ask on the mailing list for some tasks. Don't forget to add how difficult it should be."
 msgstr "Falls Sie nicht wissen, was Sie tun sollen, fragen Sie bitte auf der Mailingliste nach ein paar Aufgaben. Vergessen Sie nicht uns mitzuteilen, wie schwierig diese sein sollen."
 
-#: index.docbook:54
+#: index.docbook:59
 #, no-c-format
 msgid "The next steps for documentation authors..."
 msgstr "Die  nächsten Schritte für Dokumentations-Autoren"
 
-#: index.docbook:55
+#: index.docbook:60
 #, no-c-format
 msgid "Read the existing english documentation. It's located in the docs/ directory of the bibletime cvs directory."
 msgstr "Lesen Sie die bestehende englische Dokumentation. Diese liegt im docs/ Verzeichnis des bibletime CVS Verzeichnisses."
 
-#: index.docbook:55
+#: index.docbook:60
 #, no-c-format
 msgid "The documentation is stored in docbook files in the unicode subdirectories of each documentation part (handbook, Bible study howto, installation, helpdialog). Please don't edit the HTML files directly because they're generated from the docbook files. The translation file are also generated from the docbook data."
 msgstr "Die Dokumentation wird in sogenannten Docbook Dateien in dem Unterverzeichnis \"Unicode\" jedes Dokumentations-Teiles gespeichert (Handbuch, Anleitung zum Bibelstudium, Installation, Hilfeseiten). Bitte bearbeiten Sie die HTML nicht direkt, da sie automatisch aus den Docbook Dateien erzeugt werden.Die Datein für die Übersetzungen werden auch aus den Docbook Dateien generiert."
 
-#: index.docbook:69
+#: index.docbook:76
 #, no-c-format
 msgid "The next steps for translators..."
 msgstr "Die nächsten Schritte für Übersetzer"
 
-#: index.docbook:70
+#: index.docbook:77
 #, no-c-format
-msgid "Have a look at the internationaliziation pages of the KDE project. They're located at: <ulink url=\"http://i18n.kde.org/\">i18n.kde.org</ulink>"
+msgid "Have a look at the internationaliziation pages of the KDE project. They're located at <ulink url=\"http://i18n.kde.org/\">i18n.kde.org</ulink>."
 msgstr "Schauen Sie sich die Internationalsisierungs Seiten des KDE Projektes an. Diese sind auf <ulink url=\"http://i18n.kde.org/\">i18n.kde.org</ulink> verfügbar."
 
-#: index.docbook:70
+#: index.docbook:77
 #, no-c-format
 msgid "Install the program KBabel, if it's not yet installed on your system. It will help you a lot with the translation process."
 msgstr "Installieren Sie das Programm KBabel, falls nicht bereits auf ihrem System installiert ist. Dies wird ihnen mit der Übersetzung wirklich helfen."
 
-#: index.docbook:70
+#: index.docbook:77
 #, no-c-format
-msgid "Request the files for the translation on the bt-devel mailinglist. Normally the software doordinator will create a new CVS module, which will contain the files you'll translate."
-msgstr "Fordern Sie die Datein für die Übersetzung auf der bt-devel Mailingliste an. Im Normalfall legt der Software-Koordinator ein neues CVS Modul an, das die Dateien enthält, die sie übersetzen."
+msgid "Read the page about <olink targetdocent=\"translation\">translating BibleTime</olink>."
+msgstr "Bitte lesen Sie die Seite über das <olink targetdocent=\"translation\">Übersetzen von BibleTime</olink>."
 
 #: index.docbook:15
 #, no-c-format
@@ -368,48 +368,28 @@ msgstr "BibleTime Entwicklungs Mailingliste"
 
 #: index.docbook:16
 #, no-c-format
-msgid "To subscribe to the development mailing list of the BibleTime project please visit the following web page and enter your eMail address there:"
-msgstr "Um sich auf die Entwicklungs-Mailingliste des BibleTime Projektes einzutragen, besuchen Sie bitte die folgende Webseite und geben Sie  dort ihre eMail Adresse ein:"
+msgid "To subscribe to the development mailing list of the BibleTime project please visit the following web page and enter your eMail address there: <ulink url=\"http://www.crosswire.org/mailman/listinfo/bt-devel\">www.crosswire.org/mailman/listinfo/bt-devel</ulink>."
+msgstr "Um sich auf die Entwicklungs-Mailingliste des BibleTime Projektes einzutragen, besuchen Sie bitte die folgende Webseite und geben Sie  dort ihre eMail Adresse ein: <ulink url=\"http://www.crosswire.org/mailman/listinfo/bt-devel\">www.crosswire.org/mailman/listinfo/bt-devel</ulink>."
 
-#: index.docbook:19
+#: index.docbook:20
 #, no-c-format
-msgid "<ulink url=\"http://www.crosswire.org/mailman/listinfo/bt-devel\">www.crosswire.org/mailman/listinfo/bt-devel</ulink>."
-msgstr "<ulink url=\"http://www.crosswire.org/mailman/listinfo/bt-devel\">www.crosswire.org/mailman/listinfo/bt-devel</ulink>."
+msgid "Archives of the BibleTime development mailing list are available at <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/\">www.crosswire.org/pipermail/bt-devel</ulink>."
+msgstr "Ein Archiv der BibleTime Entwicklungsmailingliste ist auf <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/\">www.crosswire.org/pipermail/bt-devel</ulink> verfügbar."
 
-#: index.docbook:23
-#, no-c-format
-msgid "Archives of the BibleTime development mailing list are available at:"
-msgstr "Archive der BibleTime Entwiclungs Mailingliste sind verfügbar auf:"
-
-#: index.docbook:26
-#, no-c-format
-msgid "www.crosswire.org/pipermail/bt-devel"
-msgstr "www.crosswire.org/pipermail/bt-devel"
-
-#: index.docbook:31
+#: index.docbook:25
 #, no-c-format
 msgid "Sword development mailing list"
 msgstr "Sword Entwicklungs Mailingliste"
 
-#: index.docbook:32
+#: index.docbook:26
 #, no-c-format
-msgid "To subscribe to the development mailing list of the Sword project please visit the following web page and enter your eMail address there:"
-msgstr "Um sich auf die Entwicklungs-Mailingliste des Sword Projektes einzutragen, besuchen Sie bitte die folgende Webseite und geben Sie  dort ihre eMail Adresse ein:"
+msgid "To subscribe to the development mailing list of the Sword project please visit the following web page and enter your eMail address there: <ulink url=\"http://www.crosswire.org/mailman/listinfo/sword-devel\">www.crosswire.org/mailman/listinfo/sword-devel</ulink>."
+msgstr "Um sich auf die Entwicklungs-Mailingliste des Sword Projektes einzutragen, besuchen Sie bitte die folgende Webseite und geben Sie  dort ihre eMail Adresse ein: <ulink url=\"http://www.crosswire.org/mailman/listinfo/sword-devel\">www.crosswire.org/mailman/listinfo/sword-devel</ulink>."
 
-#: index.docbook:36
+#: index.docbook:29
 #, no-c-format
-msgid "<ulink url=\"http://www.crosswire.org/mailman/listinfo/sword-devel\">www.crosswire.org/mailman/listinfo/sword-devel</ulink>."
-msgstr "<ulink url=\"http://www.crosswire.org/mailman/listinfo/sword-devel\">www.crosswire.org/mailman/listinfo/sword-devel</ulink>."
-
-#: index.docbook:39
-#, no-c-format
-msgid "Archives of the Sword development mailing list are available at:"
-msgstr "Archive der Sword Entwicklungs-Mailingliste sind verfügbar auf:"
-
-#: index.docbook:43
-#, no-c-format
-msgid "www.crosswire.org/pipermail/sword-devel"
-msgstr "www.crosswire.org/pipermail/sword-devel"
+msgid "Archives of the Sword development mailing list are available at <ulink url=\"http://www.crosswire.org/pipermail/sword-devel/\">www.crosswire.org/pipermail/sword-devel</ulink>."
+msgstr "Ein Archv der Sword Entwicklungsmailingliste ist auf <ulink url=\"http://www.crosswire.org/pipermail/sword-devel/\">www.crosswire.org/pipermail/sword-devel</ulink> verfügbar."
 
 #: index.docbook:15
 #, no-c-format
@@ -1649,11 +1629,6 @@ msgstr "Webseitenprobleme berichten"
 msgid "If you have problem with the webpages or if you have some ideas how to improve them please write it down using the link!"
 msgstr "Wenn Sie Probleme mit den Internetseiten haben oder wenn Sie Verbesserungideen haben schicken Sie uns bitte diese mit diesem Link!"
 
-#: index.docbook:10
-#, no-c-format
-msgid "Download"
-msgstr "Herunterladen"
-
 #: index.docbook:15
 #, no-c-format
 msgid "How to get BibleTime"
@@ -1673,6 +1648,11 @@ msgstr "Das \"bibletime\" Paket enthält sowohl die Software als auch die Dokume
 #, no-c-format
 msgid "You can download BibleTime at <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">our sourceforge project pages</ulink>."
 msgstr "Sie können BibleTime auf <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">unseren SourceForge Seiten</ulink> herunterladen."
+
+#: index.docbook:36
+#, no-c-format
+msgid "Installation"
+msgstr "Installation"
 
 #: index.docbook:37
 #, no-c-format
@@ -1857,7 +1837,7 @@ msgstr "Darstellung von Griechisch mit Strong-Nummern und morphologischen Marker
 #: index.docbook:92
 #, no-c-format
 msgid "<emphasis>IGNT</emphasis>: The Interlinear Greek New Testament. The green numbers in \"<![CDATA[< >]]>\" brackets are Strongnumbers, whereas the numbers in \"( )\" brackets are Morphologic Tags. Both of them can displayed in a tooltip using a predefined Strong's and Morphology dictionary, as you can see in the example. <ulink url=\"/images/gallery/ignt.png\">Large screenshot</ulink>"
-msgstr ""
+msgstr "<emphasis>IGNT</emphasis>: Ein interlineares griechisches Neues Testament.. Die grünen Zahlen in \"<![CDATA[< >]]>\" Klammern sind Stronnummern,  die Nummern in  \"( )\" Klammern sind Morphologische Informationen.  Beide können in einem Tooltip unter Benutzung der vordefinierten Strong- und Morphologischen Lexika angezeigt werden, wie Sie im Beispiel sehen können. <ulink url=\"/images/gallery/ignt.png\">Großes Bildschirmfoto</ulink>"
 
 #: index.docbook:110
 #, no-c-format
@@ -1867,7 +1847,7 @@ msgstr "Koreanisch und Thai"
 #: index.docbook:110
 #, no-c-format
 msgid "<emphasis>Kor</emphasis> and <emphasis>ThaiKJV</emphasis>. Korean and Thai are very good Unicode examples covered by an amount of Unicode scripts already. They are displayed in a parallel view in one window. The first line of Thai text is of a little smaller pointsize. It is a section heading, and those can be turned on and off using the first toolbutton in the display window. <ulink url=\"/images/gallery/korthai.png\">Large screenshot</ulink>"
-msgstr ""
+msgstr "<emphasis>Kor</emphasis> and <emphasis>ThaiKJV</emphasis>. Koreanisch und Thai sind sehr gute Unicode-Beispiele, für die bereits einige Schriftarten verfgbar sind. Die beiden Texte werden in Parallelansicht in einem Fenster angezeigt. Die erste Zeile des Thai Textes ist etwas kleiner, da es eine Abschnittsüberschrift ist. Diese können auch mit dem ersten Knopf der Werkzeugleiste im Fenster ausgeschaltet werden. <ulink url=\"/images/gallery/korthai.png\">Großes Bildschirmfoto.</ulink>"
 
 #: index.docbook:129
 #, no-c-format
@@ -1877,7 +1857,7 @@ msgstr "Bulgarisch und Fußnoten"
 #: index.docbook:129
 #, no-c-format
 msgid "<emphasis>Bulgarian</emphasis>: The Bible in Bulgarian language. Bulgarian uses the Kyrillic script, which is also used in other languages like Russian. Notice the marked text - it is a \"footnote\". The popup menu shows how those can be turned on and off. <ulink url=\"/images/gallery/bulgarian.png\">Large screenshot</ulink>"
-msgstr ""
+msgstr "<emphasis>Bulgarisch</emphasis>: Die Bibel in bulgarischer Sprache. Bulgrisch benutzt den Kyrillischen Zeichensatz, der auch in anderen Sprachen wie Russisch benutzt wird. Achten Sie auf den markierten Text, der eine \"Fußnote\"  ist. Das Aufklappmenü zeigt, wie diese an- und ausgeschtet werden können. <ulink url=\"/images/gallery/bulgarian.png\">Großes Bildschirmfoto</ulink>."
 
 #: index.docbook:146
 #, no-c-format
@@ -1887,7 +1867,7 @@ msgstr "Vietnamesisch und Rumänisch"
 #: index.docbook:146
 #, no-c-format
 msgid "<emphasis>Viet</emphasis> and <emphasis>RomCor</emphasis>. East Europe meets East Asia! Vietnamese and Romanian are not geographically linked, though they look somehow similar in this screenshot. <ulink url=\"/images/gallery/vietromcor.png\">Large screenshot</ulink>"
-msgstr ""
+msgstr "<emphasis>Viet</emphasis> und <emphasis>RomCor</emphasis>.  Osteurope trifft auf Ostasien! Vietnamesisch und Rumänisch sind nicht miteinander verwandt, obwohl sie auf den Bildschirmfoto ähnlich aussehen. <ulink url=\"/images/gallery/vietromcor.png\">Großes Bildschirmfoto</ulink>."
 
 #: index.docbook:162
 #, no-c-format
@@ -1909,87 +1889,117 @@ msgstr "BibleTimes Gästebuch"
 msgid "This page shows BibleTime's guestbook. Please post your own comments if you like. Please write your comments in English if possible! HTML is not allowed and will be removed. You may use normal line breaks to divide into paragraphs."
 msgstr "Diese Seite zeigt BibleTimes Gästebuch. Bitte schreiben Sie uns ihre eigenen Kommentare, wenn Sie möchten. Schreiben Sie ihre Anmerkungen bitte in Englisch, wenn möglich. HTML ist nicht erlaubt und wird entfernt. Sie können normale Zeilenumbrüche benutzen um den Text in Abschnitte einzuteilen."
 
+#: index.docbook:19
+#, no-c-format
+msgid "Please add your comments to our guestbook!"
+msgstr "Schreiben Sie doch bitte ihre Kommentare ins Gästebuch!"
+
 #: index.docbook:17
+#, no-c-format
+msgid "Download BibleTime"
+msgstr "BibleTime herunterladen"
+
+#: index.docbook:18
+#, no-c-format
+msgid "This is a short list of available download locations. Packages which are not provided on our SourceForge pages might be outdated. Please see below for detailed download and installation instructions."
+msgstr "Dies ist eine Liste der verfügbaren Downloadorte. Pakete, die nicht auf unseren SourceForge Seiten zur Verfügung gestellt werden können veraltet sein. Detailierte Instruktionen zum Herunterladen und zur Installation können weiter unten gefunden werden."
+
+#: index.docbook:18
+#, no-c-format
+msgid "Sourcecode and packages for major Linux distributions can be downloaded from <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">SourceForge</ulink>."
+msgstr "Der Quellcode und Pakete für die wichtigsten Linux Distributionen können von <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">SourceForge</ulink> heruntergeladen werden."
+
+#: index.docbook:18
+#, no-c-format
+msgid "Debian packages are available for <ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">Debian Unstable</ulink> and <ulink url=\"http://packages.debian.org/stable/x11/bibletime\">Debian Stable</ulink>."
+msgstr "Debian Pakete sind für <ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">Debian Unstable</ulink> und <ulink url=\"http://packages.debian.org/stable/x11/bibletime\">Debian Stable</ulink> verfügbar."
+
+#: index.docbook:18
+#, no-c-format
+msgid "Gentoo packages are available on <ulink url=\"http://packages.gentoo.org/search/?sstring=bibletime\">www.gentoo.org</ulink>."
+msgstr "Gentoo Pakete sind auf <ulink url=\"http://packages.gentoo.org/search/?sstring=bibletime\">www.gentoo.org</ulink> verfügbar."
+
+#: index.docbook:18
+#, no-c-format
+msgid "A FreeBSD application port of BibleTime can be found on <ulink url=\"http://www.FreeBSD.org/cgi/ports.cgi?query=bibletime&amp;stype=all\">www.freebsd.org</ulink>."
+msgstr "Eine FreeBSD Portierung von BibleTime kann auf <ulink url=\"http://www.FreeBSD.org/cgi/ports.cgi?query=bibletime&amp;stype=all\">www.freebsd.org</ulink> gefunden werden."
+
+#: index.docbook:45
 #, no-c-format
 msgid "Installation of BibleTime"
 msgstr "Installation von BibleTime"
 
-#: index.docbook:18
+#: index.docbook:46
 #, no-c-format
-msgid "This page explains how to Install BibleTime on your system. Basically there are two ways to install it: Either by using prebuilt binary packages or by compiling from source code. Installing BibleTime using prebuilt packages is the easiest way."
-msgstr ""
+msgid "This section explains how to install BibleTime on your system. Basically there are two ways to install it: Either by using prebuilt binary packages or by compiling from source code. Installing BibleTime using prebuilt packages is the easiest way."
+msgstr "Diese Seite erklärt, wie BibleTIme auf ihrem System installiert werden kann. Im Grunde gibt es nur zwei Arten der Installation. Entweder mit schon fertigen Binärpaketen oder durch Übersetzen des Quellcodes. Die Installation mit fertigen Paketen ist am einfachsten."
 
-#: index.docbook:22
+#: index.docbook:50
 #, no-c-format
 msgid "Prebuilt binary packages"
 msgstr "Vorkompilierte Binärpakete"
 
-#: index.docbook:23
+#: index.docbook:51
 #, no-c-format
 msgid "We try to provide packages for the most important Linux distributions. These include RedHat, Mandrake and SuSE."
 msgstr "Wie versuchen Pakete für die wichtigsten Linux Distributionen zur Verfügung zu stellen. Diese enthalten RedHat, Mandrake und SuSE."
 
-#: index.docbook:26
+#: index.docbook:54
 #, no-c-format
 msgid "First download the binary package for your Linux distribution. For example: You want to download <application>BibleTime 1.4</application> for <productname>SuSE Linux 9.0</productname>. In this case you have to download the package <filename>bibletime-1.4-1.suse9.0.i586.rpm</filename>. Please download the package &quot;bibletime-i18n&quot; package, too. This package contains the available translations of the BibleTime user interface and handbook."
 msgstr "Laden Sie zuerst das Binärpaket für ihre Linux-Distribution herunter. Zum Beispiel: Sie möchten <application>BibleTime 1.4</application>. für <productname>SuSE Linux 9.0</productname> herunterladen. In diesem Falle müssen Sie das Paket <filename>bibletime-1.4-1.suse9.0.i586.rpm</filename> herunterladen. Vergessen Sie bitte nicht, auch das Paket &quot;bibletime-i18n&quot; zu installieren. Dieses enthält die verfügbaren Übersetzungen der BibleTime Oberfläche und des Handbuches."
 
-#: index.docbook:29
+#: index.docbook:57
 #, no-c-format
-msgid "Packages can be downloaded from <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">SourceForge</ulink>."
-msgstr "Pakete können von <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">SourceForge</ulink> heruntergeladen werden."
+msgid "If there are no packages for your version of Linux you have to install from source code. Please see below how to do that."
+msgstr "Falls es keine Pakete für ihre Linuxinstallation gibt müssen Sie vom Quellcode aus installieren. Bitte lesen Sie dazu weiter unten nach."
 
-#: index.docbook:31
-#, no-c-format
-msgid "If there are now packages for your Linux you have to install from source code. Please see below how to do that."
-msgstr "Falls es keine Pakete für ihr Linux gibt müssen Sie vom Quellcode aus installieren. Bitte lesen Sie dazu weiter unten nach."
-
-#: index.docbook:35
+#: index.docbook:61
 #, no-c-format
 msgid "Installation from source code"
 msgstr "Installation mittels Quellcode"
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid "Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources:"
 msgstr "Die Installations vom Quellcode aus ist schwieriger als mit Hilfe von Binärpaketen. Bitte folgen Sie den nächsten Schritten, wenn Sie sich entschieden haben, BibleTime mittels Quellcode zu installieren."
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
-msgid "At first make sure the required software is installed on your system."
-msgstr "Stellen Sie bitte als erstes sicher, dass die benötigte Software auf ihrem System installiert ist."
+msgid "At first make sure the required software is installed on your system. Depending on your Linux distribution you have to install the development packages of the required software, too."
+msgstr "Stellen Sie zuerst sicher, dass die benötigte Software installiert ist. Je nach verwendeter Linux Distribution müssen auch die Entwicklungspakete der benötigten Software installiert werden."
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid "<ulink url=\"http://www.kde.org/\">KDE 3</ulink>."
 msgstr "<ulink url=\"http://www.kde.org/\">KDE 3</ulink>."
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid "At least the libraries and the base package. KDE 3 is shipped with many Linux distributions. Very often it's installed by default."
 msgstr "Zumindest die Bibliotheken und die Basis-Pakete. KDE 3 wird mit vielen Linux-Distributionen gelifert und wird oft als Standard installiert."
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid "<ulink url=\"http://curl.sourceforge.net/\">Curl >= 7.9</ulink>."
 msgstr "<ulink url=\"http://curl.sourceforge.net/\">Curl >= 7.9</ulink>."
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid "This is necessary for the remote installation features of the new Sword Setup Dialog. Curl has to be installed before Sword."
 msgstr "Dies wird benötigt, um mittels BibleTime Module aus dem Internet installieren zu können. Curl muss vor Sword installiert werden."
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.7</ulink>."
 msgstr "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.7</ulink>."
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid "Installation instructions are available on <ulink url=\"http://www.crosswire.org/sword/software/index.jsp\">www.crosswire.org/sword/software</ulink>. Basically the installation steps are"
 msgstr "Eine Installationsanleitung ist auf <ulink url=\"http://www.crosswire.org/sword/software/index.jsp\">www.crosswire.org/sword/software</ulink> vefügbar. Die grundlegenden Installationsschritte sind:"
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid ""
 "<command>./usrinst.sh --enable-shared --with-curl --without-clucene</command>\n"
@@ -2002,22 +2012,17 @@ msgstr ""
 "\t\t\t\t\t\t\t\t<command>make install</command>\n"
 "\t\t\t\t\t\t\t\t<command>make install_config</command>"
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid "Please note that this list is only valid for the latest version of BibleTime, older versions may require other software."
 msgstr "Bitte beachten Sie, dass sich diese Liste nur auf die letzte Version von BibleTime bezieht. Andere Versionen können andere Software benötigen."
 
-#: index.docbook:36
-#, no-c-format
-msgid "<ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">Get the source code package</ulink> of BibeTime."
-msgstr "Laden Sie das <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">Quellcode-Paket</ulink> von BibeTime herunter."
-
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid "Compile and install BibleTime:"
 msgstr "BibleTime übersetzen und installieren:"
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid ""
 "<command>./configure --prefix=&lt;your KDE directory&gt;</command>\n"
@@ -2028,52 +2033,52 @@ msgstr ""
 "\t\t\t\t\t\t<command>make</command>\n"
 "\t\t\t\t\t\t<command>make install</command>"
 
-#: index.docbook:36
+#: index.docbook:62
 #, no-c-format
 msgid "You can get your KDE directory by running the command <command>kde-config --prefix</command>. If you get problems please read our <olink targetdocent=\"software_faq\">FAQ</olink>. If there's no solution of your problem, please contact us at <email>info@bibletime.info</email>."
 msgstr "Sie können ihr KDE Verzeichnis mit dem Befehl <command>kde-config --prefix</command> ermitteln. Wenn Sie Probleme haben lesen Sie bitte unser <olink targetdocent=\"software_faq\">FAQ</olink>. Wenn es dort kein Problem zu ihrem Problem gibt, kontaktieren Sie uns bitte  durch <email>info@bibletime.info</email>."
 
-#: index.docbook:96
+#: index.docbook:117
 #, no-c-format
 msgid "Install Sword modules"
 msgstr "Installation von Sword-Modulen"
 
-#: index.docbook:97
+#: index.docbook:118
 #, no-c-format
 msgid "You need Sword modules to work with BibleTime. Since version 1.4 BibleTime offers a userfriendly dialog to manage Sword modules. We strongly recommend this way to install modules on your computer."
 msgstr "Sie benötigen Sword-Module um mit BibleTime arbeiten zu können. Seit Version 1.4 bitet BibleTime einen benutzerfreundlichen Dialog umd Sword Module zu verwalten. Wir legen ihnen nahe diesen Weg zu benutzen um Sword Module auf ihrem Computer zu installieren."
 
-#: index.docbook:101
+#: index.docbook:122
 #, no-c-format
 msgid "Instructions for manual module installation is available on <ulink url=\"http://www.crosswire.org/sword/modules/moduleinstall.jsp\">www.crosswire.org/sword/modules</ulink>."
 msgstr "Eine Anleitung zur manuellen Modulinstallation ist auf <ulink url=\"http://www.crosswire.org/sword/modules/moduleinstall.jsp\">www.crosswire.org/sword/modules</ulink> verfügbar."
 
-#: index.docbook:105
+#: index.docbook:126
 #, no-c-format
 msgid "Available types of modules"
 msgstr "Existierende Modularten"
 
-#: index.docbook:106
+#: index.docbook:127
 #, no-c-format
 msgid "Here is a list of available module types and where to get more information about the available module types:"
 msgstr "Hier ist eine Liste der verfügbaren Modularten und wo man weitere Informationen über diese bekommen kan:"
 
-#: index.docbook:108
+#: index.docbook:129
 #, no-c-format
 msgid "Bibles"
 msgstr "Bibeln"
 
-#: index.docbook:108
+#: index.docbook:129
 #, no-c-format
 msgid "Commentaries"
 msgstr "Kommentare"
 
-#: index.docbook:108
+#: index.docbook:129
 #, no-c-format
 msgid "Lexicons / Dictionaries"
 msgstr "Lexika / Wörterbücher"
 
-#: index.docbook:108
+#: index.docbook:129
 #, no-c-format
 msgid "Books"
 msgstr "Bücher"
@@ -2770,150 +2775,145 @@ msgstr "Liste wichtiger christlicher Seiten"
 
 #: index.docbook:16
 #, no-c-format
-msgid "There are many other christian pages in the word wide web. Some are more, others are less important."
-msgstr "Es gibt jede Menge andere christliche Seiten im World Wide Web. Einige sind mehr, andere weniger wichtig."
+msgid "There are many other christian pages in the word wide web. Some are more, others are less important. We collected a list of pages which are important in our opinion."
+msgstr "Es gibt jede Menge anderer christlicher Seiten im World Wide Web. Einige sind mehr, andere weniger wichtig. Wir haben eine Liste zusammengestellt, die unserer Meinung nach wichtig sind."
 
-#: index.docbook:20
-#, no-c-format
-msgid "We collected a list of pages which are important in our opinion."
-msgstr "Wir haben eine Liste von Seiten gesammelt, die unserer Meinung nach wichtig sind."
-
-#: index.docbook:24
+#: index.docbook:21
 #, no-c-format
 msgid "Since we're not author of the linked pages we're not responsible for their content, we explicitely dissociate ourself from the content of the linked pages! This is required because german law says you're responsible for the content of the linked pages unless you explicitely dissociate yourself from these pages."
 msgstr "Da wir nicht Autor der verlinkten Seiten sind, sind wir nicht für deren Inhalt verantwortlich. Wir distanzieren und ausdrücklich vom Inhalt der Seiten, auf die wir verweisen. Dies ist erforderlich, weil deutsches Recht aussagt, dass man selbst für den Inhalt der verlinkten Seiten ist, außer man distanziert sich ausdrücklich vom Inhalt dieser Seiten."
 
-#: index.docbook:28
+#: index.docbook:25
 #, no-c-format
 msgid "General christian pages"
 msgstr "Allgemeine christliche Seiten"
 
-#: index.docbook:29
+#: index.docbook:26
 #, no-c-format
 msgid "<ulink url=\"http://www.bibletechnologies.net/\">Bible Technologies Group</ulink>."
 msgstr "<ulink url=\"http://www.bibletechnologies.net/\">Bible Technologies Group</ulink>."
 
-#: index.docbook:30
+#: index.docbook:27
 #, no-c-format
 msgid "The home of the new common exchange Text format OSIS, which will hopefully be used by many Bible societies and publishers of the world."
 msgstr "Das Zuhause des neuen Textaustausch-Formates OSIS, welches hoffentlich von vielen Bibelgesellschaften und Verlagen der Welt benutzt werden wird."
 
-#: index.docbook:35
+#: index.docbook:32
 #, no-c-format
 msgid "<ulink url=\"http://www.crosswire.org/\">CrossWire Bible Society</ulink>."
 msgstr "<ulink url=\"http://www.crosswire.org/\">CrossWire Bible Society</ulink>."
 
-#: index.docbook:36
+#: index.docbook:33
 #, no-c-format
 msgid "The Crosswire Bible society is one of the few christian organizations in the world providing everything they make free for all! Crosswire supports the Sword project, the KJV2003 project and some other cool things."
 msgstr "Die Crosswire Bibelgesellschaft ist eine der wenigen christlichen Organisationen der Erde, die alles was die herstellen, kostenlos für alle anbieten! Crosswire unterstützt das Sword Projekt, das KJV2003 Projekt und einige andere großartige Dinge."
 
-#: index.docbook:42
+#: index.docbook:39
 #, no-c-format
 msgid "Biblesoftware for Linux"
 msgstr "Bibelsoftware für Linux"
 
-#: index.docbook:43
+#: index.docbook:40
 #, no-c-format
 msgid "<ulink url=\"http://gnomesword.sf.net/\">Gnomesword</ulink>."
 msgstr "<ulink url=\"http://gnomesword.sf.net/\">Gnomesword</ulink>."
 
-#: index.docbook:44
+#: index.docbook:41
 #, no-c-format
 msgid "Gnomesword is a Sword frontend using the Gnome toolkit. A really good application. Be sure to check it out!"
 msgstr "Gnomesword ist ein Sword Frontend für Gnome. Eine wirklich gelungene Anwendung. Probieren Sie sie auf jeden Fall aus!"
 
-#: index.docbook:51
+#: index.docbook:48
 #, no-c-format
 msgid "Biblesoftware for Windows"
 msgstr "Bibelsoftware für Windows"
 
-#: index.docbook:52
+#: index.docbook:49
 #, no-c-format
 msgid "<ulink url=\"http://www.bibleworks.com/\">BibleWorks</ulink>."
 msgstr "<ulink url=\"http://www.bibleworks.com/\">BibleWorks</ulink>."
 
-#: index.docbook:53
+#: index.docbook:50
 #, no-c-format
 msgid "BibleWorks is one of the best Bible study applications for Windows! Very good but very expensive, too. Only useful for Bible scholars."
 msgstr "BibleWorks ist eines der besten Bibelstudien-Programme für Windows!  Sehr gut, aber auch sehr teuer. Die Software ist nur für Theologie-Studenten wirklich nützlich!"
 
-#: index.docbook:58
+#: index.docbook:55
 #, no-c-format
 msgid "<ulink url=\"http://www.bibleworkshop.com/\">BibleWorkshop</ulink>."
 msgstr "<ulink url=\"http://www.bibleworkshop.com/\">BibleWorkshop</ulink>."
 
-#: index.docbook:59
+#: index.docbook:56
 #, no-c-format
 msgid "The Bible Workshop program is a powerful, commercial Bible study application for Windows, which is available in english, german and french. It's possible to enhance the Bible Workshop using Text libraries you can buy."
 msgstr "Das Bible Workshop Programm ist eine mächtiges Bibelstudien Anwendung für Windows, die in Englisch, Deutsch und Französisch verfügbar ist. Es ist möglich BibleWorkshop durch Text-Bibliotheken zu erweitern, die sie kaufen können."
 
-#: index.docbook:64
+#: index.docbook:61
 #, no-c-format
 msgid "<ulink url=\"http://www.logos.com/\">Logos</ulink>."
 msgstr "<ulink url=\"http://www.logos.com/\">Logos</ulink>."
 
-#: index.docbook:65
+#: index.docbook:62
 #, no-c-format
 msgid "Logos is one of the best Bible study applications for Windows. You can buy a lot of texts to enhance it."
 msgstr "Logos ist eine der besten Bibelstudienprogramm für Windows.Sie können sehr, sehr viele Text dazukaufen, um die Software zu erweitern."
 
-#: index.docbook:70
+#: index.docbook:67
 #, no-c-format
 msgid "<ulink url=\"http://www.onlinebible.org/\">OnlineBible</ulink>."
 msgstr "<ulink url=\"http://www.onlinebible.org/\">OnlineBible</ulink>."
 
-#: index.docbook:71
+#: index.docbook:68
 #, no-c-format
 msgid "The Online Bible is a powerful Bible study application for Windows."
 msgstr "Die Online Bibel ist ein mächtiges Bibelstudien Programm für Windows."
 
-#: index.docbook:76
+#: index.docbook:73
 #, no-c-format
 msgid "<ulink url=\"http://www.crosswire.org/sword/\">Sword for Windows</ulink>."
 msgstr "<ulink url=\"http://www.crosswire.org/sword/\">Sword für Windows</ulink>."
 
-#: index.docbook:77
+#: index.docbook:74
 #, no-c-format
 msgid "This is the Windows Bible study application made by the Sword team! Sword is supported by the Crosswire Bible Society."
 msgstr "Dies ist das Windows Bibelprogramm des Sword Teams! Sword wird von der Crosswire Bibelgesellschaft unterstützt."
 
-#: index.docbook:82
+#: index.docbook:79
 #, no-c-format
 msgid "<ulink url=\"http://www.volksbibel.de/\">Volksbibel</ulink>."
 msgstr "<ulink url=\"http://www.volksbibel.de/\">Volksbibel</ulink>."
 
-#: index.docbook:83
+#: index.docbook:80
 #, no-c-format
 msgid "Volksbibel 2000.2 is a German, metacard based software Bible study tool for Windows, Linux and Mac. Althouth there are not so many texts as other software packages have, it has some cool things like basic map support included. If you are german try it out!"
 msgstr "Volksbibel 2000.2 ist ein deutsches, metacard basiertes Bibelstudien-Programm für Windows, Linux und Mac. Obwohl nicht so viele Texte wie bei anderen Software-Paketen verfügbar sind, verfügt das Programm über Dinge wie Grundlagen von Landkarten-Unterstützung. Wenn Sie Deutscher sind, probieren Sie es aus!"
 
-#: index.docbook:90
+#: index.docbook:87
 #, no-c-format
 msgid "Biblesoftware for Mac"
 msgstr "Bibelsoftware für Macintosh"
 
-#: index.docbook:91
+#: index.docbook:88
 #, no-c-format
 msgid "<ulink url=\"http://www.macsword.com/\">MacSword for OS X</ulink>."
 msgstr "<ulink url=\"http://www.macsword.com/\">MacSword für OS X</ulink>."
 
-#: index.docbook:92
+#: index.docbook:89
 #, no-c-format
 msgid "MacSword is a new Bible study application for the new Macintosh OS X system. The screenshots look very promising!"
 msgstr "MacSword ist ein neues Bibelstudienprogramm für das neue Macintosh OS X System. Die Bildschirmfotos sehen sehr vielversprechend aus!"
 
-#: index.docbook:99
+#: index.docbook:96
 #, no-c-format
 msgid "Development tools"
 msgstr "Entwicklungs-Werkzeuge"
 
-#: index.docbook:100
+#: index.docbook:97
 #, no-c-format
 msgid "<ulink url=\"http://www.sourceforge.net/\">SourceForge</ulink>."
 msgstr "<ulink url=\"http://www.sourceforge.net/\">SourceForge</ulink>."
 
-#: index.docbook:101
+#: index.docbook:98
 #, no-c-format
 msgid "SourceForge provides us with the tools to develop BibleTime with many team members at the same time! We save a lot of time and money by using their services."
 msgstr "SourceForge  stellt uns die Werkzeuge zur Verfuegung um BibleTime mit vielen Team-Mitgliedern zur gleichen Zeit su entwickeln! Wie sparen eine Menge Zeit und Geld durch Benutzung des SourceForge Services."
@@ -3017,90 +3017,100 @@ msgstr "Neues über BibleTime"
 
 #: index.docbook:26
 #, no-c-format
+msgid "2004-01-16: Debian packages available"
+msgstr "16.01.2004: Debian Pakete verfügbar"
+
+#: index.docbook:27
+#, no-c-format
+msgid "<ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">Debian packages of BibleTime 1.4</ulink> are available now in Debian Unstable. Be sure to get the <ulink url=\"http://packages.debian.org/unstable/kde/bibletime-i18n\">bibletime-i18n package</ulink>, too. Kudos to our Debian packager Daniel Glassey for his work!"
+msgstr "<ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">Debian Pakete von BibleTime 1.4</ulink> sind nun in Debian Unstable verfügbar. Installieren Sie auch das <ulink url=\"http://packages.debian.org/unstable/kde/bibletime-i18n\">bibletime-i18n Paket</ulink>. Ein dickes Dankeschön an unseren Debian Paketautor Daniel Glassey für seine Arbeit!"
+
+#: index.docbook:32
+#, no-c-format
 msgid "2004-01-11: New translation effort"
 msgstr "11.01.2004: Neue Übersetzungsmöglichkeit"
 
-#: index.docbook:27
+#: index.docbook:33
 #, no-c-format
 msgid "First of all we want to wish all of you a truly happy and blessed new year."
 msgstr "Zu Beginn wünschen wir allen ein wirklich frohes und gesegnetes neues Jahr."
 
-#: index.docbook:30
+#: index.docbook:36
 #, no-c-format
 msgid "As you probably already noticed, there is a new page online called <ulink url=\"translation.shtml\">&quot;Translation&quot;</ulink>. This page gives an introduction into how you can help with the translation of the different areas of the BibleTime project, and offers detailed statistics on the completeness of the existing languages. Be sure to check it out."
 msgstr "Wie Sie vielleicht schon bemerkt haben, gibt es eine neue Seite namens <ulink url=\"translation.shtml\">&quot;Übersetzung&quot;</ulink>. Diese Seite enthält eine Einleitung, wie Sie bei der Übersetzung der verschiedenen Bereiche des BibleTime Projektes helfen können. Die Seite enthält auch detailierte Statistiken über die Vollständigkeit der bisherigen Übersetzungen. Schauen Sie doch mal nach."
 
-#: index.docbook:37
+#: index.docbook:43
 #, no-c-format
 msgid "2003-12-29: BibleTime 1.4"
 msgstr "29.12.2003: BibleTime 1.4"
 
-#: index.docbook:38
+#: index.docbook:44
 #, no-c-format
 msgid "The new version 1.4 of BibleTime is now available for download. 1.4 in comparision with version 1.3 contains a new SwordSetup dialog to setup Sword and to install modules from local sources or from the internet. With the SwordSetup part it's also possible to remove modules from disk. 1.4 also contains many new bugfixes. BibleTime 1.4 is available on our download page."
 msgstr "Die neue Version 1.4 von BibleTime ist verfügbar. Verglichen mit 1.3 enthält sie einen neuen Sword-Setup-Dialog, mit dem man Sword konfigurieren und Module von lokalen Quellen oder aus dem Internet installieren kann. Man kann damit natürlich auch module wieder aus dem System entfernen. 1.4 enthält weiterhin viele Fehlerkorrekturen. BibleTime 1.4 ist auf unserer Downloadseite erhältlich."
 
-#: index.docbook:41
+#: index.docbook:47
 #, no-c-format
 msgid "You need Sword 1.5.7 with enabled curl support to make use of the remote installation features. The binary packages we provide for some of the major linux distributions should work out of the box."
 msgstr "Sie benötigen Sword 1.5.7 mit eingeschalteter Curl-Unterstützung, um die neuen Internet-Installationsfähigkeiten benutzen zu können. Die Binärpakete, die wir für einige der wichtigsten Linux-Distributionen bereitstellen, sollten hoffentlich problemlos funktionieren."
 
-#: index.docbook:44
+#: index.docbook:50
 #, no-c-format
 msgid "If you run into troubles installing BibleTime or you have problems using it please submit a bugreport. We need your support to improve BibleTime."
 msgstr "Wenn sie Probleme beim Installieren von BibleTime haben, senden sie bitte einen Fehlerbericht. Wir brauchen Ihre Unterstützung, um BibleTime verbessern zu können."
 
-#: index.docbook:49
+#: index.docbook:55
 #, no-c-format
 msgid "2003-12-03: BibleTime 1.4beta1"
 msgstr "03.12.2003: BibleTime 1.4beta1"
 
-#: index.docbook:50
+#: index.docbook:56
 #, no-c-format
 msgid "The first testing version of the upcoming BibleTime 1.4 was released today. The new feature in comparision with 1.3 is the new SwordSetup dialog which makes the Sword and module configuration more userfriendly. Using the dialog you can now setup Sword's configuration files, install modules from the internet or from local sources (e.g. a CD) and also uninstall modules from your system. This beta release also contains some important bugfixes."
 msgstr "Die erste Testversion des bald erscheinenden BibleTime 1.4 wurde heute veröffentlicht.Die im Vergleich mit 1.3 wichtigste neue Funktion ist der neue SwordSetup-Dialog, der die Sword- und Modulkonfiguration benutzerfreundlich macht.Mit dem Dialog kann die Swordkonfigurationsdatei verwaltet werden, es können Module aus dem Internet oder von lokalen Quellen installiert werden und es können ebenso auch Module vom System gelöscht werden.Diese Betaversion ehthält auch einige wichtige Fehlerkorrekturen."
 
-#: index.docbook:58
+#: index.docbook:64
 #, no-c-format
 msgid "This 1.4beta1 release is only meant for testing, so we do not provide binary packages. If you know how to compile programs from source code we encourage you to try this beta1 release. You need Sword 1.5.6 with enabled curl support to make use of the remote installation features."
 msgstr "Die 1.4beta1 Version ist nur für Testzwecke bestimmt, daher werden keine Binärpakete zur Verfügung gestellt. Wenn Sie wissen, wie man Programme vom Quellcode aus übersetzt möchten wir Sie ermutigen, diese Testversion auszuprobieren. Sie benötigen Sword 1.5.6 mit eingeschalteter Unterstützung von curl, um die Modulinstallation aus dem Internet nutzen zu können."
 
-#: index.docbook:65
+#: index.docbook:71
 #, no-c-format
 msgid "2003-10-19: SuSE 9.0 packages"
 msgstr "19.10.2003: SuSE 9.0 Pakete"
 
-#: index.docbook:66
+#: index.docbook:72
 #, no-c-format
 msgid "RPM packages are now available for SuSE 9.0. Report any problems to info@bibletime.info. Thank you!"
 msgstr "Es sind nun RPM Pakete für SuSE 9.0 vefügbar. Bei Problemen wenden Sie sich bitte an info@bibletime.info. Vielen Dank!"
 
-#: index.docbook:71
+#: index.docbook:77
 #, no-c-format
 msgid "2003-10-16: New webpages"
 msgstr "16.10.2003: Neue Internetseiten"
 
-#: index.docbook:72
+#: index.docbook:78
 #, no-c-format
 msgid "BibleTime has now new webpages which offer better navigation, better design and faster page download time."
 msgstr "BibleTime verfügt nun über neue Webseiten, die eine bessere Seitennavigation, ein konsistenteres Design und schnellere Downloadzeiten bieten.."
 
-#: index.docbook:76
+#: index.docbook:82
 #, no-c-format
 msgid "If you experience any problems with the new pages please let us know!"
 msgstr "Falls Sie irgendwelche Probleme mit den neuen Seiten feststellen lassen Sie es uns bitte wissen!"
 
-#: index.docbook:81
+#: index.docbook:87
 #, no-c-format
 msgid "2003-08-23: BibleTime 1.3"
 msgstr "23.08.2003: BibleTime 1.3"
 
-#: index.docbook:82
+#: index.docbook:88
 #, no-c-format
 msgid "Version 1.3 of BibleTime is finally available. BibleTime 1.3 contains a lot of new features, usability improvements and bug fixes. Upgrading to version 1.3 is strongly recommended for all our users. You can get the Software here: <ulink url=\"http://www.bibletime.info/software/download/\">Download</ulink>. Binary packages will be released in the next few days."
 msgstr "BibleTime in der Version 1.3 ist endlich verfügbar. 1.3 enthält viele neue Funktionen, Verbesserungen in der Benutzbarkeit und Fehlerkorrekturen. Die Installation von 1.3 wird allen Benutzern wärmstens empfohlen. Sie können sie Software hier herunterladen:  <ulink url=\"http://www.bibletime.info/software/download/\">Herunterladen</ulink>."
 
-#: index.docbook:87
+#: index.docbook:93
 #, no-c-format
 msgid "Get the bibletime and the bibletime-i18n packages for full functionality. We're very sorry for the long release time, we hope to shorten it with the next releases."
 msgstr "Laden Sie die Pakete bibletime und bibletime-i18n herunter, um volle Funktionalität zu erhalten. Die lange Zeit zwischen den neuen Versionen tut uns leid, wir hoffen diese mit den nächsten Versionen zu verkürzen."
@@ -3142,30 +3152,45 @@ msgstr "Der Test ist im Internet unter <ulink url=\"http://www.pfarrer-pc.de/mag
 
 #: index.docbook:14
 #, no-c-format
-msgid "Screenshots of BibleTime 1.3"
-msgstr "Bildschirmfotos von BibleTime 1.3"
+msgid "Screenshots of BibleTime"
+msgstr "Bildschirmfotos von BibleTime"
 
 #: index.docbook:16
+#, no-c-format
+msgid "New Sword setup dialog"
+msgstr "Neuer Sword Konfigurationsdialog"
+
+#: index.docbook:16
+#, no-c-format
+msgid "Since version 1.4 BibleTime offers a new dialog to manage Sword modules. It is now possible to setup Sword's configuration, install modules and uninstall modules using a userfriendly interface. <ulink url=\"/images//screenshots/3-large.jpg\">Large screenshot</ulink>"
+msgstr "Setit Version 1.4 bietet BibleTime einen neuen Dialog um Sword Module zu verwalten. Es ist nun möglich, Sword zu konfigurieren, Module zu installieren und wieder zu löschen - alles mit einer benutzerfreundlichen Oberfläche. <ulink url=\"/images//screenshots/3-large.jpg\">Großes Bildschirmfoto</ulink>"
+
+#: index.docbook:16
+#, no-c-format
+msgid "Improvements in BibleTime 1.4"
+msgstr "Verbesserungen in BibleTime 1.4"
+
+#: index.docbook:33
 #, no-c-format
 msgid "Improvements in 1.3"
 msgstr "Verbesserungen in 1.3"
 
-#: index.docbook:16
+#: index.docbook:33
 #, no-c-format
 msgid "Here you can see some improvements of BibleTime 1.3. The tree on the left is now set up by module type and language. The greek text in the right display window is now displayed better because BibleTime supports now own font settings for each language. <ulink url=\"/images//screenshots/1-large.jpg\">Large screenshot</ulink>"
 msgstr "Hier können Sie einige Verbesserungen in BibleTime 1.3 sehen. Der Baum auf der linken Seite wird nun in Modulart und Sprache eingeteilt.Der grieschische Texte im Anzeigefenster rechts wird nun besser angezeigt, da BibleTime jetzt eigene Schrifteinstellungen jeder Sprache unterstützt. <ulink url=\"/images//screenshots/1-large.jpg\">Großes Bildschirmfoto</ulink>,"
 
-#: index.docbook:16
+#: index.docbook:33
 #, no-c-format
 msgid "Improvements in BibleTime 1.3"
 msgstr "Verbesserungen in BibleTime 1.3"
 
-#: index.docbook:33
+#: index.docbook:50
 #, no-c-format
 msgid "New search dialog"
 msgstr "Neues Suchdialog"
 
-#: index.docbook:33
+#: index.docbook:50
 #, no-c-format
 msgid "The search dialog of previous versions wasn't easy to use. This is the new search dialog together with the new module chooser window on the right. <ulink url=\"/images/screenshots/2-large.jpg\">Large screenshot</ulink>"
 msgstr "Der Suchdialog früherer Versionen war nicht einfach zu benutzen. Dies ist der neue Suchdialog mit der neuen Modulauswahl auf der rechten Seite.<ulink url=\"/images/screenshots/2-large.jpg\">Großes Bildschirmfoto</ulink>"
@@ -3263,7 +3288,7 @@ msgstr "Übersetzung des Programm-Handbuchs"
 #: index.docbook:27
 #, no-c-format
 msgid "On this page you can find statistics about the completeness of existing translations for each of these areas, as well as links to translation templates that you can use to submit new translations which do not yet exist. If a translation into your language does not yet exist, just download the templates, translate them and send them to <email>info@bibletime.info</email>. If you are not satisfied with the status of your language's translation, you can directly download the corresponding file, update the translation and send it in. In both cases we'll be sure to integrate your work as soon as possible."
-msgstr ""
+msgstr "Auf dieser Seite können Sie Statistiken über die Vollständigkeit der bestehenden Übersetzungen in jedem dieser Bereiche sehen, aber auch Verweise auf Übersetzungsvorlagen die Sie benutzen können um neue Übersetzungen zu erstellen, die noch nicht vorhanden waren.  Wenn eine Übersetzung in ihrer Sprache noch nicht existiert, laden Sie einfach die Vorlage herunter, übersetzen Sie diese und schicken Sie diese an  <email>info@bibletime.info</email>. Wenn Sie mit dem Status der Übersetzung in ihrer Sprache zufrieden sind, dann laden Sie sich die entsprechende Datei herunter, korrigieren Sie diese und schicken Sie diese an uns. In beiden Fällen werden wir sicherstellen die Arbeit so schnell wir möglich zu integrieren."
 
 #: index.docbook:35
 #, no-c-format
@@ -3273,17 +3298,50 @@ msgstr "Für die Übersetzungsarbeit empfehlen wir ihnen das wirklich gute Progr
 #: index.docbook:43
 #, no-c-format
 msgid "If a translation of the website to your language does not yet exist, you can download and translate the <ulink url=\"/en/pot/full.pot\">Webpage translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
-msgstr ""
+msgstr "Wenn eine Übersetzung der Webseite in ihrer Sprache noch nicht  existiert, laden und übersetzen Sie die <ulink url=\"/en/pot/full.pot\">Webseiten Überzetzungsvorlage</ulink>. Wenn Sie eine bestehende Übersetzung bearbeiten möchten, benutzen Sie die Verweise in der untenstehenden Tabelle um die entsprechende Datei herunterzuladen."
 
 #: index.docbook:53
 #, no-c-format
 msgid "If a translation of the User Interface to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD\"> User Interface translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
-msgstr ""
+msgstr "Wenn eine Übersetzung der Benutzeroberfläche in ihrer Sprache noch nicht  existiert, laden und übersetzen Sie die <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD\">Benutzeroberflächen Übersetzungsvorlage</ulink>. Wenn Sie eine bestehende Übersetzung bearbeiten möchten, benutzen Sie die Verweise in der untenstehenden Tabelle um die entsprechende Datei herunterzuladen."
 
 #: index.docbook:64
 #, no-c-format
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
 msgstr "Wenn eine Übersetzung des Handbuches in ihrer Sprache noch nicht existiert, können Sie <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\">Handbuch Übersetzungsvorlage</ulink> herunterladen und übersetzen. Wenn Sie eine bestehende Übersetzung weiterübersetzen möchten, benutzen Sie die Verweise in der unten stehenden Tabelle um die entsprechende Datei zum Übersetzen herunterzuladen."
+
+#~ msgid "<ulink url=\"http://www.crosswire.org/mailman/listinfo/bt-devel\">www.crosswire.org/mailman/listinfo/bt-devel</ulink>."
+#~ msgstr "<ulink url=\"http://www.crosswire.org/mailman/listinfo/bt-devel\">www.crosswire.org/mailman/listinfo/bt-devel</ulink>."
+
+#~ msgid "Archives of the BibleTime development mailing list are available at:"
+#~ msgstr "Archive der BibleTime Entwiclungs Mailingliste sind verfügbar auf:"
+
+#~ msgid "www.crosswire.org/pipermail/bt-devel"
+#~ msgstr "www.crosswire.org/pipermail/bt-devel"
+
+#~ msgid "<ulink url=\"http://www.crosswire.org/mailman/listinfo/sword-devel\">www.crosswire.org/mailman/listinfo/sword-devel</ulink>."
+#~ msgstr "<ulink url=\"http://www.crosswire.org/mailman/listinfo/sword-devel\">www.crosswire.org/mailman/listinfo/sword-devel</ulink>."
+
+#~ msgid "Archives of the Sword development mailing list are available at:"
+#~ msgstr "Archive der Sword Entwicklungs-Mailingliste sind verfügbar auf:"
+
+#~ msgid "www.crosswire.org/pipermail/sword-devel"
+#~ msgstr "www.crosswire.org/pipermail/sword-devel"
+
+#~ msgid "Packages can be downloaded from <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">SourceForge</ulink>."
+#~ msgstr "Pakete können von <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">SourceForge</ulink> heruntergeladen werden."
+
+#~ msgid "At first make sure the required software is installed on your system."
+#~ msgstr "Stellen Sie bitte als erstes sicher, dass die benötigte Software auf ihrem System installiert ist."
+
+#~ msgid "<ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">Get the source code package</ulink> of BibeTime."
+#~ msgstr "Laden Sie das <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">Quellcode-Paket</ulink> von BibeTime herunter."
+
+#~ msgid "We collected a list of pages which are important in our opinion."
+#~ msgstr "Wir haben eine Liste von Seiten gesammelt, die unserer Meinung nach wichtig sind."
+
+#~ msgid "Request the files for the translation on the bt-devel mailinglist. Normally the software doordinator will create a new CVS module, which will contain the files you'll translate."
+#~ msgstr "Fordern Sie die Datein für die Übersetzung auf der bt-devel Mailingliste an. Im Normalfall legt der Software-Koordinator ein neues CVS Modul an, das die Dateien enthält, die sie übersetzen."
 
 #~ msgid "Documentation"
 #~ msgstr "Dokumentation"

@@ -22,7 +22,7 @@
 
 <section
 ><title
->Gastenboek</title>
+>Please add your comments to our guestbook!</title>
 <ssi mode="exec" cgi="/guestbook.pl"/>
 </section>
 

@@ -8,7 +8,7 @@
 <config param="rcsdate" value="$Date$"/>
 <head>
 	<title
->Напиши нам</title>
+>Контакт</title>
 	<summary
 >How to contact us</summary>
 	<keywords
@@ -17,14 +17,14 @@
 
 <section
 ><title
->How to contact us</title>
+>Как с нами связаться</title>
 	<formalpara
 ><title
 ><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=100954"
->Send a Bug report</ulink
+>Послать отчёт об ошибке</ulink
 ></title>
 	<para
-> If you find bugs in BibleTime use this link to report it so it can be fixed in later versions. </para>
+> Если вы обнаружили ошибку в BibleTime, используйте ссылку, чтобы сообщить о ней, чтобы её можно было устранить в следующих версиях.  </para>
 	</formalpara>
 
 	<formalpara
@@ -33,25 +33,25 @@
 >Техническая поддержка</ulink
 ></title>
 	<para
-> If you have problems with BibleTime use this link to get support how to solve them. </para>
+> Если у вас возникли проблемы с BibleTime, используйте эту ссылку, чтобы получить консультацию о том, как эту проблему решить. </para>
 	</formalpara>
 
 	<formalpara
 ><title
 ><ulink url="http://sourceforge.net/tracker/?atid=350954&amp;group_id=954&amp;func=browse"
->Post a feature request</ulink
+>Дать заявку о нужной функции </ulink
 ></title>
 	<para
-> If you have an idea how to improve BibleTime please use this link to tell about it! </para>
+> Если у вас есть идея о том, как улучшить BibleTime, пожалуйста, используйте эту ссылку, чтобы рассказать нам о ней!  </para>
 	</formalpara>
 
 	<formalpara
 ><title
 ><ulink url="http://sourceforge.net/tracker/?atid=511478&amp;group_id=954&amp;func=browse"
->Report a website problem</ulink
+>Сообщить о проблеме с сайтом</ulink
 ></title>
 	<para
-> If you have problem with the webpages or if you have some ideas how to improve them please write it down using the link! </para>
+> Если у вас возникли проблемы со страницами этого сайта или если у вас есть идеи о том, как их улучшить, пожалуйста напишите об этом, используя эту ссылку!  </para>
 	</formalpara>
 
 </section>

@@ -49,7 +49,7 @@ sub show_addItem() {
 
 	$ret .= $q->start_table({-class=>'additem', -align=>'center'});
 
-	$ret .= $q->Tr( $q->td({-colspan=>'2'}, $q->h3($self->i18n("Please add your comments to our guestbook!"))));
+#	$ret .= $q->Tr( $q->td({-colspan=>'2'}, $q->h3($self->i18n("Please add your comments to our guestbook!"))));
 	$ret .= $q->Tr( $q->td($self->i18n("Name:")), $q->td($q->textfield({-name=>'name', -override=>'1', -value=>'', -size=>'50'}))  );
 	$ret .= $q->Tr( $q->td($self->i18n("eMail:")), $q->td($q->textfield({-name=>'email',-override=>'1',-value=>'',-size=>'50'}))  );
 	$ret .= $q->Tr( $q->td($self->i18n("Web address:")), $q->td($q->textfield({-name=>'web',-value=>'',-override=>'1' ,-size=>'50'}))  );
@@ -85,19 +85,28 @@ sub list_items() {
  	while (my @data = $sth->fetchrow_array()) { #this loop prints all the news items
 		my ($name, $email, $web, $comments, $date) = @data[0 ... 4];
 
-		$email =~ s/@/;at;/; #make unreadable for spam robots
-		$email =~ s/[.]/;dot;/; #make unreadable for spam robots
+		$email =~ s|@|<img src="/images/mail.png">|; #make unreadable for spam robots
+		#$email =~ s/[.]/;dot;/; #make unreadable for spam robots
 
 		$comments =~ s/<.*?>\n{0,}//g; # strip out HTML, although it have been stripped out on creation time when it was written into the DB
 		$comments =~ s/(?:\n){2,}/<P>/g; # two newlines are a new paragraph
-		$comments =~ s/(?:\n)/<BR>/g; # one newline is a line break in html
+		$comments =~ s/(?:\n)/<br\/>/g; # one newline is a line break in html
 
 		if ($name && $comments) { #we have a valid entry, each entry is in an own small table
 			$ret .= $q->start_table({-class=>'item'});
 
 			my $dateString = ($date && $date ne '0000-00-00') ? $self->i18n("wrote on") . " " .  Date_to_Text_Long( split('-',$date) ) : $self->i18n("wrote");
 
-			$ret .= $q->Tr( $q->td({-class=>'header'}, $q->b($email ? $q->a({-href=>"mailto:$email"},$name) : $name) . ($web ? ', '. $q->a({-target=>'_blank', -href=>$web =~ /^http:/ ? "$web" : "http://$web"},"$web ") : ' ') . $dateString . ':' ));
+
+			$ret .= $q->Tr(
+				$q->td({-class=>'header'},
+					$q->span({-class=>'name'}, $name),
+					($email || $web) ? $q->span({-class=>"contact-info"},
+						"(" . ($email ? $email : "") . ($web ? ($email ? ", " : "") . $q->a({-href=>$web =~ /^http:/ ? "$web" : "http://$web"}, "$web") : "") . ")",
+					) : "",
+					$dateString, ':'
+				)
+			);
 			$ret .= $q->Tr( $q->td({-class=>'comments', -colspan=>'2'}, $comments ));
 
 			$ret .= $q->end_table;
@@ -121,7 +130,6 @@ sub addItem {
 	my $comments = $q->param('comments');
 
 	#emails will be made unreadable for robots in the output script
-	#$email =~ s/\@/;at;/ if ($email); # make eMail not well readable for spammer robots
 	$comments =~ s/<.+?>// if ($comments); # remove HTML tags from comments
 
 	if (!($name && $comments)) { #we must have these two values!

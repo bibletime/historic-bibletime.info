@@ -33,7 +33,18 @@
 >Notícias sobre o BibleTime</title>
 	<formalpara
 ><title
->2004-01-11: New translation effort</title>
+>16/01/2004: Pacotes Debian disponíveis</title>
+		<para
+> <ulink url="http://packages.debian.org/unstable/kde/bibletime"
+>Pacotes Debian do BibleTime 1.4</ulink
+> já estão disponíveis no Debian Unstable. Lembre de pegar também o pacote <ulink url="http://packages.debian.org/unstable/kde/bibletime-i18n"
+>bibletime-i18n package</ulink
+>. Obrigado ao nosso empacotador Debian Daniel Glassey por esse trabalho! </para>
+	</formalpara>
+
+	<formalpara
+><title
+>11/01/2004: Nova iniciativa de tradução</title>
 		<para
 > Primeiramente queremos desejar a todos um ano novo realmente feliz e abençoado. </para>
 		<para
