@@ -51,7 +51,6 @@ sub bibletime_stats() {
 	my $targetfile = shift;
 
 	open(FILE, $targetfile);
-
 	opendir(DIR, $sourcedir);
 
 	while (my $pofile = readdir(DIR)) {
@@ -61,8 +60,10 @@ sub bibletime_stats() {
 		my $untranslated = 0;
 		my $fuzzy = 0;
 
-		my $aref = Locale::PO->load_file_asarray("$pofile");
+		my $aref = Locale::PO->load_file_asarray("$sourcedir/$pofile");
 		my @entries = @$aref if ($aref);
+		print "$pofile $aref\n";
+
 		if ($#entries+1) {
 			foreach my $entry (@entries) {
 				my $msgid = $entry->dequote( $entry->msgid() );
@@ -90,8 +91,7 @@ sub bibletime_stats() {
 	} # while
 
 	close(FILE);
-
-	return
+	closedir(DIR);
 }
 
 open(OUT, "> website.txt");
