@@ -1,4 +1,4 @@
-website: ./index.html ./software_about.html ./software_screenshots.html ./software_gallery.html ./software_installation.html ./software_faq.html ./software_links.html ./software_linkus.html ./software_guestbook.shtml ./software_press.html ./software_contact.html ./software_license.html ./development.html ./development_help.html ./development_join.html ./development_mailinglists.html ./translation.shtml ./biblehowto.html ./no_index.html ./error404.html ./devotional.html ./sidebar_tips.html 
+website: ./index.html ./software_about.html ./software_screenshots.html ./software_gallery.html ./software_installation.html ./software_faq.html ./software_links.html ./software_linkus.html ./software_guestbook.shtml ./software_press.html ./software_contact.html ./software_license.html ./development.html ./development_help.html ./development_team.html ./development_join.html ./development_mailinglists.html ./translation.shtml ./biblehowto.html ./no_index.html ./error404.html ./devotional.html ./sidebar_tips.html 
 
 ./no_index.html: index.xml
 ./index.html: software.xml
@@ -15,6 +15,7 @@ website: ./index.html ./software_about.html ./software_screenshots.html ./softwa
 ./software_license.html: software_license.xml
 ./development.html: development.xml
 ./development_help.html: development_help.xml
+./development_team.html: development_team.xml
 ./development_join.html: development_join.xml
 ./development_mailinglists.html: development_mailinglists.xml
 ./translation.shtml: translation.xml
@@ -27,5 +28,5 @@ distclean: clean
 	rm -f autolayout.xml depends.tabular
 
 clean:
-	rm -f ./index.html ./software_about.html ./software_screenshots.html ./software_gallery.html ./software_installation.html ./software_faq.html ./software_links.html ./software_linkus.html ./software_guestbook.shtml ./software_press.html ./software_contact.html ./software_license.html ./development.html ./development_help.html ./development_join.html ./development_mailinglists.html ./translation.shtml ./biblehowto.html ./no_index.html ./error404.html ./devotional.html ./sidebar_tips.html 
+	rm -f ./index.html ./software_about.html ./software_screenshots.html ./software_gallery.html ./software_installation.html ./software_faq.html ./software_links.html ./software_linkus.html ./software_guestbook.shtml ./software_press.html ./software_contact.html ./software_license.html ./development.html ./development_help.html ./development_team.html ./development_join.html ./development_mailinglists.html ./translation.shtml ./biblehowto.html ./no_index.html ./error404.html ./devotional.html ./sidebar_tips.html 
 

@@ -14,32 +14,51 @@
 
 <section><title>Joachim</title>
 <para>
-We are glad for everybody who helps us improving the BibleTime software, it's documentation and it's translations.
+<formalpara><title>Age:</title></formalpara>
+
+<formalpara><title>Occupation:</title>Student of IT</formalpara>
+
+<formalpara><title>BibleTime involvement:</title>
+</formalpara>
+
+<formalpara><title>Support this project member:</title>
+</formalpara>
+
+<formalpara><title>Planned tasks:</title>
+</formalpara>
+
 </para>
+</section>
 
 <section><title>Martin</title>
 <para>
-<em>Project member</em>: Martin<br/>
 
-<em>Age: </em>24<br/>
+<formalpara><title>Age:</title>24</formalpara>
 
-<em>Occupation</em>: Student of Theology<br/>
+<formalpara><title>Occupation:</title>Student of Theology</formalpara>
 
-<em>BibleTime involvement</em>: I have been involved in BibleTime
+<formalpara><title>BibleTime involvement:</title>
+I have been involved in BibleTime
 since 1999. So far I helped with the project administration, the
 build system, parts of the code in the backend as well as in the User
-Interface of BibleTime, and recently I designed the Install Manager.</br>
+Interface of BibleTime, and recently I designed the Install Manager.
+</formalpara>
 
-<em>Support this project member</em>: Since I have to finance my
+<formalpara><title>Support this project member:</title>
+Since I have to finance my
 studies, I need to earn some money. Would you like to help me work on
 BibleTime instead of something else? Please consider making a
 donation, even small amounts will help a lot and be used to perform
 work on BibleTime (code, docs, administration, sword). I'll provide
 reports on how much I worked on BibleTime and what I got accomplished
-during that time.</br>
-<em>Planned tasks</em>: Revise the Handbook. Test the code
+during that time.
+</formalpara>
+
+<formalpara><title>Planned tasks:</title>
+Revise the Handbook. Test the code
 thoroughly and fix remaining bugs. Prepare for the 1.5 release (Sword
-1.5.8 release needed).<br/>
+1.5.8 release needed).
+</formalpara>
 </para>
 </section>
 
