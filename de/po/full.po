@@ -408,21 +408,6 @@ msgstr "Anleitung"
 
 #: index.docbook:15
 #, no-c-format
-msgid "BibleTime's development"
-msgstr "BibleTimes Entwicklung"
-
-#: index.docbook:16
-#, no-c-format
-msgid "These pages describe how to join in the development of BibleTime and which ways exist to help us! BibleTime's quality and usefulness depends on the help of others to a large degree."
-msgstr "Diese Seiten beschreiben, wie man sich in die Entwicklung von BibleTime einklinken kann und welche Wege bestehen uns zu helfen. BibleTimes Quaität und Nützlichkeit hängt zu einem großen Teil von der Hilfe anderer ab."
-
-#: index.docbook:20
-#, no-c-format
-msgid "Please read the following pages very carefully to see whether you can help us with the development!"
-msgstr "Bitte lesen Sie die nächsten Seiten sehr sorgfältig, um zu sehen, ob Sie uns mit der Entwicklung helfen können!"
-
-#: index.docbook:15
-#, no-c-format
 msgid "Help us ..."
 msgstr "Helfen Sie uns ..."
 
@@ -611,15 +596,20 @@ msgstr "Archive der Sword Entwicklungs-Mailingliste sind verfügbar auf:"
 msgid "www.crosswire.org/pipermail/sword-devel"
 msgstr "www.crosswire.org/pipermail/sword-devel"
 
-#: index.docbook:14
+#: index.docbook:15
 #, no-c-format
-msgid "BibleTime's documemtation"
-msgstr "BibleTimes Dokumentation"
+msgid "BibleTime's development"
+msgstr "BibleTimes Entwicklung"
 
 #: index.docbook:16
 #, no-c-format
-msgid "Since you have to know how to install and use BibleTime we provide here some useful documentation pages and links. Since many users have the same problems with BibleTime please be sure to check the answers in the FAQ if you have problem."
-msgstr "Da Sie wissen müssen, wie BibleTime installiert und benutzt wird, stellen wir hier einige nützliche Dokumentationsseiten und Verweise zur Verfügung: Da viele Benutzer die gleichen Probleme mit BibleTime haben, lesen Sie bitte auf jeden Fall die Antowrten im FAQ!"
+msgid "These pages describe how to join in the development of BibleTime and which ways exist to help us! BibleTime's quality and usefulness depends on the help of others to a large degree."
+msgstr "Diese Seiten beschreiben, wie man sich in die Entwicklung von BibleTime einklinken kann und welche Wege bestehen uns zu helfen. BibleTimes Quaität und Nützlichkeit hängt zu einem großen Teil von der Hilfe anderer ab."
+
+#: index.docbook:20
+#, no-c-format
+msgid "Please read the following pages very carefully to see whether you can help us with the development!"
+msgstr "Bitte lesen Sie die nächsten Seiten sehr sorgfältig, um zu sehen, ob Sie uns mit der Entwicklung helfen können!"
 
 #: index.docbook:14
 #, no-c-format
@@ -889,6 +879,16 @@ msgstr "Die grundlegende Installation ist auf den Seiten der Crosswire Bible Soc
 #, no-c-format
 msgid "http://www.crosswire.org/sword/software/index.jsp"
 msgstr "http://www.crosswire.org/sword/software/index.jsp"
+
+#: index.docbook:14
+#, no-c-format
+msgid "BibleTime's documemtation"
+msgstr "BibleTimes Dokumentation"
+
+#: index.docbook:16
+#, no-c-format
+msgid "Since you have to know how to install and use BibleTime we provide here some useful documentation pages and links. Since many users have the same problems with BibleTime please be sure to check the answers in the FAQ if you have problem."
+msgstr "Da Sie wissen müssen, wie BibleTime installiert und benutzt wird, stellen wir hier einige nützliche Dokumentationsseiten und Verweise zur Verfügung: Da viele Benutzer die gleichen Probleme mit BibleTime haben, lesen Sie bitte auf jeden Fall die Antowrten im FAQ!"
 
 #: index.docbook:15
 #, no-c-format

@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
 	<!NOTATION XML SYSTEM "xml">
 
 	<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
@@ -54,8 +54,8 @@
 ><year
 >2003</year>
 <holder
->Das &bibletime; Team, info@bibletime.info</holder
-> </copyright
+>Das &bibletime; Team, info@bibletime.info</holder>
+</copyright
 ><copyright>
 <year
 >2001</year
@@ -72,7 +72,7 @@
 > Das Copyright dieses Textes liegt bei dem Autoren Bob Harman. Der Text wurde von Fred Saalbach zur Publikation mit BibleTime angepasst.</para>
 
 <para
-> </para>
+> Non exclusive serial rights for this distribution of this document with the &bibletime; Software have been made. Redistribution as part of the Bibletime software without modification and limited reproduction as provided by the "fair use" provisions of the US copyright code are also permitted.</para>
 
 <para
 > Bei Fragen zur Benutzung diese Materials wenden Sie sich bitte an Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. Hampton VA 23666 USA <email

@@ -17,7 +17,7 @@
             rewritePrefix="../en/xsl/"/>
 
 <rewriteURI uriStartString="http://docbook.sourceforge.net/release/xsl/current/xhtml/"
-	rewritePrefix="/usr/share/sgml/docbook/stylesheet/xsl/nwalsh/xhtml/"/>
+	rewritePrefix="/usr/share/sgml/docbook/xsl-stylesheets/xhtml/"/>
 
 <!-- Website DTD locations -->
 

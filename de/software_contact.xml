@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
 ]>
@@ -20,7 +20,7 @@
 >Wie man uns kontaktieren kann</title>
 	<formalpara
 ><title
-><ulink url="http://sourceforge.net/tracker/?group_id=954!amp-internal!atid=100954"
+><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=100954"
 >Einen Fehlerbericht schicken</ulink
 ></title>
 	<para
@@ -29,7 +29,7 @@
 
 	<formalpara
 ><title
-><ulink url="http://sourceforge.net/tracker/?group_id=954!amp-internal!atid=200954"
+><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=200954"
 >Hilfe bekommen</ulink
 ></title>
 	<para
@@ -38,7 +38,7 @@
 
 	<formalpara
 ><title
-><ulink url="http://sourceforge.net/tracker/?atid=350954!amp-internal!group_id=954!amp-internal!func=browse"
+><ulink url="http://sourceforge.net/tracker/?atid=350954&amp;group_id=954&amp;func=browse"
 >Schicken Sie eine Funktions-Idee</ulink
 ></title>
 	<para
@@ -47,7 +47,7 @@
 
 	<formalpara
 ><title
-><ulink url="http://sourceforge.net/tracker/?atid=511478!amp-internal!group_id=954!amp-internal!func=browse"
+><ulink url="http://sourceforge.net/tracker/?atid=511478&amp;group_id=954&amp;func=browse"
 >Webseitenprobleme berichten</ulink
 ></title>
 	<para

@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_about SYSTEM "software_about.xml" NDATA XML>
 ]>
@@ -19,7 +19,13 @@
 ><title
 >Willkommen zum BibleTime Projekt!</title>
 <para
->  </para>
+> BibleTime is a Bible study application for Linux. It is based on the <ulink url="http://www.kde.org/"
+>K Desktop Environment</ulink
+> and uses the <ulink url="http://www.crosswire.org/sword/"
+>Sword</ulink
+> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url="http://www.crosswire.org/sword/"
+>Crosswire Bible Society</ulink
+>. </para>
 </section>
 
 <section
