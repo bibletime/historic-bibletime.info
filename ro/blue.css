@@ -363,21 +363,29 @@ table.swordcdcheck {
 	width:25%;
 }
 
+
 div.qandaset table {
 	margin-top:15px;
+	border-spacing:0px;
+	vertical-align:top;
 }
 
-.qandadiv h4.title {
+table tr.toc {
+	font-size:0.8em;
+	margin:0px;
+}
+
+table .qandadiv h4.title {
 	margin-top:10px;
-	border-bottom:2px solid black;
+	border-bottom:1px solid black;
 }
 
-tr.question  {
+table tr.question td {
 	background-color:#B4B2CD;
 	color:white;
+	font-weight:bold;
+	font-size:1em;
 	padding:0px;
 	margin:0px;
-	font-weight:bold;
-	font-size:1.2em;
-	vertical-align:top;
+	padding-left:2px;
 }
