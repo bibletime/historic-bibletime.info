@@ -129,9 +129,12 @@ sub run_make() {
 }
 
 # Either the parameters or the languages we know
-my @langs = @ARGV || ("de", "pt-br", "ro", "ru", "ua");
-if (!$#langs) {
-	die "Please give a language to work on!";
+my @langs;
+while (my $lang = pop(@ARGV)) {
+	push(@langs, $lang);
+}
+if (!@langs) {
+	@langs = ("de", "pt-br", "ro", "ru", "ua");
 }
 
 #required for all languages
