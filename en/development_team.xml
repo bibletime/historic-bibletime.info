@@ -1,0 +1,46 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY translation SYSTEM "translation.xml" NDATA XML>
+]>
+
+<webpage id="development_team">
+<config param="desc" value="The team"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title>The BibleTime team</title>
+	<summary>Members of the BibleTime team</summary>
+	<keywords>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, development team, members</keywords>
+</head>
+
+<section><title>Joachim</title>
+<para>
+We are glad for everybody who helps us improving the BibleTime software, it's documentation and it's translations.
+</para>
+
+<section><title>Martin</title>
+<para>
+<em>Project member</em>: Martin<br/>
+
+<em>Age: </em>24<br/>
+
+<em>Occupation</em>: Student of Theology<br/>
+
+<em>BibleTime involvement</em>: I have been involved in BibleTime
+since 1999. So far I helped with the project administration, the
+build system, parts of the code in the backend as well as in the User
+Interface of BibleTime, and recently I designed the Install Manager.</br>
+
+<em>Support this project member</em>: Since I have to finance my
+studies, I need to earn some money. Would you like to help me work on
+BibleTime instead of something else? Please consider making a
+donation, even small amounts will help a lot and be used to perform
+work on BibleTime (code, docs, administration, sword). I'll provide
+reports on how much I worked on BibleTime and what I got accomplished
+during that time.</br>
+<em>Planned tasks</em>: Revise the Handbook. Test the code
+thoroughly and fix remaining bugs. Prepare for the 1.5 release (Sword
+1.5.8 release needed).<br/>
+</para>
+</section>
+
+</webpage>
