@@ -7,8 +7,8 @@
 <config param="desc" value="The team"/>
 <config param="rcsdate" value="$Date$"/>
 <head>
-	<title>The BibleTime team</title>
-	<summary>Members of the BibleTime team</summary>
+	<title>The team</title>
+	<summary>Get to know members of the BibleTime team and how you can support them</summary>
 	<keywords>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, development team, members</keywords>
 </head>
 
@@ -23,11 +23,24 @@
 </formalpara>
 
 <formalpara><title>BibleTime involvement:</title>
-<para></para>
+<para>
+Together with Thomas Hagedorn and Torsten Uhlmann, I founded the BibleTime
+project. Since then I did most of the coding, as well as hosting the bibletime.info website 
+and all the administrative tasks that belong to leading the project.
+</para>
+</formalpara>
+
+<formalpara><title>Support this project member:</title>
+<para>
+Leading the BibleTime project involves a lot of work and making important 
+decisions. I would like to ask for your prayers for God's guidance for me
+and the whole team.</para>
 </formalpara>
 
 <formalpara><title>Planned tasks:</title>
-<para></para>
+<para>
+Bugfixes, code cleanups, prepare for the 1.5 release.
+</para>
 </formalpara>
 
 </section>
@@ -60,15 +73,18 @@ thoroughly and fix remaining bugs. Prepare for the 1.5 release (Sword
 Since I have to finance my
 studies, I need to earn some money. Would you like to help me work on
 BibleTime instead of something else? Please consider making a
-donation, even small amounts will help a lot and be used to perform
-work on BibleTime (code, docs, administration, sword). I'll provide
-reports on how much I worked on BibleTime and what I got accomplished
-during that time.</para>
+donation, even small amounts will help a lot. I will use them to perform
+work on BibleTime (code, docs, administration, sword) at a fixed rate 
+per hour. I'll provide reports on how much I worked on BibleTime and 
+what I got accomplished during that time. Also, Joachim will check 
+my handling of the money.
+</para>
 </formalpara>
-
 <para>
 Please use the link below to send your donation through PayPal. You don't 
 need to have an own PayPal account for this. Don't hesitate to email me at <email>mg.pub@gmx.net</email> if you have questions.
+</para>
+<para>
 <ulink url="https://www.paypal.com/xclick/business=mg.pub%40gmx.net&amp;item_name=Support+for+BibleTime+developer+Martin&amp;no_note=1&amp;tax=0&amp;currency_code=EUR">
 <mediaobject>
   <imageobject>
@@ -84,7 +100,7 @@ need to have an own PayPal account for this. Don't hesitate to email me at <emai
 <input type="hidden" name="business" value="mg.pub@gmx.net">
 <input type="hidden" name="item_name" value="Support for BibleTime developer Martin">
 <input type="hidden" name="no_note" value="1">
-<input type="hidden" name="currency_code" value="EUR">
+<input type="hidden" name="currency_code" value="EUR">w
 <input type="hidden" name="tax" value="0">
 <input type="image" src="https://www.paypal.com/en/i/btn/x-click-but04.gif" border="0" name="submit" alt="Please consider making a donation.">
 </form>

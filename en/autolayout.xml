@@ -55,6 +55,10 @@
 <title>In the press</title>
 <summary>BibleTime in the press</summary>
 </tocentry>
+<tocentry page="software_swordcd.xml" id="software_swordcd" filename="software_swordcd.shtml">
+<title>Sword CD</title>
+<summary>Get the Sword CD</summary>
+</tocentry>
 <tocentry page="software_contact.xml" id="contact" filename="software_contact.html">
 <title>Contact</title>
 <summary>How to contact us</summary>
@@ -67,13 +71,9 @@
 <tocentry page="development.xml" id="development" filename="development.html">
 <title>Development</title>
 <summary>BibleTime's development</summary>
-<tocentry page="development_team.xml" id="development_team" filename="development_team.html">
-<title>Team</title>
-<summary>The BibleTime team</summary>
-</tocentry>
 <tocentry page="development_help.xml" id="development_help" filename="development_help.html">
 <title>Help us</title>
-<summary>BibleTime's development</summary>
+<summary>Direct and indirect support for the development of BibleTime</summary>
 </tocentry>
 <tocentry page="development_join.xml" id="development_join" filename="development_join.html">
 <title>Join us</title>
@@ -82,6 +82,10 @@
 <tocentry page="development_mailinglists.xml" id="development_mailinglists" filename="development_mailinglists.html">
 <title>Mailinglists</title>
 <summary>BibleTime's mailinglists</summary>
+</tocentry>
+<tocentry page="development_team.xml" id="development_team" filename="development_team.html">
+<title>The team</title>
+<summary>Get to know members of the BibleTime team and how you can support them</summary>
 </tocentry>
 </tocentry>
 <tocentry page="translation.xml" id="translation" filename="translation.shtml">

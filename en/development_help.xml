@@ -1,6 +1,9 @@
 <!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+<!ENTITY development_team SYSTEM "development_team.xml" NDATA XML>
+<!ENTITY development_join SYSTEM "development_join.xml" NDATA XML>
+<!ENTITY translations SYSTEM "translation.xml" NDATA XML>
 ]>
 
 <webpage id="development_help">
@@ -8,14 +11,15 @@
 <config param="rcsdate" value="$Date$"/>
 <head>
 <title>Help us</title>
-<summary>BibleTime's development</summary>
+<summary>Direct and indirect support for the development of BibleTime</summary>
 <keywords>BibleTime, Help us, Help BibleTime, Software</keywords>
 </head>
 
-<section><title>Help us ...</title>
+<section><title>Please help us ...</title>
 <para>
-Our aim is to make BibleTime into a really mature Bible study application which should be used by christians to grow in their relationship with Him!
-To make this possible we need your help! It is possible to help us in many ways. Please read this page to whether you can help us improving the BibleTime software.
+Our aim is to develop BibleTime into a really mature Bible study application that 
+can by everyone. To ahieve this, we need your help. There are different possibilities
+for supporting the BibleTime project directly and indirectly:
 </para>
 
 <section><title>Do you want to pray?</title>
@@ -24,28 +28,43 @@ Praying is something everybody can do. If you are praying for the Sword and Bibl
 </para>
 </section>
 
+<section><title>Would you like to support the developers?</title>
+<para>
+On the <olink targetdocent="development_team">team page</olink>, you can find information about 
+the members of the BibleTime team and ways how you can support them. If you like using BibleTime, 
+but don't have the time or knowledge to help with the development yourself, you might want to consider 
+this possibility.
+</para>
+</section>
+
 <section><title>Do you know how to program software?</title>
 <para>
-Do you know how to program in C++? Are you familiar with the KDE programming interface or are motivate to learn it? If you have time to regularly work on the BibleTime source code we ask you to join our team!
-If you want to join the team, please read the page "Join the team" in this section.
+Do you know how to program in C++? Are you familiar with the KDE programming 
+interface or are motivate to learn it? If you have time to regularly work 
+on the BibleTime source code we ask you to join our team.
+If you want to do so, please read the page <olink targetdocent="development_join">
+Join us</olink>.
 </para>
 </section>
 
 <section><title>Do you know how to write documentation?</title>
 <para>
 Do you think you would be good in working on BibleTime's english documentation?
-If you think you are, please read the page "Join the team" in this section.
+If you think you are, please read the page <olink targetdocent="development_join">
+Join us</olink>.
 </para>
 </section>
 
 <section><title>Are you good in translating english into another language?</title>
 <para>
-BibleTime should be useable for everyone. That's why we need a translation into your language, if it's not yet available!
-If you decide to start working on a translation please contact us at info@bibletime.info to see whether the translation was not yet started by another team member. We will provide you with the files which should be translated.
+BibleTime should be useable for everyone. That's why we need a translation into your language, 
+if it's not yet available. If you decide to start working on a translation please contact us 
+at info@bibletime.info to see whether the translation was not yet started by another team 
+member. We will provide you with the files which should be translated.
 </para>
-
 <para>
-Please use the KDE program called "KBabel" to translate the files! It's a good tool which simplifies the translation process
+You can find more information about the translation process on the page <olink targetdocent="translations">
+translation</olink>.
 </para>
 </section>
 </section>

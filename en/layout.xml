@@ -18,7 +18,9 @@
   <notoc page="error404.xml" filename="error404.html"/>
   <notoc page="devotional.xml" filename="devotional.html"/>
   <notoc page="sidebar_tips.xml" filename="sidebar_tips.html"/>
-  <notoc page="software_swordcdsend.xml" filename="software_swordcdsend.php4"/>
+	
+<!-- PAGE IS MISSING IN CVS.
+  <notoc page="software_swordcdsend.xml" filename="software_swordcdsend.php4"/>  -->
   
   <toc page="index.xml" filename="no_index.html">
 	<tocentry page="software.xml" filename="index.html">
