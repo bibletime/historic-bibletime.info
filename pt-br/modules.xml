@@ -33,22 +33,22 @@
 
 <orderedlist
 ><title
->Available types of modules</title
+></title
 > <listitem
 ><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Bibles"
->Bibles</ulink
+></ulink
 ></listitem
 > <listitem
 ><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Commentaries"
->Commentaries</ulink
+></ulink
 ></listitem
 > <listitem
 ><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Dictionaries"
->Lexicons / Dictionaries</ulink
+></ulink
 ></listitem
 > <listitem
 ><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Books"
->Books</ulink
+></ulink
 ></listitem
 > </orderedlist>
 

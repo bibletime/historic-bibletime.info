@@ -22,7 +22,7 @@
 > Es gibt verschiedene RPM Pakete von BibleTime. Um zu sehen, ob sie für ihe System erstellt wurden, schauen Sie sich den Dateinamen des Paketes an. Er enthält den abgekürzten Namen und die Version des Linux Systems, für das das Paket erstellt wurde. </para>
 
 <para
-> The "bibletime" package contains the software and documentation in English. Translation files for both are to be found in the "bibletime-i18n" package. </para>
+>  </para>
 
 <para
 > <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954"

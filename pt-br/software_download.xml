@@ -22,26 +22,19 @@
 > Existem vários pacotes RPM disponíveis para BibleTime. Para ver se eles foram feitos para o seu sistema dê uma olhada no nome do arquivo do pacote. Eles contêm o nome abreviado e versão da distribuição Linux para o qual foram feitos. </para>
 
 <para
-> Por exemplo o pacote &raquo;bibletime-1.2.2-1suse8.1.i586.rpm&laquo; foi feito para sistemas SuSE 8.1 rodando em um i586 ou maior. </para>
+>  </para>
 
 <para
-> Por favor faça o download do BibleTime das páginas do projeto BibleTime no Sourceforge: </para>
-<para
-> <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954"
->http://www.sf.net/projects/bibletime</ulink
->. </para>
+>  </para>
 
-<para
-> Por favor faça o download dos pacotes &raquo;bibletime&laquo; e &raquo;bibletime-doc&laquo;! Sem o pacote &raquo;bibletime-doc&laquo;! você não terá o livro de mão, dicas diárias ou instruções de instalação. </para>
 </section>
+
 
 <section
 ><title
 >Instalação</title>
 <para
-> Please read the installation instructions: <olink targetdocent="documentation_installation_bibletime"
->here</olink
-> </para>
+>  </para>
 </section>
 
 </webpage>

@@ -16,32 +16,32 @@
 
 <section
 ><title
->Sobre o BibleTime</title>
+>#-#-#-#-#  software.po (PACKAGE VERSION)  #-#-#-#-#
+#-#-#-#-#  software_news.po (PACKAGE VERSION)  #-#-#-#-#
+Sobre o BibleTime</title>
 	<formalpara
 ><title
->2003-10-19: SuSE 9.0 packages</title>
+></title>
 		<para
-> RPM packages are now available for SuSE 9.0. Report any problems to info@bibletime.info. Thank you! </para>
+>  </para>
 	</formalpara>
 
 	<formalpara
 ><title
->2003-10-16: New webpages</title>
+></title>
 		<para
-> BibleTime has now new webpages which offer better navigation, better design and faster page download time. </para>
+>  </para>
 		<para
-> If you experience any problems with the new pages please let us know! </para>
+>  </para>
 	</formalpara>
 
 	<formalpara
 ><title
->2003-08-23: BibleTime 1.3</title>
+></title>
 		<para
-> Version 1.3 of BibleTime is finally available. BibleTime 1.3 contains a lot of new features, usability improvements and bug fixes. Upgrading to version 1.3 is strongly recommended for all our users. You can get the Software here: <ulink url="http://www.bibletime.info/software/download/"
->Download</ulink
->. Binary packages will be released in the next few days. </para>
+>  </para>
 		<para
-> Get the bibletime and the bibletime-i18n packages for full functionality. We're very sorry for the long release time, we hope to shorten it with the next releases. </para>
+>  </para>
 	</formalpara>
 </section>
 

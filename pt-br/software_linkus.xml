@@ -24,40 +24,14 @@
 ><title
 >1. Banner maior</title>
 <para
-> Put the following HTML code on your pages: <programlisting>
-<![CDATA[
- <a href="http://www.bibletime.info/" target="_blank">
- <img src="http://www.bibletime.info/images/banner/big.jpg" width="312" height="60" border="0"/>
- </a>
-]]>
-</programlisting
-> This will look like this: <ulink url="http://www.bibletime.info/"
-> <mediaobject
-> <imageobject
-> <imagedata fileref="/images/banner/big.jpg" format="JPG"/> </imageobject
-> </mediaobject
-> </ulink
-> </para>
+>  </para>
 </section>
 
 <section
 ><title
 >2. Banner menor</title>
 <para
-> Put the following HTML code on your pages: <programlisting>
-<![CDATA[
- <a href="http://www.bibletime.info/" target="_blank">
- <img src="http://www.bibletime.info/images/banner/small.jpg" width="88" height="31" border="0"/>
- </a>
-]]>
-</programlisting
-> This will look like this: <ulink url="http://www.bibletime.info/"
-> <mediaobject
-> <imageobject
-> <imagedata fileref="/images/banner/small.jpg" format="JPG"/> </imageobject
-> </mediaobject
-> </ulink
-> </para>
+>  </para>
 </section>
 
 
@@ -65,16 +39,7 @@
 ><title
 >3. Link de texto</title>
 <para
-> To insert a simple text link please use the following HTML code on your pages: <programlisting>
-<![CDATA[
- <a href="http://www.bibletime.info/" TARGET="_blank">
- BibleTime - Bible study software for KDE
- </a>
-]]>
-</programlisting
-> This will look like this: <ulink url="http://www.bibletime.info/"
->BibleTime - Bible study software for KDE</ulink
-> </para>
+>  </para>
 </section>
 
 </section>

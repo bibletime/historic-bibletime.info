@@ -7,7 +7,7 @@
 <config param="rcsdate" value="$Date$"/>
 <head>
 <title
-></title>
+>BibleTime</title>
 <summary
 >Introduction</summary>
 <keywords
@@ -16,7 +16,7 @@
 
 <section
 ><title
-></title>
+>Willkommen zum BibleTime Projekt!</title>
 </section>
 
 </webpage>
