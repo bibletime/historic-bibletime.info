@@ -10,7 +10,7 @@ use strict;
 # This script updates the translation in the folder given as parameter
 
 sub get_langs {
-	my $file = shift || "language.conf";
+	my $file = shift || "language-online.conf";
 	
 	open(IN, "< $file");
 	my $line = <IN>;
@@ -43,12 +43,12 @@ sub update_pot_files() {
 		my $command = "xml2pot $source/$file > $potfile";
 		`$command`;
 
-		print "\tCreating temporary POT $potfile\n";
+		#print "\tCreating temporary POT $potfile\n";
 	}
 
 	print "Merging POT files.\n";
-	`msgcat --force-po -o $dest/full.pot.cat $dest/*.pot`;
-	`rm $dest/*.pot`;
+	`msgcat --force-po -o $dest/full.pot.cat $dest/*.pot 2>&1 > /dev/null`;
+	`rm $dest/*.pot 2>&1 > /dev/null`;
 	move("$dest/full.pot.cat","$dest/full.pot");
 
 	closedir(DIR);
@@ -61,7 +61,7 @@ sub update_po_files() {
 	my $potdir = shift;
 	my $podir  = shift;
 
-	print "Making PO file\n";
+	#print "$podir: Creating PO files\n";
 	mkpath($podir);
 
 	my $potfile = "$potdir/full.pot";
@@ -71,18 +71,18 @@ sub update_po_files() {
 		`touch $pofile`;
 	}
 
-	`msgmerge --force-po --no-wrap -o $pofile.new $pofile $potfile`;
+	`msgmerge --force-po --no-wrap -o $pofile.new $pofile $potfile  `;
 
 	if (compare($pofile, "$pofile.new") != 0) { #different
 		move("$pofile.new", $pofile);
-		print "\t\tMerged in changes\n";
+		#print "\t\tMerged in changes\n";
 	}
 	else {
-		print "\t\tSame entries!\n";
+		#print "\t\tSame entries!\n";
 	}
 	unlink("$pofile.new");
 
-	print "\n\n";
+	#print "\n\n";
 }
 
 # 1st parameter is the dir with the english sources
@@ -147,7 +147,7 @@ sub run_make() {
 sub create_apache_files() {
 	my $source = shift;
 	my $dest = shift;
-	my $langs = shift;
+	my @langs = &get_langs("language-online.conf");
 	
 	print "Creating apache files...\n";
 	
@@ -158,21 +158,24 @@ sub create_apache_files() {
 		my $htmlfile = $file;
 		$file =~ s/\.html|\.shtml|\.phtml$/.var/;
 
-		print "\tCreating VAR file for $file\n";
+		#print "\tCreating VAR file for $file\n";
 		
 		open(OUT, "> $dest/$file");
 		print OUT "URI: en/$htmlfile\n";
 		print OUT "Content-type: text/html\n";
 		print OUT "Content-language: en\n";
 		
-		foreach my $lang (@$langs) {
+		foreach my $lang (@langs) {
 			print OUT "\nURI: $lang/$htmlfile\n";
 			print OUT "Content-type: text/html\n";
 			print OUT "Content-language: $lang\n";
 		}
 		
-		close(OUT);
+		print OUT "\nURI: default/$htmlfile\n";
+		print OUT "Content-type: text/html\n";
+		#print OUT "Content-language: en\n";
 		
+		close(OUT);
 	}
 	
 	closedir(DIR);
@@ -183,14 +186,21 @@ my @langs;
 while (my $lang = pop(@ARGV)) {
 	push(@langs, $lang);
 }
+
 if (!@langs) {
 	@langs = sort &get_langs();
 	#("bg", "cs", "de", "fr", "nl", "ko", "pt-br", "ro", "ru", "ua");
 }
 
 #required for all languages
-&create_apache_files($ENV{"PWD"} . "/en", ".", \@langs);
+&create_apache_files($ENV{"PWD"} . "/en", ".");
 &update_pot_files($ENV{"PWD"} . "/en",  $ENV{"PWD"} . "/en/pot/");
+
+
+foreach my $lang (&get_langs("language.conf")) {
+	print "Creating PO files for $lang...\n";
+	&update_po_files($ENV{"PWD"} . "/en/pot/", $ENV{"PWD"} . "/$lang/po/");
+};
 
 while (my $lang = shift(@langs)) {
 	if ($lang eq "en") {
@@ -198,7 +208,6 @@ while (my $lang = shift(@langs)) {
 	}
 
 	print "Working on $lang ...\n";
-	&update_po_files($ENV{"PWD"} . "/en/pot/", $ENV{"PWD"} . "/$lang/po/");
 	&make_xml_files($ENV{"PWD"}. "/en", $ENV{"PWD"} . "/$lang/po/", $ENV{"PWD"} . "/$lang/");
 	&make_makefile("$lang");
 	&run_make("$lang");
@@ -206,4 +215,3 @@ while (my $lang = shift(@langs)) {
 
 #Now update the statistics. At the end so we get all changed to the PO files.
 `cd postats && perl make_postats.pl > /dev/null 2>&1; cd ..`;
-

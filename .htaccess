@@ -1,13 +1,16 @@
+RewriteEngine On
+
+<IfModule mod_speling.c>
+CheckSpelling Off
+</IfModule>
+
+
 AddType application/x-type-map var
-Options +MultiViews
+Options -MultiViews
 DirectoryIndex index.var index.html
 DefaultLanguage en
 
-ErrorDocument 404 /error404.html
-
-#	php_flag short_open_tag off
-
-RewriteEngine On
+ErrorDocument 404 /error404.var
 
 #  let the server know that we were reached via /xyz and not
 #  via the physical path prefix /abc/def
@@ -16,40 +19,39 @@ RewriteBase   /
 RewriteRule	^images/banner_big.jpg?$	/images/banner/big.jpg
 RewriteRule	^images/banner_small.jpg?$	/images/banner/small.jpg
 
-
 #  rewrite rules for old pages of www.bibletime.de
-RewriteRule	^([a-z-]{2,5}/)about.s?html?$		/$1bibletime_about.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)assistance.s?html?$	/$1development.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)gallery.s?html?$		/$1software_gallery.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)index.shtml$		/$1index.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)index.cgi$		/$1index.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)installation.s?html?$	/$1documentation_installation.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)license.s?html?$		/$1software_license.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)link-us.s?html?$		/$1software_linkus.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)links.s?html?$		/$1software_links.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)mailinglist.s?html?$	/$1development_mailinglists.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)news.s?html?$		/$1software_news.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?about.s?html?$		/$1bibletime_about.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?assistance.s?html?$	/$1development.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?gallery.s?html?$	/$1software_gallery.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?index.shtml$		/$1index.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?index.cgi$		/$1index.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?installation.s?html?$	/$1documentation_installation.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?license.s?html?$	/$1software_license.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?link-us.s?html?$	/$1software_linkus.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?links.s?html?$		/$1software_links.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?mailinglist.s?html?$	/$1development_mailinglists.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?news.s?html?$		/$1software_news.html [R,L]
 
-RewriteRule	^([a-z-]{2,5}/)?modules.s?html?$	/$1software_installation.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)modules_ger.s?html?$	/$1software_installation.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)modules_bibles.s?html?$	/$1software_installation.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)modules_books.s?html?$	/$1software_installation.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)modules_commentaries.s?html?$	/$1software_installation.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)modules_lexicons.s?html?$ 	/$1software_installation.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?modules.s?html?$		/$1software_installation.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?modules_ger.s?html?$		/$1software_installation.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?modules_bibles.s?html?$		/$1software_installation.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?modules_books.s?html?$		/$1software_installation.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?modules_commentaries.s?html?$	/$1software_installation.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?modules_lexicons.s?html?$ 	/$1software_installation.html [R,L]
 
-RewriteRule	^([a-z-]{2,5}/)press_coverage.s?html?$	/$1software_press.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)screenshots.s?html?$	/$1software_screenshots.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)screenshots_old.s?html?$	/$1software_screenshots.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)sword_cd.s?html?$	/$1modules_swordcd.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?press_coverage.s?html?$		/$1software_press.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?screenshots.s?html?$		/$1software_screenshots.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?screenshots_old.s?html?$	/$1software_screenshots.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?sword_cd.s?html?$		/$1modules_swordcd.html [R,L]
 
 RewriteRule	^screenshots/(.*)$	/images/screenshots/$1
 
 #URLS which changed while working on the pages
-RewriteRule	^([a-z-]{2,5}/)contact/links/$		/$1software_links.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)contact/linkus/$		/$1software_linkus.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)gallery.shtml$		/$1software_gallery.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)software/gallery$	/$1software_gallery.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)translate/.*$		/$1translation.shtml [R,L]
+RewriteRule	^([a-z-]{2,5}/)?contact/links/$		/$1software_links.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?contact/linkus/$	/$1software_linkus.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?gallery.shtml$		/$1software_gallery.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?software/gallery$	/$1software_gallery.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?translate/.*$		/$1translation.shtml [R,L]
 
 
 # Rewrite rules for better CGI navigation
@@ -57,11 +59,18 @@ RewriteRule	^(software|documentation|modules|contact|development)/?$			/$1.html 
 RewriteRule	^(software|documentation|modules|contact|development)/([^/]+)/?$		/$1_$2.html [R,L]
 RewriteRule	^(software|documentation|modules|contact|development)/([^/]+)/([^/]+)/?$	/$1_$2_$3.html [R,L]
 
-RewriteRule	 ^([a-z-]{2,5})/?$	/$1/index.html	[R,L]
 RewriteRule	 ^/?$	/index.html	[R,L]
 
-#Rewrite html pages on top into .var file
-RewriteRule	^([^/]*)\.s?html$	/$1.var
+RewriteRule	 ^/?default/(.*)$	/en/$1	[L]
+
+
+RewriteCond	/homepages/24/d70284388/htdocs/www.bibletime.info/$1  -d [OR]
+RewriteCond	%{DOCUMENT_ROOT}/$1  -d
+RewriteRule	 ^([a-z-]{2,5})/?$	/$1/index.html	[R,L]
+
+RewriteCond	/homepages/24/d70284388/htdocs/www.bibletime.info/$1.var  -f [OR]
+RewriteCond	%{DOCUMENT_ROOT}/$1.var  -f
+RewriteRule	^([^/]*)\.s?html$	/$1.var  [L]
 
 RewriteRule	 ^.+/(.+\.css)$				/$1
 RewriteRule	 ^.+/((guestbook|swordcd)\.pl)$		/$1
