@@ -42,7 +42,7 @@
 
 <xsl:template match="bookmark">
   <li>
-    <a href="{@href}" target="_top">
+    <a href="{@href}">
       <xsl:apply-templates select="title"/>
     </a>
   </li>
@@ -96,7 +96,7 @@
 
 <xsl:template match="bookmark" mode="dynamic">
   <li>
-    <a href="{@href}" target="_top">
+    <a href="{@href}">
       <xsl:apply-templates select="title" mode="dynamic"/>
     </a>
   </li>
