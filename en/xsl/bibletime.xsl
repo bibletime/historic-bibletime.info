@@ -178,16 +178,13 @@
 					</xsl:choose>
 
 					<div id="logos">
-						<img alt="counter" src="http://cgicounter.puretec.de/cgi-bin/cnt?clsid=6bfe60d8ff2e9c56d7db8be538c054421"/>
-						<br/>
 						<a href="http://www.sf.net/projects/bibletime/"><img src="http://sourceforge.net/sflogo.php?group_id=954&amp;type=1" alt="sf logo" width="88" height="31"/></a>
 						<br/>
-
-						<!--
 						<a href="http://validator.w3.org/check/referer"><img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0!" height="31" width="88" /></a>
 						<br/>
-						-->
 						<a href="http://jigsaw.w3.org/css-validator/"><img src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!"/></a>
+						<br/>
+						<img alt="counter" src="http://cgicounter.puretec.de/cgi-bin/cnt?clsid=6bfe60d8ff2e9c56d7db8be538c054421"/>
 					</div>
 				</div>
 

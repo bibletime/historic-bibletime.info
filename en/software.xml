@@ -12,10 +12,15 @@
 <keywords>Norman Walsh, DSSSL, SGML, XML, DocBook, Website</keywords>
 </head>
 
-<section><title>Welcome to the BibleTime project!</title>
+<section><title>Welcome to the BibleTime project.</title>
 <para>
 BibleTime is a Bible study application for Linux.
+It is based on the <ulink url="http://www.kde.org/">K Desktop Environment</ulink> and
+uses the <ulink url="http://www.crosswire.org/sword/">Sword</ulink>
+programming library to work with Bible texts, commentaries, dictionaries and books
+provided by the <ulink url="http://www.crosswire.org/sword/">Crosswire Bible Society</ulink>.
 </para>
+</section>
 
 <section><title>News about BibleTime</title>
 	<formalpara><title>2003-10-19: SuSE 9.0 packages</title>
@@ -45,8 +50,6 @@ BibleTime is a Bible study application for Linux.
  		We're very sorry for the long release time, we hope to shorten it with the next releases.
 		</para>
 	</formalpara>
-</section>
-
 </section>
 
 </webpage>

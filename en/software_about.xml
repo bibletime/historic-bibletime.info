@@ -11,15 +11,6 @@
 	<keywords>BibleTime, Software, About</keywords>
 </head>
 
-<section><title>What BibleTime is ...</title>
-<para>
-BibleTime is a free Bible study application for Linux systems. BibleTime uses the desktop environment KDE.
-</para>
-<para>
-We think that BibleTime is an easy to use but powerful study tool for christians all over the world.
-</para>
-</section>
-
 <section><title>The history of BibleTime</title>
 <para>
 Back in June of 1999 Thomas Hagedorn, Thorsten Uhlmann and Joachim Ansorg started to work on a Bible study application for KDE 1.0.
@@ -52,7 +43,7 @@ We're grateful that God supports us and that he blesses our work with new team m
 </para>
 
 <para>
-We will continue our work, but since BibleTime is getting better and better we'll reach a point where BibleTime has only a few things left which are useful for a normal Bible study application.
+We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application.
 </para>
 </section>
 
