@@ -50,7 +50,7 @@ sub bibletime_stats() {
 	my $sourcedir = shift;
 	my $targetfile = shift;
 
-	open(FILE, $targetfile);
+	open(FILE, "> $targetfile");
 	opendir(DIR, $sourcedir);
 
 	while (my $pofile = readdir(DIR)) {
@@ -104,6 +104,6 @@ open(OUT, "> website.txt");
 
 close(OUT);
 
-&bibletime_stats( "../bibletime-i18n/po", 					"> messages_stats.txt" );
-&bibletime_stats( "../bibletime-i18n/po/howto", 		"> howto_stats.txt" );
-&bibletime_stats( "../bibletime-i18n/po/handbook", 	"> handbook_stats.txt" );
+&bibletime_stats( "../bibletime-i18n/po", 					"messages_stats.txt" );
+&bibletime_stats( "../bibletime-i18n/po/howto", 		"howto_stats.txt" );
+&bibletime_stats( "../bibletime-i18n/po/handbook", 	"handbook_stats.txt" );
