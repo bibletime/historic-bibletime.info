@@ -144,6 +144,7 @@ if (!@langs) {
 }
 
 #required for all languages
+`perl update_translation_stats.pl > /dev/null`;
 &update_pot_files($ENV{"PWD"} . "/en",  $ENV{"PWD"} . "/en/pot/");
 
 while (my $lang = shift(@langs)) {

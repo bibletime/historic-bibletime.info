@@ -18,7 +18,7 @@
 <webpage id="biblehowto">
 <head>
 	<title
->Biblestudy HowTo</title>
+>Estudo Bíblico HowTo</title>
 	<summary
 >The BibleTime Biblestudy HowTo</summary>
 	<keywords
@@ -30,7 +30,7 @@
 
 <bookinfo>
 <title
->The Biblestudy HowTo</title>
+>Estudo Bíblico HowTo</title>
 
 <authorgroup>
 <author
@@ -51,7 +51,7 @@ ROLES_OF_TRANSLATORS
 ><year
 >2003</year>
 <holder
->The team of &bibletime;, info@bibletime.info</holder>
+>Time do &bibletime;, info@bibletime.info</holder>
 </copyright
 ><copyright>
 <year
@@ -66,18 +66,18 @@ ROLES_OF_TRANSLATORS
 
 <legalnotice
 ><para
-> The copyright of this text is held by the author Bob Harman. The text was adapted for publication with BibleTime by Fred Saalbach.</para>
+> O copyright desse texto pertence ao autor, Bob Harman. O texto foi adaptado para publicação no BIbleTime por Fred Saalbach.</para>
 
 <para
-> Non exclusive serial rights for this distribution of this document with the &bibletime; Software have been made. Redistribution as part of the Bibletime software without modification and limited reproduction as provided by the "fair use" provisions of the US copyright code are also permitted.</para>
+> Os direitos de distribuição deste documento com o software &bibletime; foram feitos. Redistribuição como parte do software Bibletime sem modificação e reprodução limitada como provida pelo "uso honesto" que provém do código de direitos autorais dos EUA também são permitidas.</para>
 
 <para
-> For questions regarding the use of this material contact Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. Hampton VA 23666 USA <email
+> Para questões sobre o uso desse material contacte Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. Hampton VA 23666 USA <email
 >ncc@ncchampton.org</email
 >.</para>
 
 <para
->Scripture quotes are from the New American Standard Bible unless otherwise indicated</para>
+>Citações das Escrituras no original em inglês são da New American Standard Bible.Na tradução em português foi usada a edição Atualizada de Almeida (PorAA).</para>
 </legalnotice>
 
 
@@ -89,20 +89,20 @@ ROLES_OF_TRANSLATORS
 
 <abstract>
 <title
->Áustria</title>
+>Resumo</title>
 <para
-> The <application
->Biblestudy HowTo</application
-> is a guide for studying the Bible. </para>
+> O <application
+>Estudo Bíblico HowTo</application
+> é um guia para estudo da Bíblia. </para>
 <para
->It is the hope of the &bibletime; team that this HowTo will provoke the readers to study the scriptures to see what they say. This particular study guide has been chosen as it takes care not to advocate any particular denominational doctrine. We expect you to read and study the scriptures to understand what they say. If you start with the attitude that you want to have the Lord sow his word in your heart He will not disappoint you.</para>
+>A esperança do time do &bibletime; é que esse HowTo incentive os leitores a estudar as escrituras e ver o que elas dizem. Esse guia de estudo particular foi escolhido porque não promove nenhuma doutrina denominacional em particular. Nós esperamos que você leia e estude as escrituras para entender o que elas dizem. Se você começar com a atitude de querer que o Senhor mostre sua Palavra em seu coração ele não desapontará você.</para>
 </abstract>
 
 <keywordset>
 <keyword
->Bíblias</keyword>
+>Bíblico</keyword>
 <keyword
->Study</keyword>
+>Estudo</keyword>
 <keyword
 >HowTo</keyword>
 </keywordset>

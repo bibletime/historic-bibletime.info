@@ -19,26 +19,24 @@
 ><title
 >Na mídia</title>
 <para
-> Em <A HREF="http://dot.kde.org/995302757"
-><b
->dot.kde.org</b
-></A
+> Em <ulink url="http://dot.kde.org/995302757"
+>dot.kde.org</ulink
 > Andreas Pour chega à seguinte conclusão em sua revisão: </para>
 
 <section>
 <para
 > <blockquote
 > <attribution
->Andreas Pour (&copy; 2001 Andreas "Dre" Pour. All rights reserved)</attribution
+>Andreas Pour (&copy; 2001 Andreas "Dre" Pour. Todos os Direitos Reservados)</attribution
 > <para
-> Bibletime is already a true godsend for religious KDE users. It is easily useable though it may take a bit of time to learn some quirks. I think the next release will make it even better, particularly by providing a GUI for the difficult Sword installation/configuration. Besides this, my personal wishlist item is to use KHTML for its advanced navigation features. </para
+> BibleTime já é um verdadeiro dom de Deus para usuários religiosos do KDE. É facilmente usável embora possa levar algum tempo até você aprender alguns detalhes. Acredito que a próxima versão será ainda melhor, particularmente provendo uma interface para a difícil configuração e instalação do Sword. Além disso, meu item na lista de desejos é usar KHTML pelas suas funções avançadas de navegação.  </para
 > </blockquote
 > </para>
 </section>
 
 <section>
 <para
-> A revista alemã &raquo;Pfarrer &amp; PC&laquo; revisou softwares da Bíblia para Linux que também cobriu o BibleTime dentre &raquo;Gnomesword&laquo; e &raquo;Volksbibel 2000&laquo;. Sua conclusão em alemão para o BibleTime: </para>
+> A revista alemã "Pfarrer &amp; PC" revisou softwares da Bíblia para Linux que também cobriu o BibleTime além do "Gnomesword" e "Volksbibel 2000". Sua conclusão em alemão para o BibleTime: </para>
 
 <para
 > <blockquote
@@ -50,7 +48,7 @@
 > </para>
 
 <para
-> The review is online at: <ulink url="http://www.pfarrer-pc.de/magazin/2-02/art02-02-bibli.php"
+> A análise está disponível online em: <ulink url="http://www.pfarrer-pc.de/magazin/2-02/art02-02-bibli.php"
 >www.pfarrer-pc.de</ulink
 > </para>
 </section>

@@ -432,20 +432,20 @@ table tr.question td {
 	width: 90%;
 	margin-bottom: 35px;
 	}
-#translation .language > div  { /* untranslated */
-	background-color: blue;
+#translation .language > div  { /* translated */
+	background-color: green;
 	height:15px;
 	margin: 0;
 	float:left;
 	}
-#translation .language > div+div { /* translated */
-	background-color: red;
+#translation .language > div+div { /* fuzzy */
+	background-color: blue;
 	height:15px;
 	margin:0;
 	float:left;
 	}
-#translation .language > div+div+div { /* fuzzy */
-	background-color: green;
+#translation .language > div+div+div { /* untranslated */
+	background-color: red;
 	height:15px;
 	margin:0;
 	float:left;

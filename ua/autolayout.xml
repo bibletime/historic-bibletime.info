@@ -1,9 +1,13 @@
 <?xml version="1.0"?>
 <!DOCTYPE autolayout PUBLIC "-//Norman Walsh//DTD Website Autolayout V2.4.1//EN" "http://docbook.sourceforge.net/release/website/2.4.1/schema/dtd/autolayout.dtd">
 <autolayout>
-<style title="Blue" src="blue.css" type="text/css"/><config param="text-prefix" value="txt_"/><copyright><year>1999</year><year>2000</year><year>2001</year><year>2002</year><year>2003</year><holder role="http://www.bibletime.info/">The BibleTime developers - www.bibletime.info</holder></copyright><notoc page="error404.xml" id="error404" filename="error404.html">
+<style title="Blue" src="blue.css" type="text/css"/><copyright><year>1999</year><year>2000</year><year>2001</year><year>2002</year><year>2003</year><holder role="http://www.bibletime.info/">The BibleTime developers - www.bibletime.info</holder></copyright><notoc page="error404.xml" id="error404" filename="error404.html">
 <title>Error</title>
 <summary>Error 404: File not found</summary>
+</notoc>
+<notoc page="translation.xml" id="translation" filename="translation.shtml">
+<title>Translation</title>
+<summary>Introduction</summary>
 </notoc>
 <toc page="index.xml" id="index" filename="no_index.html">
 <title>&#x429;&#x43E;&#x434;&#x43E; BibleTime</title>

@@ -16,16 +16,16 @@
 
 <section
 ><title
->Requirementos desde o BibleTime 1.3</title>
+>Telas do BibleTime 1.3</title>
 
 	<mediaobject
 > <caption
 > <formalpara
 ><title
->Improvements in 1.3</title
+>Melhorias na versão 1.3</title
 > <para
-> Here you can see some improvements of BibleTime 1.3. The tree on the left is now set up by module type and language. The greek text in the right display window is now displayed better because BibleTime supports now own font settings for each language. <ulink url="/images//screenshots/1-large.jpg"
->Large screenshot</ulink
+> Aqui você pode ver algumas das melhorias na versão BibleTime 1.3. A árvore à esquerda agora é dividida por tipo de módulo e idioma. O texto grego à direita agora é melhor exibido porque o BibleTime agora suporta escolha de fonte para cada idioma. <ulink url="/images//screenshots/1-large.jpg"
+>Ver Tela Ampliada</ulink
 > </para
 > </formalpara
 > </caption
@@ -33,7 +33,7 @@
 > <imagedata fileref="/images/screenshots/1.jpg" format="JPG"/> </imageobject
 > <textobject
 > <phrase
->Requirementos desde o BibleTime 1.3</phrase
+>Melhorias no BibleTime 1.3</phrase
 > </textobject
 > </mediaobject>
 
@@ -41,10 +41,10 @@
 > <caption
 > <formalpara
 ><title
->New search dialog</title
+>Novo diálogo de busca</title
 > <para
-> The search dialog of previous versions wasn't easy to use. This is the new search dialog together with the new module chooser window on the right. <ulink url="/images/screenshots/2-large.jpg"
->Large screenshot</ulink
+> O diálogo de busca de versões anteriores não era fácil de usar. Este é o novo diálogo de busca junto com o novo escolhedor de módulos à direita.  <ulink url="/images/screenshots/2-large.jpg"
+>Ver Tela Ampliada</ulink
 > </para
 > </formalpara
 > </caption
@@ -52,7 +52,7 @@
 > <imagedata fileref="/images/screenshots/2.jpg" format="JPG"/> </imageobject
 > <textobject
 > <phrase
->New search dialog</phrase
+>Novo diálogo de busca</phrase
 > </textobject
 > </mediaobject>
 

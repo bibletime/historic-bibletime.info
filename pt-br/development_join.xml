@@ -8,7 +8,7 @@
 <config param="rcsdate" value="$Date$"/>
 <head>
 <title
->Join us</title>
+>Junte-se a nós</title>
 <summary
 >BibleTime's development</summary>
 <keywords
@@ -23,7 +23,7 @@
 
 <section
 ><title
->Os passos básicos</title>
+>Os passos básicos..</title>
 <para
 > O seguinte é necessário para cada tipo de membro do time. Por favor siga-os! </para>
 <para
@@ -40,7 +40,7 @@
 
 <section
 ><title
->O próximo passo para os desenvolvedores de software</title>
+>O próximo passo para desenvolvedores de software...</title>
 <para
 > <orderedlist
 > <listitem
@@ -53,13 +53,13 @@
 
 <section
 ><title
->Os próximos passos para os autores de documentação</title>
+>Os próximos passos para autores de documentação...</title>
 <para
 > <orderedlist
 > <listitem
 > Leia a documentação existente em inglês. Está localizada no diretório docs/ do diretório cvs do BibleTime. </listitem
 > <listitem
-> A documentação é guardada em arquivos docbook nos subdiretórios unicode de cada parte (livro de mão, ComoFazer de Estudo da Bíblia, instalação, diálogo de ajuda). </listitem
+> A documentação é guardada em arquivos docbook nos subdiretórios unicode de cada parte (livro de mão, Estudo Bíblico HowTo, instalação, diálogo de ajuda). Por favor, não edite os arquivos HTML diretamente porque eles são gerados a partir dos documentos docbook. Os arquivos de tradução também são gerados a partir dos arquivos docbook. </listitem
 > </orderedlist
 > </para>
 </section>
@@ -67,11 +67,13 @@
 
 <section
 ><title
->O próximo passo para os tradutores</title>
+>O próximo passo para tradutores...</title>
 <para
 > <orderedlist
 > <listitem
-> Dê uma olhada nas páginas de internacionalização do projeto KDE. Eles estão localizados em: </listitem
+> Dê uma olhada nas páginas de internacionalização do projeto KDE. Eles estão localizados em: <ulink url="http://i18n.kde.org/"
+>i18n.kde.org</ulink
+> </listitem
 > <listitem
 > Instale o programa KBabel, se ainda não estiver instalado em seu sistema. Ele irá ajuda-lo muito no processo de tradução. </listitem
 > <listitem

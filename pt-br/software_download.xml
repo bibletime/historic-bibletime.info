@@ -19,14 +19,14 @@
 ><title
 >Como pegar o BibleTime</title>
 <para
-> Existem vários pacotes RPM disponíveis para BibleTime. Para ver se eles foram feitos para o seu sistema dê uma olhada no nome do arquivo do pacote. Eles contêm o nome abreviado e versão da distribuição Linux para o qual foram feitos. </para>
+> Existem vários pacotes RPM disponíveis para BibleTime. Para ver se eles foram feitos para o seu sistema dê uma olhada no nome do arquivo do pacote. Eles contêm o nome abreviado e versão da distribuição Linux para o qual foram feitos. Por exemplo, o pacote "bibletime-1.2.2-1suse8.1.i586.rpm" foi feito para sistemas SuSE 8.1 rodando em um i586 ou posterior. </para>
 
 <para
-> The "bibletime" package contains the software and documentation in English. Translation files for both are to be found in the "bibletime-i18n" package. </para>
+> O pacote "bibletime" contém o software e documentação em inglês. Os arquivos com traduções para ambos estão no pacote "bibletime-i18n". </para>
 
 <para
-> You can download BibleTime at <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954"
->our sourceforge project pages</ulink
+> Você pode fazer download do BibleTime na <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954"
+>nossa página no sorceforge</ulink
 >. </para>
 
 </section>
@@ -36,8 +36,8 @@
 ><title
 >Instalação</title>
 <para
-> Please read the <olink targetdocent="documentation_installation_bibletime"
->installation instructions</olink
+> Por favor, leia as <olink targetdocent="documentation_installation_bibletime"
+>instruções de instalação</olink
 >. </para>
 </section>
 

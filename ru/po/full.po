@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.0.1\n"
 
-#: index.docbook:4 index.docbook:15
+#: index.docbook:4 index.docbook:13
 #, no-c-format
 msgid "The BibleTime developers - www.bibletime.info"
 msgstr ""
@@ -20,123 +20,128 @@ msgstr ""
 msgid "Error"
 msgstr ""
 
-#: index.docbook:9 index.docbook:66 index.docbook:14
+#: index.docbook:9
+#, fuzzy, no-c-format
+msgid "Translation"
+msgstr "Установка"
+
+#: index.docbook:13 index.docbook:70 index.docbook:14 index.docbook:9
 #, fuzzy, no-c-format
 msgid "BibleTime"
 msgstr "О BibleTime"
 
-#: index.docbook:12 index.docbook:10
+#: index.docbook:16 index.docbook:10
 #, no-c-format
 msgid "Software"
 msgstr "Приложения"
 
-#: index.docbook:15 index.docbook:9
+#: index.docbook:19 index.docbook:9
 #, no-c-format
 msgid "About BibleTime"
 msgstr "О BibleTime"
 
-#: index.docbook:19 index.docbook:9
+#: index.docbook:23 index.docbook:9
 #, no-c-format
 msgid "Screenshots"
 msgstr "Скриншоты"
 
-#: index.docbook:23 index.docbook:9 index.docbook:14
+#: index.docbook:27 index.docbook:9 index.docbook:14
 #, no-c-format
 msgid "Gallery"
 msgstr "Галерея"
 
-#: index.docbook:27 index.docbook:10
+#: index.docbook:31 index.docbook:10
 #, no-c-format
 msgid "Download"
 msgstr "Загрузить ПО"
 
-#: index.docbook:31 index.docbook:10 index.docbook:15
+#: index.docbook:35 index.docbook:10 index.docbook:15
 #, no-c-format
 msgid "In the press"
 msgstr "Пресса о нас"
 
-#: index.docbook:35 index.docbook:10
+#: index.docbook:39 index.docbook:10
 #, no-c-format
 msgid "Contact"
 msgstr "Напиши нам"
 
-#: index.docbook:39 index.docbook:9 index.docbook:19
+#: index.docbook:43 index.docbook:9 index.docbook:19
 #, no-c-format
 msgid "Guestbook"
 msgstr "Гостевая книга"
 
-#: index.docbook:43 index.docbook:9
+#: index.docbook:47 index.docbook:9
 #, no-c-format
 msgid "Links"
 msgstr "Ссылки"
 
-#: index.docbook:47 index.docbook:9
+#: index.docbook:51 index.docbook:9
 #, no-c-format
 msgid "Link to us"
 msgstr "Ссылка к нам"
 
-#: index.docbook:51 index.docbook:9 index.docbook:14
+#: index.docbook:55 index.docbook:9 index.docbook:14
 #, no-c-format
 msgid "License"
 msgstr "Лицензия"
 
-#: index.docbook:56 index.docbook:9
+#: index.docbook:60 index.docbook:9
 #, no-c-format
 msgid "Documentation"
 msgstr "Документация"
 
-#: index.docbook:59 index.docbook:10
+#: index.docbook:63 index.docbook:10
 #, no-c-format
 msgid "Requirements"
 msgstr "Требования к системе"
 
-#: index.docbook:63 index.docbook:9 index.docbook:36
+#: index.docbook:67 index.docbook:9 index.docbook:36
 #, no-c-format
 msgid "Installation"
 msgstr "Установка"
 
-#: index.docbook:70 index.docbook:9
+#: index.docbook:74 index.docbook:9
 #, no-c-format
 msgid "Sword"
 msgstr ""
 
-#: index.docbook:74 index.docbook:84 index.docbook:90 index.docbook:9
+#: index.docbook:78 index.docbook:88 index.docbook:90 index.docbook:9
 #: index.docbook:10
 #, no-c-format
 msgid "Modules"
 msgstr "Модули"
 
-#: index.docbook:79 index.docbook:9
+#: index.docbook:83 index.docbook:9
 #, no-c-format
 msgid "<title>FAQ</title>"
 msgstr ""
 
-#: index.docbook:87 index.docbook:10
+#: index.docbook:91 index.docbook:10
 #, fuzzy, no-c-format
 msgid "Sword CD"
 msgstr "Sword на CD"
 
-#: index.docbook:92 index.docbook:10
+#: index.docbook:96 index.docbook:10
 #, no-c-format
 msgid "Development"
 msgstr "Разработка ПО"
 
-#: index.docbook:95 index.docbook:10
+#: index.docbook:99 index.docbook:10
 #, no-c-format
 msgid "Help us"
 msgstr "Если хочешь помочь"
 
-#: index.docbook:99 index.docbook:10
+#: index.docbook:103 index.docbook:10
 #, no-c-format
 msgid "Join us"
 msgstr ""
 
-#: index.docbook:103 index.docbook:10
+#: index.docbook:107 index.docbook:10
 #, fuzzy, no-c-format
 msgid "Mailinglists"
 msgstr "Рассылки"
 
-#: index.docbook:108 index.docbook:18
+#: index.docbook:112 index.docbook:18
 #, fuzzy, no-c-format
 msgid "Biblestudy HowTo"
 msgstr "Как изучать Библию"
@@ -2908,6 +2913,36 @@ msgstr ""
 #: index.docbook:33
 #, no-c-format
 msgid "The search dialog of previous versions wasn't easy to use. This is the new search dialog together with the new module chooser window on the right. <ulink url=\"/images/screenshots/2-large.jpg\">Large screenshot</ulink>"
+msgstr ""
+
+#: index.docbook:14
+#, no-c-format
+msgid "www.bibletime.info in your language"
+msgstr ""
+
+#: index.docbook:15
+#, no-c-format
+msgid "As you may have noticed BibleTime's webpage is available in different languages. We want to support users by offering them our webpages in their language. If you are interested to help us please read this page."
+msgstr ""
+
+#: index.docbook:19
+#, no-c-format
+msgid "Translation in a new language"
+msgstr ""
+
+#: index.docbook:20
+#, no-c-format
+msgid "If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime-website/en/pot/full.pot?rev=HEAD\">Webpage translation template</ulink>. We recommend to use the program <ulink url=\"http://i18n.kde.org/tools/kbabel/\">KBabel</ulink> to translate the file. If you're finished translating it, send it to <email>info@bibletime.info</email>."
+msgstr ""
+
+#: index.docbook:26
+#, no-c-format
+msgid "Existing translations"
+msgstr ""
+
+#: index.docbook:27
+#, no-c-format
+msgid "The following charts show the current translations and how much translations work they still need. If you speak one of those languages and want to update a translation just click on the download link and start working on the update. Don't hesitate to ask us <email>info@bibletime.info</email> if you have questions about the translation."
 msgstr ""
 
 #, fuzzy

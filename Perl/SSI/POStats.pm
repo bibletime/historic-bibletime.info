@@ -56,19 +56,19 @@ sub show_stats() {
 
 		my $untranslatedPerc = sprintf("%.1f", $untranslated / $total * 100);
 		my $untranslatedWidth = sprintf("%i", $untranslated / $total * 100);
-		if (!$untranslatedWidth) {
+		if ($untranslatedWidth > 0 && $untranslatedWidth < 1) {
 			$untranslatedWidth = 1;
 		}
 
 		my $fuzzyPerc = sprintf("%.1f", $fuzzy / $total * 100);
 		my $fuzzyWidth = sprintf("%i", $fuzzy / $total * 100);
-		if (!$fuzzyWidth) {
+		if ($fuzzyWidth > 0 && $fuzzyWidth < 1) {
 			$fuzzyWidth = 1;
 		}
 
 		my $translatedPerc = sprintf("%.1f", $translated / $total * 100);
 		my $translatedWidth = 100 - $fuzzyPerc - $untranslatedPerc;
-		if ($translatedWidth < 1) {
+		if ($translatedWidth > 0 && $translatedWidth < 1) {
 			$translatedWidth = 1;
 		}
 
@@ -77,8 +77,8 @@ sub show_stats() {
 		$ret .= $q->div({-class=>"language"},
 			$q->p("$lang [" . $q->a({-href=>"$url"}, "Download as PO file") . "]:", "$translatedPerc% translated, $untranslatedPerc% untranslated, $fuzzyPerc% need revision"),
 			$q->div({-style=>"width: $translatedWidth%;", -title=>"$translatedPerc% translated"}, ""),
-			$q->div({-style=>"width: $untranslatedWidth%;", -title=>"$untranslatedPerc% untranslated"}, ""),
 			$q->div({-style=>"width: $fuzzyWidth%;", -title => "$fuzzyPerc% fuzzy"}, ""),
+			$q->div({-style=>"width: $untranslatedWidth%;", -title=>"$untranslatedPerc% untranslated"}, ""),
 		);
 	};
 

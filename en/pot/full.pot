@@ -3711,8 +3711,40 @@ msgstr ""
 #: index.docbook:15
 #, no-c-format
 msgid ""
-"It's easy to have the BibleTime available webpage in your language. All you "
-"need is to translate a text file into your language and send the file to "
-"<email>info@bibletime.info</email>. The following charts show the current "
-"translations and how much translations work they still need:"
+"As you may have noticed BibleTime's webpage is available in different "
+"languages. We want to support users by offering them our webpages in their "
+"language. If you are interested to help us please read this page."
+msgstr ""
+
+#: index.docbook:19
+#, no-c-format
+msgid "Translation in a new language"
+msgstr ""
+
+#: index.docbook:20
+#, no-c-format
+msgid ""
+"If the translation in your language doesn't exist yet, it's easy to do a "
+"translation into your language. All you need is to download a text file and "
+"translate it. You can download the file here: <ulink url=\"http://cvs."
+"sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime-website/en/pot/"
+"full.pot?rev=HEAD\">Webpage translation template</ulink>. We recommend to "
+"use the program <ulink url=\"http://i18n.kde.org/tools/kbabel/\">KBabel</"
+"ulink> to translate the file. If you're finished translating it, send it to "
+"<email>info@bibletime.info</email>."
+msgstr ""
+
+#: index.docbook:26
+#, no-c-format
+msgid "Existing translations"
+msgstr ""
+
+#: index.docbook:27
+#, no-c-format
+msgid ""
+"The following charts show the current translations and how much translations "
+"work they still need. If you speak one of those languages and want to update "
+"a translation just click on the download link and start working on the "
+"update. Don't hesitate to ask us <email>info@bibletime.info</email> if you "
+"have questions about the translation."
 msgstr ""

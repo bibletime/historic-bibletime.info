@@ -17,14 +17,14 @@
 
 <section
 ><title
->How to contact us</title>
+>Como contactar-nos</title>
 	<formalpara
 ><title
 ><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=100954"
->Send a Bug report</ulink
+>Enviar uma comunicação de Bug</ulink
 ></title>
 	<para
-> If you find bugs in BibleTime use this link to report it so it can be fixed in later versions. </para>
+> Se você achar bugs no BibleTime use o link para comunicá-lo para que seja corrigido em versões posteriores. </para>
 	</formalpara>
 
 	<formalpara
@@ -33,25 +33,25 @@
 >Obtenha suporte</ulink
 ></title>
 	<para
-> If you have problems with BibleTime use this link to get support how to solve them. </para>
+> Se você tiver problemas com o BibleTime use esse link para obter suporte sobre como resolvê-lo. </para>
 	</formalpara>
 
 	<formalpara
 ><title
 ><ulink url="http://sourceforge.net/tracker/?atid=350954&amp;group_id=954&amp;func=browse"
->Post a feature request</ulink
+>Solicite uma nova função</ulink
 ></title>
 	<para
-> If you have an idea how to improve BibleTime please use this link to tell about it! </para>
+> Se você tem uma idéia de como melhorar o BibleTime, por favor use o link para nos dizê-la! </para>
 	</formalpara>
 
 	<formalpara
 ><title
 ><ulink url="http://sourceforge.net/tracker/?atid=511478&amp;group_id=954&amp;func=browse"
->Informe problemas no site</ulink
+>Informe problemas no website</ulink
 ></title>
 	<para
-> If you have problem with the webpages or if you have some ideas how to improve them please write it down using the link! </para>
+> Se você tiver problemas com a página web ou se você tiver idéis de como melhorá-la, por favor, escreva para nós usando o link! </para>
 	</formalpara>
 
 </section>

@@ -12,7 +12,7 @@
 <config param="rcsdate" value="$Date$"/>
 <head>
 <title
->Sobre o BibleTime</title>
+>BibleTime</title>
 <summary
 >Introduction to the BibleTime software</summary>
 <keywords
@@ -48,16 +48,16 @@
 > Nós tentamos fornecer pacotes para as distribuições Linux mais importantes. Isto inclui RedHat, Mandrake e SuSE. </para>
 
 	<para
-> First download the binary package for your Linux distribution. For example: You want to download BibleTime 1.2.2 for SuSE Linux 8.1. In this case you have to download the package "bibletime-1.2.2-1suse8.1.i586.rpm". Please don't forgot to download the package bibletime-i18n to get the documentation and the translations, which are available for BibleTime. </para>
+> Primeiro baixe o pacote binário para sua distribuição de linux. Por exemplo: Se você quer baixar o BibleTime 1.2.2 para SuSE Linux 8.1, nesse caso você precisará baixar o pacote "bibletime-1.2.2-1suse8.1.i586.rpm". Por favor, não esqueça de baixar também o pacote bibletime-i18n para obeter a documentação e as traduções que estão disponíveis para o BibleTime. </para>
 
 	<para
 > Como você pode ver cada nome de pacote contêm a distribuição Linux e versão para a qual foi construído. Por favor não tente instalar um pacote em outro sistema para o qual não foi construído. </para>
 
 	<para
-> You can download BibleTime here: <olink targetdocent="software_download"
+> Você pode baixar o BibleTime aqui: <olink targetdocent="software_download"
 >Download BibleTime</olink
->. Don't forget to install some text modules after you installed BibleTime: <olink targetdocent="documentation_installation_modules"
->How to install the text modules</olink
+>. Não esqueça de instalar algum módulo de texto depois de instalar o BibleTime: <olink targetdocent="documentation_installation_modules"
+>Como instalar módulos de texto</olink
 >. </para>
 </section>
 
@@ -66,33 +66,33 @@
 ><title
 >Compilação do código fonte</title>
 	<para
-> Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources: <orderedlist
+> A instação do Bibletime a partir do código fonte é mais difícil do que usando pacotes binários. Por favor, siga os passos abaixo se você decidir instalar BibleTime a partir do código fonte. <orderedlist
 > <listitem
-> Install the required software: <olink targetdocent="documentation_requirements"
->BibleTime's requirements</olink
+> Instalar Software requerido: <olink targetdocent="documentation_requirements"
+>Softwares requeridos pelo BibleTime</olink
 > </listitem
 > <listitem
-> Get the source code package of BibeTime: <olink targetdocent="software_download"
+> Obtenha o código fonte do BibleTime: <olink targetdocent="software_download"
 >Download</olink
 > </listitem
 > <listitem
-> Compile and install BibleTime: <programlisting>
+> Compile e instale o BibleTime: <programlisting>
 <![CDATA[
-	./configure --prefix=<your KDE directory>
+	./configure --prefix=<seu diretório do KDE>
 	make
  	make install
 ]]>
 			</programlisting
-> You can get your KDE directory by running the command <command
+> Você pode descobrir o seu diretório do KDE executando o comando: <command
 >kde-config --prefix</command
->. If you get problems please read the <olink targetdocent="documentation_faq"
->FAQ</olink
->. If there's no solution of your problem, please contact us at <email
+>. Se você tiver problemas, por favor, leia as <olink targetdocent="documentation_faq"
+>Perguntas Frequentes</olink
+>. Se você não encontrar a solução para o seu problema, por favor, entre em contato conosco em <email
 >info@bibletime.info</email
 > </listitem
 > </orderedlist
-> Don't forget to install some text modules after you installed BibleTime: <olink targetdocent="documentation_installation_modules"
->How to install the text modules</olink
+> Não esqueça de instalar algum módulo de texto depois de instalar o BibleTime: <olink targetdocent="documentation_installation_modules"
+>Como instalar módulos de texto</olink
 >. </para>
 </section>
 

@@ -3,6 +3,7 @@
 # translation of full.po to
 # translation of full.po to
 # translation of full.po to
+# translation of full.po to
 # Joachim Ansorg, 2003.
 # Joachim Ansorg, 2003.
 # Joachim Ansorg, 2003.
@@ -16,11 +17,16 @@
 # Joachim Ansorg, 2003.
 # Joachim Ansorg, 2003.
 # Joachim Ansorg, 2003.
+# Joachim Ansorg, 2004.
+# Joachim Ansorg, 2004.
+# Joachim Ansorg, 2004.
+# Joachim Ansorg, 2004.
+# Joachim Ansorg, 2004.
 msgid ""
 msgstr ""
 "Project-Id-Version: full\n"
 "POT-Creation-Date: 2001-02-09 01:25+0100\n"
-"PO-Revision-Date: 2003-12-29 17:50+0100\n"
+"PO-Revision-Date: 2004-01-01 23:51+0100\n"
 "Last-Translator: Joachim Ansorg\n"
 "Language-Team:  <de@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -39,9 +45,9 @@ msgid "Error"
 msgstr "Fehler"
 
 #: index.docbook:9
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Translation"
-msgstr "Installation"
+msgstr "Übersetzung"
 
 #: index.docbook:13 index.docbook:70 index.docbook:14 index.docbook:9
 #, no-c-format
@@ -615,7 +621,7 @@ msgid "Compilation from source code"
 msgstr "Übersetzung des Quellcodes"
 
 #: index.docbook:62
-#, fuzzy, no-c-format
+#, no-c-format
 msgid ""
 "Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources: <orderedlist> <listitem> Install the required software: <olink targetdocent=\"documentation_requirements\">BibleTime's requirements</olink> </listitem> <listitem> Get the source code package of BibeTime: <olink targetdocent=\"software_download\">Download</olink> </listitem> <listitem> Compile and install BibleTime: <programlisting>\n"
 "<![CDATA[\n"
@@ -766,7 +772,7 @@ msgstr "Dieses Dokument ist nicht verfügbar"
 #: index.docbook:15
 #, no-c-format
 msgid "The document you wanted to get is not available on <ulink url=\"http://www.bibletime.info/\">www.bibletime.info</ulink>. Please use the navigation tree on the left to see if the document was moved."
-msgstr ""
+msgstr "Die Seite, die sie abgerufen haben, ist auf <ulink url=\"http://www.bibletime.info/\">www.bibletime.info</ulink> nicht verfügbar.  Bitte benutzen Sie die Navigation auf der linken Seite, um herauszufinden, ob die Seite verschoben wurde."
 
 #: index.docbook:19
 #, no-c-format
@@ -2149,7 +2155,7 @@ msgstr "Peshitta - frühe syrische Übersetzung"
 #: index.docbook:43
 #, no-c-format
 msgid "The <emphasis>Peshitta</emphasis> contains an early Syrian text, running from right to left."
-msgstr ""
+msgstr "Die <emphasis>Peshitta</emphasis> entht einen frühen syrischen Text, von rechts nach links laufend."
 
 #: index.docbook:43
 #, no-c-format
@@ -3164,7 +3170,7 @@ msgid "Welcome to the BibleTime project."
 msgstr "Willkommen zum BibleTime Projekt!"
 
 #: index.docbook:16
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "BibleTime is a Bible study application for Linux. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/\">Crosswire Bible Society</ulink>."
 msgstr "BibleTime ist ein Bibelprogramm für Linux. Es basiert auf  <ulink url=\"http://www.kde.org/\">KDE</ulink> und benutzt die  <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> Entwicklungsbibliothek um mit den Bibeltexten, Kommentaren, Lexka und Bücher zu arbeiten, die auf den Seiten der <ulink url=\"http://www.crosswire.org/sword/\">Crosswire Bible Society</ulink> verfügbar sind."
 
@@ -3316,11 +3322,31 @@ msgstr "Der Suchdialog früherer Versionen war nicht einfach zu benutzen. Dies i
 #: index.docbook:14
 #, no-c-format
 msgid "www.bibletime.info in your language"
-msgstr ""
+msgstr "www.bibletime.info in ihrer Sprache"
 
 #: index.docbook:15
 #, no-c-format
-msgid "It's easy to have the BibleTime available webpage in your language. All you need is to translate a text file into your language and send the file to <email>info@bibletime.info</email>. The following charts show the current translations and how much translations work they still need:"
+msgid "As you may have noticed BibleTime's webpage is available in different languages. We want to support users by offering them our webpages in their language. If you are interested to help us please read this page."
+msgstr ""
+
+#: index.docbook:19
+#, no-c-format
+msgid "Translation in a new language"
+msgstr "Übersetzung in eine neue Sprache"
+
+#: index.docbook:20
+#, no-c-format
+msgid "If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime-website/en/pot/full.pot?rev=HEAD\">Webpage translation template</ulink>. We recommend to use the program <ulink url=\"http://i18n.kde.org/tools/kbabel/\">KBabel</ulink> to translate the file. If you're finished translating it, send it to <email>info@bibletime.info</email>."
+msgstr ""
+
+#: index.docbook:26
+#, no-c-format
+msgid "Existing translations"
+msgstr "Bestehende Übersetzungen"
+
+#: index.docbook:27
+#, no-c-format
+msgid "The following charts show the current translations and how much translations work they still need. If you speak one of those languages and want to update a translation just click on the download link and start working on the update. Don't hesitate to ask us <email>info@bibletime.info</email> if you have questions about the translation."
 msgstr ""
 
 #, fuzzy

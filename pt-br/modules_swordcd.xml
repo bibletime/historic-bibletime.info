@@ -8,7 +8,7 @@
 <config param="rcsdate" value="$Date$"/>
 <head>
 <title
->Comprar CD do Sword</title>
+>CD do Sword</title>
 <summary
 >Get the Sword CD</summary>
 <keywords
@@ -19,7 +19,7 @@
 ><title
 >O que é o CD Sword?</title>
 <para
-> The Sword project offers a CD which contains all the software for Windows, Linux and Mac OS X. The CD is freely available like all the other things the Crosswire Bible society is offering for you! See below how to download the CD. If you can't download the CD, for example because you don't have a fast connection, you can order the CD. If you're living in Europe the BibleTime developers send out the CDs to you. In this case please fill out the form below and send it away. </para>
+> O projeto Sword oferece um CD que contém todos os softwares para Windows, Linux e MacOS X. O CD é distribuído livremente como todas as outras coisas que a Sociedade Bíblica Crosswire oferece para você. Veja abaixo como fazer download do CD. Se você não puder baixar o CD, por exemplo porque você não tem uma conexão rápida, você pode comprar o CD. Se você vive na Europa os desenvolvedores do BibleTime enviarão o CD para você. Nesse caso, por favor, preencha o formulário abaixo e envie-o. </para>
 </section>
 
 
@@ -52,9 +52,9 @@
 ><title
 >Eu quero copiar o CD do Sword!</title>
 <para
-> Sem problemas! Por favor copie o arquivo da última data de <A HREF="ftp://ftp.crosswire.org/pub/sword/iso/"
->ftp.crosswire.org/pub/sword/iso/</A
->. </para>
+> Sem problemas! Por favor copie o arquivo com data mais recente de <ulink url="ftp://ftp.crosswire.org/pub/sword/iso/"
+>ftp.crosswire.org/pub/sword/iso/</ulink
+>. Não esqueça que esse arquivo tem mais de 600Mb, então você precisará de uma conexão rápida para baixá-lo. </para>
 </section>
 
 <section
@@ -66,7 +66,7 @@
 
 <section
 ><title
->Pegue o CD do Sword</title>
+>CD do Sword</title>
 <ssi mode="exec" cgi="/swordcd.pl"/>
 </section>
 
