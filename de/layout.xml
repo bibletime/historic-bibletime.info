@@ -27,12 +27,14 @@
 ></notoc>
   <notoc page="devotional.xml" filename="devotional.html"
 ></notoc>
+<!--
   <notoc page="software_swordcdcheck.xml" filename="software_swordcdcheck.phtml"
 ></notoc>
   <notoc page="software_swordcdsend.xml" filename="software_swordcdsend.phtml"
 ></notoc>
   <notoc page="software_swordcd.xml" filename="software_swordcd.shtml"
 ></notoc>
+-->
   
   <toc page="index.xml" filename="no_index.html">
 	<tocentry page="software.xml" filename="index.html">

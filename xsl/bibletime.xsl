@@ -165,7 +165,7 @@
 				<div id="flags">
 					<a title="en">
 						<xsl:attribute name="href">
-							<xsl:text>/en/</xsl:text>
+							<xsl:text>../en/</xsl:text>
 							<xsl:value-of select="$htmlfilename"/>
 						</xsl:attribute>
 
@@ -174,7 +174,7 @@
 
 					<a title="de">
 						<xsl:attribute name="href">
-							<xsl:text>/de/</xsl:text>
+							<xsl:text>../de/</xsl:text>
 							<xsl:value-of select="$htmlfilename"/>
 						</xsl:attribute>
 
@@ -183,7 +183,7 @@
 
 					<a title="pt-br">
 						<xsl:attribute name="href">
-							<xsl:text>/pt-br/</xsl:text>
+							<xsl:text>../pt-br/</xsl:text>
 							<xsl:value-of select="$htmlfilename"/>
 						</xsl:attribute>
 
@@ -192,7 +192,7 @@
 
 					<a title="ko">
 						<xsl:attribute name="href">
-							<xsl:text>/ko/</xsl:text>
+							<xsl:text>../ko/</xsl:text>
 							<xsl:value-of select="$htmlfilename"/>
 						</xsl:attribute>
 
@@ -201,7 +201,7 @@
 
 					<a title="nl">
 						<xsl:attribute name="href">
-							<xsl:text>/nl/</xsl:text>
+							<xsl:text>../nl/</xsl:text>
 							<xsl:value-of select="$htmlfilename"/>
 						</xsl:attribute>
 
@@ -211,7 +211,7 @@
 					<!--
 					<a title="ro">
 						<xsl:attribute name="href">
-							<xsl:text>/ro/</xsl:text>
+							<xsl:text>../ro/</xsl:text>
 							<xsl:value-of select="$htmlfilename"/>
 						</xsl:attribute>
 
@@ -221,7 +221,7 @@
 
 					<a title="ru">
 						<xsl:attribute name="href">
-							<xsl:text>/ru/</xsl:text>
+							<xsl:text>../ru/</xsl:text>
 							<xsl:value-of select="$htmlfilename"/>
 						</xsl:attribute>
 
@@ -231,11 +231,11 @@
 					<!--
 					 <a title="ua">
 						<xsl:attribute name="href">
-							<xsl:text>/ua/</xsl:text>
+							<xsl:text>../ua/</xsl:text>
 							<xsl:value-of select="$htmlfilename"/>
 						</xsl:attribute>
 
-						<img alt="ua" src="/images/flags/ua.png"/>
+						<img alt="ua" src="../images/flags/ua.png"/>
 					</a>
 					-->
 
