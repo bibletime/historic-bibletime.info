@@ -1,8 +1,0 @@
-<H3>i18n("Module addons for BibleTime")</H3>
-<P>
-i18n("A module is a text which can be read within the BibleTime application. There are different module types: Bibles, commentaries, lexicons, daily devotionals and books.")
-</P>
-<P>
-i18n("We try to offer a recommended list of modules which are in your language. Please click on the module types links to get the list of recommended modules. If there's not yet such a list for your language you'll get the recommended english modules.")
-i18n("By the way, the &raquo;Cult&laquo; section is not recommended! Please click on the link to it to get an explanation of it.")
-</P>
