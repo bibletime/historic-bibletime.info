@@ -619,3 +619,6 @@ msgstr "Texte für BibleTime"
 msgid "The BibleTime software"
 msgstr "Die BibleTime software"
 
+msgid "The book modules are available on the webpages of the Crosswire Bible Society!"
+msgstr "Die Buch-Module sind auf den Internetseiten der Crosswire Bibelgesellschaft verf&uuml;gbar!"
+

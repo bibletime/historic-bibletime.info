@@ -108,7 +108,11 @@ Sword installation/configuration. Besides this, my personal wishlist item is to 
 };
 
 sub software_screenshots() {
-	return "";
+	open(IN, "$root/data/screenshots.pl.txt") or return "Can't open gallery source code file. Please report this problem!";
+	undef $/;
+	$code = <IN>;
+
+	return eval($code); #executes the code loaded from the file, will only work for translated pages when all messages are translated
 };
 
 sub software_gallery() {

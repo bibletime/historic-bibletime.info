@@ -7,14 +7,17 @@ body {
 
 a:link {
  color:#786FB2;
+ text-decoration:none;
 }
 
 a:visited {
  color:#786FB2;
+ text-decoration:none;
 }
 
 a:hover {
- color:#786FB2;
+ color:#5A5486;
+ text-decoration:none;
 }
 
 div.header {
@@ -31,6 +34,7 @@ table.logo {
 
 table.navigation {
 	margin-bottom:5mm;
+	padding-right:10px;
 };
 
 table.main {
@@ -68,7 +72,7 @@ td.activenavbutton {
 }
 
 td.content {
-	padding-left:3mm;
+	padding-left:2mm;
 }
 
 td.sidenav {
@@ -76,6 +80,7 @@ td.sidenav {
 	padding-left:0px;
 	border:0px solid #f5f5f5;
 }
+
 div.sidebarheading {
  	font-weight:bold;
 	background-color:#786FB2;

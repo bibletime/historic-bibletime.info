@@ -1,11 +1,11 @@
 <!DOCTYPE webproject>
 <webproject>
- <project usePreviewPrefix="0" previewPrefix="" type="Local" name="BibleTime" >
+ <project usePreviewPrefix="0" previewPrefix="file://" type="Local" name="BibleTime" >
   <upload remote_host="ftp.ansorgs.de" remote_port="" remote_path="/bibletime" remote_protocol="ftp" user="p34040278" />
   <author>Joachim Ansorg</author>
   <email>jansorg@gmx.de</email>
-  <templates>/home/joachim/BibleTime/Homepage.new/templates</templates>
-  <toolbars>/home/joachim/BibleTime/Homepage.new/toolbars</toolbars>
+  <templates>templates/</templates>
+  <toolbars>toolbars/</toolbars>
   <item upload_time="1033254345" url="bibletime.webprj" />
   <item url="dynamic-templates/" />
   <item upload_time="1033244487" url="dynamic-templates/basic_page.tmpl" />
@@ -64,5 +64,8 @@
   <item upload_time="1033254343" url="translate_string.pl" />
   <item upload_time="1033244458" url="Locale/PO.pm" />
   <item upload_time="1033254318" url="dynamic-templates/translate_page.tmpl" />
+  <defaultDTD>-//w3c//dtd html 4.01 transitional//en</defaultDTD>
+  <autoload projectview="" />
+  <item url="data/screenshots.pl.txt" />
  </project>
 </webproject>
