@@ -23,12 +23,9 @@
 > Een module is een tekst die binnen het BibleTime-programma gelezen kan worden. Er zijn verschillende moduletypes: bijbels, commentaren, lexicons, dagelijkse overdenkingen en boeken. </para>
 
 <para
-> Lees de volgende pagina om te zien hoe de gedownloade modules te installeren: </para>
-
-<para
-> <ulink url="/documentation/installation/modules"
->Installatie van tekstmodules</ulink
-> </para>
+> Please read the following page to see how to install the downloaded modules: <ulink url="/documentation/installation/modules"
+>Installation of text modules</ulink
+>. </para>
 
 
 <orderedlist

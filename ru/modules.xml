@@ -23,12 +23,9 @@
 > Модуль - это текст, который можно читать с помощью программы BibleTime. Существуют следующие виды модулей: Библии, комментарии, словари, сборники размышлений к молитве и просто книги.  К сожалению, на данный момент существует только два модуля с переводами Библии и Пятикнижия на русский язык и никаких других. </para>
 
 <para
-> Чтобы узнать как установить текстовый модуль прочитайте страницу  </para>
-
-<para
-> <ulink url="/documentation/installation/modules"
->Установка текстовых модулей</ulink
-> </para>
+> Please read the following page to see how to install the downloaded modules: <ulink url="/documentation/installation/modules"
+>Installation of text modules</ulink
+>. </para>
 
 
 <orderedlist

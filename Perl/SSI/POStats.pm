@@ -7,8 +7,6 @@ use strict;
 use SSI::Config;
 use CGI;
 
-%SSI::SwordCD::country_map = ();
-
 # Constructor
 sub new {
 	my $class = shift;
@@ -44,6 +42,8 @@ sub show_stats() {
 	my $ret = "";
 
 	my $file = shift || die "No filename given";
+	my $link_template = shift || die "No URL template given";
+
 	open(IN, "< $file");
 
 	while (<IN>) {
@@ -56,29 +56,47 @@ sub show_stats() {
 
 		my $untranslatedPerc = sprintf("%.1f", $untranslated / $total * 100);
 		my $untranslatedWidth = sprintf("%i", $untranslated / $total * 100);
-		if ($untranslatedWidth > 0 && $untranslatedWidth < 1) {
+		if ($untranslatedPerc > 0 && $untranslatedPerc < 1) {
 			$untranslatedWidth = 1;
 		}
 
 		my $fuzzyPerc = sprintf("%.1f", $fuzzy / $total * 100);
 		my $fuzzyWidth = sprintf("%i", $fuzzy / $total * 100);
-		if ($fuzzyWidth > 0 && $fuzzyWidth < 1) {
+		if ($fuzzyPerc > 0 && $fuzzyPerc < 1) {
 			$fuzzyWidth = 1;
 		}
 
 		my $translatedPerc = sprintf("%.1f", $translated / $total * 100);
-		my $translatedWidth = 100 - $fuzzyPerc - $untranslatedPerc;
-		if ($translatedWidth > 0 && $translatedWidth < 1) {
+		my $translatedWidth = 100 - $fuzzyWidth - $untranslatedWidth;
+		if ($translatedPerc > 0 && $translatedPerc < 1) {
 			$translatedWidth = 1;
 		}
 
-		#my $url = "http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime-website/$lang/po/full.po?rev=HEAD";
-		my $url = "/$lang/po/full.po";
-		$ret .= $q->div({-class=>"language"},
-			$q->p("$lang [" . $q->a({-href=>"$url"}, "Download as PO file") . "]:", "$translatedPerc% translated, $fuzzyPerc% need revision, $untranslatedPerc% untranslated"),
-			$q->div({-style=>"width: $translatedWidth%;", -title=>"$translatedPerc% translated"}, ""),
-			$q->div({-style=>"width: $fuzzyWidth%;", -title => "$fuzzyPerc% fuzzy"}, ""),
-			$q->div({-style=>"width: $untranslatedWidth%;", -title=>"$untranslatedPerc% untranslated"}, ""),
+		my $url = $link_template;
+		$url =~ s/\$lang/$lang/g;
+
+		my $colspan = 3;
+		--$colspan if ($translatedWidth == 0);
+		--$colspan if ($fuzzyWidth == 0);
+		--$colspan if ($untranslatedWidth == 0);
+
+		$ret .= $q->table({-class=>"language", -cellspacing=>"0", -cellpadding=>'0'},
+			$q->Tr(
+				$q->td({-colspan=>"$colspan"},
+					"$lang [" . $q->a({-href=>"$url"}, "Download as PO file") . "]:", "$translatedPerc% translated, $fuzzyPerc% need revision, $untranslatedPerc% untranslated"
+				)
+			),
+			$q->Tr(
+				($translatedWidth > 0)
+					? $q->td({-class=>'translated', -width=>"$translatedWidth%", -title=>"$translatedPerc% translated"}, "")
+					: "",
+				($fuzzyWidth > 0)
+					? $q->td({-class=>'fuzzy', -width=>"$fuzzyWidth%", -title => "$fuzzyPerc% fuzzy"}, "")
+					: "",
+				($untranslatedWidth > 0)
+				? $q->td({-class=>'untranslated', -width=>"$untranslatedWidth%", -title=>"$untranslatedPerc% untranslated"}, "")
+				: ""
+			)
 		);
 	};
 

@@ -586,8 +586,8 @@ msgid "We try to provide packages for the most important Linux distributions. Th
 msgstr "Nós tentamos fornecer pacotes para as distribuições Linux mais importantes. Isto inclui RedHat, Mandrake e SuSE."
 
 #: index.docbook:43
-#, no-c-format
-msgid "First download the binary package for your Linux distribution. For example: You want to download BibleTime 1.2.2 for SuSE Linux 8.1. In this case you have to download the package \"bibletime-1.2.2-1suse8.1.i586.rpm\". Please don't forgot to download the package bibletime-i18n to get the documentation and the translations, which are available for BibleTime."
+#, fuzzy, no-c-format
+msgid "First download the binary package for your Linux distribution. For example: You want to download BibleTime 1.2.2 for SuSE Linux 8.1. In this case you have to download the package &quot;bibletime-1.2.2-1suse8.1.i586.rpm&quot;. Please don't forgot to download the package bibletime-i18n to get the documentation and the translations, which are available for BibleTime."
 msgstr "Primeiro baixe o pacote binário para sua distribuição de linux. Por exemplo: Se você quer baixar o BibleTime 1.2.2 para SuSE Linux 8.1, nesse caso você precisará baixar o pacote \"bibletime-1.2.2-1suse8.1.i586.rpm\". Por favor, não esqueça de baixar também o pacote bibletime-i18n para obeter a documentação e as traduções que estão disponíveis para o BibleTime."
 
 #: index.docbook:50
@@ -1888,36 +1888,31 @@ msgid "A module is a text which can be read within the BibleTime application. Th
 msgstr "Um módulo é um texto ue pode ser lido dentro do BibleTime. Existem diferentes tipos de módulos: Bíblias, comentários, léxicons, devocionais diárias e livros."
 
 #: index.docbook:21
-#, no-c-format
-msgid "Please read the following page to see how to install the downloaded modules:"
+#, fuzzy, no-c-format
+msgid "Please read the following page to see how to install the downloaded modules: <ulink url=\"/documentation/installation/modules\">Installation of text modules</ulink>."
 msgstr "Por favor leia as seguintes páginas para ver como instalar os módulos copiados:"
 
-#: index.docbook:25
-#, no-c-format
-msgid "Installation of text modules"
-msgstr "Instalação dos módulos de texto"
-
-#: index.docbook:30
+#: index.docbook:26
 #, no-c-format
 msgid "Available types of modules"
 msgstr "Tipos de módulos disponíveis"
 
-#: index.docbook:30
+#: index.docbook:26
 #, no-c-format
 msgid "Bibles"
 msgstr "Bíblias"
 
-#: index.docbook:30
+#: index.docbook:26
 #, no-c-format
 msgid "Commentaries"
 msgstr "Comentários"
 
-#: index.docbook:30
+#: index.docbook:26
 #, no-c-format
 msgid "Lexicons / Dictionaries"
 msgstr "Léxico / Dicionários"
 
-#: index.docbook:30
+#: index.docbook:26
 #, no-c-format
 msgid "Books"
 msgstr "Livros"
@@ -3166,75 +3161,90 @@ msgstr "Notícias sobre o BibleTime"
 
 #: index.docbook:26
 #, no-c-format
+msgid "2004-01-11: New translation effort"
+msgstr ""
+
+#: index.docbook:27
+#, no-c-format
+msgid "First of all we want to wish all of you a truly happy and blessed new year."
+msgstr ""
+
+#: index.docbook:30
+#, no-c-format
+msgid "As you probably already noticed, there is a new page online called <ulink url=\"translation.shtml\">&quot;Translation&quot;</ulink>. This page gives an introduction into how you can help with the translation of the different areas of the BibleTime project, and offers detailed statistics on the completeness of the existing languages. Be sure to check it out."
+msgstr ""
+
+#: index.docbook:37
+#, no-c-format
 msgid "2003-12-29: BibleTime 1.4"
 msgstr "29/12/2003: BibleTime 1.4"
 
-#: index.docbook:27
+#: index.docbook:38
 #, no-c-format
 msgid "The new version 1.4 of BibleTime is now available for download. 1.4 in comparision with version 1.3 contains a new SwordSetup dialog to setup Sword and to install modules from local sources or from the internet. With the SwordSetup part it's also possible to remove modules from disk. 1.4 also contains many new bugfixes. BibleTime 1.4 is available on our download page."
 msgstr "A nova versão 1.4 do BibleTime agora está disponível para download. Em comparação com a versão 1.3, essa nova versão contem um novo diálogo para configuração do Sword e instalação de módulos de fontes locais ou diretamente da internet. Com o SwordSetup também é possível remover módulos instalados. A versão 1.4 contém também várias correções de bugs e está disponível em nossa página de Downloads."
 
-#: index.docbook:30
+#: index.docbook:41
 #, no-c-format
 msgid "You need Sword 1.5.7 with enabled curl support to make use of the remote installation features. The binary packages we provide for some of the major linux distributions should work out of the box."
 msgstr "Você precisa do Sword 1.5.7 com suporte a curl habilitado para usar as funções de instalação remota. Os pacotes binários que fornecemos para algumas das maiores distribuições linux devem funcionar sem problemas."
 
-#: index.docbook:33
+#: index.docbook:44
 #, no-c-format
 msgid "If you run into troubles installing BibleTime or you have problems using it please submit a bugreport. We need your support to improve BibleTime."
 msgstr "Se você tiver problemas instalando BibleTime ou tiver problemas usando-o, por favor, envie uma comunicação de bug. Nós precisamos de sua ajuda para melhorar o BibleTime."
 
-#: index.docbook:38
+#: index.docbook:49
 #, no-c-format
 msgid "2003-12-03: BibleTime 1.4beta1"
 msgstr "03/12/2003: BibleTime 1.4beta1."
 
-#: index.docbook:39
+#: index.docbook:50
 #, no-c-format
 msgid "The first testing version of the upcoming BibleTime 1.4 was released today. The new feature in comparision with 1.3 is the new SwordSetup dialog which makes the Sword and module configuration more userfriendly. Using the dialog you can now setup Sword's configuration files, install modules from the internet or from local sources (e.g. a CD) and also uninstall modules from your system. This beta release also contains some important bugfixes."
 msgstr "A primeira versão de testes do próximo BibleTime 1.4 foi lançada hoje. As novas funções em comparação com a versão 1.3 são o novo diálogo SwordSetup que torna a configuração do Sword e dos módulos mais amigável. Usando esse diálogo agora você pode configurar o Sword, instalar módulos da internet ou de fontes locais (como um CD, por exemplo) e também desinstalar módulos do seu sistema. Essa versão beta também contém algumas correções importantes."
 
-#: index.docbook:47
+#: index.docbook:58
 #, no-c-format
 msgid "This 1.4beta1 release is only meant for testing, so we do not provide binary packages. If you know how to compile programs from source code we encourage you to try this beta1 release. You need Sword 1.5.6 with enabled curl support to make use of the remote installation features."
 msgstr "O propósito dessa versão 1.4beta1 é apenas de teste, então nós não estamos fornecendo pacotes binários. Se você sabe como compilar programas apartir do código fonte nós o encorajamos a testar essa versão beta1. Você precisará do Sword 1.5.6 com suporte a curl para poder usar as funções de instalação remota."
 
-#: index.docbook:54
+#: index.docbook:65
 #, no-c-format
 msgid "2003-10-19: SuSE 9.0 packages"
 msgstr "19/10/2003: Pacotes para o SuSE 9.0"
 
-#: index.docbook:55
+#: index.docbook:66
 #, no-c-format
 msgid "RPM packages are now available for SuSE 9.0. Report any problems to info@bibletime.info. Thank you!"
 msgstr "Já estão disponíveis pacotes RPM para o SuSE 9.0. Por favor, reporte quaisquer problema para info@bibletime.info. Muito Obrigado!"
 
-#: index.docbook:60
+#: index.docbook:71
 #, no-c-format
 msgid "2003-10-16: New webpages"
 msgstr "16/10/2003: Nova Página Web"
 
-#: index.docbook:61
+#: index.docbook:72
 #, no-c-format
 msgid "BibleTime has now new webpages which offer better navigation, better design and faster page download time."
 msgstr "Agora BibleTime tem uma nova página web, que oferece melhor navegação, visual melhorado e mais velocidade de navegação."
 
-#: index.docbook:65
+#: index.docbook:76
 #, no-c-format
 msgid "If you experience any problems with the new pages please let us know!"
 msgstr "Se você tiver qualquer problema com a nova página, por favor, avise-nos!"
 
-#: index.docbook:70
+#: index.docbook:81
 #, no-c-format
 msgid "2003-08-23: BibleTime 1.3"
 msgstr "23/08/2003: BibleTime 1.3."
 
-#: index.docbook:71
+#: index.docbook:82
 #, no-c-format
 msgid "Version 1.3 of BibleTime is finally available. BibleTime 1.3 contains a lot of new features, usability improvements and bug fixes. Upgrading to version 1.3 is strongly recommended for all our users. You can get the Software here: <ulink url=\"http://www.bibletime.info/software/download/\">Download</ulink>. Binary packages will be released in the next few days."
 msgstr "A versão 1.3 do BibleTime está finalmente disponível. BibleTime 1.3 contém várias funções novas, melhorias de usabilidade e correções de bugs. A atualização para a versão 1.3 é altamente recomendada para todos os usuários. Você pode obter o software aqui: Download. Pacotes binários serão lançados nos próximos dias."
 
-#: index.docbook:76
+#: index.docbook:87
 #, no-c-format
 msgid "Get the bibletime and the bibletime-i18n packages for full functionality. We're very sorry for the long release time, we hope to shorten it with the next releases."
 msgstr "Baixe os pacotes bibletime e bibletime-i18n para obter todas as funcionalidades. Pedimos desculpa pela demora para o lançamento desta versão e esperamos conseguir lançar as próximas versões em menos tempo."
@@ -3306,30 +3316,53 @@ msgstr "O diálogo de busca de versões anteriores não era fácil de usar. Este
 
 #: index.docbook:14
 #, no-c-format
-msgid "www.bibletime.info in your language"
+msgid "Help translate BibleTime into your language"
 msgstr ""
 
 #: index.docbook:15
 #, no-c-format
-msgid "As you may have noticed BibleTime's webpage is available in different languages. We want to support users by offering them our webpages in their language. If you are interested to help us please read this page."
+msgid "This is a part of software development where the help of many individals is needed. It is our desire to offer BibleTime to users in as many languages as possible. The following areas are open for your contributions:"
 msgstr ""
 
-#: index.docbook:19
+#: index.docbook:15 index.docbook:42
 #, no-c-format
-msgid "Translation in a new language"
+msgid "Translate the www.bibletime.info website."
 msgstr ""
 
-#: index.docbook:20
+#: index.docbook:15 index.docbook:52
 #, no-c-format
-msgid "If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <ulink url=\"/en/pot/full.pot\">Webpage translation template</ulink>. We recommend to use the program <ulink url=\"http://i18n.kde.org/tools/kbabel/\">KBabel</ulink> to translate the file. If you've finished translating it, please send it to <email>info@bibletime.info</email>."
+msgid "Translate the program's User Interface."
 msgstr ""
 
-#: index.docbook:26
+#: index.docbook:15 index.docbook:63
 #, no-c-format
-msgid "Existing translations"
+msgid "Translate the program's handbook."
 msgstr ""
 
 #: index.docbook:27
 #, no-c-format
-msgid "The following charts show the current translations and how much translations work they still need. If you speak one of those languages and want to update a translation just click on the download link and start working on the update. Don't hesitate to ask us <email>info@bibletime.info</email> if you have questions about the translation."
+msgid "On this page you can find statistics about the completeness of existing translations for each of these areas, as well as links to translation templates that you can use to submit new translations which do not yet exist. If a translation into your language does not yet exist, just download the templates, translate them and send them to <email>info@bibletime.info</email>. If you are not satisfied with the status of your language's translation, you can directly download the corresponding file, update the translation and send it in. In both cases we'll be sure to integrate your work as soon as possible."
 msgstr ""
+
+#: index.docbook:35
+#, no-c-format
+msgid "For the translation process we recommend that you use the excellent and mature program <ulink url=\"http://i18n.kde.org/tools/kbabel/\">KBabel</ulink>. It has many advanced features and is a great aid."
+msgstr ""
+
+#: index.docbook:43
+#, no-c-format
+msgid "If a translation of the website to your language does not yet exist, you can download and translate the <ulink url=\"/en/pot/full.pot\">Webpage translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
+msgstr ""
+
+#: index.docbook:53
+#, no-c-format
+msgid "If a translation of the User Interface to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD\"> User Interface translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
+msgstr ""
+
+#: index.docbook:64
+#, no-c-format
+msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
+msgstr ""
+
+#~ msgid "Installation of text modules"
+#~ msgstr "Instalação dos módulos de texto"

@@ -221,6 +221,7 @@ textarea:focus {
 #content {
 	margin:0px 10px 0px 180px;
 	padding-top:10px;
+	padding-bottom:15px;
 	background-color:transparent;
 }
 
@@ -242,7 +243,7 @@ textarea:focus {
 	margin:0px;
 }
 
-.section p, pre {
+.section p {
 	margin:3px 0px;
 	padding-left:10px;
 	font-size:0.95em;
@@ -337,9 +338,10 @@ textarea:focus {
 	margin:0;
 }
 
-ol {
+ol, ul {
 	margin-top:0px;
 	margin-bottom:0px;
+	font-size:0.95em;
 }
 
 p.title {
@@ -347,8 +349,14 @@ p.title {
 }
 
 pre {
-	white-space:normal;
+	white-space: normal;
+	margin:10px;
+	font-size:0.95em;
+	line-height: 0.9em;
+	border-left:8px solid #ADADAD;
+	padding:0 5px;
 }
+
 
 /* --------------------- Right panel stuff ------------------------ */
 #rightpanel {
@@ -501,23 +509,24 @@ table tr.question td {
 #translation .language {
 	font-size: 0.8em;
 	width: 90%;
-	margin-bottom: 35px;
+	margin: 5px 0 25px 0;
+	padding:0;
 	}
-#translation .language > div  { /* translated */
+#translation .language td.translated { /* translated */
 	background-color: green;
 	height:15px;
-	margin: 0;
-	float:left;
-	}
-#translation .language > div + div { /* fuzzy */
-	background-color: blue;
-	height:15px;
+	padding:0;
 	margin:0;
-	float:left;
 	}
-#translation .language > div + div + div { /* untranslated */
+#translation .language td.fuzzy { /* fuzzy */
+	background-color: blue;
+ 	height: 15px;
+	padding:0;
+	margin:0;
+	}
+#translation .language td.untranslated { /* untranslated */
 	background-color: red;
 	height:15px;
 	margin:0;
-	float:left;
+	padding:0;
 	}

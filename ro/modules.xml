@@ -23,12 +23,9 @@
 > Un modul este un text care poate fi citit in aplicatia BibleTime. Sunt mai multe tipuri de module: Biblii, comentarii, lexicoane, devotionale zilnice si carti. </para>
 
 <para
-> Te rog citeste urmatoarea pagina pentru a vedea cum sa instalezi modulele descarcate: </para>
-
-<para
-> <ulink url="/documentation/installation/modules"
->Instalare module</ulink
-> </para>
+> Please read the following page to see how to install the downloaded modules: <ulink url="/documentation/installation/modules"
+>Installation of text modules</ulink
+>. </para>
 
 
 <orderedlist

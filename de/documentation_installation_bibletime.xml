@@ -48,7 +48,7 @@
 > Wie versuchen Pakete für die wichtigsten Linux Distributionen zur Verfügung zu stellen. Diese enthalten RedHat, Mandrake und SuSE. </para>
 
 	<para
-> Laden Sie zuerst das Binärpaket für ihre Linux-Version herunter. Zum Beispiel: Sie möchten BibleTime 1.2.2. für SuSE 8.1. In diesem Falle müssen Sie das Paket "bibletime-1.2.2-1suse8.1.i586.rpm" herunterladen. Vergessen Sie auch nicht, das Paket bibletime-i18n zu installieren, da dieses die Übersetzungen des Programms und der Dokumentation enthält. </para>
+> Laden Sie zuerst das Binärpaket für ihre Linux-Version herunter. Zum Beispiel: Sie möchten BibleTime 1.2.2. für SuSE 8.1 herunterladen. In diesem Falle müssen Sie das Paket "bibletime-1.2.2-1suse8.1.i586.rpm" herunterladen. Vergessen Sie bitte nicht das Paket bibletime-i18n zu installieren, da dieses die Übersetzungen des Programms und der Dokumentation enthält. </para>
 
 	<para
 > Wie Sie sehen, enthält jeder Paketname die Linuxdistribution und deren Version, für das es erstellt wurde. Versuchen Sie bitte nicht, ein Paket auf einem anderem System zu installieren, als für das es erstellt wurde. </para>

@@ -143,7 +143,6 @@ if (!@langs) {
 }
 
 #required for all languages
-`perl make_translation_stats.pl > /dev/null`;
 &update_pot_files($ENV{"PWD"} . "/en",  $ENV{"PWD"} . "/en/pot/");
 
 while (my $lang = shift(@langs)) {
@@ -157,3 +156,6 @@ while (my $lang = shift(@langs)) {
 	&make_makefile("$lang");
 	&run_make("$lang");
 }
+
+#Now update the statistics. At the end so we get all changed to the PO files.
+`cd postats && perl make_postats.pl > /dev/null 2>&1; cd ..`;

@@ -23,12 +23,9 @@
 > Um módulo é um texto ue pode ser lido dentro do BibleTime. Existem diferentes tipos de módulos: Bíblias, comentários, léxicons, devocionais diárias e livros. </para>
 
 <para
-> Por favor leia as seguintes páginas para ver como instalar os módulos copiados: </para>
-
-<para
-> <ulink url="/documentation/installation/modules"
->Instalação dos módulos de texto</ulink
-> </para>
+> Please read the following page to see how to install the downloaded modules: <ulink url="/documentation/installation/modules"
+>Installation of text modules</ulink
+>. </para>
 
 
 <orderedlist

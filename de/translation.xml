@@ -16,34 +16,65 @@
 
 <section
 ><title
->www.bibletime.info in ihrer Sprache</title>
+>Helfen Sie BibleTime in ihre Sprache zu übersetzen</title>
 <para
-> As you may have noticed BibleTime's webpage is available in different languages. We want to support users by offering them our webpages in their language. If you are interested to help us please read this page. </para>
+> Dies ist ein Teil der Softwareentwicklung in dem die Hilfe vieler benötigt wird. Wir möchten den Benutzern BibleTIme in möglichst vielen Sprachen zur Verfügung stellen.In den folgenden Bereichen besteht Möglichkeit zur Mithilfe: <orderedlist numeration="arabic"
+> <listitem
+><para
+>Übersetzung der www.bibletime.info Seiten</para
+></listitem
+> <listitem
+><para
+>Übersetzung der Programmoberfläche</para
+></listitem
+> <listitem
+><para
+>Übersetzung des Programm-Handbuchs</para
+></listitem
+> </orderedlist
+> </para>
 
-<section
-><title
->Übersetzung in eine neue Sprache</title>
 <para
-> If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <ulink url="/en/pot/full.pot"
->Webpage translation template</ulink
->. We recommend to use the program <ulink url="http://i18n.kde.org/tools/kbabel/"
+> On this page you can find statistics about the completeness of existing translations for each of these areas, as well as links to translation templates that you can use to submit new translations which do not yet exist. If a translation into your language does not yet exist, just download the templates, translate them and send them to <email
+>info@bibletime.info</email
+>. If you are not satisfied with the status of your language's translation, you can directly download the corresponding file, update the translation and send it in. In both cases we'll be sure to integrate your work as soon as possible. </para>
+
+<para
+> Für die Übersetzungsarbeit empfehlen wir ihnen das wirklich gute Programm <ulink url="http://i18n.kde.org/tools/kbabel/"
 >KBabel</ulink
-> to translate the file. If you've finished translating it, please send it to <email
->info@bibletime.info</email
->. </para>
+>. Es verfügt über viele erweiterte Funktionen und ist eine große Hilfe. </para>
 </section>
 
 
 <section
 ><title
->Bestehende Übersetzungen</title>
+>Übersetzung der www.bibletime.info Seiten</title>
 <para
-> The following charts show the current translations and how much translations work they still need. If you speak one of those languages and want to update a translation just click on the download link and start working on the update. Don't hesitate to ask us <email
->info@bibletime.info</email
-> if you have questions about the translation. </para>
-	<ssi mode="exec" cgi="/postats.pl"/>
+> If a translation of the website to your language does not yet exist, you can download and translate the <ulink url="/en/pot/full.pot"
+>Webpage translation template</ulink
+>. If you want to update an existing translation, use the links in the table below to download the corresponding file. </para>
+	<ssi mode="exec" cgi="/postats/website_stats.pl"/>
 </section>
 
+<section
+><title
+>Übersetzung der Programmoberfläche</title>
+<para
+> If a translation of the User Interface to your language does not yet exist, you can download and translate the <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD"
+> User Interface translation template</ulink
+>. If you want to update an existing translation, use the links in the table below to download the corresponding file. </para>
+	<ssi mode="exec" cgi="/postats/messages_stats.pl"/>
 </section>
+
+<section
+><title
+>Übersetzung des Programm-Handbuchs</title>
+<para
+> Wenn eine Übersetzung des Handbuches in ihrer Sprache noch nicht existiert, können Sie <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD"
+>Handbuch Übersetzungsvorlage</ulink
+> herunterladen und übersetzen. Wenn Sie eine bestehende Übersetzung weiterübersetzen möchten, benutzen Sie die Verweise in der unten stehenden Tabelle um die entsprechende Datei zum Übersetzen herunterzuladen. </para>
+	<ssi mode="exec" cgi="/postats/handbook_stats.pl"/>
+</section>
+
 </webpage>
 

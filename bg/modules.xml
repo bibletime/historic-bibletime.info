@@ -23,12 +23,9 @@
 > A module is a text which can be read within the BibleTime application. There are different module types: Bibles, commentaries, lexicons, daily devotionals and books. </para>
 
 <para
-> Please read the following page to see how to install the downloaded modules: </para>
-
-<para
-> <ulink url="/documentation/installation/modules"
+> Please read the following page to see how to install the downloaded modules: <ulink url="/documentation/installation/modules"
 >Installation of text modules</ulink
-> </para>
+>. </para>
 
 
 <orderedlist

@@ -23,12 +23,9 @@
 > Ein Modul ist ein Text, der mit Hilfe von BibleTime gelesen werden kann. Es gibt verschiedene Typen von Modulen:  Bibeln, Kommentare, Lexika, tägliche Andachten und Bücher. </para>
 
 <para
-> Bitte lesen Sie die folgende Seite um zu sehen wie man die heruntergeladenen Module installiert: </para>
-
-<para
-> <ulink url="/documentation/installation/modules"
->Installation von Text-Modulen</ulink
-> </para>
+> Bitte lesen Sie die folgende Seite um zu sehen wie man die heruntergeladenen Module installiert: <ulink url="/documentation/installation/modules"
+>Installation von Modulen</ulink
+>. </para>
 
 
 <orderedlist

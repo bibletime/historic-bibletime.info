@@ -20,23 +20,14 @@
 			<tocentry page="software_about.xml" filename="software_about.html"/>
 			<tocentry page="software_screenshots.xml" filename="software_screenshots.html"/>
 			<tocentry page="software_gallery.xml" filename="software_gallery.html"/>
-			<tocentry page="software_download.xml" filename="software_download.html"/>
+			<tocentry page="software_installation.xml" filename="software_installation.html"/>
+			<tocentry page="software_faq.xml" filename="software_faq.html"/>
 			<tocentry page="software_press.xml" filename="software_press.html"/>
 			<tocentry page="software_contact.xml" filename="software_contact.html"/>
 			<tocentry page="software_guestbook.xml" filename="software_guestbook.shtml"/>
 			<tocentry page="software_links.xml" filename="software_links.html"/>
 			<tocentry page="software_linkus.xml" filename="software_linkus.html"/>
 			<tocentry page="software_license.xml" filename="software_license.html"/>
-		</tocentry>
-
-		<tocentry page="documentation.xml" filename="documentation.html">
-			<tocentry page="documentation_requirements.xml" filename="documentation_requirements.html"/>
-			<tocentry tocskip="1" page="documentation_installation.xml" filename="documentation_installation.html">
-				<tocentry page="documentation_installation_bibletime.xml" filename="documentation_installation_bibletime.html"/>
-				<tocentry page="documentation_installation_sword.xml" filename="documentation_installation_sword.html"/>
-				<tocentry page="documentation_installation_modules.xml" filename="documentation_installation_modules.html"/>
-			</tocentry>
-			<tocentry page="documentation_faq.xml" filename="documentation_faq.html"/>
 		</tocentry>
 
 		<tocentry page="modules.xml" filename="modules.html">
