@@ -1,0 +1,53 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="documentation_installation_modules">
+<config param="desc" value="Installation of modules"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Module</title>
+<summary
+>How to install Sword modules</summary>
+<keywords
+>BibleTime, Sword, Installation</keywords>
+</head>
+
+<section
+><title
+>Instalarea modulelor Sword</title>
+
+<para
+> Aceasta pagina explica felul in care trebuie adaugate modulele, care sunt disponibile la Crosswire, pentru ca BibleTime sa fie intr-adevar folositor. </para>
+
+<para
+> Aceste module sunt diponibile ca arhive zip la Crosswire Bible society. Viziteaza sectiunea &raquo;Module&laquo; a site-ului BibleTime pentru a vedea lista modulelor diponibile. </para>
+
+<para
+> Inainte de instalarea modulelor verifica daca BibleTime este instalat! </para>
+
+<para
+> Mai intai trebuie sa afli directorul, pe care-l vom numi acum &raquo; directorul Sword&laquo;, din sistemul tau. Directorul Sword contine toate datele Sword, el avand cel putin  sub-directoarele &raquo;modules/&laquo; and &raquo;mods.d/&laquo;. </para>
+
+<para
+> Apoi trebuie sa dezarhivezi fisierele zip descarcate in directorul Sword pentru  popula cele doua sub-directoare amintite. </para>
+
+<para
+> Dupa restartarea BibleTime modulele ar trebui sa apara in indexul principal pe partea din stanga a ferestrei principale. </para>
+
+<para
+> Instructiunile de instalare facute de echipa Sword sunt disponibile aici: </para>
+
+<para
+> <ulink url="http://www.crosswire.org/sword/modules/moduleinstall.jsp"
+>www.crosswire.org/sword/modules/moduleinstall.jsp</ulink
+>. </para>
+
+<para
+> Daca ai probleme te rog citeste raspunsurile la intrebarile cele mai frecvente (FAQ). Sectiunea FAQ e disponibila pe partea stanga a acestei pagini. </para>
+
+</section>
+
+</webpage>
+

@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!DOCTYPE autolayout PUBLIC "-//Norman Walsh//DTD Website Autolayout V2.4.1//EN" "http://docbook.sourceforge.net/release/website/2.4.1/schema/dtd/autolayout.dtd">
+<autolayout>
+<style title="Blue" src="blue.css" type="text/css"/><style title="Plain" src="plain.css" type="text/css"/><config param="text-prefix" value="txt_"/><copyright><year>1999</year><year>2000</year><year>2001</year><year>2002</year><year>2003</year><holder role="http://www.bibletime.info/">The BibleTime developers - <ulink url="http://www.bibletime.info/">www.bibletime.info</ulink></holder></copyright><toc page="index.xml" id="index" filename="no_index.html">
+<title>&#x41E; BibleTime</title>
+<summary>Introduction</summary>
+<tocentry page="software.xml" id="software" filename="index.html">
+<title>&#x41F;&#x440;&#x438;&#x43B;&#x43E;&#x436;&#x435;&#x43D;&#x438;&#x44F;</title>
+<summary>Introduction</summary>
+<tocentry page="software_about.xml" id="software_about" filename="software_about.html">
+<title>&#x41E; BibleTime</title>
+<summary>Introduction to the BibleTime software</summary>
+</tocentry>
+<tocentry page="software_news.xml" id="software_news" filename="software_news.html">
+<title>&#x41D;&#x43E;&#x432;&#x43E;&#x441;&#x442;&#x438;</title>
+<summary>News about BibleTime</summary>
+</tocentry>
+<tocentry page="software_screenshots.xml" id="software_screenshots" filename="software_screenshots.html">
+<title>&#x421;&#x43A;&#x440;&#x438;&#x43D;&#x448;&#x43E;&#x442;&#x44B;</title>
+<summary>Screenshots of BibleTime</summary>
+</tocentry>
+<tocentry page="software_download.xml" id="software_download" filename="software_download.html">
+<title>&#x417;&#x430;&#x433;&#x440;&#x443;&#x437;&#x438;&#x442;&#x44C; &#x41F;&#x41E;</title>
+<summary>Download BibleTime</summary>
+</tocentry>
+<tocentry page="software_press.xml" id="software_press" filename="software_press.html">
+<title>&#x41F;&#x440;&#x435;&#x441;&#x441;&#x430; &#x43E; &#x43D;&#x430;&#x441;</title>
+<summary>BibleTime in the press</summary>
+</tocentry>
+<tocentry page="software_contact.xml" id="contact" filename="software_contact.html">
+<title>&#x41D;&#x430;&#x43F;&#x438;&#x448;&#x438; &#x43D;&#x430;&#x43C;</title>
+<summary>How to contact us</summary>
+</tocentry>
+<tocentry page="software_guestbook.xml" id="software_guestbook" filename="software_guestbook.shtml">
+<title>&#x413;&#x43E;&#x441;&#x442;&#x435;&#x432;&#x430;&#x44F; &#x43A;&#x43D;&#x438;&#x433;&#x430;</title>
+<summary>BibleTime's guestbook</summary>
+</tocentry>
+<tocentry page="software_links.xml" id="software_links" filename="software_links.html">
+<title>&#x421;&#x441;&#x44B;&#x43B;&#x43A;&#x438;</title>
+<summary>Link collection of good sites</summary>
+</tocentry>
+<tocentry page="software_linkus.xml" id="software_linkus" filename="software_linkus.html">
+<title>&#x421;&#x441;&#x44B;&#x43B;&#x43A;&#x430; &#x43A; &#x43D;&#x430;&#x43C;</title>
+<summary>How to link to www.bibletime.info</summary>
+</tocentry>
+<tocentry page="software_license.xml" id="software_license" filename="software_license.html">
+<title>&#x41B;&#x438;&#x446;&#x435;&#x43D;&#x437;&#x438;&#x44F;</title>
+<summary>BibleTime's license</summary>
+</tocentry>
+</tocentry>
+<tocentry page="documentation.xml" id="documentation" filename="documentation.html">
+<title>&#x414;&#x43E;&#x43A;&#x443;&#x43C;&#x435;&#x43D;&#x442;&#x430;&#x446;&#x438;&#x44F;</title>
+<summary>Introduction</summary>
+<tocentry page="documentation_requirements.xml" id="documentation_requirements_bibletime" filename="documentation_requirements.html">
+<title>&#x422;&#x440;&#x435;&#x431;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x44F; &#x43A; &#x441;&#x438;&#x441;&#x442;&#x435;&#x43C;&#x435;</title>
+<summary>Introduction to the BibleTime software</summary>
+</tocentry>
+<tocentry page="documentation_installation.xml" id="documentation_installation" filename="documentation_installation.html" tocskip="1">
+<title>&#x423;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x43A;&#x430;</title>
+<summary>Introduction to the BibleTime software</summary>
+<tocentry page="documentation_installation_bibletime.xml" id="documentation_installation_bibletime" filename="documentation_installation_bibletime.html">
+<title>&#x41E; BibleTime</title>
+<summary>Introduction to the BibleTime software</summary>
+</tocentry>
+<tocentry page="documentation_installation_sword.xml" id="documentation_installation_sword" filename="documentation_installation_sword.html">
+<title>Sword</title>
+<summary>How to install Swors</summary>
+</tocentry>
+<tocentry page="documentation_installation_modules.xml" id="documentation_installation_modules" filename="documentation_installation_modules.html">
+<title>&#x41C;&#x43E;&#x434;&#x443;&#x43B;&#x438;</title>
+<summary>How to install Sword modules</summary>
+</tocentry>
+</tocentry>
+<tocentry page="documentation_faq.xml" id="documentation_ifaq" filename="documentation_faq.html">
+<title>FAQ</title>
+<summary>FAQ about BibleTime</summary>
+</tocentry>
+</tocentry>
+<tocentry page="modules.xml" id="modules" filename="modules.html">
+<title>&#x41C;&#x43E;&#x434;&#x443;&#x43B;&#x438;</title>
+<summary>Introduction to Sword modules</summary>
+<tocentry page="modules_swordcd.xml" id="modules_swordcd" filename="modules_swordcd.shtml">
+<title>Sword &#x43D;&#x430; CD</title>
+<summary>Get the Sword CD</summary>
+</tocentry>
+</tocentry>
+<tocentry page="development.xml" id="development" filename="development.html">
+<title>&#x420;&#x430;&#x437;&#x440;&#x430;&#x431;&#x43E;&#x442;&#x43A;&#x430; &#x41F;&#x41E;</title>
+<summary>BibleTime's development</summary>
+<tocentry page="development_help.xml" id="development_help" filename="development_help.html">
+<title>&#x415;&#x441;&#x43B;&#x438; &#x445;&#x43E;&#x447;&#x435;&#x448;&#x44C; &#x43F;&#x43E;&#x43C;&#x43E;&#x447;&#x44C;</title>
+<summary>BibleTime's development</summary>
+</tocentry>
+<tocentry page="development_join.xml" id="development_join" filename="development_join.html">
+<title>Join us</title>
+<summary>BibleTime's development</summary>
+</tocentry>
+<tocentry page="development_mailinglists.xml" id="development_mailinglists" filename="development_mailinglists.html">
+<title>&#x420;&#x430;&#x441;&#x441;&#x44B;&#x43B;&#x43A;&#x438;</title>
+<summary>BibleTime's mailinglists</summary>
+</tocentry>
+</tocentry>
+<tocentry page="biblehowto.docbook" id="biblehowto" filename="biblehowto.html">
+<title>&#x41A;&#x430;&#x43A; &#x438;&#x437;&#x443;&#x447;&#x430;&#x442;&#x44C; &#x411;&#x438;&#x431;&#x43B;&#x438;&#x44E;</title>
+<summary>The BibleTime Biblestudy HowTo</summary>
+</tocentry>
+</toc>
+</autolayout>
+

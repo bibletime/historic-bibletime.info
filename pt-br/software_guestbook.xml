@@ -1,0 +1,32 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="software_guestbook">
+<config param="desc" value="News"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title
+>Livro de Visitas</title>
+	<summary
+>BibleTime's guestbook</summary>
+	<keywords
+>BibleTime, Guestbook</keywords>
+</head>
+
+<section
+><title
+>Livro de visitas do BibleTime</title>
+	<para
+> Esta página mostra o livro de visitas do BibleTime. Por favor coloque seus próprios comentários se você quiser. Por favor escreva seus comentários em inglês se possível! </para>
+
+<section
+><title
+>Livro de Visitas</title>
+<ssi mode="exec" cgi="/guestbook.pl"/>
+</section>
+
+</section>
+
+</webpage>
+

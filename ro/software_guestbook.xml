@@ -1,0 +1,32 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="software_guestbook">
+<config param="desc" value="News"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title
+>Carte de oaspeti</title>
+	<summary
+>BibleTime's guestbook</summary>
+	<keywords
+>BibleTime, Guestbook</keywords>
+</head>
+
+<section
+><title
+>Cartea de oaspeti BibleTime</title>
+	<para
+> Aceasta pagina afiseaza cartea de oaspeti BibleTime. Te rog pune propriile tale comentarii daca vrei. Te rog scrie-le, pe cat posibil in limba engleza! </para>
+
+<section
+><title
+>Carte de oaspeti</title>
+<ssi mode="exec" cgi="/guestbook.pl"/>
+</section>
+
+</section>
+
+</webpage>
+

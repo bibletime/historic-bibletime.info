@@ -1,0 +1,29 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="development">
+<config param="desc" value="Development"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Dezvoltare</title>
+<summary
+>BibleTime's development</summary>
+<keywords
+>BibleTime, Modules, Sword, CD</keywords>
+</head>
+
+<section
+><title
+>Dezvoltare BibleTime</title>
+<para
+> Aceste pagini descriu modul in care poti colabora la dezvoltarea BibleTime si care sunt caile prin care ne poti ajuta! Calitatea BibleTime depinde, intr-un mare grad de ajutorul pe care il dau altii. </para>
+
+<para
+> Te rog citeste cu multa atentie urmatoarele pagini pentru a vedea in ce fel ne poti ajuta cu dezvoltarea. </para>
+</section>
+
+</webpage>
+

@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2001-02-09 01:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=utf-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+
+#: index.docbook:9
+#, no-c-format
+msgid "Modules"
+msgstr "Módulos"
+
+#: index.docbook:14
+#, no-c-format
+msgid "Installation of Sword's text modules"
+msgstr "Instalação de módulos de texto do Sword"
+
+#: index.docbook:16
+#, no-c-format
+msgid "This page explains how to add the text modules, which are available from Crosswire, to the BibleTime software to make it really useful."
+msgstr "Esta página explica como adicionar os módulos de texto, que estão disponíveis em Crosswire, para que o BibleTime seja realmente útil."
+
+#: index.docbook:20
+#, no-c-format
+msgid "The modules are available as ZIP files from the Crosswire Bible society. Have a look into the &raquo;Modules&laquo; section of the BibleTime web pages to get an overview of the available modules."
+msgstr "Os módulos estão disponíveis como arquivos ZIP da Sociedade Bíblica Crosswire. Dê uma olhada na seção de &raquo;Módulos&laquo; das páginas do BibleTime para ter uma idéia dos módulos disponíveis."
+
+#: index.docbook:24
+#, no-c-format
+msgid "Before you start installing modules please make sure BibleTime is installed!"
+msgstr "Antes de você começar instalando módulos por favor tenha certeza de que o BibleTime está instalado!"
+
+#: index.docbook:28
+#, no-c-format
+msgid "First you have to find the directory, which we'll call now &raquo;Sword directory&laquo;, on your system. The Sword directory contains all Sword data, i.e. it contains at least the sub-directories &raquo;modules/&laquo; and &raquo;mods.d/&laquo;."
+msgstr "Primeiro você tem que encontrar o diretório, que nós iremos chamar agora &raquo;diretório Sword&laquo;, no seu sistema. O diretório do Sword contêm todos os dados do Sword, ou seja, ao menos os sub-diretórios &raquo;modules/&laquo; and &raquo;mods.d/&laquo;."
+
+#: index.docbook:32
+#, no-c-format
+msgid "Then you have to unzip the downloaded ZIP file(s) into the Sword directory to populate the two subdirectories we mentioned."
+msgstr "Então você tem que descompactar o(s) arquivo(s) ZIP copiado dentro do diretório do Sword para popular os dois subdiretórios que nós mencionamos."
+
+#: index.docbook:36
+#, no-c-format
+msgid "After restarting BibleTime the modules should appear in the main index on the left side of the main window."
+msgstr "Depois de reiniciar o BibleTime os módulos devem aparecer no índice principal no lado direito da janela principal."
+
+#: index.docbook:40
+#, no-c-format
+msgid "The installation instructions made by the Sword team are available here:"
+msgstr "As intruções de instalação feitas pela equipe do Sword estão disponíveis aqui:"
+
+#: index.docbook:44
+#, no-c-format
+msgid "<ulink url=\"http://www.crosswire.org/sword/modules/moduleinstall.jsp\">www.crosswire.org/sword/modules/moduleinstall.jsp</ulink>."
+msgstr ""
+
+#: index.docbook:48
+#, no-c-format
+msgid "If you get into troubles please read the answers to the frequently asked questions. The FAQ is available on the left side of this page."
+msgstr "Se você tiver problemas por favor leia as respostas das perguntas frequentemente feitas. O FAQ está disponível no lado direito desta página."

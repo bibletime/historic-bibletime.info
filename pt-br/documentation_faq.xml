@@ -1,0 +1,153 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="documentation_ifaq">
+<config param="desc" value="FAQ"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>FAQ</title>
+<summary
+>FAQ about BibleTime</summary>
+<keywords
+>BibleTime, Sword, FAQ, Installation</keywords>
+</head>
+
+<section
+><title
+>Frequently Asked Questions</title>
+	<qandaset defaultlabel='number'>
+
+		<qandadiv
+><title
+>Processo de instalação</title>
+			<qandaentry>
+				<question>
+					<para
+>Por que a barra de ferramentas está faltando?</para>
+				</question>
+				<answer>
+					<para
+> Por favor rode configure com o parâmetro --prefix=&lt;seu diretório KDE &gt;. Então rode make e make install. Os diretórios do KDE para a maioria das distribuições Linux são: <orderedlist
+> <listitem
+>RedHat: /usr</listitem
+><listitem
+>SuSE: /opt/kde3</listitem
+><listitem
+>Mandrake: /usr </listitem
+></orderedlist
+> Alternativamente você pode rodar o comando &raquo;kde-config --prefix&laquo; para saber qual o seu diretório KDE. <orderedlist
+> <listitem
+>./configure --prefix=&lt;your KDE directory&gt;</listitem
+> <listitem
+>make</listitem
+> <listitem
+>make install</listitem
+> </orderedlist
+> </para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para
+>As dicas diárias e a documentação estão perdidas!</para>
+				</question>
+				<answer>
+					<para
+> Por favor instale o pacote bibletime-doc que contêm as dicas diárias, o livro de mão, as instruções de instalação e o ComoFazer (guia) de estudo da Bíblia. </para>
+				</answer>
+			</qandaentry>
+
+		</qandadiv>
+
+		<qandadiv
+><title
+>Usage problems</title>
+			<qandaentry>
+				<question>
+					<para
+> É possível procurar por um número Forte específico? </para>
+				</question>
+
+				<answer>
+					<para
+> Você precisa ao menos do BibleTime 1.1 para isto. Ligue o uso padrão de números Fortes no diálogo de opções (Sword->Configurações de filtro). Depois abra o diálogo de procura e procure por &lt;0120&gt; ou qualquer outro código Forte. </para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para
+> Por que eu vejo somente marcas de interrogação ao invés de texto Unicode? </para>
+				</question>
+
+				<answer>
+					<para
+> First make sure you have the latest version of the module which has the problems! Check <ulink url="www.crosswire.org/sword"
+>www.crosswire.org/sword</ulink
+> for this. </para>
+					<para
+> Primeiro tenha certeza que você tem a última versão do módulo que tem os problemas! Verifique em www.crosswire.org/sword para isto. Você tem que instalar uma fonte unicode como Code2000, Arial Unicode MS ou Bitstream Cyberbit para exibir os caracteres especiais unicode. Verifique na seção "Configurando BibleTime->Diálogo de Opções->Fontes" no livro de mão do BibleTime como configurar fontes Unicode no Linux. Uma versão online do livro de mão está disponível em www.bibletime.info. </para>
+				</answer>
+			</qandaentry>
+		</qandadiv>
+
+		<qandadiv
+><title
+>Módulos</title>
+			<qandaentry>
+				<question>
+					<para
+>A KJV não exibe números Fortes no NT!</para>
+				</question>
+
+				<answer>
+					<para
+> Devido a problemas de direito autoral o módulo KJV antigo que continha todos os números Fortes teve que ser removido. O projeto KJV2003 iniciou-se para criar um texto de domínio público com todos os números Fortes dentro. Ainda não foi terminado de forma que os números ainda não estão disponíveis em todos os versículos do NT. O estatus do projeto está disponível em Crosswire. </para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para
+>Onde eu posso escrever minhas notas pessoais?</para>
+				</question>
+
+				<answer>
+					<para
+> Você tem que instalar o módulo "Pessoal", que está disponível como um comentário em Crosswire.Veja nossa página de comentários para mais informações: <ulink url="http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Personal"
+>Crosswire</ulink
+>. </para>
+				</answer>
+			</qandaentry>
+
+
+			<qandaentry>
+				<question>
+					<para
+>Por que um dos dois testamentos de um módulo da Bíblia fazio?</para>
+				</question>
+
+				<answer>
+					<para
+> Alguns módulos somente contêm textos do velho ou novo testamento. Versões recentes do BibleTime devem oferecer somente o testamento que contiver algum texto. </para>
+				</answer>
+			</qandaentry>
+
+		</qandadiv>
+	</qandaset>
+</section>
+
+</webpage>
+
+
+
+
+<!--
+Local variables:
+mode: docbook
+End:
+-->
+

@@ -1,0 +1,59 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="software_about">
+<config param="desc" value="Software page"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title
+>Despre BibleTime</title>
+	<summary
+>Introduction to the BibleTime software</summary>
+	<keywords
+>BibleTime, Software, About, Introduction</keywords>
+</head>
+
+<section
+><title
+>Ce este BibleTime ...</title>
+<para
+> BibleTime este o aplicatie gratuita de studiere a Bibliei pentru sistemele Linux. BibleTime foloseste mediul desktop KDE. </para>
+<para
+> Credem ca BibleTime, desi simplu, este un instrument de studiu puternic pentru crestinii de pretutindeni. </para>
+</section>
+
+<section
+><title
+>Istoria BibleTime</title>
+<para
+> In iunie 1999 Thomas Hagedorn, Thorsten Uhlmann si Joachim Ansorg au inceput sa lucreze la dezvoltarea unei aplicatii de studiere a Bibliei pentru KDE 1.0. </para>
+
+<para
+> Prima versiune a fost lansata doua luni mai tarziu ca versiunea 0.1. Aceasta era foarte simpla si avea doar cateva optiuni de baza. </para>
+
+<para
+> Dupa trei luni de munca grea a fost lansata catre public versiunea 0.2. Acesta versiune era utila, avea comenzi minime de tiparit, de cautare si oferea un editor simplu pentru insemnari personale. </para>
+
+<para
+> BibleTime 0.2. a fost mai tarziu portat pentru KDE 2 si refacut cu o interfata mai puternica, o mai buna tiparire si cu o multime de schimbari interne. Acesta versiune a fost numita BibleTime 0.3. </para>
+
+<para
+> BibleTime 1.0, care a fost lansat aproape la un an de versiunea 0.3, a fost prima versiune pe care am considerat-o ca stabila. </para>
+
+<para
+> BibleTime 1.1 si 1.2 au urmat mai tarziu. BibleTime 1.2 este prima versiune a BibleTime pentru KDE 3.0. </para>
+</section>
+
+<section
+><title
+>BibleTime in viitor</title>
+<para
+> Suntem recunoscatori pentru ca Dumnezeu ne-a sprijinit si ca a binecuvantat lucrarea noastra cu noi membrii de echipa. Dumnezeu e bun! </para>
+
+<para
+> Ne vom continua munca, dar, din moment ce BibleTime va deveni din ce in ce mai bun, vom atinge un punct cand BibleTime va avea toate lucrurile folositoare dintr-o aplicatie pentru studierea Bibliei. </para>
+</section>
+
+</webpage>
+

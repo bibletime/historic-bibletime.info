@@ -1,0 +1,61 @@
+# translation of how2-basics.po to ukrainian
+# translation of how2-basics.po to russian
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# Vlad Savitsky <vlad_savitsky@mail.ru>, 2003
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: how2-basics\n"
+"POT-Creation-Date: 2001-02-09 01:25+0100\n"
+"PO-Revision-Date: 2003-07-17 13:21+0300\n"
+"Last-Translator: Vlad Savitsky <vlad_savitsky@mail.ru>\n"
+"Language-Team: ukrainian <uk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0.1\n"
+
+#: index.docbook:10
+#, no-c-format
+msgid "Download"
+msgstr "Загрузить ПО"
+
+#: index.docbook:15
+#, no-c-format
+msgid "How to get BibleTime"
+msgstr "Как загрузить BibleTime"
+
+#: index.docbook:16
+#, no-c-format
+msgid "There are several RPM packages available of BibleTime. To see whether they were made for your system have a look at the file name of the package. They contain the abbreviated name and version of the Linux distribution they were made for."
+msgstr "Существует несколько пакетов RPM для BibleTime. Чтобы узнать есть ли пакет для вашей системы посмотрите на название файла пакета. Название файла включает краткое название и версию дистрибутива Linux, для которого этот файл предназначен."
+
+#: index.docbook:20
+#, no-c-format
+msgid "For example the package &raquo;bibletime-1.2.2-1suse8.1.i586.rpm&laquo; was made for SuSE 8.1 systems running on a i586 or higher."
+msgstr "Так, на пример, файл \"bibletime-1.2.2-1suse8.1.i586.rpm\" был сделан для дистрибутива SuSE 8.1, установленного на компьютере i586 и выше."
+
+#: index.docbook:24
+#, no-c-format
+msgid "Please download BibleTime at the Sourceforge project pages of BibleTime:"
+msgstr "Загрузить BibleTime вы сможете на страницах проекта BibleTime на сайте Sourceforge."
+
+#: index.docbook:27
+#, no-c-format
+msgid "<ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">http://www.sf.net/projects/bibletime</ulink>."
+msgstr ""
+
+#: index.docbook:31
+#, fuzzy, no-c-format
+msgid "Please download the packages &raquo;bibletime&laquo; and &raquo;bibletime-doc&laquo;! Without the &raquo;bibletime-doc&laquo; package you would have no handbook, daily tips or installation instructions."
+msgstr "Загрузите пакеты \"bibletime\" и \"bibletime-doc\"! Без пакета \"bibletime-doc\" у вас не будет справочника пользователя, советов на каждый день и инструкции по установке."
+
+#: index.docbook:36
+#, no-c-format
+msgid "Installation"
+msgstr "Установка"
+
+#: index.docbook:37
+#, no-c-format
+msgid "Please read the installation instructions: <olink targetdocent=\"documentation_installation_bibletime\">here</olink>"
+msgstr ""

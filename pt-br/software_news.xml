@@ -1,0 +1,29 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="software_news">
+<config param="desc" value="News"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Notícias</title>
+<summary
+>News about BibleTime</summary>
+<keywords
+>BibleTime, Software, About, Introduction</keywords>
+</head>
+
+<section
+><title
+>Sobre o BibleTime</title>
+	<formalpara
+><title
+>21.4.2003</title>
+		<para
+> BibleTime 1.3beta4 liberado </para>
+	</formalpara>
+</section>
+
+</webpage>
+

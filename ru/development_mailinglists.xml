@@ -1,0 +1,56 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="development_mailinglists">
+<config param="desc" value="mailinglists us"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Рассылки</title>
+<summary
+>BibleTime's mailinglists</summary>
+<keywords
+>BibleTime, Modules, Sword, CD</keywords>
+</head>
+
+<section
+><title
+>Рассылка для разработчиков BibleTime</title>
+<para
+> Чтобы подписаться на рассылку для разработчиков проекта BibleTime посетите следующую страницу и оставьте там адрес вашей електронной почты: </para>
+<para
+> <ulink url="http://www.crosswire.org/mailman/listinfo/bt-devel"
+>www.crosswire.org/mailman/listinfo/bt-devel</ulink
+>. </para>
+
+<para
+> Архивы рассылки для разработчиков BibleTime можно найти здесь: </para>
+<para
+> <ulink url="http://www.crosswire.org/pipermail/bt-devel/"
+>www.crosswire.org/pipermail/bt-devel</ulink
+> </para>
+</section>
+
+<section
+><title
+>Рассылка для разработчиков Sword </title>
+<para
+> Чтобы подписаться на рассылку для разработчиков проекта Sword посетите следующую страницу и оставьте там адрес вашей електронной почты: </para>
+
+<para
+> <ulink url="http://www.crosswire.org/mailman/listinfo/sword-devel"
+>www.crosswire.org/mailman/listinfo/sword-devel</ulink
+>. </para>
+<para
+> Архивы рассылки для разработчиков Sword можно найти здесь: </para>
+
+<para
+> <ulink url="http://www.crosswire.org/pipermail/sword-devel/"
+>www.crosswire.org/pipermail/sword-devel</ulink
+> </para>
+</section>
+
+</webpage>
+

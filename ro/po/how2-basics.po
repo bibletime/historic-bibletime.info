@@ -1,0 +1,344 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2001-02-09 01:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=utf-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+
+#: index.docbook:1
+#, no-c-format
+msgid "Bible Study Basics"
+msgstr ""
+
+#: index.docbook:4
+#, no-c-format
+msgid "Our Purpose as we Approach the Bible"
+msgstr ""
+
+#: index.docbook:5
+#, no-c-format
+msgid "Jn.5:39-40<emphasis>\"You search the Scriptures, because you think that in them you have eternal life; and it is these that bear witness of Me; and you are unwilling to come to Me, that you may have life.\"</emphasis>"
+msgstr ""
+
+#: index.docbook:11
+#, no-c-format
+msgid "The chief purpose of the book is to bring us to the Person. Martin Luther said \"we go to the cradle only for the sake of the baby\"; just so in Bible study, we do it not for its own sake but for fellowship with God."
+msgstr ""
+
+#: index.docbook:17
+#, no-c-format
+msgid "The Jews to whom Jesus spoke... imagined that to possess Scripture was tantamount to possessing life. Hillel used to say, \"He who has gotten to himself words of Torah has gotten to himself the life of the world to come.\" Their study was an end in itself. In this they were grievously deceived. ..."
+msgstr ""
+
+#: index.docbook:22
+#, no-c-format
+msgid "There is neither merit nor profit in the reading of Scripture for its own sake, but only if it effectively introduces us to Jesus Christ. Whenever the Bible is read, what is needed is an eager expectation that through it we may meet Christ."
+msgstr ""
+
+#: index.docbook:29
+#, no-c-format
+msgid "Approaches to God's Word"
+msgstr ""
+
+#: index.docbook:30
+#, no-c-format
+msgid "Hearing and reading provide a telescopic view of the scripture while study and memorization provide a microscopic view of scripture. Meditating on the scriptures brings hearing, reading, studying and memorization together and cements the word in our minds."
+msgstr ""
+
+#: index.docbook:36
+#, no-c-format
+msgid "Hear"
+msgstr ""
+
+#: index.docbook:37
+#, no-c-format
+msgid "Lk.11:28 <emphasis>\"blessed are those who hear the word of God, and observe it.\"</emphasis>"
+msgstr ""
+
+#: index.docbook:42
+#, no-c-format
+msgid "Read"
+msgstr ""
+
+#: index.docbook:42
+#, no-c-format
+msgid "Rev.1:3 <emphasis>\"Blessed is he who reads and those who hear the words of this prophecy...\"</emphasis>"
+msgstr ""
+
+#: index.docbook:45
+#, no-c-format
+msgid "1 Tim.4:13 <emphasis>\"give attention to the public reading of Scripture...\"</emphasis>"
+msgstr ""
+
+#: index.docbook:49
+#, no-c-format
+msgid "Study"
+msgstr ""
+
+#: index.docbook:50
+#, no-c-format
+msgid "Acts 17:11 <emphasis>\"Now these were more noble-minded than those in Thessalonica, for they received the word with great eagerness, examining the Scriptures daily, to see whether these things were so.\"</emphasis>"
+msgstr ""
+
+#: index.docbook:53
+#, no-c-format
+msgid "2 Tim.2:15 <emphasis>\"Be diligent [KJV `Study'] to present yourself approved to God as a workman who does not need to be ashamed, handling accurately the word of truth.\"</emphasis>"
+msgstr ""
+
+#: index.docbook:59
+#, no-c-format
+msgid "Memorize"
+msgstr ""
+
+#: index.docbook:60
+#, no-c-format
+msgid "Ps.119:11 <emphasis>\"Thy word I have hid in my heart, that I may not sin against Thee.\"</emphasis>"
+msgstr ""
+
+#: index.docbook:63
+#, no-c-format
+msgid "Meditate"
+msgstr ""
+
+#: index.docbook:64
+#, no-c-format
+msgid "Ps.1:2-3 <emphasis>\"But his delight is in the law of the Lord, And in His law he meditates day and night. And he will be like a tree firmly planted by streams of water, Which yields its fruit in its season, And its leaf does not wither; And in whatever he does, he prospers.\"</emphasis>"
+msgstr ""
+
+#: index.docbook:68
+#, no-c-format
+msgid "The Navigators illustrate this by saying that as the thumb can touch all the fingers, we can meditate on the Word as we do any of the first four. Meditation is a key to revelation. A new Christian needs to hear and read the Bible more than they need to study and memorize it. This is so that they become familiar with the overall message of the Bible."
+msgstr ""
+
+#: index.docbook:75
+#, fuzzy, no-c-format
+msgid "Types of Bible Studies"
+msgstr "Istoria BibleTime"
+
+#: index.docbook:76
+#, no-c-format
+msgid "Topical Study"
+msgstr ""
+
+#: index.docbook:76
+#, no-c-format
+msgid "Pick out a certain topic and follow it through, using cross-references or a concordance."
+msgstr ""
+
+#: index.docbook:81
+#, no-c-format
+msgid "Character Study"
+msgstr ""
+
+#: index.docbook:82
+#, no-c-format
+msgid "Studying the life of a Bible character, e.g. Joseph's life in Gen.37-50."
+msgstr ""
+
+#: index.docbook:84
+#, no-c-format
+msgid "Expository Study"
+msgstr ""
+
+#: index.docbook:84
+#, no-c-format
+msgid "Studying a certain passage: paragraph, chapter, or book."
+msgstr ""
+
+#: index.docbook:89
+#, no-c-format
+msgid "Basics of Correct Interpretation"
+msgstr ""
+
+#: index.docbook:92
+#, fuzzy, no-c-format
+msgid "Content"
+msgstr "Contact"
+
+#: index.docbook:93
+#, no-c-format
+msgid "What does it say? What does it say in the original language? Be careful with definitions. Don't read into it what it doesn't say."
+msgstr ""
+
+#: index.docbook:96
+#, fuzzy, no-c-format
+msgid "Context"
+msgstr "Contact"
+
+#: index.docbook:97
+#, no-c-format
+msgid "What do the verses around it say? \"Context is king\" is the rule -- the passage must make sense within the structure of the entire passage and book."
+msgstr ""
+
+#: index.docbook:101
+#, no-c-format
+msgid "Cross-reference"
+msgstr ""
+
+#: index.docbook:102
+#, no-c-format
+msgid "What do other verses about this subject say through the rest of the Bible? God doesn't contradict Himself, so our interpretation needs to stand the test of other scriptures."
+msgstr ""
+
+#: index.docbook:107
+#, no-c-format
+msgid "An Expository Study of Matthew 6:1-18"
+msgstr ""
+
+#: index.docbook:109
+#, no-c-format
+msgid "Let's study together Mt.6:1-18. Read it to yourself, first looking for the key verse, the verse that sums up the whole passage. Think you have it? Test it by picking different places in the passage and asking yourself if they relate to the thought of the key verse. Once you find it, write it as Roman numeral One of your outline:"
+msgstr ""
+
+#: index.docbook:112
+#, no-c-format
+msgid "I. BEWARE OF PRACTICING YOUR RIGHTEOUSNESS BEFORE MEN TO BE NOTICED"
+msgstr ""
+
+#: index.docbook:115
+#, no-c-format
+msgid "What does \"practicing your righteousness\" mean? Does the passage give any examples? What area of our lives is being addressed? our motives! What sub-headings develop this thought?"
+msgstr ""
+
+#: index.docbook:117
+#, no-c-format
+msgid ""
+"A. WHEN YOU GIVE\n"
+"  B. WHEN YOU FAST\n"
+"  C. WHEN YOU PRAY"
+msgstr ""
+
+#: index.docbook:122
+#, no-c-format
+msgid "Now fill in the outline with specific instructions of how to avoid wrong ways of practicing our righteousness:"
+msgstr ""
+
+#: index.docbook:124
+#, no-c-format
+msgid ""
+"A. When you give\n"
+"     1. DON'T SOUND A TRUMPET.  (HOW MIGHT SOMEONE \"SOUND A TRUMPET\" TODAY?)\n"
+"     2. DO IT SECRETLY.\tETC."
+msgstr ""
+
+#: index.docbook:130
+#, no-c-format
+msgid "Worksheet: How to Use a Concordance"
+msgstr ""
+
+#: index.docbook:132
+#, no-c-format
+msgid "To Find a Particular Verse"
+msgstr ""
+
+#: index.docbook:133
+#, no-c-format
+msgid "Pick out a key word or most-unusual word of the verse."
+msgstr ""
+
+#: index.docbook:133
+#, no-c-format
+msgid "Turn to this word alphabetically."
+msgstr ""
+
+#: index.docbook:133
+#, no-c-format
+msgid "Go down the column of listings until you find your verse."
+msgstr ""
+
+#: index.docbook:138
+#, no-c-format
+msgid ""
+"Find these verses:\n"
+"\t\t\"Faithful are the wounds of a friend.\"\n"
+"\t\t\"We are ambassadors of Christ.\"\n"
+"\t\tThe story of the rich man and Lazarus."
+msgstr ""
+
+#: index.docbook:146
+#, no-c-format
+msgid "To Do a Topical Study"
+msgstr ""
+
+#: index.docbook:147
+#, no-c-format
+msgid "Let's say you wanted to do a study of the word \"redemption.\" First you would look up that word in the concordance and look up references listed for it. Then you could look up related words and references listed for them, e.g. \"redeem, redeemed, ransom,\" even \"buy\" or \"bought.\""
+msgstr ""
+
+#: index.docbook:153
+#, no-c-format
+msgid "To Clarify Word Meanings in the Greek and Hebrew"
+msgstr ""
+
+#: index.docbook:154
+#, no-c-format
+msgid "What if you noticed a contradiction in the KJV between Mt.7:1 \"Judge not lest you be judged\" and 1 Cor.2:15 \"He that is spiritual judgeth all things.\" Maybe there are two different Greek words here, both being translated \"judge\" in English? (We're using Strong's from here out.)"
+msgstr ""
+
+#: index.docbook:157
+#, no-c-format
+msgid "Look up \"judge.\""
+msgstr ""
+
+#: index.docbook:157
+#, no-c-format
+msgid "Go down the column of entries to Mt.7:1. To the right is a number, 2919. This refers to the Greek word used. Write it down."
+msgstr ""
+
+#: index.docbook:157
+#, no-c-format
+msgid "Now look up \"judgeth.\""
+msgstr ""
+
+#: index.docbook:157
+#, no-c-format
+msgid "Go down the column to 1 Cor.2:15 . . . . . 350."
+msgstr ""
+
+#: index.docbook:157
+#, no-c-format
+msgid "Turn in the back to the Greek dictionary. (Remember, you're in the NT so the language is Greek, while the OT is Hebrew.) Compare the meaning of 2919 with the meaning of 350 and you have your answer!"
+msgstr ""
+
+#: index.docbook:168
+#, no-c-format
+msgid "To Find Meanings of Names"
+msgstr ""
+
+#: index.docbook:169
+#, no-c-format
+msgid "By the same process we can find the meaning of a name in the Greek or Hebrew."
+msgstr ""
+
+#: index.docbook:170
+#, no-c-format
+msgid "Look up these names and write down their meaning:"
+msgstr ""
+
+#: index.docbook:171
+#, no-c-format
+msgid "Nabal"
+msgstr ""
+
+#: index.docbook:171
+#, no-c-format
+msgid "Abigail"
+msgstr ""
+
+#: index.docbook:171
+#, no-c-format
+msgid "Joshua"
+msgstr ""
+
+#: index.docbook:171
+#, no-c-format
+msgid "Barnabus"
+msgstr ""

@@ -1,0 +1,35 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="software_intro">
+<config param="desc" value="Software page"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Приложения</title>
+<summary
+>Introduction</summary>
+<keywords
+>Norman Walsh, DSSSL, SGML, XML, DocBook, Website</keywords>
+</head>
+
+<section
+><title
+>Добро пожаловать в проект BibleTime!</title>
+<para
+> BibleTime является программой для изучения Библии под Linux.  Думаем, что наша программа будет полезным подспорьем для каждого христианина, который использует Linux! </para>
+
+<para
+> Если вы хотите узнать подробности о BibleTime прочитайте страницу </para>
+
+<para
+> Также мы советует прочитать краткое приглашение к размышлению и молитве в правом верхнем углу каждой страницы. </para>
+
+<para
+> К тому же вы можете принять участие в опросе, который вы найдете в правой колонке каждой страницы. Таким образом вы поможете нам улучшить BibleTime! </para>
+</section>
+
+</webpage>
+

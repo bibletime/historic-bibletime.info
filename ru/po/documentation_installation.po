@@ -1,0 +1,21 @@
+# translation of how2-basics.po to ukrainian
+# translation of how2-basics.po to russian
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# Vlad Savitsky <vlad_savitsky@mail.ru>, 2003
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: how2-basics\n"
+"POT-Creation-Date: 2001-02-09 01:25+0100\n"
+"PO-Revision-Date: 2003-07-17 13:21+0300\n"
+"Last-Translator: Vlad Savitsky <vlad_savitsky@mail.ru>\n"
+"Language-Team: ukrainian <uk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0.1\n"
+
+#: index.docbook:9
+#, no-c-format
+msgid "Installation"
+msgstr "Установка"

@@ -1,0 +1,74 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="modules_swordcd">
+<config param="desc" value="Sword CD"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Comprar CD do Sword</title>
+<summary
+>Get the Sword CD</summary>
+<keywords
+>BibleTime, Modules, Sword, CD</keywords>
+</head>
+
+<section
+><title
+>O que é o CD Sword?</title>
+<para
+> The Sword project offers a CD which contains all the software for Windows, Linux and Mac OS X. The CD is freely available like all the other things the Crosswire Bible society is offering for you! See below how to download the CD. If you can't download the CD, for example because you don't have a fast connection, you can order the CD. If you're living in Europe the BibleTime developers send out the CDs to you. In this case please fill out the form below and send it away. </para>
+</section>
+
+
+<section
+><title
+>O que eu posso fazer com o CD?</title>
+<para
+> Você pode fazer muitas coisas importantes com o CD: <itemizedlist
+> <listitem
+> <formalpara
+><title
+>Estude a Bíblia!</title
+> <para
+> Usar todas as bíblias, comentários, léxicons, glossários e livros para estudar a palavra de Deus! Nós esperamos, que o CD ajude você a estudar a palavra de forma mais eficiente! </para
+> </formalpara
+> </listitem
+> <listitem
+> <formalpara
+><title
+>Faça cópias do CD!</title
+> <para
+> Por favor copie o Cd e compartilhe com outros! Se você puder, por favor faça isso de graça. Se você não puder, por favor cobre somente o suficiente para cobrir suas despesas, de outra forma não seria possível distribuir alguns dos textos do CD. </para
+> </formalpara
+> </listitem
+> </itemizedlist
+> </para>
+</section>
+
+<section
+><title
+>Eu quero copiar o CD do Sword!</title>
+<para
+> Sem problemas! Por favor copie o arquivo da última data de <A HREF="ftp://ftp.crosswire.org/pub/sword/iso/"
+>ftp.crosswire.org/pub/sword/iso/</A
+>. </para>
+</section>
+
+<section
+><title
+>Eu quero comprar o CD do SWORD!</title>
+<para
+> Se você está vivendo em algum lugar da Europa os desenvolvedores do BibleTime enviarão o CD para você. Por favor preencha a informação requerida no formulário abaixo e envie. Os desenvolvedores do BibleTime enviarão os CDs gratuitamente. </para>
+</section>
+
+<section
+><title
+>Pegue o CD do Sword</title>
+<ssi mode="exec" cgi="/swordcd.pl"/>
+</section>
+
+</webpage>
+

@@ -1,0 +1,48 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="documentation_installation_sword">
+<config param="desc" value="Sword's installation"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Sword</title>
+<summary
+>How to install Swors</summary>
+<keywords
+>BibleTime, Sword, Installation</keywords>
+</head>
+
+<section
+><title
+>Instalação do Sword</title>
+<para
+> Esta página explica como instalar a biblioteca Sword, que é necessário para o BibleTime. </para>
+
+<para
+> A instalação da biblioteca do Sword só é requerida se você mesmo compilar o BibleTime dos fontes! Se você instalar usando o pacote binário pré-construído por favor não instale Sword do código fonte. Já está incluído em cada pacote binário do BibleTime! </para>
+
+
+<section
+><title
+>Processo de instalação</title>
+<para
+> A instalação básica é descrita nas páginas da Sociedade Bíblica Crosswire: </para>
+
+<para
+> <ulink url="http://www.crosswire.org/sword/software/index.jsp"
+>http://www.crosswire.org/sword/software/index.jsp</ulink
+> </para>
+</section>
+
+</section>
+
+</webpage>
+
+<!--
+Local variables:
+mode: docbook
+End:
+-->
+

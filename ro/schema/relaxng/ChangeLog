@@ -1,0 +1,34 @@
+2003-06-22  Norman Walsh <nwalsh@users.sourceforge.net>
+
+	* autolayout.rng, extensions.rng, layout.rng: Cleanup attributes on script element
+
+	* autolayout.rng, layout.rng, website-full.rng, website.rng: 
+	Updated version numbers
+
+2003-02-18  Norman Walsh <nwalsh@users.sourceforge.net>
+
+	* autolayout.rng, extensions.rng, forms.rng, layout.rng, rddl.rng, website-full.rng, website.rng: 
+	Updated version numbers to 2.4.1
+
+2003-01-23  Norman Walsh <nwalsh@users.sourceforge.net>
+
+	* .cvsignore: Ignore websitedb.rng
+
+	* .cvsignore, Makefile: Updated
+
+	* config.xml: Generated
+
+	* config.xml, union.xml: Changed configuration strategy
+
+	* extensions.rng, forms.rng, rddl.rng, website-full.rng, website.rng: 
+	Removed extraneous xmlns declaration
+
+	* union.xml: Oops. I did need this file
+
+	* websitedb.rng: This file is generated
+
+2003-01-16  Norman Walsh <nwalsh@users.sourceforge.net>
+
+	* .cvsignore, Makefile, autolayout.rng, extensions.rng, forms.rng, layout.rng, rddl.rng, union.xml, website-full.rng, website.rng, websitedb.rng: 
+	New file.
+

@@ -1,0 +1,53 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="documentation_installation_modules">
+<config param="desc" value="Installation of modules"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Módulos</title>
+<summary
+>How to install Sword modules</summary>
+<keywords
+>BibleTime, Sword, Installation</keywords>
+</head>
+
+<section
+><title
+>Instalação de módulos de texto do Sword</title>
+
+<para
+> Esta página explica como adicionar os módulos de texto, que estão disponíveis em Crosswire, para que o BibleTime seja realmente útil. </para>
+
+<para
+> Os módulos estão disponíveis como arquivos ZIP da Sociedade Bíblica Crosswire. Dê uma olhada na seção de &raquo;Módulos&laquo; das páginas do BibleTime para ter uma idéia dos módulos disponíveis. </para>
+
+<para
+> Antes de você começar instalando módulos por favor tenha certeza de que o BibleTime está instalado! </para>
+
+<para
+> Primeiro você tem que encontrar o diretório, que nós iremos chamar agora &raquo;diretório Sword&laquo;, no seu sistema. O diretório do Sword contêm todos os dados do Sword, ou seja, ao menos os sub-diretórios &raquo;modules/&laquo; and &raquo;mods.d/&laquo;. </para>
+
+<para
+> Então você tem que descompactar o(s) arquivo(s) ZIP copiado dentro do diretório do Sword para popular os dois subdiretórios que nós mencionamos. </para>
+
+<para
+> Depois de reiniciar o BibleTime os módulos devem aparecer no índice principal no lado direito da janela principal. </para>
+
+<para
+> As intruções de instalação feitas pela equipe do Sword estão disponíveis aqui: </para>
+
+<para
+> <ulink url="http://www.crosswire.org/sword/modules/moduleinstall.jsp"
+>www.crosswire.org/sword/modules/moduleinstall.jsp</ulink
+>. </para>
+
+<para
+> Se você tiver problemas por favor leia as respostas das perguntas frequentemente feitas. O FAQ está disponível no lado direito desta página. </para>
+
+</section>
+
+</webpage>
+

@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2001-02-09 01:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=utf-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+
+#: index.docbook:10
+#, no-c-format
+msgid "Download"
+msgstr "Descarca"
+
+#: index.docbook:15
+#, no-c-format
+msgid "How to get BibleTime"
+msgstr "Cum sa obtii BibleTime"
+
+#: index.docbook:16
+#, no-c-format
+msgid "There are several RPM packages available of BibleTime. To see whether they were made for your system have a look at the file name of the package. They contain the abbreviated name and version of the Linux distribution they were made for."
+msgstr "Sunt cateva pachete RPM disponibile cu BibleTime. Pentru a vedea daca au fost facute pentru sistemul tau uita-te la numele pachetului. El contine numele abreviat si versiunea distributiei de Linux pentru care au fost facute."
+
+#: index.docbook:20
+#, no-c-format
+msgid "For example the package &raquo;bibletime-1.2.2-1suse8.1.i586.rpm&laquo; was made for SuSE 8.1 systems running on a i586 or higher."
+msgstr "De exemplu pachetul &raquo;bibletime-1.2.2-1suse8.1.i586.rpm&laquo; a fost facut pentru SuSE 8.1 ruland pe un i586 sau mai bun."
+
+#: index.docbook:24
+#, no-c-format
+msgid "Please download BibleTime at the Sourceforge project pages of BibleTime:"
+msgstr "Te rog descarca BibleTime la paginile proiectului Sourceforge"
+
+#: index.docbook:27
+#, no-c-format
+msgid "<ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">http://www.sf.net/projects/bibletime</ulink>."
+msgstr ""
+
+#: index.docbook:31
+#, fuzzy, no-c-format
+msgid "Please download the packages &raquo;bibletime&laquo; and &raquo;bibletime-doc&laquo;! Without the &raquo;bibletime-doc&laquo; package you would have no handbook, daily tips or installation instructions."
+msgstr "Te rog descarca pachetele &raquo;bibletime&laquo; si &raquo;bibletime-doc&laquo;! Fara pachetul &raquo;bibletime-doc&laquo; nu vei avea manual, sfaturi zilnice si instructiuni de instalare."
+
+#: index.docbook:36
+#, no-c-format
+msgid "Installation"
+msgstr "Instalare"
+
+#: index.docbook:37
+#, no-c-format
+msgid "Please read the installation instructions: <olink targetdocent=\"documentation_installation_bibletime\">here</olink>"
+msgstr ""

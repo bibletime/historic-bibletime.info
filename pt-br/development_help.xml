@@ -1,0 +1,57 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="development_help">
+<config param="desc" value="Help us"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Nos ajude</title>
+<summary
+>BibleTime's development</summary>
+<keywords
+>BibleTime, Modules, Sword, CD</keywords>
+</head>
+
+<section
+><title
+>Nos ajude</title>
+<para
+> Para tornar isto possível nós precisamos de sua ajuda! É possível nos ajudar de muitas maneiras. Por favor leia esta página se você puder nos ajudar a melhorar o BibleTime. </para>
+
+<section
+><title
+>Você quer orar?</title>
+<para
+> Orar é algo que todos podem fazer. Se você estiver orando pelo projeto Sword e BibleTime você está nos ajudando tanto quanto outras equipes do projeto BibleTime. </para>
+</section>
+
+<section
+><title
+>Você sabe programar softwares?</title>
+<para
+> Você sabe como programar em C++? Você está familiarizado com a interface de programação d KDE ou está motivado a aprendê-la? Se você tiver tempo para trabalhar regularmente no código fonte do BibleTime nós lhe pedimos para se juntar ao nosso time! </para>
+</section>
+
+<section
+><title
+>Você sabe como escrever documentação?</title>
+<para
+> Se você acredita que é, por favor leia a página &raquo;Junte-se ao time&laquo; nesta seção. </para>
+</section>
+
+<section
+><title
+>Você é bom em traduzir do inglês para outros idiomas?</title>
+<para
+> Se você decidir iniciar o trabalho de tradução por favor nos contacte em info@bibletime.info para ver se a tradução ainda não foi iniciada por outro membro do time. Nós providenciaremos os arquivos que deverão ser traduzidos. </para>
+
+<para
+> Por favor use o programa para KDE chamado &raquo;KBabel&laquo; para traduzir os arquivos! É uma boa ferramenta que simplifica o processo de tradução </para>
+</section>
+</section>
+
+</webpage>
+

@@ -1,0 +1,88 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="development_join">
+<config param="desc" value="Join us"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Join us</title>
+<summary
+>BibleTime's development</summary>
+<keywords
+>BibleTime, Modules, Sword, CD</keywords>
+</head>
+
+<section
+><title
+>Join the BibleTime team</title>
+<para
+> We are glad for everybody who helps us improving the BibleTime software, it's documentation and it's translations. </para>
+
+<section
+><title
+>The basic steps..</title>
+<para
+> The following are necessary for each type of team member. Please follow them! </para>
+<para
+> <orderedlist
+> <listitem
+> If you don't have an account on SourceForge, please sign up for one. It's free. We need your username to add you to the team members, to assign tasks to you, etc. </listitem
+> <listitem
+> Subscribe to the BibleTime development mailing list. All developers read this mailing list, so everybody knows what's hapenning. </listitem
+> <listitem
+> Get the development version of BibleTime and install it. If you need help with this ask on the mailing list or look into the documentation section. </listitem
+> </orderedlist
+> </para>
+</section>
+
+<section
+><title
+>The next steps for software developers...</title>
+<para
+> <orderedlist
+> <listitem
+> Work through some of the Qt 3 and KDE 3 tuorials to get used to programming with the things BibleTime uses. </listitem
+> <listitem
+> If you don't know what to do please ask on the mailing list for some tasks. Don't forget to add how difficult it should be. </listitem
+> </orderedlist
+> </para>
+</section>
+
+<section
+><title
+>The next steps for documentation authors...</title>
+<para
+> <orderedlist
+> <listitem
+> Read the existing english documentation. It's located in the docs/ directory of the bibletime cvs directory. </listitem
+> <listitem
+> The documentation is stored in docbook files in the unicode subdirectories of each documentation part (handbook, Bible study howto, installation, helpdialog). Please don't edit the HTML files directly because they're generated from the docbook files. The translation file are also generated from the docbook data. </listitem
+> </orderedlist
+> </para>
+</section>
+
+
+<section
+><title
+>The next steps for translators...</title>
+<para
+> <orderedlist
+> <listitem
+> Have a look at the internationaliziation pages of the KDE project. They're located at: <ulink url="http://i18n.kde.org/"
+>i18n.kde.org</ulink
+> </listitem
+> <listitem
+> Install the program KBabel, if it's not yet installed on your system. It will help you a lot with the translation process. </listitem
+> <listitem
+> Request the files for the translation on the bt-devel mailinglist. Normally the software doordinator will create a new CVS module, which will contain the files you'll translate. </listitem
+> </orderedlist
+> </para>
+</section>
+
+</section>
+
+</webpage>
+

@@ -1,0 +1,24 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="software_gallery">
+<config param="desc" value="Gallery"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title
+>Galeria</title>
+	<summary
+>Gallery of BibleTime</summary>
+	<keywords
+>BibleTime, Gallery, Software, About, Introduction</keywords>
+</head>
+
+<section
+><title
+>Galeria</title>
+
+</section>
+
+</webpage>
+

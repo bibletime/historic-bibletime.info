@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2001-02-09 01:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=utf-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+
+#: index.docbook:10 index.docbook:15
+#, no-c-format
+msgid "In the press"
+msgstr "Na mídia"
+
+#: index.docbook:16
+#, fuzzy, no-c-format
+msgid "On <ulink url=\"http://dot.kde.org/995302757\">dot.kde.org</ulink> Andreas Pour draws the following conclusion in his review:"
+msgstr "Em <A HREF=\"http://dot.kde.org/995302757\"><b>dot.kde.org</b></A> Andreas Pour chega à seguinte conclusão em sua revisão:"
+
+#: index.docbook:22
+#, no-c-format
+msgid "Bibletime is already a true godsend for religious KDE users. It is easily useable though it may take a bit of time to learn some quirks. I think the next release will make it even better, particularly by providing a GUI for the difficult Sword installation/configuration. Besides this, my personal wishlist item is to use KHTML for its advanced navigation features."
+msgstr ""
+
+#: index.docbook:29
+#, no-c-format
+msgid "The german magazine &raquo;Pfarrer &amp; PC&laquo; reviewed Bible software for Linux which also covers BibleTime among &raquo;Gnomesword&laquo; and &raquo;Volksbibel 2000&laquo;. Their conclusion in german for BibleTime:"
+msgstr "A revista alemã &raquo;Pfarrer &amp; PC&laquo; revisou softwares da Bíblia para Linux que também cobriu o BibleTime dentre &raquo;Gnomesword&laquo; e &raquo;Volksbibel 2000&laquo;. Sua conclusão em alemão para o BibleTime:"
+
+#: index.docbook:34
+#, no-c-format
+msgid "Trotzdem: Alles dran, alles drin - BibleTime ist ein funktional wie optisch gelungenes Bibel-Programm, dem man unter Linux große Verbreitung wünschen darf. Ein wenig bedauerlich ist das copyrightbedingte Fehlen der »großen« zeitgenössischen Bibelübersetzungen. Dafür beschert BibleTime dem Nutzer Einblicke in selten genutzte Übersetzungen und ein gutes Handling griechischer und hebräischer Originaltexte."
+msgstr ""
+
+#: index.docbook:40
+#, no-c-format
+msgid "The review is online at: <ulink url=\"http://www.pfarrer-pc.de/magazin/2-02/art02-02-bibli.php\">www.pfarrer-pc.de</ulink>"
+msgstr ""

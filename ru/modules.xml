@@ -1,0 +1,58 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="modules">
+<config param="desc" value="Modules"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Модули</title>
+<summary
+>Introduction to Sword modules</summary>
+<keywords
+>BibleTime, Modules, Sword, CD</keywords>
+</head>
+
+<section
+><title
+>Дополнительные модули для BibleTime</title>
+
+<para
+> Модуль - это текст, который можно читать с помощью программы BibleTime. Существуют следующие виды модулей: Библии, комментарии, словари, сборники размышлений к молитве и просто книги.  К сожалению, на данный момент существует только два модуля с переводами Библии и Пятикнижия на русский язык и никаких других. </para>
+
+<para
+> Чтобы узнать как установить текстовый модуль прочитайте страницу  </para>
+
+<para
+> <ulink url="/documentation/installation/modules"
+>Установка текстовых модулей</ulink
+> </para>
+
+
+<orderedlist
+><title
+>Available types of modules</title
+> <listitem
+><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Bibles"
+>Bibles</ulink
+></listitem
+> <listitem
+><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Commentaries"
+>Commentaries</ulink
+></listitem
+> <listitem
+><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Dictionaries"
+>Lexicons / Dictionaries</ulink
+></listitem
+> <listitem
+><ulink url="http://www.crosswire.org/sword/modules/ModDisp.jsp?modType=Books"
+>Books</ulink
+></listitem
+> </orderedlist>
+
+</section>
+
+</webpage>
+

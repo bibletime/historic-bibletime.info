@@ -1,0 +1,82 @@
+# translation of how2-basics.po to ukrainian
+# translation of how2-basics.po to russian
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# Vlad Savitsky <vlad_savitsky@mail.ru>, 2003
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: how2-basics\n"
+"POT-Creation-Date: 2001-02-09 01:25+0100\n"
+"PO-Revision-Date: 2003-07-17 13:21+0300\n"
+"Last-Translator: Vlad Savitsky <vlad_savitsky@mail.ru>\n"
+"Language-Team: ukrainian <uk@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0.1\n"
+
+#: index.docbook:9
+#, no-c-format
+msgid "Link to us"
+msgstr "Ссылка к нам"
+
+#: index.docbook:14
+#, no-c-format
+msgid "How to link to www.bibletime.info"
+msgstr "Как сделать ссылку на www.bibletime.info"
+
+#: index.docbook:15
+#, no-c-format
+msgid "Please do not copy the images because they may change their design."
+msgstr "Пожалуйста не копируйте картинки, так как они могут изменить свою форму."
+
+#: index.docbook:19
+#, fuzzy, no-c-format
+msgid "Larger banner"
+msgstr "1. Большой баннер"
+
+#: index.docbook:20
+#, no-c-format
+msgid ""
+"Put the following HTML-code on your pages: <programlisting>\n"
+"<![CDATA[\n"
+" <a href=\"http://www.bibletime.info/\" target=\"_blank\"><br/>\n"
+" <img src=\"http://www.bibletime.info/images/banner/big.jpg\" width=\"312\" height=\"60\" border=\"0\"/>\n"
+" </a><br/>\n"
+"]]>\n"
+"</programlisting> This will look like this: <ulink url=\"http://www.bibletime.info/\"> <mediaobject> <imageobject> <imagedata fileref=\"/images/banner/big.jpg\" format=\"JPG\"/> </imageobject> </mediaobject> </ulink>"
+msgstr ""
+
+#: index.docbook:42
+#, fuzzy, no-c-format
+msgid "Smaller banner"
+msgstr "2. Маленький баннер"
+
+#: index.docbook:43
+#, no-c-format
+msgid ""
+"Put the following HTML-code on your pages: <programlisting>\n"
+"<![CDATA[\n"
+" <a href=\"http://www.bibletime.info/\" target=\"_blank\">\n"
+" <img src=\"http://www.bibletime.info/\" width=\"88\" height=\"31\" border=\"0\"/>\n"
+" </a>\n"
+"]]>\n"
+"</programlisting> This will look like this: <ulink url=\"http://www.bibletime.info/\"> <mediaobject> <imageobject> <imagedata fileref=\"/images/banner/small.jpg\" format=\"JPG\"/> </imageobject> </mediaobject> </ulink>"
+msgstr ""
+
+#: index.docbook:66
+#, fuzzy, no-c-format
+msgid "Text link"
+msgstr "3. Текстовая гиперссылка"
+
+#: index.docbook:67
+#, no-c-format
+msgid ""
+"To insert a simple text link please use the following HTML code on your pages: <programlisting>\n"
+"<![CDATA[\n"
+" <a href=\"http://www.bibletime.info/\" TARGET=\"_blank\">\n"
+" BibleTime - Bible study software for KDE\n"
+" </a>\n"
+"]]>\n"
+"</programlisting> This will look like this: <ulink url=\"http://www.bibletime.info/\">BibleTime - Bible study software for KDE</ulink>"
+msgstr ""
