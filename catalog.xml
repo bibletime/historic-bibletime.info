@@ -22,7 +22,7 @@
 -->
 
 <rewriteURI uriStartString="http://docbook.sourceforge.net/release/xsl/current/xhtml/"
-	rewritePrefix="./xsl-root/xhtml"/>
+	rewritePrefix="./xsl-root/xhtml/"/>
 
 <!-- Website DTD locations -->
 
