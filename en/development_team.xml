@@ -13,7 +13,7 @@
 </head>
 
 <section><title>Joachim</title>
-<para>
+
 <formalpara><title>Age:</title></formalpara>
 
 <formalpara><title>Occupation:</title>Student of IT</formalpara>
@@ -21,17 +21,17 @@
 <formalpara><title>BibleTime involvement:</title>
 </formalpara>
 
-<formalpara><title>Support this project member:</title>
-</formalpara>
-
 <formalpara><title>Planned tasks:</title>
 </formalpara>
 
-</para>
+<formalpara><title>Support this project member:</title>
+</formalpara>
+
 </section>
 
+<!-- ############################################# -->
+
 <section><title>Martin</title>
-<para>
 
 <formalpara><title>Age:</title>24</formalpara>
 
@@ -44,6 +44,12 @@ build system, parts of the code in the backend as well as in the User
 Interface of BibleTime, and recently I designed the Install Manager.
 </formalpara>
 
+<formalpara><title>Planned tasks:</title>
+Revise the Handbook. Test the code
+thoroughly and fix remaining bugs. Prepare for the 1.5 release (Sword
+1.5.8 release needed).
+</formalpara>
+
 <formalpara><title>Support this project member:</title>
 Since I have to finance my
 studies, I need to earn some money. Would you like to help me work on
@@ -54,12 +60,30 @@ reports on how much I worked on BibleTime and what I got accomplished
 during that time.
 </formalpara>
 
-<formalpara><title>Planned tasks:</title>
-Revise the Handbook. Test the code
-thoroughly and fix remaining bugs. Prepare for the 1.5 release (Sword
-1.5.8 release needed).
-</formalpara>
+<para>
+Please use the link below to send your donation through PayPal. You don't 
+need to have an own PayPal account for this. Don't hesitate to email me at <email>mg.pub@gmx.net</email> if you have questions.
+<ulink url="https://www.paypal.com/xclick/business=mg.pub%40gmx.net&amp;item_name=Support+for+BibleTime+developer+Martin&amp;no_note=1&amp;tax=0&amp;currency_code=EUR">
+<mediaobject>
+  <imageobject>
+    <imagedata fileref="https://www.paypal.com/en/i/btn/x-click-but04.gif" format="GIF"/>
+  </imageobject>
+</mediaobject>
+</ulink>
 </para>
+
+<!--
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="mg.pub@gmx.net">
+<input type="hidden" name="item_name" value="Support for BibleTime developer Martin">
+<input type="hidden" name="no_note" value="1">
+<input type="hidden" name="currency_code" value="EUR">
+<input type="hidden" name="tax" value="0">
+<input type="image" src="https://www.paypal.com/en/i/btn/x-click-but04.gif" border="0" name="submit" alt="Please consider making a donation.">
+</form>
+-->
+
 </section>
 
 </webpage>
