@@ -1,0 +1,57 @@
+RewriteEngine On
+
+
+#  let the server know that we were reached via /xyz and not
+#  via the physical path prefix /abc/def
+RewriteBase   /
+
+RewriteRule	^images/banner_big.jpg?$	images/banner/big.jpg
+RewriteRule	^images/banner_small.jpg?$	images/banner/small.jpg
+
+
+#  rewrite rules for old pages of www.bibletime.de
+RewriteRule	^about.s?html?$			bibletime_about.html
+RewriteRule	^assistance.s?html?$	development.html
+RewriteRule	^development.s?html?$	development.html
+RewriteRule	^gallery.s?html?$		software_gallery.html
+RewriteRule	^index.s?html?$			index.html
+RewriteRule	^installation.s?html?$	documentation_installation.html
+RewriteRule	^license.s?html?$		software_license.html
+RewriteRule	^link-us.s?html?$		software_linkus.html
+RewriteRule	^links.s?html?$			software_links.html
+RewriteRule	^mailinglist.s?html?$	development_mailinglists.html
+RewriteRule	^news.s?html?$			software_news.html
+RewriteRule	^modules_ger.s?html?$		modules.html
+RewriteRule	^press_coverage.s?html?$	software_press.html
+RewriteRule	^screenshots.s?html?$		software_screenshots.html
+RewriteRule	^screenshots_old.s?html?$	software_screenshots.html
+RewriteRule	^sword_cd.s?html?$		modules_swordcd.html
+
+#URLS which changed while working on the pages
+RewriteRule	^contact/links/$		software_links.html
+RewriteRule	^contact/linkus/$		software_linkus.html
+
+
+# Rewrite rules for better CGI navigation
+RewriteRule	^(software|documentation|modules|contact|development)/?$		$1.html
+RewriteRule	^(software|documentation|modules|contact|development)/([^/]+)/?$	$1_$2.html
+RewriteRule	^(software|documentation|modules|contact|development)/([^/]+)/([^/]+)/?$	$1_$2_$3.html
+
+
+
+
+# Handle stuff like
+#	Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.2.1) Gecko/20021204
+# to find out the language
+
+# If the / URI was called try to redirect into the right language folder
+RewriteCond  %{HTTP_USER_AGENT}  ^.*[;].(de|pt-br|ro|ru|ua)[-]?
+RewriteRule  ^([^/]*\.s?html)$     /%1/$1  [R,L,S]
+RewriteRule  ^$                 /%1/  	[R,L]
+
+RewriteCond  %{HTTP_USER_AGENT}  !^(de|pt-br|ro|ru|ua)[-]?
+RewriteRule  ^([^/]*\.s?html)$    	/en/$1  [R,L,S]
+RewriteRule  ^$                 /en/  	[R,L]
+
+#Map directories to directorry/index.html
+RewriteRule	^(.*)/$		$1/index.html	[R,L]
