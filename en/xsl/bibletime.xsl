@@ -13,7 +13,7 @@
 
 <xsl:output method="xml"
             indent="no"
-			encoding="UTF-8"
+						encoding="UTF-8"
             doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN"
             doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
 />
@@ -183,6 +183,15 @@
 						</xsl:attribute>
 
 						<img alt="pt-br" src="/images/flags/pt-br.png"/>
+					</a>
+
+					<a title="kr">
+						<xsl:attribute name="href">
+							<xsl:text>/kr/</xsl:text>
+							<xsl:value-of select="$htmlfilename"/>
+						</xsl:attribute>
+
+						<img alt="kr" src="/images/flags/kr.png"/>
 					</a>
 
 					<a title="ro">

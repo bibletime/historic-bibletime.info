@@ -47,7 +47,7 @@
 > Setzen Sie den folgenden HTML Code auf ihre Seiten: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank">
- <img src="http://www.bibletime.info/" width="88" height="31" border="0"/>
+ <img src="http://www.bibletime.info/images/banner/small.jpg" width="88" height="31" border="0"/>
  </a>
 ]]>
 </programlisting

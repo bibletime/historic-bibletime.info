@@ -25,7 +25,7 @@
 > <listitem
 > <ulink url="http://www.crosswire.org/sword/software/swordapi.jsp"
 >Sword 1.5.3</ulink
-> Only required if do not install a precompiled binary package. Installation instructions for Sword are available here: <olink targetdocent="documentation_installation_sword"
+>. Only required if do not install a precompiled binary package. Installation instructions for Sword are available here: <olink targetdocent="documentation_installation_sword"
 >Sword's installation</olink
 > </listitem
 > </itemizedlist
@@ -41,10 +41,15 @@
 > KDE 3 este distribuit cu cele mai multe distributii Linux. Cel mai adesea e instalat ca desktop standard. </listitem
 > <listitem
 > <ulink url="http://www.crosswire.org/sword/software/swordapi.jsp"
->Sword 1.5.6</ulink
-> Installation instructions for Sword are available here: <olink targetdocent="documentation_installation_sword"
+>Sword 1.5.7</ulink
+>. Installation instructions for Sword are available here: <olink targetdocent="documentation_installation_sword"
 >Sword's installation</olink
 > </listitem
+> <listitem
+> <ulink url="http://curl.sourceforge.net/"
+>Curl 
+>= 7.10</ulink
+>. This is necessary for the remote installation features of the new Sword Setup Dialog. </listitem
 > </itemizedlist
 > </para>
 </section>

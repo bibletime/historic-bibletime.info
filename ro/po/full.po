@@ -708,22 +708,27 @@ msgstr "KDE 3 este distribuit cu cele mai multe distributii Linux. Cel mai adese
 
 #: index.docbook:16
 #, no-c-format
-msgid "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.3</ulink> Only required if do not install a precompiled binary package. Installation instructions for Sword are available here: <olink targetdocent=\"documentation_installation_sword\">Sword's installation</olink>"
+msgid "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.3</ulink>. Only required if do not install a precompiled binary package. Installation instructions for Sword are available here: <olink targetdocent=\"documentation_installation_sword\">Sword's installation</olink>"
 msgstr ""
 
-#: index.docbook:30
+#: index.docbook:31
 #, fuzzy, no-c-format
-msgid "Requirements for BibleTime 1.3"
+msgid "Requirements for BibleTime 1.4"
 msgstr "Cerinte pentru Bibletime 1.1"
 
-#: index.docbook:31
+#: index.docbook:32
 #, fuzzy, no-c-format
 msgid "<ulink url=\"http://www.kde.org/\">KDE 3</ulink>: At least the libraries and the base package. KDE 3 is shipped with many Linux distributions. Very often it's installed by default."
 msgstr "KDE 3 este distribuit cu cele mai multe distributii Linux. Cel mai adesea e instalat ca desktop standard."
 
-#: index.docbook:31
+#: index.docbook:32
 #, no-c-format
-msgid "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.6</ulink> Installation instructions for Sword are available here: <olink targetdocent=\"documentation_installation_sword\">Sword's installation</olink>"
+msgid "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.7</ulink>. Installation instructions for Sword are available here: <olink targetdocent=\"documentation_installation_sword\">Sword's installation</olink>"
+msgstr ""
+
+#: index.docbook:32
+#, no-c-format
+msgid "<ulink url=\"http://curl.sourceforge.net/\">Curl >= 7.10</ulink>. This is necessary for the remote installation features of the new Sword Setup Dialog."
 msgstr ""
 
 #: index.docbook:14
@@ -2109,7 +2114,7 @@ msgstr ""
 
 #: index.docbook:59
 #, no-c-format
-msgid "<emphasis>AraSVD</emphasis>: The Arabic Bible. Very nice example for right-to-left rendering of a complex script - Arabic is probably one of the most complicated scripts of the world. This screenshot was taken after linebreaks were switched off, providing a more readable text view. <ulink url=\"/images/gallery/arasvd.png\"></ulink>"
+msgid "<emphasis>AraSVD</emphasis>: The Arabic Bible. Very nice example for right-to-left rendering of a complex script - Arabic is probably one of the most complicated scripts of the world. This screenshot was taken after linebreaks were switched off, providing a more readable text view. <ulink url=\"/images/gallery/arasvd.png\">Large screenshot</ulink>"
 msgstr ""
 
 #: index.docbook:76
@@ -2119,7 +2124,7 @@ msgstr ""
 
 #: index.docbook:76
 #, no-c-format
-msgid "<emphasis>ChiGU</emphasis>: Chinese Bible text. Since QT 3 BibleTime can correctly break the paragraphs (as you may know, there are no spaces between words). <ulink url=\"/images/gallery/chigu.png\"></ulink>"
+msgid "<emphasis>ChiGU</emphasis>: Chinese Bible text. Since QT 3 BibleTime can correctly break the paragraphs (as you may know, there are no spaces between words). <ulink url=\"/images/gallery/chigu.png\">Large screenshot</ulink>"
 msgstr ""
 
 #: index.docbook:92
@@ -2129,7 +2134,7 @@ msgstr ""
 
 #: index.docbook:92
 #, no-c-format
-msgid "<emphasis>IGNT</emphasis>: The Interlinear Greek New Testament. The green numbers in \"<![CDATA[< >]]>\" brackets are Strongnumbers, whereas the numbers in \"( )\" brackets are Morphologic Tags. Both of them can displayed in a tooltip using a predefined Strong's and Morphology dictionary, as you can see in the example. <ulink url=\"/images/gallery/ignt.png\"></ulink>"
+msgid "<emphasis>IGNT</emphasis>: The Interlinear Greek New Testament. The green numbers in \"<![CDATA[< >]]>\" brackets are Strongnumbers, whereas the numbers in \"( )\" brackets are Morphologic Tags. Both of them can displayed in a tooltip using a predefined Strong's and Morphology dictionary, as you can see in the example. <ulink url=\"/images/gallery/ignt.png\">Large screenshot</ulink>"
 msgstr ""
 
 #: index.docbook:110
@@ -2139,7 +2144,7 @@ msgstr ""
 
 #: index.docbook:110
 #, no-c-format
-msgid "<emphasis>Kor</emphasis> and <emphasis>ThaiKJV</emphasis>. Korean and Thai are very good Unicode examples covered by an amount of Unicode scripts already. They are displayed in a parallel view in one window. The first line of Thai text is of a little smaller pointsize. It is a section heading, and those can be turned on and off using the first toolbutton in the display window. <ulink url=\"/images/gallery/korthai.png\"></ulink>"
+msgid "<emphasis>Kor</emphasis> and <emphasis>ThaiKJV</emphasis>. Korean and Thai are very good Unicode examples covered by an amount of Unicode scripts already. They are displayed in a parallel view in one window. The first line of Thai text is of a little smaller pointsize. It is a section heading, and those can be turned on and off using the first toolbutton in the display window. <ulink url=\"/images/gallery/korthai.png\">Large screenshot</ulink>"
 msgstr ""
 
 #: index.docbook:129
@@ -2149,7 +2154,7 @@ msgstr ""
 
 #: index.docbook:129
 #, no-c-format
-msgid "<emphasis>Bulgarian</emphasis>: The Bible in Bulgarian language. Bulgarian uses the Kyrillic script, which is also used in other languages like Russian. Notice the marked text - it is a \"footnote\". The popup menu shows how those can be turned on and off. <ulink url=\"/images/gallery/bulgarian.png\"></ulink>"
+msgid "<emphasis>Bulgarian</emphasis>: The Bible in Bulgarian language. Bulgarian uses the Kyrillic script, which is also used in other languages like Russian. Notice the marked text - it is a \"footnote\". The popup menu shows how those can be turned on and off. <ulink url=\"/images/gallery/bulgarian.png\">Large screenshot</ulink>"
 msgstr ""
 
 #: index.docbook:146
@@ -2159,7 +2164,7 @@ msgstr ""
 
 #: index.docbook:146
 #, no-c-format
-msgid "<emphasis>Viet</emphasis> and <emphasis>RomCor</emphasis>. East Europe meets East Asia! Vietnamese and Romanian are not geographically linked, though they look somehow similar in this screenshot. <ulink url=\"/images/gallery/vietromcor.png\"></ulink>"
+msgid "<emphasis>Viet</emphasis> and <emphasis>RomCor</emphasis>. East Europe meets East Asia! Vietnamese and Romanian are not geographically linked, though they look somehow similar in this screenshot. <ulink url=\"/images/gallery/vietromcor.png\">Large screenshot</ulink>"
 msgstr ""
 
 #: index.docbook:162
@@ -2169,7 +2174,7 @@ msgstr ""
 
 #: index.docbook:162
 #, no-c-format
-msgid "YES, there is a Bible for those of you who prefer to speak Esperanto. This is not really a Unicode example, since the displayed characters come from the iso 8859-1 charset. But this shows how text looks like after switching off versenumbers and linebreaks. <ulink url=\"/images/gallery/esperanto.png\"></ulink>"
+msgid "YES, there is a Bible for those of you who prefer to speak Esperanto. This is not really a Unicode example, since the displayed characters come from the iso 8859-1 charset. But this shows how text looks like after switching off versenumbers and linebreaks. <ulink url=\"/images/gallery/esperanto.png\">Large screenshot</ulink>"
 msgstr ""
 
 #: index.docbook:14
@@ -2750,7 +2755,7 @@ msgstr "Bun Venit la proiectul BibleTime!"
 
 #: index.docbook:16
 #, no-c-format
-msgid "BibleTime is a Bible study application for Linux. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/sword/\">Crosswire Bible Society</ulink>."
+msgid "BibleTime is a Bible study application for Linux. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/\">Crosswire Bible Society</ulink>."
 msgstr ""
 
 #: index.docbook:25
@@ -2759,56 +2764,76 @@ msgid "News about BibleTime"
 msgstr "Despre BibleTime"
 
 #: index.docbook:26
+#, fuzzy, no-c-format
+msgid "2003-12-29: BibleTime 1.4"
+msgstr "A aparut BibleTime 1.3beta4"
+
+#: index.docbook:27
+#, no-c-format
+msgid "The new version 1.4 of BibleTime is now available for download. 1.4 in comparision with version 1.3 contains a new SwordSetup dialog to setup Sword and to install modules from local sources or from the internet. With the SwordSetup part it's also possible to remove modules from disk. 1.4 also contains many new bugfixes. BibleTime 1.4 is available on our download page."
+msgstr ""
+
+#: index.docbook:30
+#, no-c-format
+msgid "You need Sword 1.5.7 with enabled curl support to make use of the remote installation features. The binary packages we provide for some of the major linux distributions should work out of the box."
+msgstr ""
+
+#: index.docbook:33
+#, no-c-format
+msgid "If you run into troubles installing BibleTime or you have problems using it please submit a bugreport. We need your support to improve BibleTime."
+msgstr ""
+
+#: index.docbook:38
 #, no-c-format
 msgid "2003-12-03: BibleTime 1.4beta1"
 msgstr ""
 
-#: index.docbook:27
+#: index.docbook:39
 #, no-c-format
 msgid "The first testing version of the upcoming BibleTime 1.4 was released today. The new feature in comparision with 1.3 is the new SwordSetup dialog which makes the Sword and module configuration more userfriendly. Using the dialog you can now setup Sword's configuration files, install modules from the internet or from local sources (e.g. a CD) and also uninstall modules from your system. This beta release also contains some important bugfixes."
 msgstr ""
 
-#: index.docbook:36
+#: index.docbook:47
 #, no-c-format
 msgid "This 1.4beta1 release is only meant for testing, so we do not provide binary packages. If you know how to compile programs from source code we encourage you to try this beta1 release. You need Sword 1.5.6 with enabled curl support to make use of the remote installation features."
 msgstr ""
 
-#: index.docbook:43
+#: index.docbook:54
 #, no-c-format
 msgid "2003-10-19: SuSE 9.0 packages"
 msgstr ""
 
-#: index.docbook:44
+#: index.docbook:55
 #, no-c-format
 msgid "RPM packages are now available for SuSE 9.0. Report any problems to info@bibletime.info. Thank you!"
 msgstr ""
 
-#: index.docbook:49
+#: index.docbook:60
 #, no-c-format
 msgid "2003-10-16: New webpages"
 msgstr ""
 
-#: index.docbook:50
+#: index.docbook:61
 #, no-c-format
 msgid "BibleTime has now new webpages which offer better navigation, better design and faster page download time."
 msgstr ""
 
-#: index.docbook:54
+#: index.docbook:65
 #, no-c-format
 msgid "If you experience any problems with the new pages please let us know!"
 msgstr ""
 
-#: index.docbook:59
+#: index.docbook:70
 #, no-c-format
 msgid "2003-08-23: BibleTime 1.3"
 msgstr ""
 
-#: index.docbook:60
+#: index.docbook:71
 #, no-c-format
 msgid "Version 1.3 of BibleTime is finally available. BibleTime 1.3 contains a lot of new features, usability improvements and bug fixes. Upgrading to version 1.3 is strongly recommended for all our users. You can get the Software here: <ulink url=\"http://www.bibletime.info/software/download/\">Download</ulink>. Binary packages will be released in the next few days."
 msgstr ""
 
-#: index.docbook:65
+#: index.docbook:76
 #, no-c-format
 msgid "Get the bibletime and the bibletime-i18n packages for full functionality. We're very sorry for the long release time, we hope to shorten it with the next releases."
 msgstr ""
@@ -2879,6 +2904,10 @@ msgid "The search dialog of previous versions wasn't easy to use. This is the ne
 msgstr ""
 
 #, fuzzy
+#~ msgid "Requirements for BibleTime 1.3"
+#~ msgstr "Cerinte pentru Bibletime 1.1"
+
+#, fuzzy
 #~ msgid "Bible modules"
 #~ msgstr "Despre BibleTime"
 
@@ -2912,10 +2941,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "Please download the packages \"bibletime\" and \"bibletime-i18n\"! Without the \"bibletime-i18n\" package you would have no handbook, daily tips or installation instructions."
 #~ msgstr "Te rog descarca pachetele &raquo;bibletime&laquo; si &raquo;bibletime-doc&laquo;! Fara pachetul &raquo;bibletime-doc&laquo; nu vei avea manual, sfaturi zilnice si instructiuni de instalare."
-
-#, fuzzy
-#~ msgid "BibleTime 1.3"
-#~ msgstr "A aparut BibleTime 1.3beta4"
 
 #~ msgid "We try to offer a recommended list of modules which are in your language. Please click on the module types links to get the list of recommended modules. If there's not yet such a list for your language you'll get the recommended english modules."
 #~ msgstr "Incercam sa-ti oferim o lista cu modulele care sunt in limba ta. Te rog acceseaza link-ul cu tipuri de module pentru a obtine modulele recomandate. Daca nu exista inca o astfel de lista pentru limba ta vei primi lista de module engleze recomandate."

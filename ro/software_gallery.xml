@@ -84,7 +84,7 @@
 ><emphasis
 >AraSVD</emphasis
 >: The Arabic Bible. Very nice example for right-to-left rendering of a complex script - Arabic is probably one of the most complicated scripts of the world. This screenshot was taken after linebreaks were switched off, providing a more readable text view. <ulink url="/images/gallery/arasvd.png"
-></ulink
+>Large screenshot</ulink
 ></para
 > </formalpara
 > </caption
@@ -105,7 +105,7 @@
 ><emphasis
 >ChiGU</emphasis
 >: Chinese Bible text. Since QT 3 BibleTime can correctly break the paragraphs (as you may know, there are no spaces between words). <ulink url="/images/gallery/chigu.png"
-></ulink
+>Large screenshot</ulink
 ></para
 > </formalpara
 > </caption
@@ -127,7 +127,7 @@
 >IGNT</emphasis
 >: The Interlinear Greek New Testament. The green numbers in "<![CDATA[< 
 >]]>" brackets are Strongnumbers, whereas the numbers in "( )" brackets are Morphologic Tags. Both of them can displayed in a tooltip using a predefined Strong's and Morphology dictionary, as you can see in the example. <ulink url="/images/gallery/ignt.png"
-></ulink
+>Large screenshot</ulink
 ></para
 > </formalpara
 > </caption
@@ -150,7 +150,7 @@
 > and <emphasis
 >ThaiKJV</emphasis
 >. Korean and Thai are very good Unicode examples covered by an amount of Unicode scripts already. They are displayed in a parallel view in one window. The first line of Thai text is of a little smaller pointsize. It is a section heading, and those can be turned on and off using the first toolbutton in the display window. <ulink url="/images/gallery/korthai.png"
-></ulink
+>Large screenshot</ulink
 ></para
 > </formalpara
 > </caption
@@ -171,7 +171,7 @@
 ><emphasis
 >Bulgarian</emphasis
 >: The Bible in Bulgarian language. Bulgarian uses the Kyrillic script, which is also used in other languages like Russian. Notice the marked text - it is a "footnote". The popup menu shows how those can be turned on and off. <ulink url="/images/gallery/bulgarian.png"
-></ulink
+>Large screenshot</ulink
 ></para
 > </formalpara
 > </caption
@@ -194,7 +194,7 @@
 > and <emphasis
 >RomCor</emphasis
 >. East Europe meets East Asia! Vietnamese and Romanian are not geographically linked, though they look somehow similar in this screenshot. <ulink url="/images/gallery/vietromcor.png"
-></ulink
+>Large screenshot</ulink
 ></para
 > </formalpara
 > </caption
@@ -213,7 +213,7 @@
 >Esperanto without verse numbers and linebreaks</title
 > <para
 >YES, there is a Bible for those of you who prefer to speak Esperanto. This is not really a Unicode example, since the displayed characters come from the iso 8859-1 charset. But this shows how text looks like after switching off versenumbers and linebreaks. <ulink url="/images/gallery/esperanto.png"
-></ulink
+>Large screenshot</ulink
 ></para
 > </formalpara
 > </caption

@@ -156,16 +156,16 @@ textarea:focus {
 
 #navigation .toplevel {
 	color:black;
-	background-color:transparent;
-	font-size:0.9em;
-	font-weight:bold;
+	background-color: transparent;
+	font-size: 0.9em;
+	font-weight: bold;
 }
 
 #navigation .toplevel * a {
-	color:#140366;
-	background-color:transparent;
-	font-size:0.9em;
-	font-weight:bold;
+	color: #140366;
+	background-color: transparent;
+	font-size: 0.9em;
+	font-weight: bold;
 }
 
 #navigation .shrink1 {
@@ -187,18 +187,19 @@ textarea:focus {
 
 #navigation .curpage {
 	color:black;
-	font-size:0.9em;
-	background-color:transparent;
+	font-size: 1em;
+	font-weight: bold;
+	background-color: transparent;
 }
 
 #navigation img {
-	 border:0px;
-	 background-color:transparent;
-	 color:white;
-	 padding-right:2px;
-	 margin-top:1px;
-	 margin-bottom:2px;
-	 vertical-align:top;
+	 border: 0px;
+	 background-color: transparent;
+	 color: white;
+	 padding-right: 2px;
+	 margin-top: 1px;
+	 margin-bottom: 2px;
+	 vertical-align: top;
 }
 
 #navigation .curpage img {
@@ -396,8 +397,26 @@ table tr.question td {
 }
 
 
+/* Special formatting for the software page */
+#software #content {
+	padding-bottom: 10px;
+}
+#software #content .section+.section p {
+	margin: 2px 0 25px 25px;
+	padding-right: 5px;
+}
+#software #content .section+.section p b {
+	display: block;
+	clear:right;
+	border-bottom: 2px dashed #B4CAFF;
+	margin-left: -15px;
+	font-size:1.1em;
+}
+
 
 /* Special formatting for some pages */
 #software_gallery #content img {
 	margin-top:25px;
 }
+
+

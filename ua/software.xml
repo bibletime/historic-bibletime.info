@@ -12,7 +12,7 @@
 <summary
 >Introduction</summary>
 <keywords
->Norman Walsh, DSSSL, SGML, XML, DocBook, Website</keywords>
+>BibleTime, Jesus, God, Bible study, Crosswire, Sword</keywords>
 </head>
 
 <section
@@ -23,24 +23,34 @@
 >K Desktop Environment</ulink
 > and uses the <ulink url="http://www.crosswire.org/sword/"
 >Sword</ulink
-> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url="http://www.crosswire.org/sword/"
+> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url="http://www.crosswire.org/"
 >Crosswire Bible Society</ulink
 >. </para>
 </section>
 
-<section id="news"
+<section
 ><title
 >Щодо BibleTime</title>
+	<formalpara
+><title
+>2003-12-29: BibleTime 1.4</title>
+		<para
+> The new version 1.4 of BibleTime is now available for download. 1.4 in comparision with version 1.3 contains a new SwordSetup dialog to setup Sword and to install modules from local sources or from the internet. With the SwordSetup part it's also possible to remove modules from disk. 1.4 also contains many new bugfixes. BibleTime 1.4 is available on our download page. </para>
+		<para
+> You need Sword 1.5.7 with enabled curl support to make use of the remote installation features. The binary packages we provide for some of the major linux distributions should work out of the box. </para>
+		<para
+> If you run into troubles installing BibleTime or you have problems using it please submit a bugreport. We need your support to improve BibleTime. </para>
+	</formalpara>
+
 	<formalpara
 ><title
 >2003-12-03: BibleTime 1.4beta1</title>
 		<para
 > The first testing version of the upcoming BibleTime 1.4 was released today. The new feature in comparision with 1.3 is the new SwordSetup dialog which makes the Sword and module configuration more userfriendly. Using the dialog you can now setup Sword's configuration files, install modules from the internet or from local sources (e.g. a CD) and also uninstall modules from your system. This beta release also contains some important bugfixes. </para>
-	</formalpara>
-	<para
+		<para
 > This 1.4beta1 release is only meant for testing, so we do not provide binary packages. If you know how to compile programs from source code we encourage you to try this beta1 release. You need Sword 1.5.6 with enabled curl support to make use of the remote installation features. </para>
+	</formalpara>
 
-	
 	<formalpara
 ><title
 >2003-10-19: SuSE 9.0 packages</title>
