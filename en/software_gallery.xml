@@ -162,7 +162,9 @@
 		<mediaobject>
 		<caption>
 			<formalpara><title>Esperanto without verse numbers and linebreaks</title>
-				<para>YES, there is a Bible for those of you who prefer to speak Esperanto. This is not really a Unicode example, since the displayed characters come from the iso 8859-1 charset. But this shows how text looks like after switching off versenumbers and linebreaks.
+				<para>YES, there is a Bible for those of you who prefer to speak Esperanto. This is not really a
+				Unicode example, since the displayed characters come from the iso 8859-1 charset. But this shows
+				how text looks like after switching off versenumbers and linebreaks.
 				<ulink url="/images/gallery/esperanto.png">Large screenshot</ulink></para>
 			</formalpara>
 		</caption>
