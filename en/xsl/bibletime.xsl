@@ -10,10 +10,10 @@
 <xsl:include href="head-bibletime.xsl"/>
 
 <xsl:output method="xml"
-            indent="yes"
+            indent="no"
 			encoding="UTF-8"
-            doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN"
-            doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+            doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN"
+            doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
 />
 
 <xsl:param name="autolayout" select="document($autolayout-file, /*)"/>
@@ -130,7 +130,7 @@
 		<xsl:apply-templates select="config" mode="head.mode"/>
 
 		<body>
-			<div id="header">
+			<div id="pagetop">
 				<img height="86" class="left" alt="left" src="/images/pagetop-left.png"/>
 				<img height="86" class="right" alt="right" src="/images/pagetop-right.png"/>
 
@@ -168,8 +168,6 @@
 					</div>
 				</div>
 
-				<div id="rightpanel"></div>
-
 				<div id="content">
 					<xsl:apply-templates select="child::*[name(.) != 'webpage']"/>
 					<xsl:call-template name="process.footnotes"/>
@@ -177,7 +175,7 @@
 
 			</td></tr></table>
 
-			<div id="footer">
+			<div id="pagebottom">
 				<xsl:call-template name="webpage.footer"/>
 			</div>
 

@@ -8,7 +8,7 @@
 <config param="rcsdate" value="$Date$"/>
 <head>
 <title
->Join us</title>
+>Mitmachen</title>
 <summary
 >BibleTime's development</summary>
 <keywords
@@ -19,7 +19,7 @@
 ><title
 >Dem BibleTime Team beitreten</title>
 <para
-> Wir sind über jeden, der uns hilft die BileTime Software, die Dokumentation und die Übersetzungen zu verbessern. </para>
+> Wir sind dankbar für jeden, der uns hilft die BileTime Software, die Dokumentation und die Übersetzungen zu verbessern. </para>
 
 <section
 ><title
@@ -71,7 +71,9 @@
 <para
 > <orderedlist
 > <listitem
-> Schauen Sie sich die Internationalsisierungs Seiten des KDE Projektes an. Diese sind auf folgender Seite verfügbar: </listitem
+> Schauen Sie sich die Internationalsisierungs Seiten des KDE Projektes an. Diese sind auf <ulink url="http://i18n.kde.org/"
+>i18n.kde.org</ulink
+> verfürbar. </listitem
 > <listitem
 > Installieren Sie das Programm KBabel, falls nicht bereits auf ihrem System installiert ist. Dies wird ihnen mit der Übersetzung wirklich helfen. </listitem
 > <listitem

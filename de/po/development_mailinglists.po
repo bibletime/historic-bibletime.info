@@ -67,4 +67,3 @@ msgstr "Archive der Sword Entwicklungs-Mailingliste sind verfügbar auf:"
 #, no-c-format
 msgid "www.crosswire.org/pipermail/sword-devel"
 msgstr "www.crosswire.org/pipermail/sword-devel"
-

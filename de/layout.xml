@@ -18,10 +18,8 @@
 >2002</year>
 		<year
 >2003</year>
-    <holder role="http://www.bibletime.info/"
->Die BibleTime Entwickler - <ulink url="http://www.bibletime.info/"
->www.bibletime.info</ulink
-></holder>
+    	<holder role="http://www.bibletime.info/"
+>Die BibleTime Entwickler - www.bibletime.info</holder>
   </copyright>
 
   <toc page="index.xml" filename="no_index.html">

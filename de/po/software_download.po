@@ -44,9 +44,9 @@ msgid "<ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">
 msgstr ""
 
 #: index.docbook:31
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Please download the packages &raquo;bibletime&laquo; and &raquo;bibletime-doc&laquo;! Without the &raquo;bibletime-doc&laquo; package you would have no handbook, daily tips or installation instructions."
-msgstr "Bitte laden Sie die Pakete &raquo;bibletime&laquo; und &raquo;bibletime-doc&laquo; herunter! Ohne dem &raquo;bibletime-doc&laquo; Paket würden Sie kein Handbuch, keine täglichen Tipps und keine Installationsanleitung haben."
+msgstr ""
 
 #: index.docbook:36
 #, no-c-format
@@ -56,4 +56,4 @@ msgstr "Installation"
 #: index.docbook:37
 #, no-c-format
 msgid "Please read the installation instructions: <olink targetdocent=\"documentation_installation_bibletime\">here</olink>"
-msgstr ""
+msgstr "Bitte lesen Sie die Installationsanleitung: <olink targetdocent=\"documentation_installation_bibletime\">hier</olink>"

@@ -16,7 +16,7 @@ msgstr ""
 #: index.docbook:10
 #, no-c-format
 msgid "Join us"
-msgstr ""
+msgstr "Mitmachen"
 
 #: index.docbook:15
 #, no-c-format
@@ -26,10 +26,10 @@ msgstr "Dem BibleTime Team beitreten"
 #: index.docbook:16
 #, no-c-format
 msgid "We are glad for everybody who helps us improving the BibleTime software, it's documentation and it's translations."
-msgstr "Wir sind über jeden, der uns hilft die BileTime Software, die Dokumentation und die Übersetzungen zu verbessern."
+msgstr "Wir sind dankbar für jeden, der uns hilft die BileTime Software, die Dokumentation und die Übersetzungen zu verbessern."
 
 #: index.docbook:20
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "The basic steps.."
 msgstr "Die grundlegenden Schritte"
 
@@ -54,7 +54,7 @@ msgid "Get the development version of BibleTime and install it. If you need help
 msgstr "Holen Sie sich die Entwicklungsversion von BibleTime und installieren Sie diese. Wenn Sie Hilfe damit benötigen, fragen Sie auf der Mailingliste oder schauen Sie in dem Dokumentations-Abschnitt nach."
 
 #: index.docbook:41
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "The next steps for software developers..."
 msgstr "Die nächsten Schritte für Software Entwickler"
 
@@ -69,7 +69,7 @@ msgid "If you don't know what to do please ask on the mailing list for some task
 msgstr "Falls Sie nicht wissen, was Sie tun sollen, fragen Sie bitte auf der Mailingliste nach ein paar Aufgaben. Vergessen Sie nicht uns mitzuteilen, wie schwierig diese sein sollen."
 
 #: index.docbook:54
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "The next steps for documentation authors..."
 msgstr "Die  nächsten Schritte für Dokumentations-Autoren"
 
@@ -84,14 +84,14 @@ msgid "The documentation is stored in docbook files in the unicode subdirectorie
 msgstr "Die Dokumentation ist in Docbook Dateien  in den unicode/ Unterverzeichnissen jedes Dokumentations-Teiles (Handbuch, Anleitung zum Bibelstudium, Installation, Hilfedialog) gespeichert."
 
 #: index.docbook:69
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "The next steps for translators..."
 msgstr "Die nächsten Schritte für Übersetzer"
 
 #: index.docbook:70
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Have a look at the internationaliziation pages of the KDE project. They're located at: <ulink url=\"http://i18n.kde.org/\">i18n.kde.org</ulink>"
-msgstr "Schauen Sie sich die Internationalsisierungs Seiten des KDE Projektes an. Diese sind auf folgender Seite verfügbar:"
+msgstr "Schauen Sie sich die Internationalsisierungs Seiten des KDE Projektes an. Diese sind auf <ulink url=\"http://i18n.kde.org/\">i18n.kde.org</ulink> verfügbar."
 
 #: index.docbook:70
 #, no-c-format
@@ -105,3 +105,4 @@ msgstr "Fordern Sie die Datein für die Übersetzung auf der bt-devel Mailinglis
 
 #~ msgid "Please don't edit the HTML files directly because they're generated from the docbook files. The translation file are also generated from the docbook data."
 #~ msgstr "Bitte bearbeiten Sie die HTML nicht direkt, da diese aus den Docbook Dateien generiert werden. Die Übersetzungsdateien werden ebenfalls aus den Docbook Dateien erzeugt."
+

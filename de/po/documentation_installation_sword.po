@@ -16,12 +16,12 @@ msgstr ""
 #: index.docbook:9
 #, no-c-format
 msgid "Sword"
-msgstr ""
+msgstr "Sword"
 
 #: index.docbook:14
 #, no-c-format
 msgid "Installation of Sword"
-msgstr "Installation von Sword"
+msgstr "Swords Installation"
 
 #: index.docbook:15
 #, no-c-format
@@ -46,4 +46,4 @@ msgstr "Die grundlegende Installation ist auf den Seiten der Crosswire Bible Soc
 #: index.docbook:31
 #, no-c-format
 msgid "http://www.crosswire.org/sword/software/index.jsp"
-msgstr ""
+msgstr "http://www.crosswire.org/sword/software/index.jsp"
