@@ -1,6 +1,6 @@
 <!DOCTYPE webproject>
 <webproject>
- <project usePreviewPrefix="0" type="Local" previewPrefix="" name="BibleTime" >
+ <project usePreviewPrefix="0" previewPrefix="" type="Local" name="BibleTime" >
   <upload remote_host="ftp.ansorgs.de" remote_port="" remote_path="/bibletime" remote_protocol="ftp" user="p34040278" />
   <author>Joachim Ansorg</author>
   <email>jansorg@gmx.de</email>
