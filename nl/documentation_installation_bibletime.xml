@@ -1,0 +1,101 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_about SYSTEM "software_about.xml" NDATA XML>
+<!ENTITY software_download SYSTEM "software_download.xml" NDATA XML>
+<!ENTITY documentation_requirements SYSTEM "documentation_requirements.xml" NDATA XML>
+<!ENTITY documentation_installation_modules SYSTEM "documentation_installation_modules.xml" NDATA XML>
+<!ENTITY documentation_faq SYSTEM "documentation_faq.xml" NDATA XML>
+]>
+
+<webpage id="documentation_installation_bibletime">
+<config param="desc" value="Installation of the BibleTime software"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>BibleTime</title>
+<summary
+>Introduction to the BibleTime software</summary>
+<keywords
+>BibleTime, Software, Installation, Help, Sword, Download</keywords>
+</head>
+
+<section
+><title
+>BibleTime-installatie</title>
+<para
+> Deze pagina beschrijft hoe BibleTime te installeren. Volg deze stappen om snel een werkende installatie van BibleTime te krijgen. </para>
+
+<section
+><title
+>De twee manieren om BibleTime te installeren</title>
+	<para
+> Er zijn twee mogelijkheden om BibleTime op uw systeem te installeren: <orderedlist
+> <listitem
+>Installatie met gebruik van binaire pakketten als RPM of DEB</listitem
+> <listitem
+>Het compileren van BibleTime uit bronnen op uw eigen systeem</listitem
+> </orderedlist
+> </para>
+
+	<para
+> We bevelen de installatie met binaire pakketten aan. Dit is het gemakkelijkst. </para>
+</section>
+
+<section
+><title
+>Voorgebouwde binaire pakketten</title>
+	<para
+> We proberen voor de belangrijkste Linux-distributies pakketten te leveren. Dit zijn onder andere RedHat, Mandrake en SuSE. </para>
+
+	<para
+> Download eerst het binaire pakket voor uw Linux-distributie. U wilt bijvoorbeeld BibleTime 1.2.2 voor SuSE Linux 8.1 downloaden. In dit geval downloadt u het pakket "bibletime-1.2.2-1suse8.1.i586.rpm". Vergeet niet ook het pakket bibletime-i18n, met de documentatie en vertalingen beschikbaar voor BibleTime, te downloaden. </para>
+
+	<para
+> Zoals u kunt zien bevat iedere pakketnaam de Linux-distributie en -versie waar deze voor gebouwd werd. Probeer alstublieft niet een pakket te installeren op een andere systeem dan waarvoor het gebouwd werd. </para>
+
+	<para
+> U kunt BibleTime hier downloaden: <olink targetdocent="software_download"
+>Download BibleTime</olink
+>. Vergeet niet enkele tekstmodules te installeren nadat u BibleTime heeft geïnstalleerd: <olink targetdocent="documentation_installation_modules"
+>Hoe tekstmodules te installeren</olink
+>. </para>
+</section>
+
+
+<section
+><title
+>Compilatie van broncode</title>
+	<para
+> Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources: <orderedlist
+> <listitem
+> Install the required software: <olink targetdocent="documentation_requirements"
+>BibleTime's requirements</olink
+> </listitem
+> <listitem
+> Get the source code package of BibeTime: <olink targetdocent="software_download"
+>Download</olink
+> </listitem
+> <listitem
+> Compile and install BibleTime: <programlisting>
+<![CDATA[
+	./configure --prefix=<your KDE directory>
+	make
+ 	make install
+]]>
+			</programlisting
+> You can get your KDE directory by running the command <command
+>kde-config --prefix</command
+>. If you get problems please read the <olink targetdocent="documentation_faq"
+>FAQ</olink
+>. If there's no solution of your problem, please contact us at <email
+>info@bibletime.info</email
+> </listitem
+> </orderedlist
+> Don't forget to install some text modules after you installed BibleTime: <olink targetdocent="documentation_installation_modules"
+>How to install the text modules</olink
+>. </para>
+</section>
+
+</section>
+</webpage>
+

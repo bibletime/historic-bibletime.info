@@ -1,0 +1,29 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="development">
+<config param="desc" value="Development"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Ontwikkeling</title>
+<summary
+>BibleTime's development</summary>
+<keywords
+>BibleTime, Development, Help, C++, KDE, SDK</keywords>
+</head>
+
+<section
+><title
+>BibleTime's ontwikkeling</title>
+<para
+> Deze pagina's beschrijven hoe u mee kunt werken aan de ontwikkeling van BibleTime en op welke manieren u ons kunt helpen! De kwaliteit en het bruikbaarheid van BibleTime hangen voor een groot deel af van de hulp van anderen. </para>
+
+<para
+> Lees de volgende pagina's goed om te zien of u ons kunt helpen met de ontwikkeling! </para>
+</section>
+
+</webpage>
+

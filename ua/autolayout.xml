@@ -5,10 +5,6 @@
 <title>Error</title>
 <summary>Error 404: File not found</summary>
 </notoc>
-<notoc page="translation.xml" id="translation" filename="translation.shtml">
-<title>Translation</title>
-<summary>Introduction</summary>
-</notoc>
 <toc page="index.xml" id="index" filename="no_index.html">
 <title>BibleTime</title>
 <summary>Introduction</summary>
@@ -91,6 +87,10 @@
 <title>Sword CD</title>
 <summary>Get the Sword CD</summary>
 </tocentry>
+</tocentry>
+<tocentry page="translation.xml" id="translation" filename="translation.shtml">
+<title>Translation</title>
+<summary>Introduction</summary>
 </tocentry>
 <tocentry page="development.xml" id="development" filename="development.html">
 <title>&#x420;&#x43E;&#x437;&#x440;&#x43E;&#x431;&#x43A;&#x430; &#x41F;&#x417;</title>

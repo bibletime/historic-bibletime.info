@@ -1,0 +1,62 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="software_screenshots">
+<config param="desc" value="News"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title
+>Schermafdrukken</title>
+	<summary
+>Screenshots of BibleTime</summary>
+	<keywords
+>BibleTime, Screenshots, Software</keywords>
+</head>
+
+<section
+><title
+>Schermafdrukken van BibleTime 1.3</title>
+
+	<mediaobject
+> <caption
+> <formalpara
+><title
+>Verbeteringen in 1.3</title
+> <para
+> Hier ziet u enkele verbeteringen in BibleTime 1.3. De boomstructuur aan de linkerzijde is nu opgezet per moduletype en -taal. De Griekse tekst in het rechter weergavescherm wordt nu beter weergegeven, omdat BibleTime nu voor iedere taal eigen lettertype-instellingen ondersteunt. <ulink url="/screenshots/1-large.jpg"
+>Grote schermafdruk</ulink
+> </para
+> </formalpara
+> </caption
+> <imageobject
+> <imagedata fileref="/images/screenshots/1.jpg" format="JPG"/> </imageobject
+> <textobject
+> <phrase
+>Verbeteringen in BibleTime 1.3</phrase
+> </textobject
+> </mediaobject>
+
+	<mediaobject
+> <caption
+> <formalpara
+><title
+>Nieuwe zoekdialoog</title
+> <para
+> De zoekdialoog in eerdere versies was niet makkelijk te gebruiken. Dit is de nieuwe zoekdialoog samen met rechts het nieuwe modulekiesscherm. <ulink url="/screenshots/2-large.jpg"
+>Grote schermafdruk</ulink
+> </para
+> </formalpara
+> </caption
+> <imageobject
+> <imagedata fileref="/images/screenshots/2.jpg" format="JPG"/> </imageobject
+> <textobject
+> <phrase
+>Nieuwe zoekdialoog</phrase
+> </textobject
+> </mediaobject>
+
+</section>
+
+</webpage>
+

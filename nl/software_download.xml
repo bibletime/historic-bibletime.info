@@ -1,0 +1,45 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY documentation_installation_bibletime SYSTEM "documentation_installation_bibletime.xml" NDATA XML>
+]>
+
+<webpage id="software_download">
+<config param="desc" value="Download"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title
+>Download</title>
+	<summary
+>Download BibleTime</summary>
+	<keywords
+>BibleTime, Software, Download, link</keywords>
+</head>
+
+<section
+><title
+>Hoe BibleTime te verkrijgen</title>
+<para
+> Er zijn verschillende RPM-pakketten van BibleTime beschikbaar. Om te weten te komen of ze voor u systeem gemaakt zijn, kijkt u naar de bestandsnaam van het pakket. Deze bevat de afgekorte naam en versie van de Linux-distributie waarvoor het gemaakt is. Het pakket "bibletime-1.2.2.-1suse8.1.i586.rpm" bijvoorbeeld werd voor SuSE 8.1-systemen draaiend op een i586 of hoger gemaakt. </para>
+
+<para
+> Het "bibletime"-pakket bevat de Engelstalige software en documentatie. Vertalingsbestanden voor beide zijn te vinden in het "bibletime-i18n"-pakket. </para>
+
+<para
+> U kunt BibleTime downloaden op <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954"
+>onze sourceforge projectpagina's</ulink
+> </para>
+
+</section>
+
+
+<section
+><title
+>Installatie</title>
+<para
+> Lees alstublieft de <olink targetdocent="documentation_installation_bibletime"
+>installatie instructies</olink
+>. </para>
+</section>
+
+</webpage>
+

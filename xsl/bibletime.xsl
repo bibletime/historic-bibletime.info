@@ -194,6 +194,15 @@
 						<img alt="ko" src="/images/flags/ko.png"/>
 					</a>
 
+					<a title="nl">
+						<xsl:attribute name="href">
+							<xsl:text>/nl/</xsl:text>
+							<xsl:value-of select="$htmlfilename"/>
+						</xsl:attribute>
+
+						<img alt="nl" src="/images/flags/nl.png"/>
+					</a>
+
 					<a title="ro">
 						<xsl:attribute name="href">
 							<xsl:text>/ro/</xsl:text>

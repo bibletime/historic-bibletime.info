@@ -1,0 +1,60 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="contact">
+<config param="desc" value="Contact"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title
+>Contact</title>
+	<summary
+>How to contact us</summary>
+	<keywords
+>BibleTime, Contact, Contact us, help, support</keywords>
+</head>
+
+<section
+><title
+>Hoe met ons in contact te komen</title>
+	<formalpara
+><title
+><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=100954"
+>Stuur een bug-rapport</ulink
+></title>
+	<para
+> Als u in BibleTime bugs (programmafouten) vindt, gebruik dan deze link om ze te melden, zodat ze in latere versies hersteld kunnen worden. </para>
+	</formalpara>
+
+	<formalpara
+><title
+><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=200954"
+>Krijg ondersteuning</ulink
+></title>
+	<para
+> Als u problemen heeft met BibleTime, gebruikt u deze link om ondersteuning te krijgen om ze op te lossen. </para>
+	</formalpara>
+
+	<formalpara
+><title
+><ulink url="http://sourceforge.net/tracker/?atid=350954&amp;group_id=954&amp;func=browse"
+>Verstuur een feature-aanvraag</ulink
+></title>
+	<para
+> Als u een idee heeft om BibleTime te verbeteren, gebruikt u deze link om ons erover te vertellen! </para>
+	</formalpara>
+
+	<formalpara
+><title
+><ulink url="http://sourceforge.net/tracker/?atid=511478&amp;group_id=954&amp;func=browse"
+>Meld een websiteprobleem</ulink
+></title>
+	<para
+> Als u een probleem heeft met de webpagina's of als u een idee heeft om ze te verbeteren schrijf ze dan op via deze link! </para>
+	</formalpara>
+
+</section>
+
+</webpage>
+

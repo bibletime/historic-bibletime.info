@@ -29,106 +29,106 @@ msgstr "Desenvolvedores do BibleTime - www.bibletime.info"
 msgid "Error"
 msgstr "Erro"
 
-#: index.docbook:9
-#, fuzzy, no-c-format
-msgid "Translation"
-msgstr "Instalação"
-
-#: index.docbook:13 index.docbook:70 index.docbook:14 index.docbook:9
+#: index.docbook:9 index.docbook:66 index.docbook:14
 #, no-c-format
 msgid "BibleTime"
 msgstr "BibleTime"
 
-#: index.docbook:16 index.docbook:10
+#: index.docbook:12 index.docbook:10
 #, no-c-format
 msgid "Software"
 msgstr "Software"
 
-#: index.docbook:19 index.docbook:9
+#: index.docbook:15 index.docbook:9
 #, no-c-format
 msgid "About BibleTime"
 msgstr "Sobre o BibleTime"
 
-#: index.docbook:23 index.docbook:9
+#: index.docbook:19 index.docbook:9
 #, no-c-format
 msgid "Screenshots"
 msgstr "Telas"
 
-#: index.docbook:27 index.docbook:9 index.docbook:14
+#: index.docbook:23 index.docbook:9 index.docbook:14
 #, no-c-format
 msgid "Gallery"
 msgstr "Galeria"
 
-#: index.docbook:31 index.docbook:10
+#: index.docbook:27 index.docbook:10
 #, no-c-format
 msgid "Download"
 msgstr "Download"
 
-#: index.docbook:35 index.docbook:10 index.docbook:15
+#: index.docbook:31 index.docbook:10 index.docbook:15
 #, no-c-format
 msgid "In the press"
 msgstr "Na mídia"
 
-#: index.docbook:39 index.docbook:10
+#: index.docbook:35 index.docbook:10
 #, no-c-format
 msgid "Contact"
 msgstr "Contato"
 
-#: index.docbook:43 index.docbook:9 index.docbook:19
+#: index.docbook:39 index.docbook:9 index.docbook:19
 #, no-c-format
 msgid "Guestbook"
 msgstr "Livro de Visitas"
 
-#: index.docbook:47 index.docbook:9
+#: index.docbook:43 index.docbook:9
 #, no-c-format
 msgid "Links"
 msgstr "Links"
 
-#: index.docbook:51 index.docbook:9
+#: index.docbook:47 index.docbook:9
 #, no-c-format
 msgid "Link to us"
 msgstr "Link para nós"
 
-#: index.docbook:55 index.docbook:9 index.docbook:14
+#: index.docbook:51 index.docbook:9 index.docbook:14
 #, no-c-format
 msgid "License"
 msgstr "Licença"
 
-#: index.docbook:60 index.docbook:9
+#: index.docbook:56 index.docbook:9
 #, no-c-format
 msgid "Documentation"
 msgstr "Documentação"
 
-#: index.docbook:63 index.docbook:10
+#: index.docbook:59 index.docbook:10
 #, no-c-format
 msgid "Requirements"
 msgstr "Requerimentos"
 
-#: index.docbook:67 index.docbook:9 index.docbook:36
+#: index.docbook:63 index.docbook:9 index.docbook:36
 #, no-c-format
 msgid "Installation"
 msgstr "Instalação"
 
-#: index.docbook:74 index.docbook:9
+#: index.docbook:70 index.docbook:9
 #, no-c-format
 msgid "Sword"
 msgstr "Sword"
 
-#: index.docbook:78 index.docbook:88 index.docbook:90 index.docbook:9
+#: index.docbook:74 index.docbook:84 index.docbook:90 index.docbook:9
 #: index.docbook:10
 #, no-c-format
 msgid "Modules"
 msgstr "Módulos"
 
-#: index.docbook:83 index.docbook:9
+#: index.docbook:79 index.docbook:9
 #, no-c-format
 msgid "<title>FAQ</title>"
 msgstr "<title>Perguntas Frequentes</title>"
 
-#: index.docbook:91 index.docbook:10
+#: index.docbook:87 index.docbook:10
 #, no-c-format
 msgid "Sword CD"
 msgstr "CD do Sword"
+
+#: index.docbook:92 index.docbook:9
+#, fuzzy, no-c-format
+msgid "Translation"
+msgstr "Instalação"
 
 #: index.docbook:96 index.docbook:10
 #, no-c-format

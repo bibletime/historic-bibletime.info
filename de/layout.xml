@@ -20,7 +20,6 @@
   </copyright>
 
   <notoc page="error404.xml" filename="error404.html"/>
-	<notoc page="translation.xml" filename="translation.shtml"/>
 
   <toc page="index.xml" filename="no_index.html">
 		<tocentry page="software.xml" filename="index.html">
@@ -49,6 +48,8 @@
 		<tocentry page="modules.xml" filename="modules.html">
 			<tocentry page="modules_swordcd.xml" filename="modules_swordcd.shtml"/>
 	  </tocentry>
+
+		<tocentry page="translation.xml" filename="translation.shtml"/>
 
 		<tocentry page="development.xml" filename="development.html">
 			<tocentry page="development_help.xml" filename="development_help.html"/>

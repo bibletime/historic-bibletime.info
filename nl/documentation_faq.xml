@@ -1,0 +1,153 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="documentation_ifaq">
+<config param="desc" value="FAQ"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>FAQ</title>
+<summary
+>FAQ about BibleTime</summary>
+<keywords
+>BibleTime, Sword, FAQ, Installation</keywords>
+</head>
+
+<section
+><title
+>Veel gestelde vragen (FAQ)</title>
+	<qandaset defaultlabel='number'>
+
+		<qandadiv
+><title
+>Installatieproblemen</title>
+			<qandaentry>
+				<question>
+					<para
+>Waarom is er geen werkbalk?</para>
+				</question>
+				<answer>
+					<para
+> Voer configure uit met de parameter --prefix =&lt;uw KDE-map&gt;. Voer daarna als gewoonlijk make en make install uit. De KDE-mappen voor de meestgebruikte Linux-distributies zijn: <orderedlist
+> <listitem
+>RedHat: /usr</listitem
+> <listitem
+>SuSE: /opt/kde3</listitem
+> <listitem
+>Mandrake: /usr</listitem
+> </orderedlist
+> Eventueel kunt u het commando "kde-config --prefix" uitvoeren om uw KDE-map te vinden. De commando's zijn: <orderedlist
+> <listitem
+>./configure --prefix=&lt;uw KDE-map&gt;</listitem
+> <listitem
+>make</listitem
+> <listitem
+>make install</listitem
+> </orderedlist
+> </para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para
+>De vertalingen ontbreken!</para>
+				</question>
+				<answer>
+					<para
+> Installeer het pakket bibletime-i18n, dat de vertalingen van de dagelijkse tips, het handboek de installatie-instructies en de Bijbelstudie HowTo bevat. </para>
+				</answer>
+			</qandaentry>
+
+		</qandadiv>
+
+		<qandadiv
+><title
+>Gebruiksproblemen</title>
+			<qandaentry>
+				<question>
+					<para
+> Is het mogelijk om naar een specifiek Strong-nummer te zoeken? </para>
+				</question>
+
+				<answer>
+					<para
+> U heeft ten minste BibleTime 1.1 nodig om dit te doen. Zet in het instellingenvenster (Sword &gt; Filterinstellingen) het standaard gebruik van Strong's-nummers aan. Open hierna het zoekvenster en zoek naar &lt;0120&gt; of een andere Strong-code. </para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para
+> Waarom zie ik alleen maar vraagtekens in plaats van Unicode-tekst? </para>
+				</question>
+
+				<answer>
+					<para
+> Controleer eerst of u de laatste versie van de module met de problemen heeft! Ga hiervoor naar <ulink url="www.crosswire.org/sword"
+>www.crosswire.org/sword</ulink
+>. </para>
+					<para
+> U moet een Unicode-lettertype als Code2000, Arial Unicode MS of Bitstream Cyberbit installeren om de speciale Unicode-karakters weer te geven. Zie de sectie "Configuring BibleTime ->Options Dialog->Fonts" in het BibleTime-handboek voor informatie over het installeren van Unicode-lettertypen onder Linux. </para>
+				</answer>
+			</qandaentry>
+		</qandadiv>
+
+		<qandadiv
+><title
+>Modules</title>
+			<qandaentry>
+				<question>
+					<para
+>De KJV heeft geen Strong's-nummers in het NT!</para>
+				</question>
+
+				<answer>
+					<para
+> Vanwege problemen met het auteursrecht moest de oude KJV-module, die alle Strong's-nummers bevatte verwijderd worden. Met als doel een auteursrechtenvrije tekst met alle Strong's-nummers te maken werd het KJV2003-project gestart. Op het moment is dit nog niet af, waardoor de nummers niet in alle verzen van het NT beschikbaar zijn. De status van het project is beschikbaar bij Crosswire. </para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para
+>Waar kan ik mijn eigen notities opschrijven?</para>
+				</question>
+
+				<answer>
+					<para
+> U moet de module "Personal" installeren, deze is als commentaar beschikbaar op <ulink url="http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Personal"
+>Crosswire</ulink
+>. Zie onze commentaren-pagina voor meer informatie: Commentaren. </para>
+				</answer>
+			</qandaentry>
+
+
+			<qandaentry>
+				<question>
+					<para
+>Waarom is één van de twee testamenten van een bijbelmodule leeg?</para>
+				</question>
+
+				<answer>
+					<para
+> Sommige modules bevatten alleen de tekst van het oude of het nieuwe testament. Nieuwere versies van BibleTime zouden alleen het testament met tekst moeten aanbieden. </para>
+				</answer>
+			</qandaentry>
+
+		</qandadiv>
+	</qandaset>
+</section>
+
+</webpage>
+
+
+
+
+<!--
+Local variables:
+mode: docbook
+End:
+-->
+

@@ -24,105 +24,105 @@ msgstr ""
 msgid "Error"
 msgstr ""
 
-#: index.docbook:9
-#, no-c-format
-msgid "Translation"
-msgstr ""
-
-#: index.docbook:13 index.docbook:70 index.docbook:14 index.docbook:9
+#: index.docbook:9 index.docbook:66 index.docbook:14
 #, no-c-format
 msgid "BibleTime"
 msgstr ""
 
-#: index.docbook:16 index.docbook:10
+#: index.docbook:12 index.docbook:10
 #, no-c-format
 msgid "Software"
 msgstr ""
 
-#: index.docbook:19 index.docbook:9
+#: index.docbook:15 index.docbook:9
 #, no-c-format
 msgid "About BibleTime"
 msgstr ""
 
-#: index.docbook:23 index.docbook:9
+#: index.docbook:19 index.docbook:9
 #, no-c-format
 msgid "Screenshots"
 msgstr ""
 
-#: index.docbook:27 index.docbook:9 index.docbook:14
+#: index.docbook:23 index.docbook:9 index.docbook:14
 #, no-c-format
 msgid "Gallery"
 msgstr ""
 
-#: index.docbook:31 index.docbook:10
+#: index.docbook:27 index.docbook:10
 #, no-c-format
 msgid "Download"
 msgstr ""
 
-#: index.docbook:35 index.docbook:10 index.docbook:15
+#: index.docbook:31 index.docbook:10 index.docbook:15
 #, no-c-format
 msgid "In the press"
 msgstr ""
 
-#: index.docbook:39 index.docbook:10
+#: index.docbook:35 index.docbook:10
 #, no-c-format
 msgid "Contact"
 msgstr ""
 
-#: index.docbook:43 index.docbook:9 index.docbook:19
+#: index.docbook:39 index.docbook:9 index.docbook:19
 #, no-c-format
 msgid "Guestbook"
 msgstr ""
 
-#: index.docbook:47 index.docbook:9
+#: index.docbook:43 index.docbook:9
 #, no-c-format
 msgid "Links"
 msgstr ""
 
-#: index.docbook:51 index.docbook:9
+#: index.docbook:47 index.docbook:9
 #, no-c-format
 msgid "Link to us"
 msgstr ""
 
-#: index.docbook:55 index.docbook:9 index.docbook:14
+#: index.docbook:51 index.docbook:9 index.docbook:14
 #, no-c-format
 msgid "License"
 msgstr ""
 
-#: index.docbook:60 index.docbook:9
+#: index.docbook:56 index.docbook:9
 #, no-c-format
 msgid "Documentation"
 msgstr ""
 
-#: index.docbook:63 index.docbook:10
+#: index.docbook:59 index.docbook:10
 #, no-c-format
 msgid "Requirements"
 msgstr ""
 
-#: index.docbook:67 index.docbook:9 index.docbook:36
+#: index.docbook:63 index.docbook:9 index.docbook:36
 #, no-c-format
 msgid "Installation"
 msgstr ""
 
-#: index.docbook:74 index.docbook:9
+#: index.docbook:70 index.docbook:9
 #, no-c-format
 msgid "Sword"
 msgstr ""
 
-#: index.docbook:78 index.docbook:88 index.docbook:90 index.docbook:9
+#: index.docbook:74 index.docbook:84 index.docbook:90 index.docbook:9
 #: index.docbook:10
 #, no-c-format
 msgid "Modules"
 msgstr ""
 
-#: index.docbook:83 index.docbook:9
+#: index.docbook:79 index.docbook:9
 #, no-c-format
 msgid "<title>FAQ</title>"
 msgstr ""
 
-#: index.docbook:91 index.docbook:10
+#: index.docbook:87 index.docbook:10
 #, no-c-format
 msgid "Sword CD"
+msgstr ""
+
+#: index.docbook:92 index.docbook:9
+#, no-c-format
+msgid "Translation"
 msgstr ""
 
 #: index.docbook:96 index.docbook:10

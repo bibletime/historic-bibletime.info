@@ -1,0 +1,53 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="documentation_installation_modules">
+<config param="desc" value="Installation of modules"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Modules</title>
+<summary
+>How to install Sword modules</summary>
+<keywords
+>BibleTime, Sword, Module, Modules, Installation</keywords>
+</head>
+
+<section
+><title
+>Installatie van Sword-tekstmodules</title>
+
+<para
+> Deze pagina beschrijft hoe de tekstmodules, welke beschikbaar zijn bij Crosswire, aan de BibleTime-software toe te voegen, zodat deze echt nuttig wordt. </para>
+
+<para
+> De modules zijn als ZIP-bestanden beschikbaar bij de Crosswire Bible Society. Neem een kijkje in de "Modules"-sectie van de BibleTime webpagina's om een overzicht te krijgen van de beschikbare modules. </para>
+
+<para
+> Controleer voordat u begint met het installeren van de modules of BibleTime is geïnstalleerd! </para>
+
+<para
+> Vind eerst de Sword-map op uw systeem. De Sword-map bevat alle Sword-data en bevat tenminste de submappen "modules/" en "mods.d/". </para>
+
+<para
+> Pak daarna de gedownloade ZIP-bestanden uit naar de Sword-map om de twee genoemde submappen te vullen. </para>
+
+<para
+> Na het herstarten van BibleTime zouden de modules in de hoofdindex aan de linkerzijde van het hoofdscherm weergegeven moeten worden . </para>
+
+<para
+> De door het Sword-team gemaakte (Engelstalige) installatie-instructies vindt u hier: </para>
+
+<para
+> <ulink url="http://www.crosswire.org/sword/modules/moduleinstall.jsp"
+>www.crosswire.org/sword/modules/moduleinstall.jsp</ulink
+>. </para>
+
+<para
+> Als u in de problemen komt, lees dan de antwoorden op de veelgestelde vragen (FAQ). De FAQ is beschikbaar aan de linkerzijde van deze pagina. </para>
+
+</section>
+
+</webpage>
+

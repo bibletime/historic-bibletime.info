@@ -1,0 +1,32 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="software_guestbook">
+<config param="desc" value="News"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title
+>Gastenboek</title>
+	<summary
+>BibleTime's guestbook</summary>
+	<keywords
+>BibleTime, Software, Sword, User, feedback, Guestbook</keywords>
+</head>
+
+<section
+><title
+>BibleTime's gastenboek</title>
+	<para
+> Deze pagina geeft het BibleTime-gastenboek weer. Plaats alstublieft uw opmerkingen als u wilt. Schrijf uw opmerkingen indien mogelijk in het Engels! HTML is niet toegestaan en zal worden verwijderd. Normale regeleinden om in alinea's te verdelen zijn toegestaan. </para>
+
+<section
+><title
+>Gastenboek</title>
+<ssi mode="exec" cgi="/guestbook.pl"/>
+</section>
+
+</section>
+
+</webpage>
+

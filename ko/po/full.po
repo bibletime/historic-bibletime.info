@@ -29,106 +29,106 @@ msgstr "바이블타임 개발자 - www.bibletime.info"
 msgid "Error"
 msgstr "에러"
 
-#: index.docbook:9
-#, fuzzy, no-c-format
-msgid "Translation"
-msgstr "설치"
-
-#: index.docbook:13 index.docbook:70 index.docbook:14 index.docbook:9
+#: index.docbook:9 index.docbook:66 index.docbook:14
 #, no-c-format
 msgid "BibleTime"
 msgstr "바이블타임"
 
-#: index.docbook:16 index.docbook:10
+#: index.docbook:12 index.docbook:10
 #, no-c-format
 msgid "Software"
 msgstr "소프트웨어"
 
-#: index.docbook:19 index.docbook:9
+#: index.docbook:15 index.docbook:9
 #, no-c-format
 msgid "About BibleTime"
 msgstr "바이블타임에 관하여"
 
-#: index.docbook:23 index.docbook:9
+#: index.docbook:19 index.docbook:9
 #, no-c-format
 msgid "Screenshots"
 msgstr "스크린샷"
 
-#: index.docbook:27 index.docbook:9 index.docbook:14
+#: index.docbook:23 index.docbook:9 index.docbook:14
 #, no-c-format
 msgid "Gallery"
 msgstr "갤러리"
 
-#: index.docbook:31 index.docbook:10
+#: index.docbook:27 index.docbook:10
 #, no-c-format
 msgid "Download"
 msgstr "다운로드"
 
-#: index.docbook:35 index.docbook:10 index.docbook:15
+#: index.docbook:31 index.docbook:10 index.docbook:15
 #, no-c-format
 msgid "In the press"
 msgstr "출판물에서"
 
-#: index.docbook:39 index.docbook:10
+#: index.docbook:35 index.docbook:10
 #, no-c-format
 msgid "Contact"
 msgstr "연락처"
 
-#: index.docbook:43 index.docbook:9 index.docbook:19
+#: index.docbook:39 index.docbook:9 index.docbook:19
 #, no-c-format
 msgid "Guestbook"
 msgstr "방명록"
 
-#: index.docbook:47 index.docbook:9
+#: index.docbook:43 index.docbook:9
 #, no-c-format
 msgid "Links"
 msgstr "링크"
 
-#: index.docbook:51 index.docbook:9
+#: index.docbook:47 index.docbook:9
 #, no-c-format
 msgid "Link to us"
 msgstr "링크하기"
 
-#: index.docbook:55 index.docbook:9 index.docbook:14
+#: index.docbook:51 index.docbook:9 index.docbook:14
 #, no-c-format
 msgid "License"
 msgstr "라이센스"
 
-#: index.docbook:60 index.docbook:9
+#: index.docbook:56 index.docbook:9
 #, no-c-format
 msgid "Documentation"
 msgstr "문서"
 
-#: index.docbook:63 index.docbook:10
+#: index.docbook:59 index.docbook:10
 #, no-c-format
 msgid "Requirements"
 msgstr "필요한 것들"
 
-#: index.docbook:67 index.docbook:9 index.docbook:36
+#: index.docbook:63 index.docbook:9 index.docbook:36
 #, no-c-format
 msgid "Installation"
 msgstr "설치"
 
-#: index.docbook:74 index.docbook:9
+#: index.docbook:70 index.docbook:9
 #, no-c-format
 msgid "Sword"
 msgstr "스워드(Sword)"
 
-#: index.docbook:78 index.docbook:88 index.docbook:90 index.docbook:9
+#: index.docbook:74 index.docbook:84 index.docbook:90 index.docbook:9
 #: index.docbook:10
 #, no-c-format
 msgid "Modules"
 msgstr "모듈"
 
-#: index.docbook:83 index.docbook:9
+#: index.docbook:79 index.docbook:9
 #, no-c-format
 msgid "<title>FAQ</title>"
 msgstr "<title>자주 묻는 질문들(FAQ)</title>"
 
-#: index.docbook:91 index.docbook:10
+#: index.docbook:87 index.docbook:10
 #, no-c-format
 msgid "Sword CD"
 msgstr "스워드(Sword) CD"
+
+#: index.docbook:92 index.docbook:9
+#, fuzzy, no-c-format
+msgid "Translation"
+msgstr "설치"
 
 #: index.docbook:96 index.docbook:10
 #, no-c-format

@@ -1,0 +1,74 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="modules_swordcd">
+<config param="desc" value="Sword CD"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Sword CD</title>
+<summary
+>Get the Sword CD</summary>
+<keywords
+>BibleTime, Modules, Sword, CD, CD Order, CD, Order</keywords>
+</head>
+
+<section
+><title
+>Wat is de Sword CD?</title>
+<para
+> Het Sword-project bied een CD met alle software voor Windows, Linux en Mac OS X aan. De CD wordt, net als al het andere dat de Crosswire Bible Society u aanbied, gratis beschikbaar gesteld. Kijk hieronder om te zien hoe de CD te downloaden. Als u de CD niet kunt downloaden, bijvoorbeeld omdat u geen snelle verbinding heeft, kunt u de CD bestellen. Als u in Europa woont sturen de BibleTime-ontwikkelaars deze CDs naar u. In dit geval vult u het formulier hieronder in, en verstuurt u het. </para>
+</section>
+
+
+<section
+><title
+>Wat kan ik met de CD?</title>
+<para
+> U kunt enkele belangrijke dingen doen met de CD: <itemizedlist
+> <listitem
+> <formalpara
+><title
+>De Bijbel bestuderen!</title
+> <para
+> Gebruik alle bijbels, commentaren, lexicons overzichten en boeken om Gods woord te bestuderen! Wij hopen dat de CD u helpt het woord efficiënter te bestuderen! </para
+> </formalpara
+> </listitem
+> <listitem
+> <formalpara
+><title
+>Kopieer de CD!</title
+> <para
+> Kopieer alstublieft de CD en deel hem met vele anderen! Indien mogelijk doet u dit gratis. Indien niet mogelijk vraag dan alstublieft alleen geld om uw kosten te dekken, omdat het anders niet mogelijk zou zijn sommige teksten op de CD te verspreiden. </para
+> </formalpara
+> </listitem
+> </itemizedlist
+> </para>
+</section>
+
+<section
+><title
+>Ik wil de Sword CD downloaden!</title>
+<para
+> Geen probleem! Download het bestand met de laatste datum van <ulink url="ftp://ftp.crosswire.org/pub/sword/iso/"
+>ftp.crosswire.org/pub/sword/iso/</ulink
+>. Vergeet niet dat het bestand meer dan 600 MB groot is en dat u de beschikking moet hebben over een snelle verbinding om het te downloaden. </para>
+</section>
+
+<section
+><title
+>Ik wil de Sword CD bestellen!</title>
+<para
+> Indien u NIET in Europa woont gaat u naar bestelpagina voor de Crosswire CD en bestelt u de CD daar. Als u ergens in Europa woont zullen de BibleTime-ontwikkelaars u de CD toezenden. Vult u de benodigde informatie in het onderstaande formulier in en verstuur het. De BibleTime-ontwikkelaars zullen u de CD gratis toezenden. </para>
+</section>
+
+<section
+><title
+>De Sword CD</title>
+<ssi mode="exec" cgi="/swordcd.pl"/>
+</section>
+
+</webpage>
+

@@ -53,7 +53,7 @@ sub stats() {
 
 open(OUT, "> postats.txt");
 
-my @langs = ("bg", "de", "ko", "pt-br", "ro", "ru", "ua");
+my @langs = sort("bg", "de", "ko", "nl", "pt-br", "ro", "ru", "ua");
 foreach my $lang (@langs) {
 	print OUT &stats( $lang );
 

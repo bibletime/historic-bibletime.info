@@ -1,0 +1,56 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="development_mailinglists">
+<config param="desc" value="mailinglists us"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title
+>Mailinglijsten</title>
+<summary
+>BibleTime's mailinglists</summary>
+<keywords
+>BibleTime, mailinglist, subscribe, unsubscribe</keywords>
+</head>
+
+<section
+><title
+>BibleTime ontwikkelingsmailinglijst</title>
+<para
+> Om lid te worden van de ontwikkelingsmailinglijst van het BibleTime-project bezoekt u de volgende webpagina en vult u daar uw e-mailadres in: </para>
+<para
+> <ulink url="http://www.crosswire.org/mailman/listinfo/bt-devel"
+>www.crosswire.org/mailman/listinfo/bt-devel</ulink
+>. </para>
+
+<para
+> Archieven van de BibleTime ontwikkelingsmailinglijst zijn beschikbaar op: </para>
+<para
+> <ulink url="http://www.crosswire.org/pipermail/bt-devel/"
+>www.crosswire.org/pipermail/bt-devel</ulink
+> </para>
+</section>
+
+<section
+><title
+>Sword ontwikkelingsmailinglijst</title>
+<para
+> Om lid te worden van de ontwikkelingsmailinglijst van het Sword-project bezoekt u de volgende webpagina en vult u daar uw e-mailadres in: </para>
+
+<para
+> <ulink url="http://www.crosswire.org/mailman/listinfo/sword-devel"
+>www.crosswire.org/mailman/listinfo/sword-devel</ulink
+>. </para>
+<para
+> Archieven van de Sword ontwikkelingsmailinglijst zijn beschikbaar op: </para>
+
+<para
+> <ulink url="http://www.crosswire.org/pipermail/sword-devel/"
+>www.crosswire.org/pipermail/sword-devel</ulink
+> </para>
+</section>
+
+</webpage>
+
