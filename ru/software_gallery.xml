@@ -19,10 +19,6 @@
 <section
 ><title
 >Галерея</title>
-
-	<para
->Эта страница ссылается на BibleTime 1.2 и нуждается в обновлении в ближайшее время, так как качество отображения было немного улучшено за это время.</para>
-
 	<para
 >Здесь вы сможете найти некоторые красивые скриншоты (screenshots) BibleTime, каждый из которых показывает один или два текстовых модуля. Они демонстрируют мощь механизма поддержки Unicode в QT 3 от <ulink url="http://www.trolltech.com"
 >Trolltech</ulink
@@ -36,13 +32,13 @@
 		<caption>
 			<formalpara
 ><title
->BHS - отображение еврейского</title>
+>WLC - hebrew rendering</title>
 				<para
-><emphasis
->BHS</emphasis
-> (сокращение от <emphasis
->Biblia Hebraica Stuttgartensia</emphasis
->), лучший доступный текст Ветхого Завета на еврейском языке.</para>
+>The <emphasis
+>WLC</emphasis
+> (short for <emphasis
+>Westminster Leningrad Codex</emphasis
+>), the best available text of the Hebrew Old Testament. </para>
 				<para
 >Как вы можете видеть, BibleTime отображает текст корректно справа налево. Те из вас, кто могут читать по еврейски обратят внимание, что черты гласных и знаки кантиляции (Cantillation Marks)отображаются правильно. Вы можете включать и выключать и то, и другое.<ulink url="/images/gallery/bhs.png"
 >Большой скриншот</ulink
@@ -54,7 +50,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->BHS - отображение еврейского</phrase>
+>BHS - hebrew rendering</phrase>
 		</textobject>
 	</mediaobject>
 

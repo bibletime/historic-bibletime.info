@@ -6,6 +6,10 @@ URI: de/software_guestbook.shtml
 Content-type: text/html
 Content-language: de
 
+URI: fr/software_guestbook.shtml
+Content-type: text/html
+Content-language: fr
+
 URI: ko/software_guestbook.shtml
 Content-type: text/html
 Content-language: ko

@@ -9,7 +9,7 @@
 ></config>
 <head>
 	<title
->Gallery</title>
+>Galerie</title>
 	<summary
 >Gallery of BibleTime</summary>
 	<keywords
@@ -18,31 +18,30 @@
 
 <section
 ><title
->Gallery</title>
-
+>Galerie</title>
 	<para
->You can find some nice screenshots of BibleTime here, showing one or two text module(s) each. They demonstrate the powerful Unicode handling mechanisms of <ulink url="http://www.trolltech.com"
->Trolltech's</ulink
-> QT 3. Some of the screenshots are really impressive.</para>
+>Vous pouvez trouver de belles captures d'écrans de BibleTime ici. On peut y voir la qualité de gestion des mécanismes Unicode de QT 3 par <ulink url="http://www.trolltech.com"
+>Trolltech</ulink
+>. Certaines captures sont vraiment saisissantes.</para>
 	<para
->Most of the screenshots were created using the superb <ulink url="http://home.att.net/~jameskass/CODE2000.ZIP"
+>La plupart des captures ont été créées en utilisant la superbe police de caractère Unicode <ulink url="http://home.att.net/~jameskass/CODE2000.ZIP"
 >Code2000</ulink
-> Unicode font. Click on the preview images to see a large and detailed version of each screenshot.</para>
+>. Cliquez sur les images de prévisualisation pour voir une version détaillée de chaque capture.</para>
 
 	<mediaobject>
 		<caption>
 			<formalpara
 ><title
->BHS - hebrew rendering</title>
+>WLC - mise en forme de l'hébreu</title>
 				<para
->The <emphasis
->BHS</emphasis
-> (short for <emphasis
->Biblia Hebraica Stuttgartensia</emphasis
->), the best available text of the Hebrew Old Testament.</para>
+>Le module <emphasis
+>WLC</emphasis
+> (acronyme de <emphasis
+>Westminster Leningrad Codex</emphasis
+>), le meilleur texte de l'Ancien Testament Hébreu disponible. </para>
 				<para
->As you can see, BibleTime renders the text correctly from right to left. Those of you who can read Hebrew will notice that the Vowel Points and the Cantillation Marks (you can switch both of them on and off) are displayed correctly. <ulink url="/images/gallery/bhs.png"
->Large screenshot</ulink
+>Comme vous pouvez le voir, le texte est mis en forme par BibleTime de droite à gauche. Ceux parmi vous qui lisent l'Hébreu se rendront compte que les Voyelles et les Cantillations (qui peuvent être désactivées) sont affichées correctement. <ulink url="/images/gallery/bhs.png"
+>Capture d'écrans</ulink
 > </para>
 			</formalpara>
 		</caption>
@@ -51,7 +50,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->BHS - hebrew rendering</phrase>
+>BHS - mise en forme de l'Hébreu</phrase>
 		</textobject>
 	</mediaobject>
 
@@ -59,14 +58,14 @@
 		<caption>
 			<formalpara
 ><title
->Peshitta - early syrian translation</title>
+>Peshitta - traduction syrienne primitive</title>
 				<para
->The <emphasis
+>Le module <emphasis
 >Peshitta</emphasis
-> contains an early Syrian text, running from right to left.</para>
+> contient un texte primitif Syrien, qui se lit de droite à gauche.</para>
 				<para
->QT renders this text very nice with Code2000, which is one of the very few fonts that support syrian characters. <ulink url="/images/gallery/peshitta.png"
->Large screenshot</ulink
+>QT offre un bon rendu du texte grâce à Code200, l'une des rares polices qui supporte les caractères Syriens. <ulink url="/images/gallery/peshitta.png"
+>Capture d'écrans</ulink
 ></para>
 			</formalpara>
 		</caption>
@@ -75,7 +74,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->Peshitta - early syrian translation</phrase>
+>Peshitta - traduction syrienne primitive</phrase>
 		</textobject>
 	</mediaobject>
 
@@ -83,12 +82,12 @@
 		<caption>
 			<formalpara
 ><title
->The Arabic Bible</title>
+>La Bible Arabe</title>
 				<para
 ><emphasis
 >AraSVD</emphasis
->: The Arabic Bible. Very nice example for right-to-left rendering of a complex script - Arabic is probably one of the most complicated scripts of the world. This screenshot was taken after linebreaks were switched off, providing a more readable text view. <ulink url="/images/gallery/arasvd.png"
->Large screenshot</ulink
+>: La Bible Arabe. Très bel exemple de mise en forme de droite à gauche d'une écriture complexe  - L'Arabe est probablement l'une des écritures les plus compliquées du monde. Cette capture a été prise après avoir désactivé les retour à la ligne automatisues, ce qui donne un texte plus lisible. <ulink url="/images/gallery/arasvd.png"
+>Capture d'écrans</ulink
 ></para>
 			</formalpara>
 		</caption>
@@ -97,7 +96,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->The Arabic Bible</phrase>
+>La Bible Arabe</phrase>
 		</textobject>
 	</mediaobject>
 
@@ -105,12 +104,12 @@
 		<caption>
 			<formalpara
 ><title
->Chinese rendering</title>
+>Mise en forme du Chinois</title>
 				<para
 ><emphasis
 >ChiGU</emphasis
->: Chinese Bible text. Since QT 3 BibleTime can correctly break the paragraphs (as you may know, there are no spaces between words). <ulink url="/images/gallery/chigu.png"
->Large screenshot</ulink
+>: La Bible en Chinois. Depuis QT 3,  BibleTime peut séparer les paragraphes correctement (comme vous le savez peut-être, il n'y a pas d'espaces entre les mots). <ulink url="/images/gallery/chigu.png"
+>Capture d'écrans</ulink
 ></para>
 			</formalpara>
 		</caption>
@@ -119,7 +118,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->Chinese rendering</phrase>
+>Mise en forme du Chinois</phrase>
 		</textobject>
 	</mediaobject>
 
@@ -127,13 +126,13 @@
 		<caption>
 			<formalpara
 ><title
->Greek rendering with Strong's numbers and morphological tags</title>
+>Mise en forme du Grec, avec numéros Strong et marques morphologiques</title>
 				<para
 ><emphasis
 >IGNT</emphasis
->: The Interlinear Greek New Testament. The green numbers in "<![CDATA[<
->]]>" brackets are Strongnumbers, whereas the numbers in "( )" brackets are Morphologic Tags. Both of them can displayed in a tooltip using a predefined Strong's and Morphology dictionary, as you can see in the example. <ulink url="/images/gallery/ignt.png"
->Large screenshot</ulink
+>: Le Nouveau Testament Interlinéaire. Les numéros verts encadrés par les signes "<![CDATA[<
+>]]>" sont les numéros Strong, alors que les numéros encadrés par les signes "( )" sont les marques morphologiques. L'un et l'autre peuvent être affichées dans une bulle d'aide à l'aide d'un dictionnaire Strong ou Morphologique défini, comme vous pouvez le voir dans l'exemple. <ulink url="/images/gallery/ignt.png"
+>Capture d'écrans</ulink
 ></para>
 			</formalpara>
 		</caption>
@@ -142,7 +141,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->Greek rendering with Strong's numbers and morphological tags</phrase>
+>Mise en forme du Grec, avec numéros Strong et marques morphologiques</phrase>
 		</textobject>
 	</mediaobject>
 
@@ -150,14 +149,14 @@
 		<caption>
 			<formalpara
 ><title
->Korean and Thai</title>
+>Coréen and Thai</title>
 				<para
 ><emphasis
 >Kor</emphasis
-> and <emphasis
+> et <emphasis
 >ThaiKJV</emphasis
->. Korean and Thai are very good Unicode examples covered by an amount of Unicode scripts already. They are displayed in a parallel view in one window. The first line of Thai text is of a little smaller pointsize. It is a section heading, and those can be turned on and off using the first toolbutton in the display window. <ulink url="/images/gallery/korthai.png"
->Large screenshot</ulink
+>. Le Coréen et le Thai sont de très bons exemples Unicode définis par de nombreux scripts existants. Ils sont affichés dans une vueparallèle dans une fenêtre. La première ligne de texte Thai est d'une taille légèrement inférieure. Il s'agit d'une en-tête de section, et ces dernières peuvent être désactivées en utilisant le menu de la barre d'outil, dans le fenêtre d'affichage. <ulink url="/images/gallery/korthai.png"
+>Capture d'écrans</ulink
 ></para>
 			</formalpara>
 		</caption>
@@ -166,7 +165,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->Korean and Thai</phrase>
+>Coréen et Thai</phrase>
 		</textobject>
 	</mediaobject>
 
@@ -174,11 +173,11 @@
 		<caption>
 			<formalpara
 ><title
->Bulgarian and footnotes</title>
+>Bulgare et notes de pied de page</title>
 				<para
 ><emphasis
->Bulgarian</emphasis
->: The Bible in Bulgarian language. Bulgarian uses the Kyrillic script, which is also used in other languages like Russian. Notice the marked text - it is a "footnote". The popup menu shows how those can be turned on and off. <ulink url="/images/gallery/bulgarian.png"
+>Bulgare</emphasis
+>: La Bible en Bulgare. Les Bulgares utilisent l'alphabet Cyrillique, également utilisé  dans d'autres langues, telles que le Russe. Vous pouvez remarquer que le texte porte des marques. Il s'agit d'une "note de pied de page". Le menu popup montre comment celles-ci peuvent être activées ou désactivées. <ulink url="/images/gallery/bulgarian.png"
 >Large screenshot</ulink
 ></para>
 			</formalpara>
@@ -188,7 +187,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->Bulgarian and footnotes</phrase>
+>Bulgare et notes de pied de page</phrase>
 		</textobject>
 	</mediaobject>
 
@@ -196,14 +195,14 @@
 		<caption>
 			<formalpara
 ><title
->Vietnamese and Romanian</title>
+>Vietnamien and Roumain</title>
 				<para
 ><emphasis
 >Viet</emphasis
-> and <emphasis
+> et <emphasis
 >RomCor</emphasis
->. East Europe meets East Asia! Vietnamese and Romanian are not geographically linked, though they look somehow similar in this screenshot. <ulink url="/images/gallery/vietromcor.png"
->Large screenshot</ulink
+>. L'Europe Orientale et L'Asie Orientale main dans la main ! Le Vietnamien et le Roumain ne sont pas proches géographiquement, bien que cette capture les rapproche. <ulink url="/images/gallery/vietromcor.png"
+>Capture d'écrans</ulink
 ></para>
 			</formalpara>
 		</caption>
@@ -212,7 +211,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->Vietnamese and Romanian</phrase>
+>Vietnamien et Roumain</phrase>
 		</textobject>
 	</mediaobject>
 
@@ -220,10 +219,10 @@
 		<caption>
 			<formalpara
 ><title
->Esperanto without verse numbers and linebreaks</title>
+>Esperanto sans numéros de versets et sans retours à la ligne automatiques</title>
 				<para
->YES, there is a Bible for those of you who prefer to speak Esperanto. This is not really a Unicode example, since the displayed characters come from the iso 8859-1 charset. But this shows how text looks like after switching off versenumbers and linebreaks. <ulink url="/images/gallery/esperanto.png"
->Large screenshot</ulink
+>OUI, Il existe une Bible pour vous qui préférez parler l'Esperanto ! Ce n'est pas un véritable exemple d'Unicode, puisque les caractères sont du type iso 8859-1. Néanmoins, voici ce à quoi ressemble le texte après avoir désactivé les numéros de versets et les retours à la ligne automatiques.<ulink url="/images/gallery/esperanto.png"
+>Capture d'écrans</ulink
 ></para>
 			</formalpara>
 		</caption>
@@ -232,7 +231,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->Esperanto without verse numbers and linebreaks</phrase>
+>Esperanto sans numéros de versets et sans retours à la ligne automatiques</phrase>
 		</textobject>
 	</mediaobject>
 

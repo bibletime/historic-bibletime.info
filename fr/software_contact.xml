@@ -19,41 +19,43 @@
 
 <section
 ><title
->How to contact us</title>
+>Comment nous contacter</title>
+	<formalpara
+><title
+><ulink url="http://www.crosswire.org/forums/mvnforum/listthreads?forum=2"
+>Le forum d'utilisation de BibleTime</ulink
+></title>
+	<para
+>Voici l'endroit où poser des questions sur BibleTime. Si vous avez des problèmes liés à l'installation ou à l'utilisation de BibleTime, veuillez écrire un message dans le forum, et vous obtiendrez certainement une réponse rapidement. </para>
+	<para
+>Si vous êtes un utilisateur de BibleTime expérimenté et que vous pouvez y consacrer du temps, veuillez consulter le forum régulièrement et répondre aux questions de personnes moins expérimentées. Ainsi, vous viendriez aussi en aide aux développeurs, qui pourraient se concentrer sur des tâches de développement, plutôt que sur le support utilisateur. </para>
+	</formalpara>
+	
 	<formalpara
 ><title
 ><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=100954"
->Send a Bug report</ulink
+>Envoyer un rapport de bogue.</ulink
 ></title>
 	<para
->If you find bugs in BibleTime use this link to report it so it can be fixed in later versions. </para>
+>Si vous trouvez un bogue dans BibleTime, utilisez ce lien pour le signaler afin qu'il soit réparé dans les versions suivantes. Veuillez inclure une description détaillée de votre système et préciser comment les développeurs peuvent reproduire le problème. </para>
 	</formalpara>
-
-	<formalpara
-><title
-><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=200954"
->Get support</ulink
-></title>
-	<para
->If you have problems with BibleTime use this link to get support how to solve them. </para>
-	</formalpara>
-
+	
 	<formalpara
 ><title
 ><ulink url="http://sourceforge.net/tracker/?atid=350954&amp;group_id=954&amp;func=browse"
->Post a feature request</ulink
+>Envoyer une suggestion de fonction</ulink
 ></title>
 	<para
->If you have an idea how to improve BibleTime please use this link to tell about it! </para>
+>Vous avez une idée pour améliorer BibleTime ? Utilisez ce lien pour en avertir les développeurs. </para>
 	</formalpara>
 
 	<formalpara
 ><title
 ><ulink url="http://sourceforge.net/tracker/?atid=511478&amp;group_id=954&amp;func=browse"
->Report a website problem</ulink
+>Signaler un problème concernant le site internet</ulink
 ></title>
 	<para
->If you have problem with the webpages or if you have some ideas how to improve them please write it down using the link! </para>
+>Si vous avez rencontré un problème sur le site web, ou si vous avez des idées pour l'améliorer, veuillez utiliser ce lien pour en informer le webmaster. </para>
 	</formalpara>
 
 </section>

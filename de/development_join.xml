@@ -27,17 +27,17 @@
 ><title
 >Die grundlegenden Schritte</title>
 <para
->Die folgenden Schritte sind für jede Art eines Teammitgliedes nötig. Bitte befolgen Sie sie! </para>
+>Die folgenden Schritte sind für jede Art eines Teammitgliedes nötig. Bitte befolgen Sie diese! </para>
 <para>
 	<orderedlist>
 		<listitem>
 			<para
->Falls Sie nicht bereits einen Account auf SourceForge haben, holen Sie sich bitte einen. Das ganze ist kostenlos. Wir benötigen ihren Benutzernamen, um Sie zu den Teammitgliedern hinzuzufügen, um ihnen Aufgaben zuzuweisen, usw, </para>
+>Falls Sie nicht bereits einen Account auf SourceForge haben, holen Sie sich bitte einen. Das ganze ist kostenlos. Wir benötigen ihren Benutzernamen, um Sie zu den Teammitgliedern hinzuzufügen, um ihnen Aufgaben zuzuweisen, usw. </para>
 		</listitem>
 
 		<listitem>
 			<para
->Tragen Sie sich auf der BibleTime Entwickler Mailingliste ein, Alle Entwickler lesen diese Liste, jeder weiß also was los ist. </para>
+>Tragen Sie sich auf der BibleTime Entwickler Mailingliste ein. Alle Entwickler lesen diese Liste, damit jeder weiss, was zur Zeit passiert. </para>
 		</listitem>
 
 		<listitem>
@@ -76,7 +76,7 @@
 		</listitem>
 		<listitem>
 			<para
->Die Dokumentation wird in sogenannten Docbook Dateien in dem Unterverzeichnis "Unicode" jedes Dokumentations-Teiles gespeichert (Handbuch, Anleitung zum Bibelstudium, Installation, Hilfeseiten). Bitte bearbeiten Sie die HTML nicht direkt, da sie automatisch aus den Docbook Dateien erzeugt werden.Die Datein für die Übersetzungen werden auch aus den Docbook Dateien generiert. </para>
+>Die Dokumentation wird in sogenannten Docbook Dateien in dem Unterverzeichnis "Unicode" jedes Dokumentations-Teiles gespeichert (Handbuch, Anleitung zum Bibelstudium, Installation, Hilfeseiten). Bitte bearbeiten Sie die HTML nicht direkt, da sie automatisch aus den Docbook Dateien erzeugt werden. Die Datein für die Übersetzungen werden auch aus den Docbook Dateien generiert. </para>
 		</listitem>
 	</orderedlist>
 </para>

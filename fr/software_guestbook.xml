@@ -18,13 +18,17 @@
 
 <section
 ><title
->BibleTime's Guestbook</title>
+>Livre d'Or de BibleTime</title>
 	<para
->This page shows BibleTime's guestbook. Please post your own comments if you like. Please write your comments in English if possible! HTML is not allowed and will be removed. You may use normal line breaks to divide into paragraphs. </para>
+>Voici l'endroit où vous pouvez laisser des commentaires négatifs ou positifs au sujet du projet BibleTime. Ce n'est pas le lieu pour poser des questions. Pour cela, rendez-vous sur le <ulink url="http://www.crosswire.org/forums/mvnforum/listthreads?forum=2"
+>the forum BibleTime</ulink
+>. </para>
+	<para
+>Veuillez écrire en anglais si possible (!). L'utilisation de code HTML n'est pas permise et sera supprimée. Vous pouveznéanmoins utiliser des retours à la ligne normaux pour séparer les paragraphes : ils seront affichés correctement. </para>
 
 <section
 ><title
->Please add your comments to our guestbook!</title>
+>Veuillez ajouter vos commentaires ici.</title>
 <ssi mode="exec" cgi="/guestbook.pl"
 ></ssi>
 </section>

@@ -18,8 +18,10 @@
 >2003</year>
 	<year
 >2004</year>
+	<year
+>2005</year>
     	<holder role="http://www.bibletime.info/"
->The BibleTime developers</holder>
+>Desenvolvedores do BibleTime</holder>
   </copyright>
 
   <!-- Pages which do not appear in the navigation on the left -->
@@ -29,14 +31,14 @@
 ></notoc>
   <notoc page="sidebar_tips.xml" filename="sidebar_tips.html"
 ></notoc>
-<!--
-  <notoc page="software_swordcdcheck.xml" filename="software_swordcdcheck.phtml"
-></notoc>
-  <notoc page="software_swordcdsend.xml" filename="software_swordcdsend.phtml"
-></notoc>
+  <!-- To make sure this page still is reachable by links -->
   <notoc page="software_swordcd.xml" filename="software_swordcd.shtml"
 ></notoc>
--->
+	
+<!-- PAGE IS MISSING IN CVS.
+  <notoc page="software_swordcdsend.xml" filename="software_swordcdsend.php4"
+></notoc
+>  -->
   
   <toc page="index.xml" filename="no_index.html">
 	<tocentry page="software.xml" filename="index.html">

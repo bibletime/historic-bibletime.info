@@ -2,19 +2,14 @@
 ><title
 >Regeln der Bibelauslegung (Hermeneutik)</title>
 <para
->Wir haben bereits von den <quote
->3 C</quote
-> gehört: Inhalt (="content"), Kontext (="context") Querverweise (="cross-reference"). Wir möchten dies nun durch kurzes Erforschen der biblischen Hermeneutik erweitern. Das Ziel der biblischen Hermeneutik ist es, die Bedeutung herauszufinden, wie sie von dem ursprünglichen Autoren gemeint war. Während viele Anwendungen eines Abschnittes möglich sind, ist jedoch nur eine Auslegung möglich. Die Schriften selbst sagen, dass kein Manuskript eine eigene Auslegung hat (2. Petrus 1,20 <emphasis
-><quote
+>Wir haben bereits von den "3 C" gehört: Inhalt (="content"), Kontext (="context") und Querverweise (="cross-reference"). Wir möchten dies nun durch kurzes Erforschen der biblischen Hermeneutik erweitern. Das Ziel der biblischen Hermeneutik ist es, die Absicht herauszufinden, wie sie von dem ursprünglichen Autoren gedacht war. Während viele Anwendungen eines Abschnittes möglich sind, ist jedoch nur eine Auslegung möglich. Die Schriften selbst sagen, dass kein Manuskript eine eigene Auslegung hat (2. Petrus 1,20 <quote
 >Und das sollt ihr vor allem wissen, dass keine Weissagung in der Schrift eine Sache eigener Auslegung ist</quote
-></emphasis
->))- Verschiedene Regeln sind Hilfen zum Entdecken der richtigen Bedeutung; durch das Ignorieren dieser Regeln haben Menschen viele Schwierigkeiten für sich selbst und ihre Nachfolger gebracht. 2. Petrus 3,16 <emphasis
-><quote
->...in denen einige Dinge schwer zu verstehen sind, welche die Unwissenden und Leichfertigen verdrehen, wie auch die anderen Schriften zu ihrer eigenen Verdammnis.</quote
-></emphasis
+>). Verschiedene Dinge können dabei helfen, die ursprüngliche Absicht zu finden. Durch die Missachtung dieser Regeln haben Viele sich selbst und ihre Nachfolger in große Schwierigkeiten gebracht. 2. Petrus 3,16 <quote
+>[...] in denen einige Dinge schwer zu verstehen sind, welche die Unwissenden und Leichfertigen verdrehen, wie auch die anderen Schriften zu ihrer eigenen Verdammnis.</quote
 ></para>
+
 <para
->Wie gehen wir nun vor, um die ursprünglich gewollte Bedeutung eines Abschnittes herauszufinden? Lassen Sie uns annehmen, dass ihre Aufmerksamkeit auf einen bestimmten Vers gezogen wurde, dessen Bedeutung ihnen nicht klar ist. Wie studieren Sie ihn? Behalten Sie sich diese Regeln:</para>
+>Wie gehen wir nun vor, um die ursprünglich gewollte Absicht eines Abschnittes herauszufinden? Lassen Sie uns annehmen, dass ihre Aufmerksamkeit auf einen bestimmten Vers gezogen wurde, dessen Bedeutung ihnen unklar ist. Wie studieren Sie ihn? Behalten Sie sich diese Regeln:</para>
 
 <section id="h2-rules-exact"
 ><title
@@ -22,30 +17,38 @@
 <para
 >Je präziser wir mit der exakten, ursprünglichen Bedeutung der Wörter sein können, desto besser ist unsere Auslegung. Versuchen Sie die exakte Bedeutung zu finden, indem sie die folgenden Schritte befolgen:</para>
 
-<section id="h2-rules-exact-definition"
+<orderedlist>
+	<listitem>
+		<formalpara
 ><title
->Schritt 1) Bestimmung</title>
-<para
->Schlagen Sie die Bestimmung in einem Griechisch oder Hebräisch Lexikon nach. Für Verben ist die Verbform ebenfalls entscheidend.</para
-></section>
-
-<section id="h2-rules-exact-crossref"
+>Bestimmung</title>
+		<para
+>Schlagen Sie die Bestimmung in einem Griechisch oder Hebräisch Lexikon nach. Für Verben ist die Verbform ebenfalls entscheidend.</para>
+		</formalpara>
+	</listitem>
+	
+	<listitem>
+		<formalpara
 ><title
->Schritt 2) Querverweise</title>
-<para
->Vergleichen Sie Schrift mit Schrift. Zu sehen, wie das selbe griechische oder hebräische Wort (nicht das deutsche Wort) in der Schrift benutzt wird, kann die Bestimmung klären oder neu beleuchten. Wie benutzt der selbe Autor das Wort anderswo? Und andere Autoren? Ihre Referenzwerkzeuge könnten ihnen auch die Benutzung des Wortes in nicht-biblisches Dokumenten geben. Warum müssen wir in die ursprüngliche Sprache forschen; warum ist das Deutsche Wort nicht gut genug? WEIL MEHR ALS EIN GRIECHISCHES WORT IN DAS SELBE DEUTSCHE ÜBERSETZT WERDEN KANN, UND WEIL DIE GRIECHISCHEN WÖRTER VERSCHIEDENE ABSTUFUNGEN HABEN KÖNNEN.</para>
+>Querverweise</title>
+		<para
+>Vergleichen Sie Schrift mit Schrift. Zu sehen, wie das selbe griechische oder hebräische Wort (nicht das deutsche Wort) in der Schrift benutzt wird, kann die Bestimmung klären oder neu beleuchten. Wie benutzt der selbe Autor das Wort anderswo? Und andere Autoren? Ihre Referenzwerkzeuge könnten ihnen auch die Benutzung des Wortes in nicht-biblisches Dokumenten geben. Warum müssen wir in die ursprüngliche Sprache forschen; warum ist das Deutsche Wort nicht gut genug? <emphasis
+>Weil mehr als ein griechisches Wort in das selbe eutsche übersetzt werden kann, und weil die griechischen Wörter verschiedene Abstufungen in ihrer Bedeutung haben können.</emphasis
+></para>
+		</formalpara>
+	</listitem>
+</orderedlist>
 
 <section id="h2-rules-exact-crossref-ex1a"
 ><title
 >Beispiel 1A</title>
 <para
->Johannes 20,17 <emphasis
-><quote
+>Johannes 20,17 <quote
 >Rühre mich nicht an</quote
-></emphasis
 > klingt hart, oder? Es klingt, dass Jesus nicht berührt werden wollte, jetzt wo er auferstanden ist, dass er zu heilig or etwas ähnliches ist. Aber das scheint nicht richtig zu sein, darum lasst es uns in Spiros Zodhiates' <emphasis
 >The Complete Word Study New Testament</emphasis
 > (AMG Publishers, 1991). nachschlagen.</para>
+
 <para
 >Bestimmung: Nach dem Aufschlagen von Johannes 20,17 sehen wir über dem Wort <quote
 >Rühre</quote
@@ -62,7 +65,7 @@
 > Dies hier ist ein verneinter Befehl, so dass es dafür da ist etwas zu stoppen was schon geschieht. Was haben wir nun herausgefunden?</para>
 <para
 ><emphasis
->MARIA KLAMMERT SICH BEREITS AN JESUS, UND ER SAGT DASS SIE DAMIT AUFHÖHREN SOLL IHN ZU UMARMEN!</emphasis
+>Maria klammert sich bereit an Jesus und er sagt ihr, dies nicht mehr zu tun!</emphasis
 ></para>
 </section>
 
@@ -72,7 +75,7 @@
 <para
 >In Jakobus 5,14 lesen wir, dass <emphasis
 >Die Ältesten sollen für jemanden, der krank ist, beten und ihn mit Öl salben</emphasis
->. Was ist dieses salben?</para>
+>. Was meint dieses salben?</para>
 <para
 >Bedeutung von aleipho (218) - <quote
 >ölen</quote
@@ -86,23 +89,41 @@
 >Das Aorist Partizip drückt einfache Handlung aus, im Gegensatz zur andauernden Handlung... Wenn die Beziehung zum Hauptverb temporal ist, kennzeichnet es normalerweise eine Handlung, die früher als die des Hauptverbes stattfindet. </quote
 > (Zodhiates S. 851)</para>
 
-<screen
->Querverweise für aleipho:
-  Matthäus.6,17 Wenn du aber fastest, so salbe dein Haupt...
-  Markus 16,1 Und als der Sabbat vergangen war, kauften Maria von Magdalena  und Maria, die Mutter des Jakobus, und Salome wohlriechende Öle, um  hinzugehen und ihn zu salben.
-  Markus 6,13 [...] und salbten viele Kranke mit Öl und machten sie gesund.
-  Lukas 7,38 ...und küßte seine Füße und salbt sie mit Salböl
-  Johannes 12,3 Maria ... salbte die Füße Jesu und trocknete mit ihrem Haar  seine Füße ...
-
-Querverweise für chrio:
-  Lukas 4,18 "Der Geist des Herrn ist auf mir, weil er mich gesalbt hat zu  verkündigen..."
-  Apostelgeschichte 4,27 ...Jesus, den du gesalbt hast... 
-  Apostelgeschichte 10,378 wie Gott Jesus von Nazareth gesalbt hat mit  heiligem Geist und Kraft
-  2. Korinther 1,21 Gott ist's aber, der ... uns gesalbt
-</screen>
+<itemizedlist>
+<listitem
+>Querverweise für aleipho: <orderedlist>
+		<listitem
+>Mt.6:17 But you, when you fast, anoint your head</listitem>
+		<listitem
+>Mk.16:1 [the women] brought spices that they might come and anoint Him.</listitem>
+		<listitem
+>Mk.6:13 And they were...anointing with oil many sick people and healing them.</listitem>
+		<listitem
+>Lk.7:38 [...] kissing His feet and anointing them with the perfume</listitem>
+		<listitem
+>Jn.12:3 Mary [...] anointed the feet of Jesus, and wiped them with her hair</listitem>
+	</orderedlist>
+</listitem>
+<listitem
+>Querverweise für chrio: <orderedlist>
+		<listitem
+>Lk.4:18 <quote
+>The Spirit of the Lord is upon me, because He has anointed me to preach [...]</quote
+></listitem>
+		<listitem
+>Acts 4:27 Jesus, whom Thou hast anointed</listitem>
+		<listitem
+>Acts 10:38 God anointed Jesus with the Holy Ghost and power</listitem>
+		<listitem
+>2 Cor.1:21 Now He who...anointed us is God</listitem>
+	</orderedlist>
+</listitem>
+</itemizedlist>
 
 <para
->Was ist nun der Unterschied zwischen aleipho und chrio? Schauen Sie erneut die Querverweise und die Definitionen an und sammeln Sie die Unterschiede: ALEIPHO IST PRAKTISCHE BENUTZUNG VON ÖL UND CHRIO IST DIE GEISTLICHE. </para>
+>Was ist nun der Unterschied zwischen aleipho und chrio? Schauen Sie erneut die Querverweise und die Definitionen an und sammeln Sie die Unterschiede: <emphasis
+>ALEIPHO IST PRAKTISCHE BENUTZUNG VON ÖL UND CHRIO IST DIE GEISTLICHE</emphasis
+>.</para>
 
 <para
 >Zur Illustration (obwohl hier das Wort nicht benutzt wird) der praktischen Benutzung von Öl zu dieser Zeit ist der barmherzige Samariter, der für den von Räubern geschlagenen Mann sorgte und mit Öl und Wein die Wunden säuberte. Öl hatte also eine medizinische Bedeutung zur Zeit Jesu. </para>
@@ -120,7 +141,6 @@ Querverweise für chrio:
 > übersetzt werden, so dass in der Reihenfolge erst dass Salben und dann das Gebet kommt (<quote
 >Im Namen des Herrn</quote
 > bezieht sich aus Gebet, nicht auf das Salben). Jakobus 5 sagt, dass die Ältesten der kranken Person Medizin geben und für ihn im Namen des Herrn beten sollen. Drückt dass nicht das wunderbare Gleichgewicht zwischen Praktischem und Geistlichem in unseren Gott aus? </para>
-</section>
 </section>
 </section>
 
@@ -148,26 +168,20 @@ Querverweise für chrio:
 ><title
 >Beispiel 2B</title>
 <para
->1 Korinther 14,34 <emphasis
-><quote
+>1 Korinther 14,34 <quote
 >[...] die Frauen [sollen] schweigen in der Gemeindeversammlung</quote
-></emphasis
 > muss mit in den biblischen Zusammenheng von 1. Korinther 11,5 <quote
->Ein Frau aber, die betet oder prophetisch redet...</quote
+>Ein Frau aber, die betet oder prophetisch redet [...]</quote
 > genommen werden.</para>
 </section>
 <section id="h2-rules-context-ex2c"
 ><title
 >Beispiel 2C</title>
 <para
->Apostelgeschichte 2,38 <emphasis
->Petrus sprach zu ihnen: <quote
->Tut Buße, und jeder lasse sich taufen auf den Namen Jesu Christi zur Vergebung eurer Sünden...</quote
-></emphasis
-> Ist dies Wiedergeburt durch Taufe? Wenn es der einzige Vers der Schrift wäre, den wir hätten, müssten wir das folgern. Aber in dem Licht der klaren Lehre an anderen Stelle, dass Wiedergeburt durch den Glauben an Christus geschieht, müssen wir es anderes auslegen. Petrus drängt die Taufe als einen Weg für seine Hörer auf das Evangelium zu antworten. Wenn die Taufe der Weg wäre, wiedergeboren zu werden, wie könnte Paulus dann in 1. Kor. 1,17 schreiben <emphasis
-><quote
+>Apostelgeschichte 2,38 <quote
+>Petrus sprach zu ihnen: &quot;Tut Buße, und jeder lasse sich taufen auf den Namen Jesu Christi zur Vergebung eurer Sünden [...]&quot;</quote
+> Meint dies Wiedergeburt durch Taufe? Wenn es der einzige Vers der Schrift wäre, den wir hätten, müssten wir dies folgern. Aber in dem Licht der klaren Lehre an anderen Stelle, dass Wiedergeburt durch den Glauben an Christus geschieht, müssen wir es anders auslegen. Petrus erklärt seinen Hörern die Taufe als einen Weg, auf das Evangelium zu antworten. Wenn die Taufe der Weg wäre, wiedergeboren zu werden, wie könnte Paulus dann in 1. Kor. 1,17 schreiben <quote
 >Denn Christus hat mich nicht gesandt zu taufen, sondern das Evangelium zu verkünden</quote
-></emphasis
 >? </para>
 </section>
 </section>
@@ -176,15 +190,21 @@ Querverweise für chrio:
 <title
 >Regel 3 - Auslegung im geschichtlichen und kulturellen Zusammenhang</title>
 <para
->Zuallererst fragen wir nicht "Was bedeutet dies für mich?" sondern "Was hat es für den ursprünglichen Autoren bedeutet?"; später können wir fragen "Was bedeutet es für mich?" Wir müssen den geschichtlichen und kulturellen Hintergrund des Autoren und der Empfänger in Betracht ziehen.</para>
+>Zuallererst fragen wir nicht <quote
+>Was bedeutet dies für mich?</quote
+> sondern <quote
+>Was hat es für den ursprünglichen Autoren bedeutet?</quote
+>; später können wir fragen <quote
+>Was bedeutet es für mich?</quote
+>. Wir müssen den geschichtlichen und kulturellen Hintergrund des Autoren und der Empfänger in Betracht ziehen.</para>
 
 <section id="h2-rules-hcontest-ex3a"
 ><title
 >Beispiel 3A</title
 ><para
->"3 Tage &amp; 3 Nächte" (Mt.12,40) haben zur "Mittwochs Kreuzigungstheorie" geführt, besonders der Kult des Armstrongismus. <emphasis
-> Anm. des Übers.: Leider weiss ich nicht, was Armstronismus für ein Kult ist</emphasis
->. Wie  konnte Jesus am Freitag sterben und am Sonntag Morgen auferstehen ("...am dritten Tage auferstehen" (Mt. 16,21))? Genaue Bedeutungen von "drei" oder "Tagen" helfen nicht, den scheinbaren Widerspruch zu erklären.</para>
+><quote
+>3 days &amp; 3 nights</quote
+> (Mt.12:40) have led some to come up with a "Wednesday crucifixion theory," esp. the cult of Armstrongism. How could Jesus die on Friday afternoon and rise Sunday morning yet "be raised on the third day" (Mt.16:21)? Exact meanings of "three" or "days" won't help explain the apparent contradiction.</para>
 <para
 >Wir benötigen einen geschichtlichen Leckerbissen: Die Juden zählten jeden Teil eines Tages als vollen Tag, so wie wir Eimer Wasser zählen würden (wenn wir sechs und einen halben Eimer Wasser hätten, würden wir sagen dass es sieben Eimer Wasser sind sogar wenn der letzte nur teilweise voll ist). Dies istdie jüdische Art. Jeder Teil eines Tages wurde als voller Tag gezählt, Tage begannen um 18h und endeten um 18h. Freitag von 15h bis 18h = 1. Tag. Freitag von 18h bis Samstag 18h = 2. Tag. Samstag 18.00h bis Sonntag vielleicht 5h = 3. Tag. Die Auslegung im kulturellen Kontext bringt uns aus den Schwierigkeiten heraus.</para>
 </section>
@@ -205,11 +225,11 @@ Querverweise für chrio:
 
 <section id="h2-rules-normal-ex4a"
 ><title
->Beispiel 4A</title
-><para
+>Beispiel 4A</title>
+<para
 ><quote
 >böses Auge</quote
-> in Mt.6,23. </para>
+> in Mt.6,23.</para>
 <para
 >Regel 1 - Definition von <quote
 >böse</quote
@@ -217,49 +237,42 @@ Querverweise für chrio:
 >Auge</quote
 > - hilft hier auch nicht weiter. Regel 2, Zusammenhang: Dies scheint uns nur noch mehr zu verwirren. Es scheint nicht mit dem zu passen, was davor und danach steht! Dies sollte uns zeigen, dass wir es nicht richtig verstehen.</para>
 <para
->Was wir hier haben ist ein hebräisches Idiom, <quote
->böses Auge</quote
->. Lasst uns andere Benutzungen dieses Idioms nachschlagen: Mt. 20,15 <quote
-><emphasis
->Oder habe ich nicht die Macht zu tun, was ich will, mit dem was mein ist? Siehst du scheel [wörtl. <quote
->böse</quote
->] drein, weil ich so gütig [wörtl. <quote
->gut</quote
->] bin?</emphasis
-></quote
->. Wir sehen, dass ein <quote
->Böses Auge</quote
-> zu haben ein Idiom für geizig oder neidisch sein ist. Jetzt  gehen Sie zurück zu Mt. 6 und sehen Sie, wie dieses Verständnis perfekt in den Zusammenhang passt.</para>
+>What we have here is a Hebrew idiom, <quote
+>evil eye</quote
+>. Let's look up other uses of this idiom: Mt.20:15 "<emphasis
+>Is it not lawful for me to do what I wish with what is my own? Or is your eye envious [lit."evil"] because I am generous [lit. "good"]?</emphasis
+>" We find that having an "evil eye" is a Hebrew idiom for being stingy or envious. Now go back to Mt.6 and notice how this understanding ties in so perfectly to the context.</para>
+</section>
 
 <section id="h2-rules-normal-ex4b"
 ><title
 >Beispiel 4B</title>
 <para
->Jesaja 59,1 <quote
-><emphasis
->[...] des Herrn Arm ist nicht zu kurz</emphasis
-></quote
-> Deut.33:27 <quote
-><emphasis
-> unter den ewigen Armen.</emphasis
-></quote
-> Verweise auf Körperteile von Gott werden von den <quote
->Mormonen</quote
-> benutzt um nachzuweisen, dass Gott einst ein Mann wie wir war. Nachdem sie die Menschen davon überzeugt haben, beginnen sie weiter zu lehren, dass wir Gott werden können wie er es tat. Auf einem Vortrag den Walter  Martin (Autor von <emphasis
+>Is.59:1 <quote
+>The Lord's hand is not short;</quote
+></para>
+<para
+>Deut.33:27 <quote
+>Underneath are the everlasting arms.</quote
+></para>
+<para
+>References to body parts of God are used by Latter-Day Saints to prove that God was once a man just as we are. Once they convince people of that, they go on to teach that we can become God just like He is! At a lecture he was giving, a group of Mormon elders challenged Walter Martin (author of <emphasis
 >Kingdom of the Cults</emphasis
->) gab, forderte eine Gruppe von Mormonenältesten ihn mit einer Versaufzählung wie dieser heraus. Dr. Martin forderte die Mormonen dann heraus, eine weitere Stelle zu lesen: Psalm 91,4 <quote
-><emphasis
->Er wird dich mit seinen Fittichen decken, und Zuflucht wirst du haben unter seinen Flügeln...</emphasis
-></quote
->. W.M. folgerte "Mit den selben Regeln der Auslegung, mit denen sie gerade festgestellt haben, dass Gott ein Mann ist, haben sie gerade festgestellt, dass Gott ein Vogel ist." Die Mormonen mussten lachen, als sie die Lächerlichkeit ihrer Position realisierten. </para>
+>) with an enumeration of verses like these. Dr. Martin then asked the Mormons to read one more scripture: Ps.91:4 <quote
+>He will cover you with His feathers; And under His wings shalt thou trust</quote
+>. W.M. said, <quote
+>By the same rules of interpretation that you just proved God to be a man, you just proved that He is a bird</quote
+>. The Mormons had to laugh as they realised the ridiculousness of their position. </para>
 </section>
 </section>
-</section>
+
 <section id="h2-rules-parables"
 ><title
 >Regel 5 - Verstehen des Zwecks einer Parabeln und des Unterschiedes zwischen einer Parabel und einer Allegorie</title>
 <para
->Eine Allegorie ist: EINE GESCHICHTE; IN DER JEDES ELEMENT EINE BEDEUTUNG HAT </para>
+>An allegory is: <emphasis
+>A story where each element has a meaning.</emphasis
+></para>
 <para
 >Jede Parabel ist eine Allegorie, wahr oder falsch?</para>
 

@@ -18,15 +18,15 @@
 
 <section
 ><title
->How to link to www.bibletime.info</title>
+>Comment créer un lien sur mon site vers www.bibletime.info ?</title>
 <para
->Please do not copy the images because they may change their design. </para>
+>Veuillez NE PAS copier les images car leur design pourrait évoluer avec le temps. </para>
 
 <section
 ><title
->Larger banner</title>
+>Grande bannière</title>
 <para
->Put the following HTML code on your pages: <programlisting>
+>Insérez le code HTML suivant sur vos pages : <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank">
  <img src="http://www.bibletime.info/images/banner/big.jpg" width="312" height="60" border="0"/>
@@ -44,9 +44,9 @@
 
 <section
 ><title
->Smaller banner</title>
+>Petite bannière</title>
 <para
->Put the following HTML code on your pages: <programlisting>
+>Insérez le code HTML suivant sur vos pages : <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank">
  <img src="http://www.bibletime.info/images/banner/small.jpg" width="88" height="31" border="0"/>
@@ -65,9 +65,9 @@
 
 <section
 ><title
->Text link</title>
+>Lien textuel</title>
 <para
->To insert a simple text link please use the following HTML code on your pages: <programlisting>
+>Pour insérer un lien textuel, veuillez insérez le code HTML suivant sur vos pages : <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" TARGET="_blank">
  BibleTime - Bible study software for KDE

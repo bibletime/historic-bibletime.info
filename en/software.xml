@@ -25,9 +25,17 @@ provided by the <ulink url="http://www.crosswire.org/">Crosswire Bible Society</
 
 <section><title>News about BibleTime</title>
 	
-	<formalpara><title>2004-10-08: Personal developer pages</title>
+	<formalpara><title>2005-01-24: Bible software Survey</title>
 		<para>
-		A new <olink targetdocent="development_team">team page</olink> was added today. It contains detailed information about the developers of BibleTime, their involvement and of the best ways to support them in their work on BibleTime.
+		Bible Software vendors from around the globe are jointly sponsoring a cooperative User Survey to glean from Bible Software Users worldwide their needs, requests, and dreams.
+		We'd be glad if you could take the survey here:
+		<ulink url="http://www.surveymonkey.com/s.asp?u=91866814127">Bible software survey</ulink>
+		</para>
+	</formalpara>
+	
+	<formalpara><title>2004-12-23: Status update</title>
+		<para>
+		The BibleTime project is still alive and development is almost finished for the next version, BibleTime 1.5. This version will contain major user interface improvements which will make it simpler to use than any other version before. We hope to release version 1.5 in the first three months of the next year.
 		</para>
 	</formalpara>
 

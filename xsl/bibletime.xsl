@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-                xmlns:html='http://www.w3.org/1999/xhtml'
-		xmlns='http://www.w3.org/1999/xhtml'
-                xmlns:doc="http://docbook.sourceforge.net/release/xsl/current/doc/"
-                exclude-result-prefixes="doc html"
-                version="1.0">
+			xmlns:html='http://www.w3.org/1999/xhtml'
+			xmlns='http://www.w3.org/1999/xhtml'
+               xmlns:doc="http://docbook.sourceforge.net/release/xsl/current/doc/"
+               exclude-result-prefixes="doc html"
+			version="1.0">
 
 <xsl:import href="website-common.xsl"/>
 <xsl:include href="toc-bibletime.xsl"/>
@@ -13,19 +13,12 @@
 
 <xsl:output method="xml"
             indent="no"
+		  omit-xml-declaration="yes"
 	       encoding="UTF-8"
             doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN"
             doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
 />
 
-<!--
-<xsl:output method="xml"
-            indent="yes"
-	       encoding="UTF-8"
-            doctype-public="-//W3C//DTD XHTML 1.1//EN"
-            doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11-flat.dtd"
-/>
--->
 <xsl:param name="page-language" select="'.'"/>
 
 <xsl:variable name="l10n.gentext.language"><xsl:value-of select="$page-language"/></xsl:variable>
@@ -128,6 +121,67 @@
 	</span>
 </xsl:template>
 
+
+<xsl:template name="print-flag">
+	<xsl:param name="lang" />
+	<xsl:param name="htmlfilename" />
+	
+	<a>
+		<xsl:attribute name="title">
+			<xsl:value-of select="$lang"/>
+		</xsl:attribute>
+		
+		<xsl:attribute name="href">				
+			<xsl:text>/</xsl:text>
+			<xsl:value-of select="$lang"/>
+			<xsl:text>/</xsl:text>
+			<xsl:value-of select="$htmlfilename"/>
+		</xsl:attribute>
+	
+		<img>
+			<xsl:attribute name="alt">
+				<xsl:value-of select="$lang"/>
+			</xsl:attribute>			
+			
+			<xsl:attribute name="src">
+				<xsl:text>/images/flags/</xsl:text>
+				<xsl:value-of select="$lang"/>
+				<xsl:text>.png</xsl:text>
+			</xsl:attribute>			
+			
+		</img>
+	</a>
+</xsl:template>
+
+<xsl:template name="output-flags">
+   	<xsl:param name="langs" /> 
+   	<xsl:param name="htmlfilename" />
+	   
+	<xsl:choose>
+		<xsl:when test="string-length(normalize-space( substring-before($langs, ' ') )) &gt; 0" > 
+			<xsl:call-template name="print-flag">
+		   		<xsl:with-param name="lang" select="substring-before(normalize-space($langs), ' ')" />
+				<xsl:with-param name="htmlfilename" select="$htmlfilename" />
+			</xsl:call-template>
+		</xsl:when>
+		<xsl:when test="string-length(normalize-space($langs)) &gt; 0" > 
+			<xsl:call-template name="print-flag">
+				<xsl:with-param name="lang" select="normalize-space($langs)" />
+				<xsl:with-param name="htmlfilename" select="$htmlfilename" />
+			</xsl:call-template>
+		</xsl:when>
+		
+		<xsl:otherwise></xsl:otherwise>
+	</xsl:choose>
+	
+     <xsl:if test="string-length(normalize-space(substring-after($langs, ' '))) &gt; 0" >
+		<xsl:call-template name="output-flags">
+			<xsl:with-param name="langs" select="substring-after($langs, ' ')" />
+			<xsl:with-param name="htmlfilename" select="$htmlfilename" />
+		</xsl:call-template>
+	</xsl:if>
+</xsl:template> 
+		
 <xsl:template match="webpage">
   <xsl:variable name="id">
     <xsl:call-template name="object.id"/>
@@ -161,87 +215,11 @@
 
 			<div id="pagetop">
 				<img height="99" class="left" alt="pagetop logo" src="/images/pagetop-left.png"/>
-
 				<div id="flags">
-					<a title="en">
-						<xsl:attribute name="href">
-							<xsl:text>../en/</xsl:text>
-							<xsl:value-of select="$htmlfilename"/>
-						</xsl:attribute>
-
-						<img alt="en" src="/images/flags/en.png"/>
-					</a>
-
-					<a title="de">
-						<xsl:attribute name="href">
-							<xsl:text>../de/</xsl:text>
-							<xsl:value-of select="$htmlfilename"/>
-						</xsl:attribute>
-
-						<img alt="de" src="/images/flags/de.png"/>
-					</a>
-
-					<a title="pt-br">
-						<xsl:attribute name="href">
-							<xsl:text>../pt-br/</xsl:text>
-							<xsl:value-of select="$htmlfilename"/>
-						</xsl:attribute>
-
-						<img alt="pt-br" src="/images/flags/pt-br.png"/>
-					</a>
-
-					<a title="ko">
-						<xsl:attribute name="href">
-							<xsl:text>../ko/</xsl:text>
-							<xsl:value-of select="$htmlfilename"/>
-						</xsl:attribute>
-
-						<img alt="ko" src="/images/flags/ko.png"/>
-					</a>
-
-					<!--
-					<a title="nl">
-						<xsl:attribute name="href">
-							<xsl:text>../nl/</xsl:text>
-							<xsl:value-of select="$htmlfilename"/>
-						</xsl:attribute>
-
-						<img alt="nl" src="/images/flags/nl.png"/>
-					</a>
-
-					<a title="ro">
-						<xsl:attribute name="href">
-							<xsl:text>../ro/</xsl:text>
-							<xsl:value-of select="$htmlfilename"/>
-						</xsl:attribute>
-
-						<img alt="ro" src="/images/flags/ro.png"/>
-					</a>
-					-->
-
-					<a title="ru">
-						<xsl:attribute name="href">
-							<xsl:text>../ru/</xsl:text>
-							<xsl:value-of select="$htmlfilename"/>
-						</xsl:attribute>
-
-						<img alt="ru" src="/images/flags/ru.png"/>
-					</a>
-
-					<!--
-					 <a title="ua">
-						<xsl:attribute name="href">
-							<xsl:text>../ua/</xsl:text>
-							<xsl:value-of select="$htmlfilename"/>
-						</xsl:attribute>
-
-						<img alt="ua" src="../images/flags/ua.png"/>
-					</a>
-
-					<a href="/translation.shtml"><img alt="Translate www.bibletime.info!"
-src="/images/flags/new-lang.png"/></a>
-					-->
-
+					<xsl:call-template name="output-flags">
+						<xsl:with-param name="langs"><xsl:text>en de fr pt-br ko ru</xsl:text></xsl:with-param>
+						<xsl:with-param name="htmlfilename" select="$htmlfilename" />
+					</xsl:call-template>
 				</div>
 			</div>
 

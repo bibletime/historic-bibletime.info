@@ -6,6 +6,10 @@ URI: de/error404.html
 Content-type: text/html
 Content-language: de
 
+URI: fr/error404.html
+Content-type: text/html
+Content-language: fr
+
 URI: ko/error404.html
 Content-type: text/html
 Content-language: ko

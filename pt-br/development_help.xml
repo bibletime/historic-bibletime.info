@@ -1,6 +1,9 @@
 <!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+<!ENTITY development_team SYSTEM "development_team.xml" NDATA XML>
+<!ENTITY development_join SYSTEM "development_join.xml" NDATA XML>
+<!ENTITY translations SYSTEM "translation.xml" NDATA XML>
 ]>
 
 <webpage id="development_help">
@@ -12,7 +15,7 @@
 <title
 >Nos ajude</title>
 <summary
->BibleTime's development</summary>
+>Direct and indirect support for the development of BibleTime</summary>
 <keywords
 >BibleTime, Help us, Help BibleTime, Software</keywords>
 </head>
@@ -21,7 +24,7 @@
 ><title
 >Ajude-nos</title>
 <para
->Nosso objetivo é tornar o BibleTime uma aplicação de estudo bíblico que possa ser usada por cristãos para crescerem em seu relacionamento com Deus. Para tornar isto possível nós precisamos de sua ajuda! É possível nos ajudar de muitas maneiras. Por favor leia esta página se você puder nos ajudar a melhorar o BibleTime. </para>
+>Nosso objetivo é desenvolver o BibleTime para que ele seja uma aplicação realmente boa de estudo bíblico. Para atingir isso, nós precisamos da sua ajuda. Existem diversas possibilidades para apoiar o projeto BibleTime diretamente e indiretamente. </para>
 
 <section
 ><title
@@ -32,26 +35,40 @@
 
 <section
 ><title
+>Você gostaria de apoiar os desenvolvedores?</title>
+<para
+>Na página <olink targetdocent="development_team"
+>o time</olink
+> você pode achar informação sobre os membros do time do BibleTime e formas de apoiá-los. Se você gosta de usar o BibleTime, mas não tem o tempo ou o conhecimento que com desenvolvimento você pode considerar essa possibilidade. </para>
+</section>
+
+<section
+><title
 >Você sabe programar softwares?</title>
 <para
->Você sabe como programar em C++? Você está familiarizado com a interface de programação do KDE ou está motivado a aprendê-la? Se você tiver tempo para trabalhar regularmente no código fonte do BibleTime nós lhe pedimos para se juntar ao nosso time! Por favor, leia a página "Junte-se ao time" nessa sessão. </para>
+>Você sabe como programar em C++? Você está familiarizado com a interface de programação do KDE ou está motivado a aprendê-la? Se você tiver tempo para trabalhar regularmente no código fonte do BibleTime nós lhe pedimos para se juntar ao nosso time! Por favor, leia a página <olink targetdocent="development_join"
+>Junte-se ao time</olink
+>. </para>
 </section>
 
 <section
 ><title
 >Você sabe como escrever documentação?</title>
 <para
->Você acha que é poderia ser bom trabalhando na documentação em inglês do BibleTime? Se você acredita que sim, por favor leia a página "Junte-se ao time"; nesta seção. </para>
+>Você acha que é poderia ser bom trabalhando na documentação em inglês do BibleTime? Se você acredita que sim, por favor leia a página  <olink targetdocent="development_join"
+>Junte-se ao time</olink
+>. </para>
 </section>
 
 <section
 ><title
 >Você é bom em traduzir do inglês para outros idiomas?</title>
 <para
->Se você decidir iniciar o trabalho de tradução por favor nos contacte em info@bibletime.info para ver se a tradução ainda não foi iniciada por outro membro do time. Nós providenciaremos os arquivos que deverão ser traduzidos. </para>
-
+>BibleTime deve ser usável por todos. Por isso nós precisamos de uma traduação no seu idioma, se ainda não houver uma disponível. Se você decidir iniciar o trabalho de tradução por favor nos contacte em info@bibletime.info para ver se a tradução ainda não foi iniciada por outro membro do time. Nós providenciaremos os arquivos que deverão ser traduzidos. </para>
 <para
->Por favor use o programa para KDE chamado &raquo;KBabel&laquo; para traduzir os arquivos! É uma boa ferramenta que simplifica o processo de tradução </para>
+>Você pode encontrar mais informação sobre o processo de traduçãona página de <olink targetdocent="translation"
+>tradução do BibleTime</olink
+>. </para>
 </section>
 </section>
 

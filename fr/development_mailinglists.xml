@@ -10,7 +10,7 @@
 ></config>
 <head>
 	<title
->Forums</title>
+>Listes de diffusions</title>
 	<summary
 >BibleTime's mailinglists</summary>
 	<keywords
@@ -19,27 +19,27 @@
 
 <section
 ><title
->BibleTime development mailing list</title>
+>Liste de diffusion de l'équipe de développement de BibleTime</title>
 <para
->To subscribe to the development mailing list of the BibleTime project please visit the following web page and enter your eMail address there: <ulink url="http://www.crosswire.org/mailman/listinfo/bt-devel"
+>Pour s'inscrire à la liste de l'équipe de développement de BibleTime, rendez-vous sur la page suivante et entrez votre adresse email : <ulink url="http://www.crosswire.org/mailman/listinfo/bt-devel"
 >www.crosswire.org/mailman/listinfo/bt-devel</ulink
 >. </para>
 
 <para
->Archives of the BibleTime development mailing list are available at <ulink url="http://www.crosswire.org/pipermail/bt-devel/"
+>Les archives de la liste de diffusion de BibleTime sont accessibles ici : <ulink url="http://www.crosswire.org/pipermail/bt-devel/"
 >www.crosswire.org/pipermail/bt-devel</ulink
 >. </para>
 </section>
 
 <section
 ><title
->Sword development mailing list</title>
+>Liste de diffusion du développement de Sword</title>
 <para
->To subscribe to the development mailing list of the Sword project please visit the following web page and enter your eMail address there: <ulink url="http://www.crosswire.org/mailman/listinfo/sword-devel"
+>Pour s'inscrire à la liste de l'équipe de développement de Sword, rendez-vous sur la page suivante et entrez votre adresse email : <ulink url="http://www.crosswire.org/mailman/listinfo/sword-devel"
 >www.crosswire.org/mailman/listinfo/sword-devel</ulink
 >. </para>
 <para
->Archives of the Sword development mailing list are available at <ulink url="http://www.crosswire.org/pipermail/sword-devel/"
+>Les archives de la liste de diffusion de Sword sont accessibles ici : <ulink url="http://www.crosswire.org/pipermail/sword-devel/"
 >www.crosswire.org/pipermail/sword-devel</ulink
 >. </para>
 </section>

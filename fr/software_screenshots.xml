@@ -18,16 +18,16 @@
 
 <section
 ><title
->Screenshots of BibleTime</title>
+>Captures d'écrans de BibleTime</title>
 
 	<mediaobject>
 		<caption>
 			<formalpara
 ><title
->New Sword setup dialog</title>
+>Nouvelle fenêtre de gestion des modules Sword</title>
 				<para
->Since version 1.4 BibleTime offers a new dialog to manage Sword modules. It is now possible to setup Sword's configuration, install modules and uninstall modules using a userfriendly interface. <ulink url="/images//screenshots/3-large.jpg"
->Large screenshot</ulink
+>Depuis la version 1.4, BibleTime offre une nouvelle fenêtre pour gérer les modules Sword. Il es désormais possible de gérer la configuration de Sword, d'installer et de supprimer des modules au moyen d'une interface conviviale. <ulink url="/images//screenshots/3-large.jpg"
+>Capture d'écrans</ulink
 > </para>
 			</formalpara>
 		</caption>
@@ -36,7 +36,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->Improvements in BibleTime 1.4</phrase>
+>Améliorations dans BibleTime 1.4</phrase>
 		</textobject>
 	</mediaobject>
 
@@ -44,10 +44,10 @@
 		<caption>
 			<formalpara
 ><title
->Improvements in 1.3</title>
+>Améliorations dans BibleTime 1.3</title>
 				<para
->Here you can see some improvements of BibleTime 1.3. The tree on the left is now set up by module type and language. The greek text in the right display window is now displayed better because BibleTime supports now own font settings for each language. <ulink url="/images//screenshots/1-large.jpg"
->Large screenshot</ulink
+>Voici quelques améliorations de BibleTime 1.3. L'arbre sur le côté gauche est maintenant organisé par type de module et par langue. Le texte en grec dans la fenêtre de droite est mieux affiché car BibleTime gère maintenant une police par langue. <ulink url="/images//screenshots/1-large.jpg"
+>Grande capture d'écran</ulink
 > </para>
 			</formalpara>
 		</caption>
@@ -56,7 +56,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->Improvements in BibleTime 1.3</phrase>
+>Améliorations dans BibleTime 1.3</phrase>
 		</textobject>
 	</mediaobject>
 
@@ -64,10 +64,10 @@
 		<caption>
 			<formalpara
 ><title
->New search dialog</title>
+>Nouvelle boîte de dialogue de recherche</title>
 				<para
->The search dialog of previous versions wasn't easy to use. This is the new search dialog together with the new module chooser window on the right. <ulink url="/images/screenshots/2-large.jpg"
->Large screenshot</ulink
+>La boîte de dialogue de recherche n'était pas très fonctionnelle. Voici la nouvelle mouture, avec le selecteur de module sur le droite.<ulink url="/images/screenshots/2-large.jpg"
+>Grande capture d'écran</ulink
 > </para>
 			</formalpara>
 		</caption>
@@ -76,7 +76,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->New search dialog</phrase>
+>Nouvelle boîte de dialogue de recherche</phrase>
 		</textobject>
 	</mediaobject>
 

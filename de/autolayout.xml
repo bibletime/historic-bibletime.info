@@ -1,92 +1,162 @@
 <?xml version="1.0"?>
 <!DOCTYPE autolayout PUBLIC "-//Norman Walsh//DTD Website Autolayout V2.4.1//EN" "http://docbook.sourceforge.net/release/website/2.4.1/schema/dtd/autolayout.dtd">
 <autolayout>
-<style title="Blue" src="blue.css" type="text/css"/><copyright><year>1999</year><year>2000</year><year>2001</year><year>2002</year><year>2003</year><year>2004</year><holder role="http://www.bibletime.info/">Die BibleTime Entwickler</holder></copyright><notoc page="error404.xml" id="error404" filename="error404.html">
-<title>Fehler 404: Datei nicht gefunden</title>
-<summary>Error 404: File not found</summary>
+<style title="Blue" src="blue.css" type="text/css"
+></style
+><copyright
+><year
+>1999</year
+><year
+>2000</year
+><year
+>2001</year
+><year
+>2002</year
+><year
+>2003</year
+><year
+>2004</year
+><year
+>2005</year
+><holder role="http://www.bibletime.info/"
+>Die BibleTime Entwickler</holder
+></copyright
+><notoc page="error404.xml" id="error404" filename="error404.html">
+<title
+>Fehler 404: Datei nicht gefunden</title>
+<summary
+>Error 404: File not found</summary>
 </notoc>
 <notoc page="devotional.xml" id="devotional" filename="devotional.html">
-<title>Andacht</title>
-<summary>BibleTime devotional</summary>
+<title
+>Andacht</title>
+<summary
+>BibleTime devotional</summary>
 </notoc>
 <notoc page="sidebar_tips.xml" id="sidebar_tips" filename="sidebar_tips.html">
-<title>Sidebar tips</title>
-<summary>BibleTime tips</summary>
+<title
+>Sidebar tips</title>
+<summary
+>BibleTime tips</summary>
+</notoc>
+<notoc page="software_swordcd.xml" id="software_swordcd" filename="software_swordcd.shtml">
+<title
+>Sword CD</title>
+<summary
+>Get the Sword CD</summary>
 </notoc>
 <toc page="index.xml" id="index" filename="no_index.html">
-<title>BibleTime</title>
-<summary>Start page</summary>
+<title
+>BibleTime</title>
+<summary
+>Start page</summary>
 <tocentry page="software.xml" id="software" filename="index.html">
-<title>Software</title>
-<summary>Welcome to BibleTime</summary>
+<title
+>Software</title>
+<summary
+>Welcome to BibleTime</summary>
 <tocentry page="software_about.xml" id="software_about" filename="software_about.html">
-<title>&#xDC;ber BibleTime</title>
-<summary>Introduction to the BibleTime software</summary>
+<title
+>Über BibleTime</title>
+<summary
+>Introduction to the BibleTime software</summary>
 </tocentry>
 <tocentry page="software_screenshots.xml" id="software_screenshots" filename="software_screenshots.html">
-<title>Bildschirmfotos</title>
-<summary>Screenshots of BibleTime</summary>
+<title
+>Bildschirmfotos</title>
+<summary
+>Screenshots of BibleTime</summary>
 </tocentry>
 <tocentry page="software_gallery.xml" id="software_gallery" filename="software_gallery.html">
-<title>Galerie</title>
-<summary>Gallery of BibleTime</summary>
+<title
+>Galerie</title>
+<summary
+>Gallery of BibleTime</summary>
 </tocentry>
 <tocentry page="software_installation.xml" id="documentation_installation_bibletime" filename="software_installation.html">
-<title>Herunterladen</title>
-<summary>Installation to the BibleTime software</summary>
+<title
+>Herunterladen</title>
+<summary
+>Installation to the BibleTime software</summary>
 </tocentry>
 <tocentry page="software_faq.xml" id="documentation_ifaq" filename="software_faq.html">
-<title>FAQ</title>
-<summary>FAQ about BibleTime</summary>
+<title
+>FAQ</title>
+<summary
+>FAQ about BibleTime</summary>
 </tocentry>
 <tocentry page="software_links.xml" id="software_links" filename="software_links.html">
-<title>Verweise</title>
-<summary>Link collection of good sites</summary>
+<title
+>Verweise</title>
+<summary
+>Link collection of good sites</summary>
 </tocentry>
 <tocentry page="software_linkus.xml" id="software_linkus" filename="software_linkus.html">
-<title>Auf uns verweisen</title>
-<summary>How to link to www.bibletime.info</summary>
+<title
+>Auf uns verweisen</title>
+<summary
+>How to link to www.bibletime.info</summary>
 </tocentry>
 <tocentry page="software_guestbook.xml" id="software_guestbook" filename="software_guestbook.shtml">
-<title>G&#xE4;stebuch</title>
-<summary>BibleTime's guestbook</summary>
+<title
+>Gästebuch</title>
+<summary
+>BibleTime's guestbook</summary>
 </tocentry>
 <tocentry page="software_press.xml" id="software_press" filename="software_press.html">
-<title>In der &#xD6;ffentlichkeit</title>
-<summary>BibleTime in the press</summary>
+<title
+>In der Öffentlichkeit</title>
+<summary
+>BibleTime in the press</summary>
 </tocentry>
 <tocentry page="software_contact.xml" id="contact" filename="software_contact.html">
-<title>Kontakt</title>
-<summary>How to contact us</summary>
+<title
+>Kontakt</title>
+<summary
+>How to contact us</summary>
 </tocentry>
 <tocentry page="software_license.xml" id="software_license" filename="software_license.html">
-<title>Lizenz</title>
-<summary>BibleTime's license</summary>
+<title
+>Lizenz</title>
+<summary
+>BibleTime's license</summary>
 </tocentry>
 </tocentry>
 <tocentry page="development.xml" id="development" filename="development.html">
-<title>Entwicklung</title>
-<summary>BibleTime's development</summary>
+<title
+>Entwicklung</title>
+<summary
+>BibleTime's development</summary>
 <tocentry page="development_help.xml" id="development_help" filename="development_help.html">
-<title>Helfen Sie uns</title>
-<summary>BibleTime's development</summary>
+<title
+>Helfen Sie uns</title>
+<summary
+>Direct and indirect support for the development of BibleTime</summary>
 </tocentry>
 <tocentry page="development_join.xml" id="development_join" filename="development_join.html">
-<title>Mitmachen</title>
-<summary>BibleTime's development</summary>
+<title
+>Mitmachen</title>
+<summary
+>BibleTime's development</summary>
 </tocentry>
 <tocentry page="development_mailinglists.xml" id="development_mailinglists" filename="development_mailinglists.html">
-<title>Mailinglisten</title>
-<summary>BibleTime's mailinglists</summary>
+<title
+>Mailinglisten</title>
+<summary
+>BibleTime's mailinglists</summary>
 </tocentry>
 </tocentry>
 <tocentry page="translation.xml" id="translation" filename="translation.shtml">
-<title>&#xDC;bersetzung</title>
-<summary>BibleTime translation statistics</summary>
+<title
+>Übersetzung</title>
+<summary
+>BibleTime translation statistics</summary>
 </tocentry>
 <tocentry page="biblehowto.docbook" id="biblehowto" filename="biblehowto.html">
-<title>Anleitung zum Bibelstudium</title>
-<summary>The BibleTime Biblestudy HowTo</summary>
+<title
+>Anleitung zum Bibelstudium</title>
+<summary
+>The BibleTime Biblestudy HowTo</summary>
 </tocentry>
 </toc>
 </autolayout>

@@ -12,10 +12,6 @@
 </head>
 
 <section><title>Gallery</title>
-
-	<para>This page refers to BibleTime 1.2 and needs to be updated soon, 
-	as display quality has improved a lot in the meantime.</para>
-
 	<para>You can find some nice screenshots of BibleTime here, showing one
 	or two text module(s) each. They demonstrate the powerful Unicode handling mechanisms
 	of <ulink url="http://www.trolltech.com">Trolltech's</ulink> QT 3. Some of the screenshots are really impressive.</para>
@@ -25,12 +21,11 @@
 
 	<mediaobject>
 		<caption>
-			<formalpara><title>BHS - hebrew rendering</title>
-				<para>The <emphasis>BHS</emphasis> (short for <emphasis>Biblia Hebraica Stuttgartensia</emphasis>), the best available text
-				of the Hebrew Old Testament.</para>
+			<formalpara><title>WLC - hebrew rendering</title>
+				<para>The <emphasis>WLC</emphasis> (short for <emphasis>Westminster Leningrad Codex</emphasis>), the best available text of the Hebrew Old Testament.
+				</para>
 				<para>As you can see, BibleTime renders the text correctly from right to left.
-				Those of you who can read Hebrew will notice that the Vowel Points and the Cantillation Marks (you can
-				switch both of them on and off) are displayed correctly.
+				Those of you who can read Hebrew will notice that the Vowel Points and the Cantillation Marks (you can switch both of them on and off) are displayed correctly.
 				<ulink url="/images/gallery/bhs.png">Large screenshot</ulink>
 				</para>
 			</formalpara>

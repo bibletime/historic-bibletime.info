@@ -12,7 +12,15 @@
 <keywords>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, CD order, Sword CD</keywords>
 </head>
 
-<section><title>What is the Sword CD?</title>
+<section>
+<formalpara><title>Sword CD order form not available</title>
+<para>
+Because it's impossible for the BibleTime team to fullfill all the Sword CD orders with the limited financial ressources the CD order form is currently not available. Please note that the CD still is available as a download from ftp://ftp.crosswire.org/pub/sword/iso/.
+</para>
+</formalpara>
+</section>
+
+<!-- <section><title>What is the Sword CD?</title>
 <para>
 The Sword project offers a CD which contains all the software for Windows, Linux and Mac OS X. The CD is freely available like all the other things the Crosswire Bible society is offering for you! See below how to download the CD. If you can't download the CD, for example because you don't have a fast connection, you can order the CD. If you're living in Europe the BibleTime developers send out the CDs to you. In this case please fill out the form below and send it away.
 </para>
@@ -53,16 +61,18 @@ No problem! Please download the file with the latest date from <ulink url="ftp:/
 If you're NOT living in Europe please go to the Crosswire's CD order page and order the CD there. If you're living somewhere in Europe the BibleTime developers will send you the CD. Please fill in the required information in the form below and send it. The BibleTime developers will send you the CDs for free.
 </para>
 
-<html:form method="POST" action="software_swordcdcheck.phtml" enctype="application/x-www-form-urlencoded">
+<html:form method="POST" action="software_swordcdsend.php4" enctype="application/x-www-form-urlencoded">
 
 <para>Name: 	<html:input type="text" name="name"></html:input></para>
 <para>Street: 	<html:input type="text" name="street"></html:input></para>
 <para>Town: 	<html:input type="text" name="town"></html:input></para>
+<para>eMail: 	<html:input type="text" name="email"></html:input></para>
 
 <para>Country: 
 	<html:select name="country">
 		<html:option value="Austria">Austria</html:option>
 		<html:option value="Belgium">Belgium</html:option>
+		<html:option value="Bulgaria">Bulgaria</html:option>
 		<html:option value="Croatia">Croatia</html:option>
 		<html:option value="Czech Republic">Czech Republic</html:option>
 		<html:option value="Denmark">Denmark</html:option>
@@ -107,12 +117,13 @@ If you're NOT living in Europe please go to the Crosswire's CD order page and or
 </para>
 
 <para>
-	<html:input name="Check order" type="submit" value="Check order"></html:input>
+	<html:input name="Check order" type="submit" value="Send order"></html:input>
 	&nbsp;
 	<html:input name="Reset order" type="reset" value="Reset order"></html:input>
 </para>
 </html:form>
 
 </section>
+-->`
 
 </webpage>

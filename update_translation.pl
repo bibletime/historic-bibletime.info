@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 
 use lib "Perl";
+use Digest::MD5;
 use File::Path;
 use File::Copy;
 use File::Compare;
@@ -8,6 +9,13 @@ use Locale::PO;
 use strict;
 
 # This script updates the translation in the folder given as parameter
+
+sub filesAreDifferent {
+	my $file1 = shift;
+	my $file2 = shift;
+	
+	return compare($file1, $file2);
+}
 
 sub get_langs {
 	my $file = shift || "language-online.conf";
@@ -99,6 +107,7 @@ sub make_xml_files() {
 	# Create a PO file which contains the original english strings as msgstr of empty/untranslated entries
 	# This way the files won"t be empty if the translation is misisng
 	copy("$pofile","$pofile-complete");
+	
 	my $aref = Locale::PO->load_file_asarray("$pofile");
 	my @entries = @$aref if ($aref);
 	if ($#entries+1) {
@@ -118,8 +127,28 @@ sub make_xml_files() {
 		next unless ($file =~ /(\.xml|\.docbook)$/);
 		next if ($file eq "catalog.xml");
 
-		print "\tCreating XML file $file\n";
-		`po2xml $source/$file $pofile-complete > $dest/$file`;
+		my $age_en = -M "$source/$file";
+		my $age_translated = -M "$dest/$file";
+		my $age_po = -M "$pofile-complete";
+		
+		#print "no recreateion of $file\n" if (!$alwaysRecreate{"$file"});
+		
+		next if (-f "$source/$file" && -f "$dest/$file" && ($age_en > $age_translated) && ($age_po > $age_translated)); #english file is older than the translated file so no update needed
+		
+
+		print "\tChecking if we need to create $dest/$file\n";
+		`po2xml $source/$file $pofile-complete > $dest/$file.test`;
+		
+		
+		#if the created XML file is different from the original XML file the PO file had some changes
+		if (($file eq "biblehowto.docbook") || ( ($age_po <= $age_translated) && (filesAreDifferent("$dest/$file", "$dest/$file.test"))) ) {
+			print "\t\tRecreating $file\n";
+			move("$dest/$file.test", "$dest/$file");
+		}
+		else { #the files are the same, remove the test file
+			unlink("$dest/$file.test");
+		}
+		
 	}
 
 	# Delete temporary PO file used for XML file creation
@@ -141,7 +170,7 @@ sub make_makefile() {
 sub run_make() {
 	print "Calling \"make\"\n";
 	my $lang = shift;
-	`cd $lang && make clean && make`;
+	`cd $lang && make`;
 }
 
 sub create_apache_files() {
@@ -149,18 +178,27 @@ sub create_apache_files() {
 	my $dest = shift;
 	my @langs = &get_langs("language-online.conf");
 	
-	print "Creating apache files...\n";
+	print "Creating apache files ...\n";
 	
+	#Create the robots.txt file
+	open(OUT, "> $dest/robots.txt");
+	print OUT "# Robots file for www.bibletime.info. Created by update_translation.pl\n";
+	print OUT "User-agent *\n";
+	foreach my $lang (sort @langs) {
+		print OUT "Allow: /$lang/\n";
+	}
+	close(OUT);
+	
+	#Create the .var files
 	opendir(DIR, $source);
 	while (my $file = readdir(DIR)) {
-		next unless ($file =~ /\.html|\.shtml|\.phtml$/);
+		next unless ($file =~ /\.html|\.shtml|\.phtml|\.php4|\.php$/);
 		
 		my $htmlfile = $file;
-		$file =~ s/\.html|\.shtml|\.phtml$/.var/;
+		$file =~ s/\.html|\.shtml|\.phtml|.php4|.php$/.var/;
 
-		#print "\tCreating VAR file for $file\n";
-		
 		open(OUT, "> $dest/$file");
+		
 		print OUT "URI: en/$htmlfile\n";
 		print OUT "Content-type: text/html\n";
 		print OUT "Content-language: en\n";
@@ -173,7 +211,6 @@ sub create_apache_files() {
 		
 		print OUT "\nURI: default/$htmlfile\n";
 		print OUT "Content-type: text/html\n";
-		#print OUT "Content-language: en\n";
 		
 		close(OUT);
 	}
@@ -195,7 +232,6 @@ if (!@langs) {
 #required for all languages
 &create_apache_files($ENV{"PWD"} . "/en", ".");
 &update_pot_files($ENV{"PWD"} . "/en",  $ENV{"PWD"} . "/en/pot/");
-
 
 foreach my $lang (&get_langs("language.conf")) {
 	print "Creating PO files for $lang...\n";

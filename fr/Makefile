@@ -25,7 +25,7 @@ autolayout.xml: layout.xml
 	$(PROC) --output $@  $(STYLEOPT)  $(STYLESHEET)  $(filter-out autolayout.xml,$^)
 	../fixhtml.pl $@
 
-%.phtml: autolayout.xml
+%.php4: autolayout.xml
 	$(PROC) --output $@  $(STYLEOPT)  $(STYLESHEET)  $(filter-out autolayout.xml,$^)
 	../fixhtml.pl $@
 

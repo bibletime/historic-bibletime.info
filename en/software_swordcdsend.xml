@@ -1,0 +1,78 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="software_swordcdsend">
+<config param="desc" value="Sword CD order"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title>Sword CD order</title>
+<summary>Get the Sword CD</summary>
+<keywords>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, CD order, Sword CD</keywords>
+</head>
+
+<section><title>CD order sent</title>
+
+<?php
+
+	$name 		= $HTTP_POST_VARS["name"];
+	$street 		= $HTTP_POST_VARS["street"];
+	$town 		= $HTTP_POST_VARS["town"];
+	$country 		= $HTTP_POST_VARS["country"];
+	$copies 		= $HTTP_POST_VARS["cds"];
+	$comments 	= $HTTP_POST_VARS["comments"];
+	$email 		= $HTTP_POST_VARS["email"];
+	$from 		= "info@bibletime.info";
+	
+	$subject = "Your Sword CD order";
+	$body_confirmation = <<<EOT
+Dear $name,
+this is the confirmation eMail of your Sword CD order.
+Here is the information of your Sword CD order again to give you a reference for later questions you may have.
+
+	Name: $name
+	Street: $street
+	Town: $town
+	Country: $country
+	eMail: $email
+	Copies: $copies
+
+	Comments: $comments
+
+If you have questions please send an eMail to info\@bibletime.info or simply respond to this eMail!
+
+The BibleTime developers
+EOT;
+
+	$body_order = <<<EOT
+	Name: $name
+	Street: $street
+	Town: $town
+	Country: $country
+	eMail: $email
+	Copies: $copies
+
+	Comments: $comments
+EOT;
+
+	$headers = "From: info@bibletime.info\r\n";
+	$headers .= "Content-type: text/plain; charset=utf-8\r\n";
+	
+	if ( mail($email, $subject, $body_confirmation, $headers) ) {
+		echo("<p>The confirmation eMail was successfully sent to $email.</p>");
+	}
+	else {
+		echo("<p>The confirmation eMail could not be sent to $email.</p>");
+	}
+	
+	if ( mail("info@bibletime.info", "[Sword CD order] $name ordered $copies CD(s)", $body_order, $headers) ) {
+		echo("<p>The order was sucessfully send to the BibleTime team.</p>");
+	}
+	else {
+		echo("<p>The order could not be send to the BibleTime team.</p>");
+	}
+	?> 
+</section>
+
+</webpage>

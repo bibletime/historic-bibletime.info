@@ -1,6 +1,7 @@
 <!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_about SYSTEM "software_about.xml" NDATA XML>
+<!ENTITY development_team SYSTEM "development_team.xml" NDATA XML>
 ]>
 
 <webpage id="software">
@@ -33,6 +34,32 @@
 <section
 ><title
 >바이블타임 뉴스</title>
+	
+	<formalpara
+><title
+>2005-01-24: Bible software Survey</title>
+		<para
+>Bible Software vendors from around the globe are jointly sponsoring a cooperative User Survey to glean from Bible Software Users worldwide their needs, requests, and dreams. We'd be glad if you could take the survey here: <ulink url="http://www.surveymonkey.com/s.asp?u=91866814127"
+>Bible software survey</ulink
+> </para>
+	</formalpara>
+	
+	<formalpara
+><title
+>2004-12-23: Status update</title>
+		<para
+>The BibleTime project is still alive and development is almost finished for the next version, BibleTime 1.5. This version will contain major user interface improvements which will make it simpler to use than any other version before. We hope to release version 1.5 in the first three months of the next year. </para>
+	</formalpara>
+
+	<formalpara
+><title
+>2004-05-25: Documentation author(s) needed</title>
+		<para
+>The BibleTime team is in urgent need of one or more volunteers who want to work on the documentation. The handbook is outdated and needs a major update before the next version of BibleTime can be released. If you have some free time and know how to work with docbook files (or are ready to learn it), plase contact us at <email
+>info@bibletime.info</email
+>. </para>
+	</formalpara>
+	
 	<formalpara
 ><title
 >2004-02-09: BibleTime 1.4.1 for Mac OS X</title>

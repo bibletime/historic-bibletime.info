@@ -18,65 +18,65 @@
 
 <section
 ><title
->Help translate BibleTime into your language</title>
+>Aidez-nous à traduire BibleTime dans votre langue</title>
 <para
->This is a part of software development where the help of many individals is needed. It is our desire to offer BibleTime to users in as many languages as possible. The following areas are open for your contributions: <orderedlist numeration="arabic">
+>Voici une partie du développement où l'aide du plus grand nombre est nécessaire. Nous voulons offrir BibleTime dans autant de langues que possible. Les zones suivantes sont ouvertes à vos contributions : <orderedlist numeration="arabic">
 	<listitem
 ><para
->Translate the www.bibletime.info website.</para
+>Traduire le site www.bibletime.info.</para
 ></listitem>
 	<listitem
 ><para
->Translate the program's User Interface.</para
+>Traduire l'interface du programme.</para
 ></listitem>
 	<listitem
 ><para
->Translate the program's handbook.</para
+>Traduire le manuel du programme.</para
 ></listitem>
 </orderedlist>
 </para>
 
 <para
->On this page you can find statistics about the completeness of existing translations for each of these areas, as well as links to translation templates that you can use to submit new translations which do not yet exist. If a translation into your language does not yet exist, just download the templates, translate them and send them to <email
+>Sur cette page, vous trouverez des statistiques sur l'état d'achèvement des traductions de chaque zone, ainsi que des liens vers les gabarits de traductions utilisables pour créer de nouvelles traductions. Il suffit alors de les télécharger, de les traduire et de les renvoyer à <email
 >info@bibletime.info</email
->. If you are not satisfied with the status of your language's translation, you can directly download the corresponding file, update the translation and send it in. In both cases we'll be sure to integrate your work as soon as possible. </para>
+>. Sivous n'êtes pas satisfaits de l'état d'avancement de la traduction de votre langue, vous pouvez télécherger le fichier, le modifier, et le renvoyer. Dans les deux cas, nous nous engageons à intégrer votre travail au plus vite. </para>
 
 <para
->For the translation process we recommend that you use the excellent and mature program <ulink url="http://i18n.kde.org/tools/kbabel/"
+>Pour le processus de traduction, nous recommandons <ulink url="http://i18n.kde.org/tools/kbabel/"
 >KBabel</ulink
->. It has many advanced features and is a great aid. </para>
+>, qui a de nombreuses possibilités et qui aide beaucoup le travail de traduction. </para>
 </section>
 
 
 <section
 ><title
->Translate the www.bibletime.info website.</title>
+>Traduire le site www.bibletime.info.</title>
 <para
->If a translation of the website to your language does not yet exist, you can download and translate the <ulink url="/en/pot/full.pot"
->Webpage translation template</ulink
->. If you want to update an existing translation, use the links in the table below to download the corresponding file. </para>
+>Si une traduction du site n'existe pas pour votre langue, vous pouvez télécharger et traduire le <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD"
+> gabarit de traduction du site</ulink
+>. Si vous désirez mettre à jour une traduction existante, utilisez les liens dans la table ci-dessous pour télécharger le fichier correspondant. </para>
 	<ssi mode="exec" cgi="/postats/website_stats.pl"
 ></ssi>
 </section>
 
 <section
 ><title
->Translate the program's User Interface.</title>
+>Traduire l'interface du programme.</title>
 <para
->If a translation of the User Interface to your language does not yet exist, you can download and translate the <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD"
-> User Interface translation template</ulink
->. If you want to update an existing translation, use the links in the table below to download the corresponding file. </para>
+>Si une traduction de l'interface n'existe pas pour votre langue, vous pouvez télécharger et traduire le <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD"
+> gabarit de traduction de l'interface</ulink
+>. Si vous désirez mettre à jour une traduction existante, utilisez les liens dans la table ci-dessous pour télécharger le fichier correspondant. </para>
 	<ssi mode="exec" cgi="/postats/messages_stats.pl"
 ></ssi>
 </section>
 
 <section
 ><title
->Translate the program's handbook.</title>
+>Traduire le manuel du programme.</title>
 <para
->If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD"
-> handbook translation template</ulink
->. If you want to update an existing translation, use the links in the table below to download the corresponding file. </para>
+>Si une traduction du manuel n'existe pas pour votre langue, vous pouvez télécharger et traduire le <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD"
+> gabarit de traduction du manuel</ulink
+>. Si vous désirez mettre à jour une traduction existante, utilisez les liens dans la table ci-dessous pour télécharger le fichier correspondant. </para>
 	<ssi mode="exec" cgi="/postats/handbook_stats.pl"
 ></ssi>
 </section>

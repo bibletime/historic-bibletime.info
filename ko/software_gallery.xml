@@ -19,10 +19,6 @@
 <section
 ><title
 >갤러리</title>
-
-	<para
->This page refers to BibleTime 1.2 and needs to be updated soon, as display quality has improved a lot in the meantime.</para>
-
 	<para
 >이곳에서 (한두가지 텍스트 모듈을 포함하는) 바이블타임의 멋진 스크린샷들을 보실 수 있습니다. <ulink url="http://www.trolltech.com"
 >Trolltech</ulink
@@ -36,13 +32,13 @@
 		<caption>
 			<formalpara
 ><title
->BHS - 히브리어 번역문</title>
+>WLC - hebrew rendering</title>
 				<para
-><emphasis
->BHS</emphasis
-> (<emphasis
->Biblia Hebraica Stuttgartensia</emphasis
->)는 히브리어 구약성경중 가장 훌륭한 텍스트입니다.</para>
+>The <emphasis
+>WLC</emphasis
+> (short for <emphasis
+>Westminster Leningrad Codex</emphasis
+>), the best available text of the Hebrew Old Testament. </para>
 				<para
 >보시는 바와 같이 바이블타임은 텍스트를 오른쪽에서 왼쪽순으로 바르게 번역해놓았습니다. 히브리어를 읽으실 수 있는 분들은 모음 점들과 Cantillation Marks들도 표현되고 있는 것을 발견하셨을 겁니다. (그 두가지는 on/off하시는 것도 가능합니다) <ulink url="/images/gallery/bhs.png"
 >큰 스크린샷</ulink
@@ -54,7 +50,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->BHS - 히브리어 번역문</phrase>
+>BHS - hebrew rendering</phrase>
 		</textobject>
 	</mediaobject>
 

@@ -1,7 +1,7 @@
 html, body {
 	padding:0px;
 	margin:0px;
-	font-size:13pt;
+	font-size:12pt;
 }
 
 body, p, h1, h2, h3, h4, h5, h6, a:link, a:visited, a:hover, a:active, a:focus {
@@ -40,16 +40,16 @@ a:focus {
 }
 
 h1 {
-	font-size:1.15em;
+	font-size:1.1em;
 	}
 h2 {
-	font-size:1.1em;
+	font-size:1.05em;
 	}
 h3 {
 	font-size:1.05em;
 	}
 h4 {
-	font-size:1.05em;
+	font-size:1.02em;
 	}
 h5 {
 	font-size:1em;
@@ -144,7 +144,7 @@ textarea:focus {
 	margin:15px 0 0 5px;
 	float:left;
 	width:160px;
-	font-size:0.9em;
+	font-size:0.95em;
 	}
 #navigation ul {
 	list-style:none;
@@ -155,7 +155,7 @@ textarea:focus {
 	}
 #navigation ul ul {
 	border:none;
-	font-size:1em;
+	font-size:0.95em;
 	}	
 	
 #navigation li {
@@ -387,7 +387,7 @@ pre {
 	padding:0;
 	margin:0;
 	z-index:2;
-	font-size:0.9em;
+	font-size:90%;
 }
 
 #rightpanel #devotional {
@@ -404,7 +404,7 @@ pre {
 	margin:0px;
 	background-color:#DAE4FF;
 	vertical-align:middle;
-	font-size:0.95em;
+	font-size:0.9em;
 	font-weight:bold;
 	color:#0226b0;
 	border-bottom:1px solid #9CA7D2;
@@ -474,7 +474,10 @@ div.guestbook .item .comments {
 	font-size:0.85em;
 	padding: 0 10px 15px 10px
 	}
-
+div.guestbook .item .comments p {
+	margin:0;
+	padding:0;h
+}
 
 div.swordcd {
 	width:100%;
@@ -551,7 +554,8 @@ table tr.answer p {
 	clear:right;
 	border-bottom: 2px dashed #B4CAFF;
 	margin-left: -15px;
-	font-size:1.1em;
+	font-size:1.02em;
+	font-weight:bold;
 }
 
 

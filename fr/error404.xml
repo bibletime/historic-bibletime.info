@@ -9,7 +9,7 @@
 ></config>
 <head>
 	<title
->Error 404: File not found</title>
+>Erreur 404: Fichier non trouvé</title>
 	<summary
 >Error 404: File not found</summary>
 	<keywords
@@ -18,16 +18,16 @@
 
 <section
 ><title
->The document is not available</title>
+>Ce document n'est pas disponible</title>
 <para
->The document you wanted to get is not available on <ulink url="http://www.bibletime.info/"
+>Le document que vous avez demandé n'est pas disponible sur <ulink url="http://www.bibletime.info/"
 >www.bibletime.info</ulink
->. Please use the navigation tree on the left to see if the document was moved. </para>
+>. Veuillez utiliser la barre de navigation latérale pour vérifier si le document n'a pas été déplacé </para>
 
 <para
->If you can't solve the problem please report the URL which failed to <email
+>Si vous n'arrivez pas à résoudre le problème, envoyez l'adresse fautive à <email
 >info@bibletime.info</email
->. Thank you very much! </para>
+>. Merci beaucoup ! </para>
 
 </section>
 

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE autolayout PUBLIC "-//Norman Walsh//DTD Website Autolayout V2.4.1//EN" "http://docbook.sourceforge.net/release/website/2.4.1/schema/dtd/autolayout.dtd">
 <autolayout>
-<style title="Blue" src="blue.css" type="text/css"/><copyright><year>1999</year><year>2000</year><year>2001</year><year>2002</year><year>2003</year><year>2004</year><holder role="http://www.bibletime.info/">The BibleTime developers</holder></copyright><notoc page="error404.xml" id="error404" filename="error404.html">
+<style title="Blue" src="blue.css" type="text/css"/><copyright><year>1999</year><year>2000</year><year>2001</year><year>2002</year><year>2003</year><year>2004</year><year>2005</year><holder role="http://www.bibletime.info/">The BibleTime developers</holder></copyright><notoc page="error404.xml" id="error404" filename="error404.html">
 <title>Error 404: File not found</title>
 <summary>Error 404: File not found</summary>
 </notoc>
@@ -12,6 +12,10 @@
 <notoc page="sidebar_tips.xml" id="sidebar_tips" filename="sidebar_tips.html">
 <title>Sidebar tips</title>
 <summary>BibleTime tips</summary>
+</notoc>
+<notoc page="software_swordcd.xml" id="software_swordcd" filename="software_swordcd.shtml">
+<title>Sword CD</title>
+<summary>Get the Sword CD</summary>
 </notoc>
 <toc page="index.xml" id="index" filename="no_index.html">
 <title>BibleTime</title>
@@ -55,10 +59,6 @@
 <title>In the press</title>
 <summary>BibleTime in the press</summary>
 </tocentry>
-<tocentry page="software_swordcd.xml" id="software_swordcd" filename="software_swordcd.shtml">
-<title>Sword CD</title>
-<summary>Get the Sword CD</summary>
-</tocentry>
 <tocentry page="software_contact.xml" id="contact" filename="software_contact.html">
 <title>Contact</title>
 <summary>How to contact us</summary>
@@ -82,10 +82,6 @@
 <tocentry page="development_mailinglists.xml" id="development_mailinglists" filename="development_mailinglists.html">
 <title>Mailinglists</title>
 <summary>BibleTime's mailinglists</summary>
-</tocentry>
-<tocentry page="development_team.xml" id="development_team" filename="development_team.html">
-<title>The team</title>
-<summary>Get to know members of the BibleTime team and how you can support them</summary>
 </tocentry>
 </tocentry>
 <tocentry page="translation.xml" id="translation" filename="translation.shtml">

@@ -19,10 +19,6 @@
 <section
 ><title
 >Galerie</title>
-
-	<para
->Diese Seite bezieht sich noch auf BibleTime 1.2 und benötigt ein Update, da die Anzeigequalität in der Zwischenzeit verbessert werden konnte.</para>
-
 	<para
 >Sie können hier einige schöne Bildschirmfotos von BibleTime finden, die jeweils ein oder zwei Textmodule zeigen. Sie demonstrieren die möchtigen Unicode-Funktion von <ulink url="http://www.trolltech.com"
 >Trolltechs</ulink
@@ -36,13 +32,13 @@
 		<caption>
 			<formalpara
 ><title
->BHS - Darstellung von Hebräisch</title>
+>WLC - Darstellung von Hebräisch</title>
 				<para
 >Die <emphasis
->BHS</emphasis
+>WLC</emphasis
 > (Abkürzung von <emphasis
->Biblia Hebraica Stuttgartensia</emphasis
->),  der beste verfügbare Text des alten Testamentes.</para>
+>Westminster Leningrad Codex</emphasis
+>), der beste verfügbare Text des alten Testamentes. </para>
 				<para
 >Wie Sie sehen wird der Text von BibleTime korrekt von rechts nach links angezeigt. Diejenigen, die Hebräisch beherschen werden bemerken, dass die Vokal- und Kantillationszeichen (beide können an- und ausgeschaltet werden) korrekt angezeigt werden: <ulink url="/images/gallery/bhs.png"
 >Großes Bildschirmfoto</ulink

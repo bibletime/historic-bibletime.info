@@ -18,34 +18,37 @@
 
 <section
 ><title
->The history of BibleTime</title>
+>Introduction</title>
 <para
->Back in June of 1999 Thomas Hagedorn, Thorsten Uhlmann and Joachim Ansorg started to work on a Bible study application for KDE 1.0. </para>
-
-<para
->The first version was released two months later as version 0.1. This version was very simple and supported only the most basic things. </para>
-
-<para
->After three months of hard work version 0.2 was released to the public. This version was usable, it supported basic printing, searching and offered a simple editor for personal notes. </para>
-
-<para
->BibleTime 0.2 was later ported to KDE 2 and totally redesigned with a more powerful interface, better printing and a lot of internal changes. This version was called BibleTime 0.3 </para>
-
-<para
->BibleTime 1.0, which was released almost one year after version 0.3 and was the first version we considered as stable. </para>
-
-<para
->BibleTime 1.1 and 1.2 followed later on. BibleTime 1.2 is the first version of BibleTime for version 3.0 of KDE. </para>
+>BibleTime est une application d'étude biblique pour Linux. Elle est basée sur l'environnement de bureau <ulink url="http://www.kde.org/"
+>KDE</ulink
+> et utilise les bibliothèques de programmation <ulink url="http://www.crosswire.org/sword/"
+>Sword</ulink
+> pour travailler avec les textes bibliques, commentaires, dictionnaires et livres fournis par la <ulink url="http://www.crosswire.org/"
+>Crosswire Bible Society</ulink
+>. </para>
 </section>
 
 <section
 ><title
->The future of BibleTime</title>
+>L'historique de BibleTime</title>
 <para
->We're grateful that God supports us and that He blesses our work with new team members. God is good! </para>
+>En Juin 1999, Thomas Hagedorn, Thorsten Uhlmann et Joachim Ansorg commencèrent à travailler sur une application d'étude biblique pour KDE 1.0. </para>
 
 <para
->We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application. </para>
+>La première version fut lancée deux mois plus tard (version 0.1). Cette version était très simple et ne permettait de faire que des choses très basiques. </para>
+
+<para
+>Après trois mois de dur labeur, la version 0.2 fut dévoilée au grand public. Cette version était utilisable, elle supportait l'impression, la recherche et offrait un éditeur de notes personnelles simple. </para>
+
+<para
+>BibleTime 0.2 fut ensuite écrit pour KDE 2 avec une interface plus puissante, une amélioration de l'impression, et beaucoup de changements internes. Cette version prit le nom de BibleTime 0.3. </para>
+
+<para
+>BibleTime 1.0, qui sortit presque un an après la version 0.3, fut la première que nous avons considéré comme stable. </para>
+
+<para
+>BibleTime 1.2 et 1.3 suivirent un peu plus tard. BibleTime 1.2 est la première version de BibleTime tournant sous KDE 3. </para>
 </section>
 
 </webpage>

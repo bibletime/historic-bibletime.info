@@ -10,7 +10,7 @@
 ></config>
 <head>
 	<title
->Joignez-nous</title>
+>Rejoignez-nous</title>
 	<summary
 >BibleTime's development</summary>
 	<keywords
@@ -21,28 +21,28 @@
 ><title
 >Rejoindre l'équipe BibleTime</title>
 <para
->We are glad for everybody who helps us improving the BibleTime software, it's documentation and it's translations. </para>
+>C'est pour nous une joie de voir de nombreuses personnes nous aider à améliorer le logiciel BibleTime, ainsi que la documentation et les traductions. </para>
 
 <section
 ><title
->The basic steps..</title>
+>La marche à suivre...</title>
 <para
->The following are necessary for each type of team member. Please follow them! </para>
+>Cette démarche est nécessaire pour tous les types de membres de l'équipe. Veuillez la suivre avec attention! </para>
 <para>
 	<orderedlist>
 		<listitem>
 			<para
->If you don't have an account on SourceForge, please sign up for one. It's free. We need your username to add you to the team members, to assign tasks to you, etc. </para>
+>Si vous ne possédez pas de compte Sourceforge, veuillez en créer un. Cette procédure est gratuite. Nous avons besoin de votre nom d'utilisateur pour vous ajouter aux membres de l'équipe, pour vous confier des tâches, etc. </para>
 		</listitem>
 
 		<listitem>
 			<para
->Subscribe to the BibleTime development mailing list. All developers read this mailing list, so everybody knows what's hapenning. </para>
+>Inscrivez-vous à la liste de diffusion de développement de BibleTime. Tous les développeurs lisent cette liste, pour que chacun soit au courant de l'actualité de l'équipe. </para>
 		</listitem>
 
 		<listitem>
 			<para
->Get the development version of BibleTime and install it. If you need help with this ask on the mailing list or look into the documentation section. </para>
+>Téléchargez la version développement de BibleTime et installez-la. Si vous avez besoin d'aide à ce niveau, posez vos questions sur la liste de diffusion ou consultez la section documentation. </para>
 		</listitem>
 	</orderedlist>
 </para>
@@ -50,16 +50,16 @@
 
 <section
 ><title
->The next steps for software developers...</title>
+>Les prochaines étapes concernent les développeurs du logiciel...</title>
 <para>
 	<orderedlist>
 		<listitem>
 			<para
->Work through some of the Qt 3 and KDE 3 tuorials to get used to programming with the things BibleTime uses. </para>
+>Travaillez les tutoriaux de Qt3 et de KDE3 pour vous habituer à la programmation utilisée pour BibleTime </para>
 		</listitem>
 		<listitem>
 			<para
->If you don't know what to do please ask on the mailing list for some tasks. Don't forget to add how difficult it should be. </para>
+>Si vous ne savez pas quoi faire, demandez à la liste de diffusion une tâche à accomplir. N'oubliez pas de préciser le niveau de difficulté que vous désirez. </para>
 		</listitem>
 	</orderedlist>
 </para>
@@ -67,16 +67,16 @@
 
 <section
 ><title
->The next steps for documentation authors...</title>
+>Les prochaines étapes concernent les auteurs de la documentation...</title>
 <para>
 	<orderedlist>
 		<listitem>
 			<para
->Read the existing english documentation. It's located in the docs/ directory of the bibletime cvs directory. </para>
+>Lisez la documentation anglaise existante. Elle est située dans le répertoire docs/ du répertoire cvs de Bible Time. </para>
 		</listitem>
 		<listitem>
 			<para
->The documentation is stored in docbook files in the unicode subdirectories of each documentation part (handbook, Bible study howto, installation, helpdialog). Please don't edit the HTML files directly because they're generated from the docbook files. The translation file are also generated from the docbook data. </para>
+>La documentation est stockée dans des fichiers docbook situés dans le sous-répertoire unicode de chaque partie de documentation (handbook, Bible study howto, installation, helpdialog). N'éditez pas directement les fichiers HTMLcar ils sont générés à partir des fichiers docbook. Le fichier de traduction est aussi généré à partir des données docbook. </para>
 		</listitem>
 	</orderedlist>
 </para>
@@ -85,24 +85,24 @@
 
 <section
 ><title
->The next steps for translators...</title>
+>Les prochaines étapes concernent les traducteurs...</title>
 <para>
 	<orderedlist>
 		<listitem>
 			<para
->Have a look at the internationaliziation pages of the KDE project. They're located at <ulink url="http://i18n.kde.org/"
+>Jetez un oeil aux pages d'internationalisation du projet KDE. On peut les trouver ici : <ulink url="http://i18n.kde.org/"
 >i18n.kde.org</ulink
->. </para>
+> </para>
 		</listitem>
 		<listitem>
 			<para
->Install the program KBabel, if it's not yet installed on your system. It will help you a lot with the translation process. </para>
+>Installez le programme KBabel, s'il n'est pas encore installé sur votre système. Il sera une aide précieuse dans le processus de traduction. </para>
 		</listitem>
 		<listitem>
 			<para
->Read the page about <olink targetdocent="translation"
->translating BibleTime</olink
->. </para>
+>Lisez la page suivante : <olink targetdocent="translation"
+>traduire BibleTime</olink
+> </para>
 		</listitem>
 	</orderedlist>
 </para>

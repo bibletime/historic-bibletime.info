@@ -4,7 +4,6 @@ RewriteEngine On
 CheckSpelling Off
 </IfModule>
 
-
 AddType application/x-type-map var
 Options -MultiViews
 DirectoryIndex index.var index.html
@@ -33,6 +32,7 @@ RewriteRule	^([a-z-]{2,5}/)?mailinglist.s?html?$	/$1development_mailinglists.htm
 RewriteRule	^([a-z-]{2,5}/)?news.s?html?$			/$1software_news.html [R,L]
 
 RewriteRule	^([a-z-]{2,5}/)?documentation_installation_bibletime.html?$		/$1software_installation.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?documentation_faq.html?$		/$1software_faq.html [R,L]
 RewriteRule	^([a-z-]{2,5}/)?documentation.html?$		/$1software_installation.html [R,L]
 
 
@@ -54,7 +54,9 @@ RewriteRule	^screenshots/(.*)$	/images/screenshots/$1
 RewriteRule	^([a-z-]{2,5}/)?contact/links/$		/$1software_links.html [R,L]
 RewriteRule	^([a-z-]{2,5}/)?contact/linkus/$	/$1software_linkus.html [R,L]
 RewriteRule	^([a-z-]{2,5}/)?gallery.shtml$		/$1software_gallery.html [R,L]
-RewriteRule	^([a-z-]{2,5}/)?software/gallery$	/$1software_gallery.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?software/gallery/?$	/$1software_gallery.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?software/download/?$	/$1software_installation.html [R,L]
+RewriteRule	^([a-z-]{2,5}/)?software_download.html$	/$1software_installation.html [R,L]
 RewriteRule	^([a-z-]{2,5}/)?translate/.*$		/$1translation.shtml [R,L]
 
 
@@ -74,7 +76,7 @@ RewriteRule	 ^([a-z-]{2,5})/?$	/$1/index.html	[R,L]
 
 RewriteCond	/homepages/24/d70284388/htdocs/www.bibletime.info/$1.var  -f [OR]
 RewriteCond	%{DOCUMENT_ROOT}/$1.var  -f
-RewriteRule	^([^/]*)\.s?html$	/$1.var  [L]
+RewriteRule	^([^/]*)\.(s?html|php4|php)$	/$1.var  [L]
 
 RewriteRule	 ^.+/(.+\.css)$				/$1
 RewriteRule	 ^.+/((guestbook|swordcd)\.pl)$		/$1

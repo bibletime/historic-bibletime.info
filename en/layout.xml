@@ -11,6 +11,7 @@
 	<year>2002</year>
 	<year>2003</year>
 	<year>2004</year>
+	<year>2005</year>
     	<holder role="http://www.bibletime.info/">The BibleTime developers</holder>
   </copyright>
 
@@ -18,6 +19,8 @@
   <notoc page="error404.xml" filename="error404.html"/>
   <notoc page="devotional.xml" filename="devotional.html"/>
   <notoc page="sidebar_tips.xml" filename="sidebar_tips.html"/>
+  <!-- To make sure this page still is reachable by links -->
+  <notoc page="software_swordcd.xml" filename="software_swordcd.shtml"/>
 	
 <!-- PAGE IS MISSING IN CVS.
   <notoc page="software_swordcdsend.xml" filename="software_swordcdsend.php4"/>  -->
@@ -33,7 +36,6 @@
 		<tocentry page="software_linkus.xml" filename="software_linkus.html"/>
 		<tocentry page="software_guestbook.xml" filename="software_guestbook.shtml"/>
 		<tocentry page="software_press.xml" filename="software_press.html"/>
-		<tocentry page="software_swordcd.xml" filename="software_swordcd.shtml"/>
 		<tocentry page="software_contact.xml" filename="software_contact.html"/>
 		<tocentry page="software_license.xml" filename="software_license.html"/>
 	</tocentry>
@@ -42,7 +44,6 @@
 		<tocentry page="development_help.xml" filename="development_help.html"/>
 		<tocentry page="development_join.xml" filename="development_join.html"/>
 		<tocentry page="development_mailinglists.xml" filename="development_mailinglists.html"/>
-		<tocentry page="development_team.xml" filename="development_team.html"/>
 	</tocentry>
 
 	<tocentry page="translation.xml" filename="translation.shtml"/>
