@@ -21,66 +21,51 @@ msgstr ""
 
 #: index.docbook:14
 #, no-c-format
-msgid "What BibleTime is ..."
+msgid "The history of BibleTime"
 msgstr ""
 
 #: index.docbook:15
 #, no-c-format
-msgid "BibleTime is a free Bible study application for Linux systems. BibleTime uses the desktop environment KDE."
-msgstr ""
-
-#: index.docbook:18
-#, no-c-format
-msgid "We think that BibleTime is an easy to use but powerful study tool for christians all over the world."
-msgstr ""
-
-#: index.docbook:23
-#, no-c-format
-msgid "The history of BibleTime"
-msgstr ""
-
-#: index.docbook:24
-#, no-c-format
 msgid "Back in June of 1999 Thomas Hagedorn, Thorsten Uhlmann and Joachim Ansorg started to work on a Bible study application for KDE 1.0."
 msgstr ""
 
-#: index.docbook:28
+#: index.docbook:19
 #, no-c-format
 msgid "The first version was released two months later as version 0.1. This version was very simple and supported only the most basic things."
 msgstr ""
 
-#: index.docbook:32
+#: index.docbook:23
 #, no-c-format
 msgid "After three months of hard work version 0.2 was released to the public. This version was usable, it supported basic printing, searching and offered a simple editor for personal notes."
 msgstr ""
 
-#: index.docbook:36
+#: index.docbook:27
 #, no-c-format
 msgid "BibleTime 0.2 was later ported to KDE 2 and totally redesigned with a more powerful interface, better printing and a lot of internal changes. This version was called BibleTime 0.3"
 msgstr ""
 
-#: index.docbook:40
+#: index.docbook:31
 #, no-c-format
 msgid "BibleTime 1.0, which was released almost one year after version 0.3 and was the first version we considered as stable."
 msgstr ""
 
-#: index.docbook:44
+#: index.docbook:35
 #, no-c-format
 msgid "BibleTime 1.1 and 1.2 followed later on. BibleTime 1.2 is the first version of BibleTime for version 3.0 of KDE."
 msgstr ""
 
-#: index.docbook:49
+#: index.docbook:40
 #, no-c-format
 msgid "The future of BibleTime"
 msgstr ""
 
-#: index.docbook:50
+#: index.docbook:41
 #, no-c-format
 msgid "We're grateful that God supports us and that he blesses our work with new team members. God is good!"
 msgstr ""
 
-#: index.docbook:54
+#: index.docbook:45
 #, no-c-format
-msgid "We will continue our work, but since BibleTime is getting better and better we'll reach a point where BibleTime has only a few things left which are useful for a normal Bible study application."
+msgid "We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application."
 msgstr ""
 

@@ -26,27 +26,17 @@ msgstr ""
 
 #: index.docbook:16
 #, no-c-format
-msgid "There are several RPM packages available of BibleTime. To see whether they were made for your system have a look at the file name of the package. They contain the abbreviated name and version of the Linux distribution they were made for."
+msgid "There are several RPM packages available of BibleTime. To see whether they were made for your system, have a look at the file name of the package. They contain the abbreviated name and version of the Linux distribution they were made for. For example the package \"bibletime-1.2.2-1suse8.1.i586.rpm\" was made for SuSE 8.1 systems running on a i586 or higher."
 msgstr ""
 
-#: index.docbook:20
+#: index.docbook:23
 #, no-c-format
-msgid "For example the package \"bibletime-1.2.2-1suse8.1.i586.rpm\" was made for SuSE 8.1 systems running on a i586 or higher."
+msgid "The \"bibletime\" package contains the software and documentation in English. Translation files for both are to be found in the \"bibletime-i18n\" package."
 msgstr ""
 
-#: index.docbook:24
+#: index.docbook:28
 #, no-c-format
-msgid "Please download BibleTime at the Sourceforge project pages of BibleTime:"
-msgstr ""
-
-#: index.docbook:27
-#, no-c-format
-msgid "<ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">http://www.sf.net/projects/bibletime</ulink>."
-msgstr ""
-
-#: index.docbook:31
-#, no-c-format
-msgid "Please download the packages \"bibletime\" and \"bibletime-i18n\"! Without the \"bibletime-i18n\" package you would have no handbook, daily tips or installation instructions."
+msgid "You can download BibleTime at <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">our sourceforge project pages</ulink>."
 msgstr ""
 
 #: index.docbook:36
@@ -56,6 +46,6 @@ msgstr ""
 
 #: index.docbook:37
 #, no-c-format
-msgid "Please read the installation instructions: <olink targetdocent=\"documentation_installation_bibletime\">here</olink>"
+msgid "Please read the <olink targetdocent=\"documentation_installation_bibletime\">installation instructions</olink>."
 msgstr ""
 

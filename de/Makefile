@@ -3,7 +3,7 @@ STYLEDIR=./xsl
 TABSTYLE=$(STYLEDIR)/bibletime.xsl
 STYLESHEET=$(TABSTYLE)
 # Change the path in output-root to put your HTML output elsewhere
-STYLEOPT= --stringparam output-root .
+STYLEOPT= --catalogs --stringparam output-root .
 
 .PHONY : clean
 

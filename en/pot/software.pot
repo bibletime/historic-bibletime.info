@@ -21,55 +21,55 @@ msgstr ""
 
 #: index.docbook:15
 #, no-c-format
-msgid "Welcome to the BibleTime project!"
+msgid "Welcome to the BibleTime project."
 msgstr ""
 
 #: index.docbook:16
 #, no-c-format
-msgid "BibleTime is a Bible study application for Linux."
+msgid "BibleTime is a Bible study application for Linux. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/sword/\">Crosswire Bible Society</ulink>."
 msgstr ""
 
-#: index.docbook:20
+#: index.docbook:25
 #, no-c-format
 msgid "News about BibleTime"
 msgstr ""
 
-#: index.docbook:21
+#: index.docbook:26
 #, no-c-format
 msgid "2003-10-19: SuSE 9.0 packages"
 msgstr ""
 
-#: index.docbook:22
+#: index.docbook:27
 #, no-c-format
 msgid "RPM packages are now available for SuSE 9.0. Report any problems to info@bibletime.info. Thank you!"
 msgstr ""
 
-#: index.docbook:27
+#: index.docbook:32
 #, no-c-format
 msgid "2003-10-16: New webpages"
 msgstr ""
 
-#: index.docbook:28
+#: index.docbook:33
 #, no-c-format
 msgid "BibleTime has now new webpages which offer better navigation, better design and faster page download time."
 msgstr ""
 
-#: index.docbook:32
+#: index.docbook:37
 #, no-c-format
 msgid "If you experience any problems with the new pages please let us know!"
 msgstr ""
 
-#: index.docbook:37
+#: index.docbook:42
 #, no-c-format
 msgid "2003-08-23: BibleTime 1.3"
 msgstr ""
 
-#: index.docbook:38
+#: index.docbook:43
 #, no-c-format
 msgid "Version 1.3 of BibleTime is finally available. BibleTime 1.3 contains a lot of new features, usability improvements and bug fixes. Upgrading to version 1.3 is strongly recommended for all our users. You can get the Software here: <ulink url=\"http://www.bibletime.info/software/download/\">Download</ulink>. Binary packages will be released in the next few days."
 msgstr ""
 
-#: index.docbook:43
+#: index.docbook:48
 #, no-c-format
 msgid "Get the bibletime and the bibletime-i18n packages for full functionality. We're very sorry for the long release time, we hope to shorten it with the next releases."
 msgstr ""

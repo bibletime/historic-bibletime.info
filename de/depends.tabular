@@ -1,35 +1,15 @@
-website: ./index.html ./software_about.html ./software_screenshots.html ./software_download.html ./software_press.html ./software_contact.html ./software_guestbook.shtml ./software_links.html ./software_linkus.html ./software_license.html ./documentation.html ./documentation_requirements.html ./documentation_installation.html ./documentation_installation_bibletime.html ./documentation_installation_sword.html ./documentation_installation_modules.html ./documentation_faq.html ./modules.html ./modules_swordcd.shtml ./development.html ./development_help.html ./development_join.html ./development_mailinglists.html ./biblehowto.html ./no_index.html ./error404.html 
+website: ./index.html ./software_about.html ./software_screenshots.html ./software_download.html ./no_index.html ./error404.html 
 
 ./no_index.html: index.xml
 ./index.html: software.xml
 ./software_about.html: software_about.xml
 ./software_screenshots.html: software_screenshots.xml
 ./software_download.html: software_download.xml
-./software_press.html: software_press.xml
-./software_contact.html: software_contact.xml
-./software_guestbook.shtml: software_guestbook.xml
-./software_links.html: software_links.xml
-./software_linkus.html: software_linkus.xml
-./software_license.html: software_license.xml
-./documentation.html: documentation.xml
-./documentation_requirements.html: documentation_requirements.xml
-./documentation_installation.html: documentation_installation.xml
-./documentation_installation_bibletime.html: documentation_installation_bibletime.xml
-./documentation_installation_sword.html: documentation_installation_sword.xml
-./documentation_installation_modules.html: documentation_installation_modules.xml
-./documentation_faq.html: documentation_faq.xml
-./modules.html: modules.xml
-./modules_swordcd.shtml: modules_swordcd.xml
-./development.html: development.xml
-./development_help.html: development_help.xml
-./development_join.html: development_join.xml
-./development_mailinglists.html: development_mailinglists.xml
-./biblehowto.html: biblehowto.docbook
 ./error404.html: error404.xml
 
 distclean: clean
 	rm -f autolayout.xml depends.tabular
 
 clean:
-	rm -f ./index.html ./software_about.html ./software_screenshots.html ./software_download.html ./software_press.html ./software_contact.html ./software_guestbook.shtml ./software_links.html ./software_linkus.html ./software_license.html ./documentation.html ./documentation_requirements.html ./documentation_installation.html ./documentation_installation_bibletime.html ./documentation_installation_sword.html ./documentation_installation_modules.html ./documentation_faq.html ./modules.html ./modules_swordcd.shtml ./development.html ./development_help.html ./development_join.html ./development_mailinglists.html ./biblehowto.html ./no_index.html ./error404.html 
+	rm -f ./index.html ./software_about.html ./software_screenshots.html ./software_download.html ./no_index.html ./error404.html 
 

@@ -19,7 +19,14 @@
 ><title
 >Willkommen zum BibleTime Projekt!</title>
 <para
-> BibleTime ist eine Anwendung für das Bibelstudium unter  Linux. </para>
+> BibleTime is a Bible study application for Linux. It is based on the <ulink url="http://www.kde.org/"
+>K Desktop Environment</ulink
+> and uses the <ulink url="http://www.crosswire.org/sword/"
+>Sword</ulink
+> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url="http://www.crosswire.org/sword/"
+>Crosswire Bible Society</ulink
+>. </para>
+</section>
 
 <section
 ><title
@@ -50,8 +57,6 @@
 		<para
 > Laden Sie die Pakete bibletime und bibletime-i18n herunter, um volle Funktionalität zu erhalten. Die lange Zeit zwischen den neuen Versionen tut uns leid, wir hoffen diese mit den nächsten Versionen zu verkürzen. </para>
 	</formalpara>
-</section>
-
 </section>
 
 </webpage>
