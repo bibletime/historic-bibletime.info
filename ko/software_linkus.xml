@@ -44,7 +44,7 @@
 ><title
 >작은 배너</title>
 <para
-> 다음의 HTML 코드를 사입하십시오: <programlisting>
+> 다음의 HTML 코드를 삽입하십시오: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank">
  <img src="http://www.bibletime.info/images/banner/small.jpg" width="88" height="31" border="0"/>

@@ -1,4 +1,4 @@
-# translation of full.po to 
+# translation of full.po to
 # translation of full.po to
 # translation of full.po to
 # translation of full.po to
@@ -11,13 +11,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: full\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2001-02-09 01:25+0100\n"
-"PO-Revision-Date: 2003-12-24 13:22+0545\n"
+"PO-Revision-Date: 2004-01-10 23:08+0545\n"
 "Last-Translator:  <s970501@ku.edu.np>\n"
 "Language-Team:  <ko@li.org>\n"
+"MIME-Version: (null)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0\n"
 
 #: index.docbook:4 index.docbook:13
 #, no-c-format
@@ -168,7 +169,7 @@ msgstr "<firstname>밥(Bob)</firstname> <surname>하먼(Harman)</surname>"
 #: index.docbook:36
 #, no-c-format
 msgid "ROLES_OF_TRANSLATORS"
-msgstr "<othercredit role=\"translator\"><firstname>승현</firstname><surname>조</surname><affiliation><address><email>s970501@hotmail</email></address></affiliation><contrib></contrib></othercredit>"
+msgstr "<othercredit role=\"translator\"><firstname>Seunghyun</firstname><surname>Cho</surname><affiliation><address><email>s970501@hotmail</email></address></affiliation><contrib></contrib></othercredit>"
 
 #: index.docbook:40
 #, no-c-format
@@ -193,7 +194,7 @@ msgstr "Non exclusive serial rights for this distribution of this document with 
 #: index.docbook:56
 #, no-c-format
 msgid "For questions regarding the use of this material contact Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. Hampton VA 23666 USA <email>ncc@ncchampton.org</email>."
-msgstr "바이블타임의 자료 사용을 위한 질문은 Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. Hampton VA 23666 USA <email>ncc@ncchampton.org</email>으로 해주시기바랍니다."
+msgstr "바이블타임의 자료 사용을 위한 질문은 Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. Hampton VA 23666 USA <email>ncc@ncchampton.org</email>으로 해주시기 바랍니다."
 
 #: index.docbook:60
 #, no-c-format
@@ -213,7 +214,7 @@ msgstr "<application>바이블스터디 하우투</application>는 성경공부�
 #: index.docbook:73
 #, no-c-format
 msgid "It is the hope of the &bibletime; team that this HowTo will provoke the readers to study the scriptures to see what they say. This particular study guide has been chosen as it takes care not to advocate any particular denominational doctrine. We expect you to read and study the scriptures to understand what they say. If you start with the attitude that you want to have the Lord sow his word in your heart He will not disappoint you."
-msgstr "이 하우투문서가 독자들이 성경이 말씀하고자 하는 것을 공부하는데 도움이 되길 &bibletime;팀은 소망합니다. 이 스터디 가이드는 특정 종파의 교리에 종속되는 부분들을 제하여 만들어졌습니다. 성경이 말씀하는 바를 알기위해서 말씀을 읽고 공부하시기를 소망합니다. 주님께서 말씀으로 여러분의 마음 속에 심으시기를 사모하는 마음으로 시작하신다면, 그분께서는 당신을 실망시키지 않을것입니다."
+msgstr "이 하우투문서가 독자들이 성경이 말씀하고자 하는 것을 공부하는데 도움이 되길 &bibletime;팀은 소망합니다. 이 스터디 가이드는 특정 종파의 교리에 종속되는 부분들을 제하여 만들어졌습니다. 성경이 말씀하는 바를 알기위해서 말씀을 읽고 공부하시기를 소망합니다. 주님께서 말씀으로 여러분의 마음 속에 심으시기를 사모하는 마음으로 시작하신다면, 그분께서는 당신을 실망시키지 않을 것 입니다."
 
 #: index.docbook:83
 #, no-c-format
@@ -238,7 +239,7 @@ msgstr "후원하기..."
 #: index.docbook:16
 #, no-c-format
 msgid "Our aim is to make BibleTime into a really mature Bible study application which should be used by christians to grow in their relationship with Him! To make this possible we need your help! It is possible to help us in many ways. Please read this page to whether you can help us improving the BibleTime software."
-msgstr "저희의 목표는 바이블타임을 많은 그리스도인들이 그분과의 관계를 발전시키는데 도움이 되는 훌륭한 성경공부프로그램으로 만드는 것입니다! 그러기위해서 당신의 도움이 필요합니다! 저희와 함께 사역하실 수 있는 다양한 방법이 있습니다. 바이블타임 소프트웨어의 발전을 위한 사역에 참여하고 싶으시다면 이 페이지를 읽어주십시오."
+msgstr "저희의 목표는 바이블타임을 많은 그리스도인들이 그분과의 관계를 발전시키는데 도움이 되는 훌륭한 성경공부프로그램으로 만드는 것입니다! 그러기위해서는 당신의 도움이 필요합니다! 저희와 함께 사역하실 수 있는 다양한 방법이 있습니다. 바이블타임 소프트웨어의 발전을 위한 사역에 참여하고 싶으시다면 이 페이지를 읽어주십시오."
 
 #: index.docbook:21
 #, no-c-format
@@ -747,7 +748,7 @@ msgstr "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Swor
 #: index.docbook:32
 #, no-c-format
 msgid "<ulink url=\"http://curl.sourceforge.net/\">Curl >= 7.10</ulink>. This is necessary for the remote installation features of the new Sword Setup Dialog."
-msgstr ""
+msgstr "<ulink url=\"http://curl.sourceforge.net/\">Curl >= 7.10</ulink>. 새 스워드(Sword) 설정 창의 원격 설치 기능을 위해서 필요합니다."
 
 #: index.docbook:14
 #, no-c-format
@@ -1302,7 +1303,7 @@ msgstr "딤후 3:16에서 선포하길, \"<emphasis>모든 성경은 하나님�
 #: index.docbook:92
 #, no-c-format
 msgid "He referred to the human authors, but took it for granted that behind them all was a single divine Author. He could equally say 'Moses said' or 'God said' (Mk.7:10). He could quote a comment of the narrator in Genesis 2:24 as an utterance of the Creator Himself (Mt.19:4-5). Similarly He said, 'Well did Isaiah prophesy of you hypocrites, as it is written', when what He went on to quote is the direct speech of the Lord God (Mk.7:6 &amp; Is.29:13). It is from Jesus Himself that the New Testament authors have gained their conviction of the dual authorship of Scripture. For them it was just as true to say that 'God spoke of old to our fathers by the prophets' (Heb.1:1) as it was to say that 'men moved by the Holy Spirit spoke from God' (2 Pe.1:21). God did not speak in such a way as to obliterate the personality of the human authors, nor did men speak in such a way as to corrupt the Word of the divine Author. God spoke. Men spoke. Neither truth must be allowed to detract from the other. ..."
-msgstr "He referred to the human authors, but took it for granted that behind them all was a single divine Author. He could equally say '모세가 말하길' 혹은 '하나님께서 말씀하시길' (막 7:10). He could quote a comment of the narrator in 창세기 2:24 as an utterance of the Creator Himself (Mt.19:4-5). Similarly He said, 'Well did Isaiah prophesy of you hypocrites, as it is written', when what He went on to quote is the direct speech of the Lord God (Mk.7:6 &amp; Is.29:13). It is from Jesus Himself that the New Testament authors have gained their conviction of the dual authorship of Scripture. For them it was just as true to say that 'God spoke of old to our fathers by the prophets' (Heb.1:1) as it was to say that 'men moved by the Holy Spirit spoke from God' (2 Pe.1:21). God did not speak in such a way as to obliterate the personality of the human authors, nor did men speak in such a way as to corrupt the Word of the divine Author. God spoke. Men spoke. Neither truth must be allowed to detract from the other. ..."
+msgstr "He referred to the human authors, but took it for granted that behind them all was a single divine Author. He could equally say '모세가 말하길' 혹은 '하나님께서 말씀하시길' (막 7:10). He could quote a comment of the narrator in 창세기 2:24 as an utterance of the Creator Himself (마 19:4-5). Similarly He said, 'Well did Isaiah prophesy of you hypocrites, as it is written', when what He went on to quote is the direct speech of the Lord God (막.7:6 &amp; 사.29:13). It is from Jesus Himself that the New Testament authors have gained their conviction of the dual authorship of Scripture. For them it was just as true to say that 'God spoke of old to our fathers by the prophets' (히.1:1) as it was to say that 'men moved by the Holy Spirit spoke from God' (벧후.1:21). God did not speak in such a way as to obliterate the personality of the human authors, nor did men speak in such a way as to corrupt the Word of the divine Author. God spoke. Men spoke. Neither truth must be allowed to detract from the other. ..."
 
 #: index.docbook:106
 #, no-c-format
@@ -1582,7 +1583,7 @@ msgstr "성경 해석의 법칙 (Hermeneutics)"
 #: index.docbook:2
 #, no-c-format
 msgid "We already learned about the \"3 Cs\": content, context, cross-reference. We want to expand that now by delving briefly into biblical hermeneutics, whose goal is to discover the meaning intended by the original author (and Author!). While many applications of a passage are valid, only one interpretation is valid. The scripture itself says this by saying that no scripture is of any private interpretation (2 Pe.1:20 KJV <emphasis>\"Knowing this first, that no prophesy of scripture is of any private interpretation.\"</emphasis>) Certain rules are helps toward discovering the correct meaning; by ignoring these rules people have brought much trouble on themselves and their followers. 2 Pe.3:16 <emphasis>\"...in which are some things hard to understand, which the untaught and unstable distort, as they do also the rest of the Scriptures, to their own destruction.\"</emphasis>"
-msgstr "앞에서 \"3가지 C\"에 대해 살펴보았다: 내용(content), 문맥(context), 겹참조(cross-reference). 이제 이것을 원저자(와 하나님당신)의 저술 의도를 알아보는 성서 해석학적인 것으로 깊이 확장하려 한다. 많은 적용이 가능한 반면, 한가지 해석만이 가능하다. 성경에서는 말씀을 사사로이 풀 수 없다고 말씀하고 있다. (벧후 1:20 KJV <emphasis>\"먼저 알 것은 경의 모든 예언은 사사로이 풀 것이 아니니\"</emphasis>) Certain rules are helps toward discovering the correct meaning; by ignoring these rules people have brought much trouble on themselves and their followers. 2 Pe.3:16 <emphasis>\"...in which are some things hard to understand, which the untaught and unstable distort, as they do also the rest of the Scriptures, to their own destruction.\"</emphasis>"
+msgstr "앞에서 \"3가지 C\"에 대해 살펴보았다: 내용(content), 문맥(context), 겹참조(cross-reference). 이제 이것을 원저자(와 하나님당신)의 저술 의도를 알아보는 성서 해석학적인 것으로 깊이 확장하려 한다. 많은 적용이 가능한 반면, 한가지 해석만이 가능하다. 성경에서는 말씀을 사사로이 풀 수 없다고 말씀하고 있다. (벧후 1:20 KJV <emphasis>\"먼저 알 것은 경의 모든 예언은 사사로이 풀 것이 아니니\"</emphasis>) Certain rules are helps toward discovering the correct meaning; by ignoring these rules people have brought much trouble on themselves and their followers. 벧후.3:16 <emphasis>\"...in which are some things hard to understand, which the untaught and unstable distort, as they do also the rest of the Scriptures, to their own destruction.\"</emphasis>"
 
 #: index.docbook:10
 #, no-c-format
@@ -1632,7 +1633,7 @@ msgstr "요 20:17 <emphasis>\"나를 만지지 말라\"</emphasis> (KJV) sounds 
 #: index.docbook:34
 #, no-c-format
 msgid "Definition: Turning to John 20:17, above the word \"Touch\" we see \"pim680.\" The letters give us a code for the part of speech, and the number refers to Strong's dictionary reference. Let's look up the definition (p. 879). \"680. Haptomai; from hapto (681), touch. Refers to such handling of an object as to exert a modifying influence upon it... Distinguished from pselaphao (5584), which actually only means to touch the surface of something. \" Now look up \"pim.\" The grammar codes in Zodhiates come right after Revelation; on p. 849 we see that pim stands for \"present imperative active (80)\". On p.857, \"Present Imperative. In the active voice, it may indicate a command to do something in the future which involves continuous or repeated action or, when it is negated, a command to stop doing something. \" This is a negative command, so it is to stop doing something that is already occuring. So, what have we found?"
-msgstr "정의: Turning to John 20:17, above the word \"Touch\" we see \"pim680.\" The letters give us a code for the part of speech, and the number refers to Strong's dictionary reference. Let's look up the definition (p. 879). \"680. Haptomai; from hapto (681), touch. Refers to such handling of an object as to exert a modifying influence upon it... Distinguished from pselaphao (5584), which actually only means to touch the surface of something. \" Now look up \"pim.\" The grammar codes in Zodhiates come right after Revelation; on p. 849 we see that pim stands for \"present imperative active (80)\". On p.857, \"Present Imperative. In the active voice, it may indicate a command to do something in the future which involves continuous or repeated action or, when it is negated, a command to stop doing something. \" This is a negative command, so it is to stop doing something that is already occuring. So, what have we found?"
+msgstr "정의: Turning to 요 20:17, above the word \"Touch\" we see \"pim680.\" The letters give us a code for the part of speech, and the number refers to Strong's dictionary reference. Let's look up the definition (p. 879). \"680. Haptomai; from hapto (681), touch. Refers to such handling of an object as to exert a modifying influence upon it... Distinguished from pselaphao (5584), which actually only means to touch the surface of something. \" Now look up \"pim.\" The grammar codes in Zodhiates come right after Revelation; on p. 849 we see that pim stands for \"present imperative active (80)\". On p.857, \"Present Imperative. In the active voice, it may indicate a command to do something in the future which involves continuous or repeated action or, when it is negated, a command to stop doing something. \" This is a negative command, so it is to stop doing something that is already occuring. So, what have we found?"
 
 #: index.docbook:42
 #, no-c-format
@@ -1647,12 +1648,12 @@ msgstr "예 1B"
 #: index.docbook:46
 #, no-c-format
 msgid "In James 5:14, <emphasis>Elders are told to pray and anoint someone who is sick</emphasis>. What is this anointing?"
-msgstr "In James 5:14, <emphasis>Elders are told to pray and anoint someone who is sick</emphasis>. What is this anointing?"
+msgstr "야고보서 5:14에서, <emphasis>병든자가 있느냐?..교회의 장로들을 청할 것이요. 그들은 주의 이름으로 기름을 바르며 위하여 기도할지니라</emphasis>. 이 기름바름(anointing)은 무엇인가?"
 
 #: index.docbook:47
 #, no-c-format
 msgid "Definition of aleipho (218) - \"to oil\" (Strong's); but we also have another Greek word translated \"anoint\", chrio (5548) - \"to smear or rub with oil, i.e. to consecrate to an office or religious service\" (Strong's). Since it's a verb, consider the tense also, \"apta\" aorist participle active. \"The aorist participle expresses simple action, as opposed to continuous action...When its relaitonship to the main verb is temporal, it usually signifies action prior to that of the main verb.\" (Zodhiates p.851)"
-msgstr "Definition of aleipho (218) - \"to oil\" (Strong's); but we also have another Greek word translated \"anoint\", chrio (5548) - \"to smear or rub with oil, i.e. to consecrate to an office or religious service\" (Strong's). Since it's a verb, consider the tense also, \"apta\" aorist participle active. \"The aorist participle expresses simple action, as opposed to continuous action...When its relaitonship to the main verb is temporal, it usually signifies action prior to that of the main verb.\" (Zodhiates p.851)"
+msgstr "aleipho (218)의 정의 - \"to oil\" (Strong's); but we also have another Greek word translated \"anoint\", chrio (5548) - \"to smear or rub with oil, i.e. to consecrate to an office or religious service\" (Strong's). Since it's a verb, consider the tense also, \"apta\" aorist participle active. \"The aorist participle expresses simple action, as opposed to continuous action...When its relaitonship to the main verb is temporal, it usually signifies action prior to that of the main verb.\" (Zodhiates p.851)"
 
 #: index.docbook:53
 #, no-c-format
@@ -1669,17 +1670,17 @@ msgid ""
 "  Acts 10:38 God anointed Jesus with the Holy Ghost and power\n"
 "  2 Cor.1:21 Now He who...anointed us is God"
 msgstr ""
-"Cross-references for aleipho:\n"
-"  Mt.6:17 But you, when you fast, anoint your head\n"
-"  Mk.16:1 [the women] brought spices that they might come and anoint Him.\n"
-"  Mk.6:13 And they were...anointing with oil many sick people and healing them.\n"
-"  Lk.7:38 ...kissing His feet and anointing them with the perfume\n"
-"  Jn.12:3 Mary...anointed the feet of Jesus, and wiped them with her hair\n"
-"Cross-references of chrio:\n"
-"  Lk.4:18 The Spirit of the Lord is upon me, because He has anointed me to preach...\"\n"
-"  Acts 4:27 Jesus, whom Thou hast anointed\n"
-"  Acts 10:38 God anointed Jesus with the Holy Ghost and power\n"
-"  2 Cor.1:21 Now He who...anointed us is God"
+"aleipho의 겹참조(Cross-references):\n"
+"  마 6:17 너는 금식할 때에 머리에 기름을 바르고 얼굴을 씻으라\n"
+"  막.16:1 [여인들이(the women)] 예수께 바르기 위하여 향품을 사다 두었다가.\n"
+"  막.6:13 ...많은 병인에게 기름을 발라 고치더라.\n"
+"  눅.7:38 ...그 발에 입맞추고 향유를 부으니\n"
+"  요.12:3 마리아는...예수의 발에 붓고 자기 머리털로 그의 발을 씻으니...\n"
+"chrio의 겹참조(Cross-references):\n"
+"  누.4:18 주의 성령이 내게 임하셨으니 이는...내게 기름을 부으시고...전파하며...\"\n"
+"  행 4:27 하나님의 기름부으신...예수\n"
+"  행 10:38 하나님이 나사렛 예수에게 성경과 능력을 기름붓듯 하셨으매\n"
+"  고후.1:21 ...우리에게 기름을 부으신 이는 하나님이시니"
 
 #: index.docbook:67
 #, no-c-format
@@ -1719,7 +1720,7 @@ msgstr "예 2A"
 #: index.docbook:97
 #, no-c-format
 msgid "In a previous lesson we considered Jn.3:5 <emphasis>\"born of water and the Spirit.\"</emphasis> In context, what is the water under discussion here?"
-msgstr "In a previous lesson we considered Jn.3:5 <emphasis>\"born of water and the Spirit.\"</emphasis> In context, what is the water under discussion here?"
+msgstr "In a previous lesson we considered 요 3:5 <emphasis>\"born of water and the Spirit.\"</emphasis> In context, what is the water under discussion here?"
 
 #: index.docbook:99
 #, no-c-format
@@ -1744,12 +1745,12 @@ msgstr "예 2C"
 #: index.docbook:108
 #, no-c-format
 msgid "Acts 2:38 <emphasis>And Peter said to them, \"Repent, and let each of you be baptized in the name of Jesus Christ for the forgiveness of your sins...\"</emphasis> Is this teaching baptismal regeneration? If this was the only verse of scripture we had, we would have to conclude that. But in the light of the clear teaching elsewhere that regeneration happens by faith in Christ, we have to interpret it otherwise. Peter is urging baptism as a way for his hearers to respond to the gospel. If baptism were the pathway to being born again, how could Paul write 1 Cor.1:17 <emphasis>\"For Christ did not send me to baptize, but to preach the gospel\"</emphasis>?"
-msgstr "행 2:38 <emphasis>And Peter said to them, \"Repent, and let each of you be baptized in the name of Jesus Christ for the forgiveness of your sins...\"</emphasis> Is this teaching baptismal regeneration? If this was the only verse of scripture we had, we would have to conclude that. But in the light of the clear teaching elsewhere that regeneration happens by faith in Christ, we have to interpret it otherwise. Peter is urging baptism as a way for his hearers to respond to the gospel. If baptism were the pathway to being born again, how could Paul write 1 Cor.1:17 <emphasis>\"For Christ did not send me to baptize, but to preach the gospel\"</emphasis>?"
+msgstr "행 2:38 <emphasis>And Peter said to them, \"Repent, and let each of you be baptized in the name of Jesus Christ for the forgiveness of your sins...\"</emphasis> Is this teaching baptismal regeneration? If this was the only verse of scripture we had, we would have to conclude that. But in the light of the clear teaching elsewhere that regeneration happens by faith in Christ, we have to interpret it otherwise. Peter is urging baptism as a way for his hearers to respond to the gospel. If baptism were the pathway to being born again, how could Paul write 고전 1:17 <emphasis>\"For Christ did not send me to baptize, but to preach the gospel\"</emphasis>?"
 
 #: index.docbook:120
 #, no-c-format
 msgid "Rule 3 - Interpret within the historical and cultural context"
-msgstr "규칙 3 - Interpret within the historical and cultural context"
+msgstr "규칙 3 - 역사와 문화적인 배경의 문맥에서 해석하라"
 
 #: index.docbook:122
 #, no-c-format
@@ -1764,12 +1765,12 @@ msgstr "예 3A"
 #: index.docbook:127
 #, no-c-format
 msgid "\"3 days &amp; 3 nights\" (Mt.12:40) have led some to come up with a \"Wednesday crucifixion theory,\" esp. the cult of Armstrongism. How could Jesus die on Friday afternoon and rise Sunday morning yet \"be raised on the third day\" (Mt.16:21)? Exact meanings of \"three\" or \"days\" won't help explain the apparent contradiction."
-msgstr "\"3 days &amp; 3 nights\" (마 12:40) have led some to come up with a \"Wednesday crucifixion theory,\" esp. the cult of Armstrongism. How could Jesus die on Friday afternoon and rise Sunday morning yet \"be raised on the third day\" (Mt.16:21)? Exact meanings of \"three\" or \"days\" won't help explain the apparent contradiction."
+msgstr "\"3 days &amp; 3 nights\" (마 12:40) have led some to come up with a \"Wednesday crucifixion theory,\" esp. the cult of Armstrongism. How could Jesus die on Friday afternoon and rise Sunday morning yet \"be raised on the third day\" (마 16:21)? Exact meanings of \"three\" or \"days\" won't help explain the apparent contradiction."
 
 #: index.docbook:132
 #, no-c-format
 msgid "We need an historical tidbit: Jews counted any part of a day as a full day, as we would count buckets of water (if there were six and one-half buckets of water, we would say there were 7 buckets of water even if one was only partly full). So to the Jewish mind, any part of a day counted as a full day, and days started at 6 p.m. and ended at 6 a.m. Friday from 3 p.m. to 6 p.m. = day 1. Friday 6 p.m. to Saturday 6 p.m. = day 2. Saturday 6 p.m. to Sunday 5 or so a.m. = day 3. Interpreting within the cultural context keeps us out of trouble."
-msgstr "We need an historical tidbit: Jews counted any part of a day as a full day, as we would count buckets of water (if there were six and one-half buckets of water, we would say there were 7 buckets of water even if one was only partly full). So to the Jewish mind, any part of a day counted as a full day, and days started at 6 p.m. and ended at 6 a.m. Friday from 3 p.m. to 6 p.m. = day 1. Friday 6 p.m. to Saturday 6 p.m. = day 2. Saturday 6 p.m. to Sunday 5 or so a.m. = day 3. Interpreting within the cultural context keeps us out of trouble."
+msgstr "We need an historical tidbit: Jews counted any part of a day as a full day, as we would count buckets of water (if there were six and one-half buckets of water, we would say there were 7 buckets of water even if one was only partly full). So to the Jewish mind, any part of a day counted as a full day, and days started at 6 p.m. and ended at 6 a.m. 금요일 3 p.m. - 6 p.m. = 첫째날. 금요일 6 p.m. - 토요일 6 p.m. = 둘째날. 토요일 6 p.m. - 일요일 5 or so a.m. = 셋째날. 문화적인 배경에 의거해서 해석하는 것은 오류에 빠지는 것을 방지해준다."
 
 #: index.docbook:139
 #, no-c-format
@@ -1834,7 +1835,7 @@ msgstr "An allegory is: A STORY WHERE EACH ELEMENT HAS A MEANING"
 #: index.docbook:177
 #, no-c-format
 msgid "Every parable is an allegory, true or false?"
-msgstr "Every parable is an allegory, true or false?"
+msgstr "Every parable is an allegory, 참인가 거짓인가?"
 
 #: index.docbook:179
 #, no-c-format
@@ -1887,36 +1888,31 @@ msgid "A module is a text which can be read within the BibleTime application. Th
 msgstr "모듈은 바이블타임 프로그램에서 읽혀질 수 있는 텍스트입니다. 다양한 종류의 모둘들이 존재합니다: 성경, 주석, 어휘집, daily devotionals, 신앙서적."
 
 #: index.docbook:21
-#, no-c-format
-msgid "Please read the following page to see how to install the downloaded modules:"
+#, fuzzy, no-c-format
+msgid "Please read the following page to see how to install the downloaded modules: <ulink url=\"/documentation/installation/modules\">Installation of text modules</ulink>."
 msgstr "다운로드한 모듈들을 어떻게 설치하는지를 보시려면 다음 페이지를 읽어주십시오:"
 
-#: index.docbook:25
-#, no-c-format
-msgid "Installation of text modules"
-msgstr "텍스트 모듈의 설치"
-
-#: index.docbook:30
+#: index.docbook:26
 #, no-c-format
 msgid "Available types of modules"
 msgstr "제공되는 모듈의 종류"
 
-#: index.docbook:30
+#: index.docbook:26
 #, no-c-format
 msgid "Bibles"
 msgstr "성경"
 
-#: index.docbook:30
+#: index.docbook:26
 #, no-c-format
 msgid "Commentaries"
 msgstr "주석문"
 
-#: index.docbook:30
+#: index.docbook:26
 #, no-c-format
 msgid "Lexicons / Dictionaries"
 msgstr "사전(Lexicons/Dictionaries)"
 
-#: index.docbook:30
+#: index.docbook:26
 #, no-c-format
 msgid "Books"
 msgstr "신앙서적"
@@ -2194,7 +2190,7 @@ msgstr "불가리아어와 footnotes"
 #: index.docbook:129
 #, no-c-format
 msgid "<emphasis>Bulgarian</emphasis>: The Bible in Bulgarian language. Bulgarian uses the Kyrillic script, which is also used in other languages like Russian. Notice the marked text - it is a \"footnote\". The popup menu shows how those can be turned on and off. <ulink url=\"/images/gallery/bulgarian.png\">Large screenshot</ulink>"
-msgstr "<emphasis>Bulgarian</emphasis>: 불가리아어 성경. Bulgarian uses the Kyrillic script, which is also used in other languages like Russian. Notice the marked text - it is a \"footnote\". The popup menu shows how those can be turned on and off. <ulink url=\"/images/gallery/bulgarian.png\">Large screenshot</ulink>"
+msgstr "<emphasis>Bulgarian</emphasis>: 불가리아어 성경. Bulgarian uses the Kyrillic script, which is also used in other languages like Russian. Notice the marked text - it is a \"footnote\". The popup menu shows how those can be turned on and off. <ulink url=\"/images/gallery/bulgarian.png\">큰 스크린샷</ulink>"
 
 #: index.docbook:146
 #, no-c-format
@@ -2204,7 +2200,7 @@ msgstr "베트남어와 Romanian"
 #: index.docbook:146
 #, no-c-format
 msgid "<emphasis>Viet</emphasis> and <emphasis>RomCor</emphasis>. East Europe meets East Asia! Vietnamese and Romanian are not geographically linked, though they look somehow similar in this screenshot. <ulink url=\"/images/gallery/vietromcor.png\">Large screenshot</ulink>"
-msgstr "<emphasis>Viet</emphasis> and <emphasis>RomCor</emphasis>. East Europe meets East Asia! Vietnamese and Romanian are not geographically linked, though they look somehow similar in this screenshot. <ulink url=\"/images/gallery/vietromcor.png\">Large screenshot</ulink>"
+msgstr "<emphasis>Viet</emphasis> and <emphasis>RomCor</emphasis>. 동유럽과 동아시아가 만났습니다! Vietnamese and Romanian are not geographically linked, though they look somehow similar in this screenshot. <ulink url=\"/images/gallery/vietromcor.png\">큰 스크린샷</ulink>"
 
 #: index.docbook:162
 #, no-c-format
@@ -2570,346 +2566,329 @@ msgid ""
 "library.  If this is what you want to do, use the GNU Library General\n"
 "Public License instead of this License."
 msgstr ""
-"GNU GENERAL PUBLIC LICENSE\n"
-"\t\t       Version 2, June 1991\n"
+"GNU 일반 공중 사용 허가서\n"
 "\n"
-" Copyright (C) 1989, 1991 Free Software Foundation, Inc.\n"
-"     59 Temple Place, Suite 330, Boston, MA  02111-1307  USA\n"
-" Everyone is permitted to copy and distribute verbatim copies\n"
-" of this license document, but changing it is not allowed.\n"
+"  This is an unofficial translation of the GNU General Public License into Korean. \n"
+"It was not published by the Free Software Foundation, and does not legally state \n"
+"the distribution terms for software that uses the GNU GPL -- only the original English \n"
+"text of the GNU GPL does that. However, I hope that this translation will help Korean \n"
+"speakers understand the GNU GPL better. \n"
 "\n"
-"\t\t\t    Preamble\n"
+"이 문서는 자유 소프트웨어 재단(Free Software Foundation)의 GNU General Public License를 한국어로 \n"
+"번역한 것입니다. 이 문서는 GNU General Public License가 내포하고 있는 호혜적인 자유와 공유의 정신을 보다 \n"
+"많은 사람들에게 알리기 위한 희망에서 작성되었지만, 자유 소프트웨어 재단의 공식 문서로 취급될 수는 없습니다. \n"
+"이는 원래의 문서가 의도하고 있는 내용이 왜곡되지 않고 법률적으로 유효하기 위해서 선행되어야 할 양국의 현행 \n"
+"법률과 언어의 적합성 여부에 대한 전문가들의 검토 작업에 많은 비용이 필요하기 때문입니다. 또한 공식 번역문으로 \n"
+"인정된 문서라 하더라도 다른 언어로의 번역에 따른 위험 부담은 여전히 남아 있게 됩니다. 따라서 자유 소프트웨어 \n"
+"재단은 오역이나 해석상의 난점으로 인해서 발생될 지도 모를 혼란과 분쟁의 가능성을 미연에 방지하고, 문서가 담고 \n"
+"있는 내용과 취지를 보다 많은 사람들에게 알리려는 상반된 목적을, 한국어 번역문을 공식적으로 승인하지 않는 \n"
+"방법으로 양립시키고 있습니다.\n"
 "\n"
-"  The licenses for most software are designed to take away your\n"
-"freedom to share and change it.  By contrast, the GNU General Public\n"
-"License is intended to guarantee your freedom to share and change free\n"
-"software--to make sure the software is free for all its users.  This\n"
-"General Public License applies to most of the Free Software\n"
-"Foundation's software and to any other program whose authors commit to\n"
-"using it.  (Some other Free Software Foundation software is covered by\n"
-"the GNU Library General Public License instead.)  You can apply it to\n"
-"your programs, too.\n"
+"자유 소프트웨어 재단은 어떠한 언어에 대한 번역문도 공식적으로 인정하지 않고 있으며, 그러한 계획 또한 갖고 있지 \n"
+"않습니다. 자유 소프트웨어 재단은 GNU General Public License를 실무에 적용할 경우, 오직 영문판에 의해서만 \n"
+"그 법률적 효력이 올바르게 발생될 수 있음을 권고하고 있습니다. 이 번역문은 법률적 검토와 문서간의 동일성 여부에 \n"
+"대한 검증을 거치지 않은 것이며, 이로 인해서 야기될 수 있을 지도 모를 법률적인 문제에 대해서 어떠한 형태의 보증도 \n"
+"제공하지 않습니다. GNU General Public License를 상업적인 목적으로 사용하려고 할 경우에는 변호사나 변리사에게 \n"
+"직접 자문을 구하기 바랍니다. 그러나 대부분의 일반 사용자들에게는 이 번역문이 전달하려고 하는 내용과 취지를 \n"
+"이해하는 것만으로도 충분할 것입니다.\n"
 "\n"
-"  When we speak of free software, we are referring to freedom, not\n"
-"price.  Our General Public Licenses are designed to make sure that you\n"
-"have the freedom to distribute copies of free software (and charge for\n"
-"this service if you wish), that you receive source code or can get it\n"
-"if you want it, that you can change the software or use pieces of it\n"
-"in new free programs; and that you know you can do these things.\n"
+"GPL에 대한 실제 사례들을 모은 참고할 만한 자료의 하나로 GPL 해설이 있습니다.\n"
 "\n"
-"  To protect your rights, we need to make restrictions that forbid\n"
-"anyone to deny you these rights or to ask you to surrender the rights.\n"
-"These restrictions translate to certain responsibilities for you if you\n"
-"distribute copies of the software, or if you modify it.\n"
+"한국어 번역: 1998년 6월 18일 송창훈 &lt;chsong@gnu.org&gt;\n"
 "\n"
-"  For example, if you distribute copies of such a program, whether\n"
-"gratis or for a fee, you must give the recipients all the rights that\n"
-"you have.  You must make sure that they, too, receive or can get the\n"
-"source code.  And you must show them these terms so they know their\n"
-"rights.\n"
+"GNU 일반 공중 사용 허가서\n"
 "\n"
-"  We protect your rights with two steps: (1) copyright the software, and\n"
-"(2) offer you this license which gives you legal permission to copy,\n"
-"distribute and/or modify the software.\n"
+"2판, 1991년 6월\n"
 "\n"
-"  Also, for each author's protection and ours, we want to make certain\n"
-"that everyone understands that there is no warranty for this free\n"
-"software.  If the software is modified by someone else and passed on, we\n"
-"want its recipients to know that what they have is not the original, so\n"
-"that any problems introduced by others will not reflect on the original\n"
-"authors' reputations.\n"
+"Copyright (C) 1989, 1991 Free Software Foundation, Inc. \n"
+"59 Temple Place - Suite 330, Boston, MA  02111-1307, USA \n"
+"누구든지 본 사용 허가서를 있는 그대로 복제하고 배포할 수 \n"
+"있습니다. 그러나 본문에 대한 수정은 허용되지 않습니다. \n"
 "\n"
-"  Finally, any free program is threatened constantly by software\n"
-"patents.  We wish to avoid the danger that redistributors of a free\n"
-"program will individually obtain patent licenses, in effect making the\n"
-"program proprietary.  To prevent this, we have made it clear that any\n"
-"patent must be licensed for everyone's free use or not licensed at all.\n"
+"전 문 \n"
 "\n"
-"  The precise terms and conditions for copying, distribution and\n"
-"modification follow.\n"
+"소프트웨어에 적용되는 대부분의 사용 허가서(license)들은 소프트웨어에 대한 수정과 \n"
+"공유의 자유를 제한하려는 것을 그 목적으로 합니다. 그러나 GNU 일반 공중 사용 \n"
+"허가서(이하, ``GPL''이라고 칭합니다.)는 자유 소프트웨어에 대한 수정과 공유의 \n"
+"자유를 모든 사용자들에게 보장하기 위해서 성립된 것입니다. 자유 소프트웨어 재단이 \n"
+"제공하는 대부분의 소프트웨어들은 GPL에 의해서 관리되고 있으며, 몇몇 소프트웨어에는 \n"
+"별도의 사용 허가서인 GNU 라이브러리 일반 공중 사용 허가서(GNU Library General \n"
+"Public License)를 대신 적용하기도 합니다. 자유 소프트웨어란, 이를 사용하려고 하는 \n"
+"모든 사람에 대해서 동일한 자유와 권리가 함께 양도되는 소프트웨어를 말하며 프로그램 \n"
+"저작자의 의지에 따라 어떠한 종류의 프로그램에도 GPL을 적용할 수 있습니다. 따라서 \n"
+"여러분이 만든 프로그램에도 GPL을 적용할 수 있습니다.\n"
 "\n"
-"\t\t    GNU GENERAL PUBLIC LICENSE\n"
-"   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\n"
+"자유 소프트웨어를 언급할 때 사용되는 ``자유''라는 단어는 무료(無料)를 의미하는 \n"
+"금전적인 측면의 자유가 아니라 구속되지 않는다는 관점에서의 자유를 의미하며, GPL은 \n"
+"자유 소프트웨어를 이용한 복제와 개작, 배포와 수익 사업 등의 가능한 모든 형태의 자유를 \n"
+"실질적으로 보장하고 있습니다. 여기에는 원시 코드(source code)의 전부 또는 일부를 \n"
+"원용해서 개선된 프로그램을 만들거나 새로운 프로그램을 창작할 수 있는 자유가 포함되며, \n"
+"자신에게 양도된 이러한 자유와 권리를 보다 명확하게 인식할 수 있도록 하기 위한 규정도 \n"
+"포함되어 있습니다. \n"
 "\n"
-"  0. This License applies to any program or other work which contains\n"
-"a notice placed by the copyright holder saying it may be distributed\n"
-"under the terms of this General Public License.  The \"Program\", below,\n"
-"refers to any such program or work, and a \"work based on the Program\"\n"
-"means either the Program or any derivative work under copyright law:\n"
-"that is to say, a work containing the Program or a portion of it,\n"
-"either verbatim or with modifications and/or translated into another\n"
-"language.  (Hereinafter, translation is included without limitation in\n"
-"the term \"modification\".)  Each licensee is addressed as \"you\".\n"
+"GPL은 GPL 안에 소프트웨어를 양도받을 사용자의 권리를 제한하는 조항과 단서를 별항으로 \n"
+"추가시키지 못하게 함으로써 사용자들의 자유와 권리를 실제적으로 보장하고 있습니다. 자유 \n"
+"소프트웨어의 개작과 배포에 관계하고 있는 사람들은 이러한 무조건적인 권리 양도 규정을 \n"
+"준수해야만 합니다.\n"
 "\n"
-"Activities other than copying, distribution and modification are not\n"
-"covered by this License; they are outside its scope.  The act of\n"
-"running the Program is not restricted, and the output from the Program\n"
-"is covered only if its contents constitute a work based on the\n"
-"Program (independent of having been made by running the Program).\n"
-"Whether that is true depends on what the Program does.\n"
+"예를 들어 GPL 프로그램을 배포할 경우에는 프로그램의 유료 판매나 무료 배포에 관계없이 \n"
+"자신이 해당 프로그램에 대해서 가질 수 있었던 모든 권리를, 프로그램을 받게될 사람에게 \n"
+"그대로 양도해 주어야 합니다. 이 경우, 프로그램의 원시 코드를 함께 제공하거나 원시 코드를\n"
+"구할 수 있는 방법을 확실히 알려주어야 하고 이러한 모든 사항들을 사용자들이 분명히 알 수 \n"
+"있도록 명시해야 합니다.\n"
 "\n"
-"  1. You may copy and distribute verbatim copies of the Program's\n"
-"source code as you receive it, in any medium, provided that you\n"
-"conspicuously and appropriately publish on each copy an appropriate\n"
-"copyright notice and disclaimer of warranty; keep intact all the\n"
-"notices that refer to this License and to the absence of any warranty;\n"
-"and give any other recipients of the Program a copy of this License\n"
-"along with the Program.\n"
+"자유 소프트웨어 재단은 다음과 같은 두 가지 단계를 통해서 사용자들을 권리를 보호합니다. \n"
+"(1) 소프트웨어에 저작권을 설정합니다. (2) 저작권의 양도에 관한 실정법에 의해서 유효한 \n"
+"법률적 효력을 갖는 GPL을 통해 소프트웨어를 복제하거나 개작 및 배포할 수 있는 권리를 \n"
+"사용자들에게 부여합니다.\n"
 "\n"
-"You may charge a fee for the physical act of transferring a copy, and\n"
-"you may at your option offer warranty protection in exchange for a fee.\n"
+"자유 소프트웨어를 사용하는 사람들은 반복적인 재배포 과정을 통해 소프트웨어 자체에 수정과\n"
+"변형이 일어날 수도 있으며, 이는 최초의 저작자가 만든 소프트웨어가 갖고 있는 문제가 아닐 \n"
+"수 있다는 개연성을 인식하고 있어야 합니다. 우리는 개작과 재배포 과정에서 다른 사람에 의해 \n"
+"발생된 문제로 인해 프로그램 원저작자들의 신망이 훼손되는 것을 원하지 않습니다. GPL에 자유 \n"
+"소프트웨어에 대한 어떠한 형태의 보증도 규정하지 않는 이유는 이러한 점들이 고려되었기 때문이며, \n"
+"이는 프로그램 원저작자와 자유 소프트웨어 재단의 자유로운 활동을 보장하는 현실적인 수단이기도 합니다.\n"
 "\n"
-"  2. You may modify your copy or copies of the Program or any portion\n"
-"of it, thus forming a work based on the Program, and copy and\n"
-"distribute such modifications or work under the terms of Section 1\n"
-"above, provided that you also meet all of these conditions:\n"
+"특허 제도는 자유 소프트웨어의 발전을 위협하는 요소일 수밖에 없습니다. 자유 프로그램을 \n"
+"재배포하는 사람들이 개별적으로 특허를 취득하게 되면, 결과적으로 그 프로그램이 독점 \n"
+"소프트웨어가 될 가능성이 있습니다. 자유 소프트웨어 재단은 이러한 문제에 대처하기 위해서 \n"
+"어떠한 특허에 대해서도 그 사용 권리를 모든 사람들(이하, ``공중(公衆)''이라고 칭합니다.)에게 \n"
+"자유롭게 허용하는 경우에 한해서만 자유 소프트웨어와 함께 사용할 수 있다는 것을 명확히 \n"
+"밝히고 있습니다.\n"
 "\n"
-"    a) You must cause the modified files to carry prominent notices\n"
-"    stating that you changed the files and the date of any change.\n"
+"복제(copying)와 개작(modification) 및 배포(distribution)에 관련된 구체적인 조건과 \n"
+"규정은 다음과 같습니다.\n"
 "\n"
-"    b) You must cause any work that you distribute or publish, that in\n"
-"    whole or in part contains or is derived from the Program or any\n"
-"    part thereof, to be licensed as a whole at no charge to all third\n"
-"    parties under the terms of this License.\n"
+"복제와 개작 및 배포에 관한 조건과 규정\n"
 "\n"
-"    c) If the modified program normally reads commands interactively\n"
-"    when run, you must cause it, when started running for such\n"
-"    interactive use in the most ordinary way, to print or display an\n"
-"    announcement including an appropriate copyright notice and a\n"
-"    notice that there is no warranty (or else, saying that you provide\n"
-"    a warranty) and that users may redistribute the program under\n"
-"    these conditions, and telling the user how to view a copy of this\n"
-"    License.  (Exception: if the Program itself is interactive but\n"
-"    does not normally print such an announcement, your work based on\n"
-"    the Program is not required to print an announcement.)\n"
+"제 0 조. 본 허가서는 GNU 일반 공중 사용 허가서의 규정에 따라 배포될 수 있다는 사항이 \n"
+"저작권자에 의해서 명시된 모든 컴퓨터 프로그램 저작물에 대해서 동일하게 적용됩니다. 컴퓨터 \n"
+"프로그램 저작물(이하, ``프로그램''이라고 칭합니다.)이란 특정한 결과를 얻기 위해서 컴퓨터 \n"
+"등의 정보 처리 능력을 가진 장치(이하, ``컴퓨터''라고 칭합니다.) 내에서 직접 또는 간접으로 \n"
+"사용되는 일련의 지시 및 명령으로 표현된 창작물을 의미하고, ``2차적 프로그램''이란 전술한 \n"
+"프로그램 자신 또는 저작권법의 규정에 따라 프로그램의 전부 또는 상당 부분을 원용하거나 다른 \n"
+"언어로의 번역을 포함할 수 있는 개작 과정을 통해서 창작된 새로운 프로그램과 이와 관련된 \n"
+"저작물을 의미합니다. (이후로 다른 언어로의 번역은 별다른 제한없이 개작의 범위에 포함되는 \n"
+"것으로 간주합니다.) ``피양도자''란 GPL의 규정에 따라 프로그램을 양도받은 사람을 의미하고, \n"
+"``원(原)프로그램''이란 프로그램을 개작하거나 2차적 프로그램을 만들기 위해서 사용된 최초의 \n"
+"프로그램을 의미합니다.\n"
 "\n"
-"These requirements apply to the modified work as a whole.  If\n"
-"identifiable sections of that work are not derived from the Program,\n"
-"and can be reasonably considered independent and separate works in\n"
-"themselves, then this License, and its terms, do not apply to those\n"
-"sections when you distribute them as separate works.  But when you\n"
-"distribute the same sections as part of a whole which is a work based\n"
-"on the Program, the distribution of the whole must be on the terms of\n"
-"this License, whose permissions for other licensees extend to the\n"
-"entire whole, and thus to each and every part regardless of who wrote it.\n"
+"본 허가서는 프로그램에 대한 복제와 개작 그리고 배포 행위에 대해서만 적용됩니다. 따라서 \n"
+"프로그램을 실행시키는 행위에 대한 제한은 없습니다. 프로그램의 결과물(output)에는, 그것이 \n"
+"프로그램을 실행시켜서 생성된 것인지 아닌지의 여부에 상관없이 결과물의 내용이 원프로그램으로부터 \n"
+"파생된 2차적 프로그램을 구성했을 때에 한해서 본 허가서의 규정들이 적용됩니다. 2차적 프로그램의 \n"
+"구성 여부는 2차적 프로그램 안에서의 원프로그램의 역할을 토대로 판단합니다.\n"
 "\n"
-"Thus, it is not the intent of this section to claim rights or contest\n"
-"your rights to work written entirely by you; rather, the intent is to\n"
-"exercise the right to control the distribution of derivative or\n"
-"collective works based on the Program.\n"
+"제 1 조. 적절한 저작권 표시와 프로그램에 대한 보증이 제공되지 않는다는 사실을 각각의 복제물에 \n"
+"명시하는 한, 피양도자는 프로그램의 원시 코드를 자신이 양도받은 상태 그대로 어떠한 매체를 통해서도 \n"
+"복제하고 배포할 수 있습니다. 복제와 배포가 이루어 질 때는 본 허가서와 프로그램에 대한 보증이 \n"
+"제공되지 않는다는 사실에 대해서 언급되었던 모든 내용을 그대로 유지시켜야 하며, 영문판 GPL을 \n"
+"함께 제공해야 합니다.\n"
 "\n"
-"In addition, mere aggregation of another work not based on the Program\n"
-"with the Program (or with a work based on the Program) on a volume of\n"
-"a storage or distribution medium does not bring the other work under\n"
-"the scope of this License.\n"
+"배포자는 복제물을 물리적으로 인도하는데 소요된 비용을 청구할 수 있으며, 선택 사항으로 독자적인 \n"
+"유료 보증을 설정할 수 있습니다.\n"
 "\n"
-"  3. You may copy and distribute the Program (or a work based on it,\n"
-"under Section 2) in object code or executable form under the terms of\n"
-"Sections 1 and 2 above provided that you also do one of the following:\n"
+"제 2 조. 피양도자는 자신이 양도받은 프로그램의 전부나 일부를 개작할 수 있으며, 이를 통해서 2차적 \n"
+"프로그램을 창작할 수 있습니다. 개작된 프로그램이나 창작된 2차적 프로그램은 다음의 사항들을 모두 \n"
+"만족시키는 조건에 한해서, 제1조의 규정에 따라 또다시 복제되고 배포될 수 있습니다.\n"
 "\n"
-"    a) Accompany it with the complete corresponding machine-readable\n"
-"    source code, which must be distributed under the terms of Sections\n"
-"    1 and 2 above on a medium customarily used for software interchange; or,\n"
+"    제 1 항. 파일을 개작할 때는 파일을 개작한 사실과 그 날짜를 파일 안에 명시해야 합니다.\n"
 "\n"
-"    b) Accompany it with a written offer, valid for at least three\n"
-"    years, to give any third party, for a charge no more than your\n"
-"    cost of physically performing source distribution, a complete\n"
-"    machine-readable copy of the corresponding source code, to be\n"
-"    distributed under the terms of Sections 1 and 2 above on a medium\n"
-"    customarily used for software interchange; or,\n"
+"    제 2 항. 배포하거나 공표하려는 저작물의 전부 또는 일부가 양도받은 프로그램으로부터 파생된 \n"
+"것이라면, 저작물 전체에 대한 사용 권리를 본 허가서의 규정에 따라 공중에게 무상으로 허용해야 합니다.\n"
 "\n"
-"    c) Accompany it with the information you received as to the offer\n"
-"    to distribute corresponding source code.  (This alternative is\n"
-"    allowed only for noncommercial distribution and only if you\n"
-"    received the program in object code or executable form with such\n"
-"    an offer, in accord with Subsection b above.)\n"
+"    제 3 항. 개작된 프로그램의 일반적인 실행 형태가 대화형 구조로 명령어를 읽어 들이는 방식을 \n"
+"취하고 있을 경우에는, 적절한 저작권 표시와 프로그램에 대한 보증이 제공되지 않는다는 사실, \n"
+"(별도의 보증을 설정한 경우라면 해당 내용) 그리고 양도받은 프로그램을 본 규정에 따라 재배포할 수 \n"
+"있다는 사실과 GPL 사본을 참고할 수 있는 방법이 함께 포함된 문구가 프로그램이 대화형 구조로 \n"
+"평이하게 실행된 직후에 화면 또는 지면으로 출력되도록 작성되어야 합니다. (예외 규정: 양도받은 \n"
+"프로그램이 대화형 구조를 갖추고 있다 하더라도 통상적인 실행 환경에서 전술한 사항들이 출력되지 \n"
+"않는 형태였을 경우에는 이를 개작한 프로그램 또한 관련 사항들을 출력시키지 않아도 무방합니다.) \n"
 "\n"
-"The source code for a work means the preferred form of the work for\n"
-"making modifications to it.  For an executable work, complete source\n"
-"code means all the source code for all modules it contains, plus any\n"
-"associated interface definition files, plus the scripts used to\n"
-"control compilation and installation of the executable.  However, as a\n"
-"special exception, the source code distributed need not include\n"
-"anything that is normally distributed (in either source or binary\n"
-"form) with the major components (compiler, kernel, and so on) of the\n"
-"operating system on which the executable runs, unless that component\n"
-"itself accompanies the executable.\n"
+"위의 조항들은 개작된 프로그램 전체에 적용됩니다. 만약, 개작된 프로그램에 포함된 특정 부분이 \n"
+"원프로그램으로부터 파생된 것이 아닌 별도의 독립 저작물로 인정될 만한 상당한 이유가 있을 경우에는 \n"
+"해당 저작물의 개별적인 배포에는 본 허가서의 규정들이 적용되지 않습니다. 그러나 이러한 저작물이 \n"
+"2차적 프로그램의 일부로서 함께 배포된다면 개별적인 저작권과 배포 기준에 상관없이 저작물 모두에 \n"
+"본 허가서가 적용되어야 하며, 전체 저작물에 대한 사용 권리는 공중에게 무상으로 양도됩니다.\n"
 "\n"
-"If distribution of executable or object code is made by offering\n"
-"access to copy from a designated place, then offering equivalent\n"
-"access to copy the source code from the same place counts as\n"
-"distribution of the source code, even though third parties are not\n"
-"compelled to copy the source along with the object code.\n"
+"이러한 규정은 개별적인 저작물에 대한 저작자의 권리를 침해하거나 인정하지 않으려는 것이 아니라, \n"
+"원프로그램으로부터 파생된 2차적 프로그램이나 수집 저작물의 배포를 일관적으로 규제할 수 있는 \n"
+"권리를 행사하기 위한 것입니다.\n"
 "\n"
-"  4. You may not copy, modify, sublicense, or distribute the Program\n"
-"except as expressly provided under this License.  Any attempt\n"
-"otherwise to copy, modify, sublicense or distribute the Program is\n"
-"void, and will automatically terminate your rights under this License.\n"
-"However, parties who have received copies, or rights, from you under\n"
-"this License will not have their licenses terminated so long as such\n"
-"parties remain in full compliance.\n"
+"원프로그램이나 원프로그램으로부터 파생된 2차적 프로그램을 이들로부터 파생되지 않은 다른 저작물과 \n"
+"함께 단순히 저장하거나 배포할 목적으로 동일한 매체에 모아 놓은 집합물의 경우에는, 원프로그램으로부터 \n"
+"파생되지 않은 다른 저작물에는 본 허가서의 규정들이 적용되지 않습니다.\n"
 "\n"
-"  5. You are not required to accept this License, since you have not\n"
-"signed it.  However, nothing else grants you permission to modify or\n"
-"distribute the Program or its derivative works.  These actions are\n"
-"prohibited by law if you do not accept this License.  Therefore, by\n"
-"modifying or distributing the Program (or any work based on the\n"
-"Program), you indicate your acceptance of this License to do so, and\n"
-"all its terms and conditions for copying, distributing or modifying\n"
-"the Program or works based on it.\n"
+"제 3 조. 피양도자는 다음 중 하나의 항목을 만족시키는 조건에 한해서 제1조와 제2조의 규정에 따라 \n"
+"프로그램(또는 제2조에서 언급된 2차적 프로그램)을 목적 코드(object code)나 실행물(executable form)의 \n"
+"형태로 복제하고 배포할 수 있습니다.\n"
 "\n"
-"  6. Each time you redistribute the Program (or any work based on the\n"
-"Program), the recipient automatically receives a license from the\n"
-"original licensor to copy, distribute or modify the Program subject to\n"
-"these terms and conditions.  You may not impose any further\n"
-"restrictions on the recipients' exercise of the rights granted herein.\n"
-"You are not responsible for enforcing compliance by third parties to\n"
-"this License.\n"
+"    제 1 항. 목적 코드나 실행물에 상응하는 컴퓨터가 인식할 수 있는 완전한 원시 코드를 함께 제공해야 \n"
+"합니다. 원시 코드는 제1조와 제2조의 규정에 따라 배포될 수 있어야 하며, 소프트웨어의 교환을 위해서 \n"
+"일반적으로 사용되는 매체를 통해 제공되어야 합니다.\n"
 "\n"
-"  7. If, as a consequence of a court judgment or allegation of patent\n"
-"infringement or for any other reason (not limited to patent issues),\n"
-"conditions are imposed on you (whether by court order, agreement or\n"
-"otherwise) that contradict the conditions of this License, they do not\n"
-"excuse you from the conditions of this License.  If you cannot\n"
-"distribute so as to satisfy simultaneously your obligations under this\n"
-"License and any other pertinent obligations, then as a consequence you\n"
-"may not distribute the Program at all.  For example, if a patent\n"
-"license would not permit royalty-free redistribution of the Program by\n"
-"all those who receive copies directly or indirectly through you, then\n"
-"the only way you could satisfy both it and this License would be to\n"
-"refrain entirely from distribution of the Program.\n"
+"    제 2 항. 배포에 필요한 최소한의 비용만을 받고 목적 코드나 실행물에 상응하는 완전한 원시 코드를 \n"
+"배포하겠다는, 최소한 3년간 유효한 약정서를 함께 제공해야 합니다. 이 약정서는 약정서를 갖고 있는 어떠한 \n"
+"사람에 대해서도 유효해야 합니다. 원시 코드는 컴퓨터가 인식할 수 있는 형태여야 하고 제1조와 제2조의 \n"
+"규정에 따라 배포될 수 있어야 하며, 소프트웨어의 교환을 위해서 일반적으로 사용되는 매체를 통해 제공되어야 합니다.\n"
 "\n"
-"If any portion of this section is held invalid or unenforceable under\n"
-"any particular circumstance, the balance of the section is intended to\n"
-"apply and the section as a whole is intended to apply in other\n"
-"circumstances.\n"
+"    제 3 항. 목적 코드나 실행물에 상응하는 원시 코드를 배포하겠다는 약정에 대해서 자신이 양도받은 \n"
+"정보를 함께 제공해야 합니다. (제3항은 위의 제2항에 따라 원시 코드를 배포하겠다는 약정을 프로그램의 \n"
+"목적 코드나 실행물과 함께 제공 받았고, 동시에 비상업적인 배포를 하고자 할 경우에 한해서만 허용됩니다.)\n"
+" \n"
+"저작물에 대한 원시 코드란 해당 저작물을 개작하기에 적절한 형식을 의미합니다. 실행물에 대한 완전한 \n"
+"원시 코드란 실행물에 포함된 모든 모듈들의 원시 코드와 이와 관련된 인터페이스 정의 파일 모두, 그리고 \n"
+"실행물의 컴파일과 설치를 제어하는데 사용된 스크립트 전부를 의미합니다. 그러나 특별한 예외의 하나로서, \n"
+"실행물이 실행될 운영체제의 주요 부분(컴파일러나 커널 등)과 함께 (원시 코드나 바이너리의 형태로) \n"
+"일반적으로 배포되는 구성 요소들은 이러한 구성 요소 자체가 실행물에 수반되지 않는 한 원시 코드의 \n"
+"배포 대상에서 제외되어도 무방합니다.\n"
 "\n"
-"It is not the purpose of this section to induce you to infringe any\n"
-"patents or other property right claims or to contest validity of any\n"
-"such claims; this section has the sole purpose of protecting the\n"
-"integrity of the free software distribution system, which is\n"
-"implemented by public license practices.  Many people have made\n"
-"generous contributions to the wide range of software distributed\n"
-"through that system in reliance on consistent application of that\n"
-"system; it is up to the author/donor to decide if he or she is willing\n"
-"to distribute software through any other system and a licensee cannot\n"
-"impose that choice.\n"
+"목적 코드나 실행물을 지정한 장소로부터 복제해 갈 수 있게 하는 방식으로 배포할 경우, 동일한 장소로부터 \n"
+"원시 코드를 복제할 수 있는 동등한 접근 방법을 제공한다면 이는 원시 코드를 목적 코드와 함께 복제되도록 \n"
+"설정하지 않았다고 하더라도 원시 코드를 배포하는 것으로 간주됩니다.\n"
 "\n"
-"This section is intended to make thoroughly clear what is believed to\n"
-"be a consequence of the rest of this License.\n"
+"제 4 조. 본 허가서에 의해 명시적으로 이루어 지지 않는 한 프로그램에 대한 복제와 개작 및 하위 허가권 \n"
+"설정과 배포가 성립될 수 없습니다. 이와 관련된 어떠한 행위도 무효이며 본 허가서가 보장한 권리는 자동으로\n"
+" 소멸됩니다. 그러나 본 허가서의 규정에 따라 프로그램의 복제물이나 권리를 양도받았던 제3자는 본 허가서의 \n"
+"규정들을 준수하는 한, 배포자의 권리 소멸에 관계없이 사용상의 권리를 계속해서 유지할 수 있습니다.\n"
 "\n"
-"  8. If the distribution and/or use of the Program is restricted in\n"
-"certain countries either by patents or by copyrighted interfaces, the\n"
-"original copyright holder who places the Program under this License\n"
-"may add an explicit geographical distribution limitation excluding\n"
-"those countries, so that distribution is permitted only in or among\n"
-"countries not thus excluded.  In such case, this License incorporates\n"
-"the limitation as if written in the body of this License.\n"
+"제 5 조. 본 허가서는 서명이나 날인이 수반되는 형식을 갖고 있지 않기 때문에 피양도자가 본 허가서의 \n"
+"내용을 반드시 받아들여야 할 필요는 없습니다. 그러나 프로그램이나 프로그램에 기반한 2차적 프로그램에 \n"
+"대한 개작 및 배포를 허용하는 것은 본 허가서에 의해서만 가능합니다. 만약 본 허가서에 동의하지 않을 \n"
+"경우에는 이러한 행위들이 법률적으로 금지됩니다. 따라서 프로그램(또는 프로그램에 기반한 2차적 프로그램)을 \n"
+"개작하거나 배포하는 행위는 이에 따른 본 허가서의 내용에 동의한다는 것을 의미하며, 복제와 개작 및 \n"
+"배포에 관한 본 허가서의 조건과 규정들을 모두 받아들이겠다는 의미로 간주됩니다.\n"
 "\n"
-"  9. The Free Software Foundation may publish revised and/or new versions\n"
-"of the General Public License from time to time.  Such new versions will\n"
-"be similar in spirit to the present version, but may differ in detail to\n"
-"address new problems or concerns.\n"
+"제 6 조. 피양도자에 의해서 프로그램(또는 프로그램에 기반한 2차적 프로그램)이 반복적으로 재배포될 경우, \n"
+"각 단계에서의 피양도자는 본 허가서의 규정에 따른 프로그램의 복제와 개작 및 배포에 대한 권리를 최초의 \n"
+"양도자로부터 양도받은 것으로 자동적으로 간주됩니다. 프로그램(또는 프로그램에 기반한 2차적 프로그램)을 \n"
+"배포할 때는 피양도자의 권리의 행사를 제한할 수 있는 어떠한 사항도 추가할 수 없습니다. 그러나 \n"
+"피양도자에게, 재배포가 일어날 시점에서의 제3의 피양도자에게 본 허가서를 준수하도록 강제할 책임은 \n"
+"부과되지 않습니다.\n"
 "\n"
-"Each version is given a distinguishing version number.  If the Program\n"
-"specifies a version number of this License which applies to it and \"any\n"
-"later version\", you have the option of following the terms and conditions\n"
-"either of that version or of any later version published by the Free\n"
-"Software Foundation.  If the Program does not specify a version number of\n"
-"this License, you may choose any version ever published by the Free Software\n"
-"Foundation.\n"
+"제 7 조. 법원의 판결이나 특허권 침해에 대한 주장 또는 특허 문제에 국한되지 않은 그밖의 이유들로 인해서 \n"
+"본 허가서의 규정에 배치되는 사항이 발생한다 하더라도 그러한 사항이 선행하거나 본 허가서의 조건과 규정들이 \n"
+"면제되는 것은 아닙니다. 따라서 법원의 명령이나 합의 등에 의해서 본 허가서에 위배되는 사항들이 발생한 \n"
+"상황이라도 양측 모두를 만족시킬 수 없다면 프로그램은 배포될 수 없습니다. 예를 들면, 특정한 특허 관련 \n"
+"허가가 프로그램의 복제물을 직접 또는 간접적인 방법으로 양도받은 임의의 제3자에게 해당 프로그램을 무상으로 \n"
+"재배포할 수 있게 허용하지 않는다면, 그러한 허가와 본 사용 허가를 동시에 만족시키면서 프로그램을 배포할 \n"
+"수 있는 방법은 없습니다.\n"
 "\n"
-"  10. If you wish to incorporate parts of the Program into other free\n"
-"programs whose distribution conditions are different, write to the author\n"
-"to ask for permission.  For software which is copyrighted by the Free\n"
-"Software Foundation, write to the Free Software Foundation; we sometimes\n"
-"make exceptions for this.  Our decision will be guided by the two goals\n"
-"of preserving the free status of all derivatives of our free software and\n"
-"of promoting the sharing and reuse of software generally.\n"
+"본 조항은 특정한 상황에서 본 조항의 일부가 유효하지 않거나 적용될 수 없을 경우에도 본 조항의 나머지 부분들을 \n"
+"적용하기 위한 의도로 만들어 졌습니다. 따라서 그 이외의 상황에서는 본 조항을 전체적으로 적용하면 됩니다.\n"
 "\n"
-"\t\t\t    NO WARRANTY\n"
+"본 조항의 목적은 특허나 저작권 침해 등의 행위를 조장하거나 해당 권리를 인정하지 않으려는 것이 아니라, GPL을 \n"
+"통해서 구현되어 있는 자유 소프트웨어의 배포 체계를 통합적으로 보호하기 위한 것입니다. 많은 사람들이 배포 \n"
+"체계에 대한 신뢰있는 지원을 계속해 줌으로써 소프트웨어의 다양한 분야에 많은 공헌을 해 주었습니다. \n"
+"소프트웨어를 어떠한 배포 체계로 배포할 것인가를 결정하는 것은 전적으로 저작자와 기증자들의 의지에 달려있는 \n"
+"것이지, 일반 사용자들이 강요할 수 있는 문제는 아닙니다.\n"
 "\n"
-"  11. BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY\n"
-"FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.  EXCEPT WHEN\n"
-"OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES\n"
-"PROVIDE THE PROGRAM \"AS IS\" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED\n"
-"OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF\n"
-"MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK AS\n"
-"TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.  SHOULD THE\n"
-"PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING,\n"
-"REPAIR OR CORRECTION.\n"
+"본 조항은 본 허가서의 다른 조항들에서 무엇이 중요하게 고려되어야 하는 지를 명확하게 설명하기 위한 목적으로 \n"
+"만들어진 것입니다.\n"
 "\n"
-"  12. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING\n"
-"WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR\n"
-"REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES,\n"
-"INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING\n"
-"OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED\n"
-"TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY\n"
-"YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER\n"
-"PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE\n"
-"POSSIBILITY OF SUCH DAMAGES.\n"
+"제 8 조. 특허나 저작권이 설정된 인터페이스로 인해서 특정 국가에서 프로그램의 배포와 사용이 함께 또는 \n"
+"개별적으로 제한되어 있는 경우, 본 사용 허가서를 프로그램에 적용한 최초의 저작권자는 문제가 발생하지 않는 \n"
+"국가에 한해서 프로그램을 배포한다는 배포상의 지역적 제한 조건을 명시적으로 설정할 수 있으며, 이러한 사항은 \n"
+"본 허가서의 일부로 간주됩니다.\n"
 "\n"
-"\t\t     END OF TERMS AND CONDITIONS\n"
+"제 9 조. 자유 소프트웨어 재단은 때때로 본 사용 허가서의 개정판이나 신판을 공표할 수 있습니다. 새롭게 \n"
+"공표될 판은 당면한 문제나 현안을 처리하기 위해서 세부적인 내용에 차이가 발생할 수 있지만, 그 근본 정신에는 \n"
+"변함이 없을 것입니다.\n"
 "\n"
-"\t    How to Apply These Terms to Your New Programs\n"
+"각각의 판들은 판번호를 사용해서 구별됩니다. 특정한 판번호와 그 이후 판을 따른다는 사항이 명시된 프로그램에는 \n"
+"해당 판이나 그 이후에 발행된 어떠한 판을 선택해서 적용해도 무방하고, 판번호를 명시하고 있지 않은 경우에는 \n"
+"자유 소프트웨어 재단이 공표한 어떠한 판번호의 판을 적용해도 무방합니다.\n"
 "\n"
-"  If you develop a new program, and you want it to be of the greatest\n"
-"possible use to the public, the best way to achieve this is to make it\n"
-"free software which everyone can redistribute and change under these terms.\n"
+"제 10 조. 프로그램의 일부를 본 허가서와 배포 기준이 다른 자유 프로그램과 함께 결합하고자 할 경우에는 해당 \n"
+"프로그램의 저작자로부터 서면 승인을 받아야 합니다. 자유 소프트웨어 재단이 저작권을 갖고 있는 소프트웨어의 \n"
+"경우에는 자유 소프트웨어 재단의 승인을 얻어야 합니다. 우리는 이러한 요청을 수락하기 위해서 때때로 예외 \n"
+"기준을 만들기도 합니다. 자유 소프트웨어 재단은 일반적으로 자유 소프트웨어의 2차적 저작물들을 모두 자유로운 \n"
+"상태로 유지시키려는 목적과 소프트웨어의 공유와 재활용을 증진시키려는 두가지 목적을 기준으로 승인 여부를 결정할 \n"
+"것입니다.\n"
 "\n"
-"  To do so, attach the following notices to the program.  It is safest\n"
-"to attach them to the start of each source file to most effectively\n"
-"convey the exclusion of warranty; and each file should have at least\n"
-"the \"copyright\" line and a pointer to where the full notice is found.\n"
+"보증의 결여 (제11조, 제12조)\n"
 "\n"
-"    &lt;one line to give the program's name and a brief idea of what it does.&gt;\n"
-"    Copyright (C) 19yy  &lt;name of author&gt;\n"
+"제 11 조. 본 허가서를 따르는 프로그램은 무상으로 양도되기 때문에 관련 법률이 허용하는 한도 내에서 어떠한 \n"
+"형태의 보증도 제공되지 않습니다. 프로그램의 저작권자와 배포자가 공동 또는 개별적으로 별도의 보증을 서면으로 \n"
+"제공할 때를 제외하면, 특정한 목적에 대한 프로그램의 적합성이나 상업성 여부에 대한 보증을 포함한 어떠한 형태의 \n"
+"보증도 명시적이나 묵시적으로 설정되지 않은 ``있는 그대로의'' 상태로 이 프로그램을 배포합니다. 프로그램과 \n"
+"프로그램의 실행에 따라 발생할 수 있는 모든 위험은 피양도자에게 인수되며 이에 따른 보수 및 복구를 위한 제반 \n"
+"경비 또한 피양도자가 모두 부담해야 합니다.\n"
 "\n"
-"    This program is free software; you can redistribute it and/or modify\n"
-"    it under the terms of the GNU General Public License as published by\n"
-"    the Free Software Foundation; either version 2 of the License, or\n"
-"    (at your option) any later version.\n"
+"제 12 조. 저작권자나 배포자가 프로그램의 손상 가능성을 사전에 알고 있었다 하더라도 발생된 손실이 관련 법규에 \n"
+"의해 보호되고 있거나 이에 대한 별도의 서면 보증이 설정된 경우가 아니라면, 저작권자나 프로그램을 원래의 상태 \n"
+"또는 개작한 상태로 제공한 배포자는 프로그램의 사용이나 비작동으로 인해 발생된 손실이나 프로그램 자체의 손실에 \n"
+"대해 책임지지 않습니다. 이러한 면책 조건은 사용자나 제3자가 프로그램을 조작함으로써 발생된 손실이나 다른 \n"
+"소프트웨어와 프로그램을 함께 동작시키는 것으로 인해서 발생된 데이터의 상실 및 부정확한 산출 결과에만 국한되는 \n"
+"것이 아닙니다. 발생된 손실의 일반성이나 특수성 뿐 아니라 원인의 우발성 및 필연성도 전혀 고려되지 않습니다.\n"
 "\n"
-"    This program is distributed in the hope that it will be useful,\n"
-"    but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
-"    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
-"    GNU General Public License for more details.\n"
+"복제와 개작 및 배포에 관한 조건과 규정의 끝.\n"
 "\n"
-"    You should have received a copy of the GNU General Public License\n"
-"    along with this program; if not, write to the Free Software\n"
-"    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA\n"
+"새로운 프로그램에 GPL을 적용하는 방법\n"
+"\n"
+"새로운 프로그램을 개발하고 그 프로그램이 많은 사람들에게 최대한 유용하게 사용되기를 원한다면, 본 허가서의 \n"
+"규정에 따라 누구나 자유롭게 개작하고 재배포할 수 있는 자유 소프트웨어로 만드는 것이 최선의 방법입니다.\n"
+"\n"
+"프로그램을 자유 소프트웨어로 만들기 위해서는 다음과 같은 사항을 프로그램에 추가하면 됩니다. 프로그램에 \n"
+"대한 보증이 제공되지 않는다는 사실을 가장 효과적으로 전달할 수 있는 방법은 원시 코드 파일의 시작 부분에 \n"
+"이러한 사항을 추가하는 것입니다. 각각의 파일에는 최소한 저작권을 명시한 행과 본 사용 허가서의 전체 \n"
+"내용을 참고할 수 있는 위치 정보를 명시해야 합니다.\n"
 "\n"
 "\n"
-"Also add information on how to contact you by electronic and paper mail.\n"
 "\n"
-"If the program is interactive, make it output a short notice like this\n"
-"when it starts in an interactive mode:\n"
+"    프로그램의 이름과 용도를 한 줄 정도로 설명합니다.\n"
+"    Copyright (C) 20yy년 &lt;프로그램 저작자의 이름&gt;\n"
 "\n"
-"    Gnomovision version 69, Copyright (C) 19yy name of author\n"
-"    Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'.\n"
-"    This is free software, and you are welcome to redistribute it\n"
-"    under certain conditions; type `show c' for details.\n"
+"    이 프로그램은 자유 소프트웨어입니다. 소프트웨어의 피양도자는 자유 소프트웨어 재단이 공표한 GNU 일반 \n"
+"공중 사용 허가서 2판 또는 그 이후 판을 임의로 선택해서, 그 규정에 따라 프로그램을 개작하거나 재배포할 수 있습니다.\n"
 "\n"
-"The hypothetical commands `show w' and `show c' should show the appropriate\n"
-"parts of the General Public License.  Of course, the commands you use may\n"
-"be called something other than `show w' and `show c'; they could even be\n"
-"mouse-clicks or menu items--whatever suits your program.\n"
+"    이 프로그램은 유용하게 사용될 수 있으리라는 희망에서 배포되고 있지만, 특정한 목적에 맞는 적합성 \n"
+"여부나 판매용으로 사용할 수 있으리라는 묵시적인 보증을 포함한 어떠한 형태의 보증도 제공하지 않습니다. \n"
+"보다 자세한 사항에 대해서는 GNU 일반 공중 사용 허가서를 참고하시기 바랍니다.\n"
 "\n"
-"You should also get your employer (if you work as a programmer) or your\n"
-"school, if any, to sign a \"copyright disclaimer\" for the program, if\n"
-"necessary.  Here is a sample; alter the names:\n"
+"    GNU 일반 공중 사용 허가서는 이 프로그램과 함께 제공됩니다. 만약, 이 문서가 누락되어 있다면 자유 \n"
+"소프트웨어 재단으로 문의하시기 바랍니다. (자유 소프트웨어 재단: Free Software Foundation, Inc., \n"
+"59 Temple Place - Suite 330, Boston, MA 02111-1307, USA) \n"
 "\n"
-"  Yoyodyne, Inc., hereby disclaims all copyright interest in the program\n"
-"  `Gnomovision' (which makes passes at compilers) written by James Hacker.\n"
 "\n"
-"  &lt;signature of Ty Coon&gt;, 1 April 1989\n"
-"  Ty Coon, President of Vice\n"
+"또한, 사용자들이 프로그램을 배포한 사람에게 전자 메일과 서면으로 연락할 수 있는 정보를 추가해야 합니다.\n"
 "\n"
-"This General Public License does not permit incorporating your program into\n"
-"proprietary programs.  If your program is a subroutine library, you may\n"
-"consider it more useful to permit linking proprietary applications with the\n"
-"library.  If this is what you want to do, use the GNU Library General\n"
-"Public License instead of this License."
+"프로그램이 명령어 입력 방식에 의한 대화형 구조를 택하고 있다면, 프로그램이 대화형 방식으로 실행되었을 \n"
+"때 다음과 같은 주의 사항이 출력되어야 합니다.\n"
+"\n"
+"\n"
+"\n"
+"    Gnomovision version 69, Copyright (C) 20yy년 &lt;프로그램 저작자의 이름&gt;\n"
+"\n"
+"    Gnomovision 프로그램에는 제품에 대한 어떠한 형태의 보증도 제공되지 않습니다. 보다 자세한 사항은 \n"
+"`show w' 명령어를 실행해서 참고할 수 있습니다. 이 프로그램은 자유 소프트웨어입니다. 이 프로그램은 배포 \n"
+"규정을 만족시키는 조건하에서 자유롭게 재배포될 수 있습니다. 배포에 대한 규정들은 `show c' 명령어를 통해서 \n"
+"참고할 수 있습니다. \n"
+"\n"
+"\n"
+"`show w'와 `show c'는 GPL의 해당 부분을 출력하기 위한 가상의 명령어입니다. 따라서 `show w'나 \n"
+"`show c'가 아닌 다른 형태를 사용해도 무방하며, 마우스 클릭이나 메뉴 방식과 같은 프로그램에 적합한 다른 \n"
+"형식을 사용해도 괜찮습니다.\n"
+"\n"
+"만약, 프로그램 저작자가 학교나 기업과 같은 단체나 기관에 고용되어 있다면 프로그램의 자유로운 배포를 위해서 \n"
+"고용주나 해당 기관장으로부터 프로그램에 대한 저작권 포기 각서를 받아야 합니다. 예를 들면 다음과 같은 형식이 \n"
+"될 수 있다. (아래의 문구를 실제로 사용할 경우에는 예로 사용된 이름들을 실제 이름으로 대체하면 됩니다.)\n"
+"\n"
+"\n"
+"\n"
+"    본사는 제임스 해커가 만든 (컴파일러에서 패스를 생성하는) `Gnomovision' 프로그램에 관련된 모든 \n"
+"저작권을 포기합니다.\n"
+"\n"
+"    1989년 4월 1일\n"
+"    Yoyodye, Inc., 부사장: Ty Coon\n"
+"    서명: Ty Coon의 서명 \n"
+"\n"
+"\n"
+"GNU 일반 공중 사용 허가서는 자유 소프트웨어를 독점 소프트웨어와 함께 결합시키는 것을 허용하지 않습니다. \n"
+"만약, 작성된 프로그램이 서브루틴 라이브러리일 경우에는 독점 소프트웨어가 해당 라이브러리를 링크할 수 \n"
+"있도록 허용하는 것이 보다 효과적으로 활용될 수 있는 방법이라고 생각할 수도 있을 것입니다. 이러한 경우에는 \n"
+"본 허가서 대신 GNU 라이브러리 일반 공중 사용 허가서(GNU Library General Public License)를 \n"
+"사용함으로써 소기의 목적을 충족시킬 수 있습니다."
 
 #: index.docbook:15
 #, no-c-format
@@ -3116,7 +3095,7 @@ msgid ""
 "]]>\n"
 "</programlisting> This will look like this: <ulink url=\"http://www.bibletime.info/\"> <mediaobject> <imageobject> <imagedata fileref=\"/images/banner/small.jpg\" format=\"JPG\"/> </imageobject> </mediaobject> </ulink>"
 msgstr ""
-"다음의 HTML 코드를 사입하십시오: <programlisting>\n"
+"다음의 HTML 코드를 삽입하십시오: <programlisting>\n"
 "<![CDATA[\n"
 " <a href=\"http://www.bibletime.info/\" target=\"_blank\">\n"
 " <img src=\"http://www.bibletime.info/images/banner/small.jpg\" width=\"88\" height=\"31\" border=\"0\"/>\n"
@@ -3154,9 +3133,9 @@ msgid "Welcome to the BibleTime project."
 msgstr "바이블타임 프로젝트에 오신 것을 환영합니다."
 
 #: index.docbook:16
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "BibleTime is a Bible study application for Linux. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/\">Crosswire Bible Society</ulink>."
-msgstr "바이블타임은 리눅스용 성경공부 프로그램입니다. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/sword/\">Crosswire Bible Society</ulink>."
+msgstr "바이블타임은 리눅스용 성경공부 프로그램입니다. <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink>를 기반으로, 성경 텍스트, 주석, 사전과 신앙 서적들을 위한 <ulink url=\"http://www.crosswire.org/sword/\">Crosswire Bible Society</ulink>의 <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> 라이브러리를 사용합니다."
 
 #: index.docbook:25
 #, no-c-format
@@ -3164,76 +3143,91 @@ msgid "News about BibleTime"
 msgstr "바이블타임 뉴스"
 
 #: index.docbook:26
-#, fuzzy, no-c-format
-msgid "2003-12-29: BibleTime 1.4"
-msgstr "2003-08-23: 바이블타임 1.3"
+#, no-c-format
+msgid "2004-01-11: New translation effort"
+msgstr ""
 
 #: index.docbook:27
 #, no-c-format
-msgid "The new version 1.4 of BibleTime is now available for download. 1.4 in comparision with version 1.3 contains a new SwordSetup dialog to setup Sword and to install modules from local sources or from the internet. With the SwordSetup part it's also possible to remove modules from disk. 1.4 also contains many new bugfixes. BibleTime 1.4 is available on our download page."
+msgid "First of all we want to wish all of you a truly happy and blessed new year."
 msgstr ""
 
 #: index.docbook:30
 #, no-c-format
-msgid "You need Sword 1.5.7 with enabled curl support to make use of the remote installation features. The binary packages we provide for some of the major linux distributions should work out of the box."
+msgid "As you probably already noticed, there is a new page online called <ulink url=\"translation.shtml\">&quot;Translation&quot;</ulink>. This page gives an introduction into how you can help with the translation of the different areas of the BibleTime project, and offers detailed statistics on the completeness of the existing languages. Be sure to check it out."
 msgstr ""
 
-#: index.docbook:33
+#: index.docbook:37
 #, no-c-format
-msgid "If you run into troubles installing BibleTime or you have problems using it please submit a bugreport. We need your support to improve BibleTime."
-msgstr ""
+msgid "2003-12-29: BibleTime 1.4"
+msgstr "2003-12-29: BibleTime 1.4"
 
 #: index.docbook:38
+#, no-c-format
+msgid "The new version 1.4 of BibleTime is now available for download. 1.4 in comparision with version 1.3 contains a new SwordSetup dialog to setup Sword and to install modules from local sources or from the internet. With the SwordSetup part it's also possible to remove modules from disk. 1.4 also contains many new bugfixes. BibleTime 1.4 is available on our download page."
+msgstr "이제 바이블타임의 새버전 1.4를 다운로드하실 수 있습니다. 1.3과는 다르게 1.4에서는 스워드(Sword)의 일반 설정과 인터넷이나 로컬 소스로 부터 모듈을 설치할 수 있는 새로운 설정창이 제공됩니다. 스워드(Sword) 설정 부분에서 모듈을 제거하는 것도 가능합니다. 1.4는 많은 버그픽스들도 포함하고 있습니다. 바이블타임 1.4는 다운로드 페이지에서 구하실 수 있습니다."
+
+#: index.docbook:41
+#, no-c-format
+msgid "You need Sword 1.5.7 with enabled curl support to make use of the remote installation features. The binary packages we provide for some of the major linux distributions should work out of the box."
+msgstr "원격 설정 기능을 사용하시려면 curl support가 설정된 스워드(Sword) 1.5.7가 필요합니다. 몇몇의 주요 리눅스 배포판들을 위한 바이너리 패키지가 제공되고 있습니다."
+
+#: index.docbook:44
+#, no-c-format
+msgid "If you run into troubles installing BibleTime or you have problems using it please submit a bugreport. We need your support to improve BibleTime."
+msgstr "바이블타임의 설치에 문제가 있거나 사용에 문제가 있다면 버그리포트로 보내주십시오. 바이블타임의 발전을 위해서는 여러분의 도움이 필요합니다."
+
+#: index.docbook:49
 #, no-c-format
 msgid "2003-12-03: BibleTime 1.4beta1"
 msgstr "2003-12-03: 바이블타임 1.4beta1"
 
-#: index.docbook:39
+#: index.docbook:50
 #, no-c-format
 msgid "The first testing version of the upcoming BibleTime 1.4 was released today. The new feature in comparision with 1.3 is the new SwordSetup dialog which makes the Sword and module configuration more userfriendly. Using the dialog you can now setup Sword's configuration files, install modules from the internet or from local sources (e.g. a CD) and also uninstall modules from your system. This beta release also contains some important bugfixes."
 msgstr "바이블타임 1.4의 첫 테스트버전이 릴리즈되었습니다. 1.3에 없던 스워드(Sword)사용과 모듈 설치를 편하게 해주는 설치 다이얼로그가 추가 되었습니다. 스워드(Sword)의 설정 파일 관리와 인터넷이나 로컬 소스(CD등)로부터의 모듈 설치/제거 등을 하실 수 있습니다. 이 베타 릴리즈는 몇가지 버그 픽스도 포함하고 있습니다."
 
-#: index.docbook:47
+#: index.docbook:58
 #, no-c-format
 msgid "This 1.4beta1 release is only meant for testing, so we do not provide binary packages. If you know how to compile programs from source code we encourage you to try this beta1 release. You need Sword 1.5.6 with enabled curl support to make use of the remote installation features."
 msgstr "1.4beta1 릴리즈는 테스트용이므로, 바이너리 패키지가 제공되지 않습니다. 프로그램의 소스코드로부터 컴파일해서 설치하실수 있다면, beta1 릴리즈를 사용해보시기를 권고합니다. 원격 설치 기능을 이용하실려면 스워드(Sword) 1.5.6가 필요합니다."
 
-#: index.docbook:54
+#: index.docbook:65
 #, no-c-format
 msgid "2003-10-19: SuSE 9.0 packages"
 msgstr "2003-10-19: SuSE 9.0 패키지"
 
-#: index.docbook:55
+#: index.docbook:66
 #, no-c-format
 msgid "RPM packages are now available for SuSE 9.0. Report any problems to info@bibletime.info. Thank you!"
 msgstr "SuSE 9.0용 RPM 패키지가 제공되고 있습니다. 문제를 발견하시면 info@bibletime.info로 알려주십시오. 감사합니다!"
 
-#: index.docbook:60
+#: index.docbook:71
 #, no-c-format
 msgid "2003-10-16: New webpages"
 msgstr "2003-10-16: 새 웹페이지"
 
-#: index.docbook:61
+#: index.docbook:72
 #, no-c-format
 msgid "BibleTime has now new webpages which offer better navigation, better design and faster page download time."
 msgstr "더 나은 네비게이션과 향상된 디자인, 빠른 페이지 로딩을 지원하는 바이블타임의 새 웹페이지가 오픈하였습니다."
 
-#: index.docbook:65
+#: index.docbook:76
 #, no-c-format
 msgid "If you experience any problems with the new pages please let us know!"
 msgstr "새 페이지들에서 문제를 발견하시면 저희에게 알려주시기 바랍니다."
 
-#: index.docbook:70
+#: index.docbook:81
 #, no-c-format
 msgid "2003-08-23: BibleTime 1.3"
 msgstr "2003-08-23: 바이블타임 1.3"
 
-#: index.docbook:71
+#: index.docbook:82
 #, no-c-format
 msgid "Version 1.3 of BibleTime is finally available. BibleTime 1.3 contains a lot of new features, usability improvements and bug fixes. Upgrading to version 1.3 is strongly recommended for all our users. You can get the Software here: <ulink url=\"http://www.bibletime.info/software/download/\">Download</ulink>. Binary packages will be released in the next few days."
 msgstr "바이블타임 버전 1.3이 마침내 공개되었습니다. 바이블타임 1.3은 성능 개선과 버그픽스 등의 많은 새 기능을 포함합니다. 모든 유저들은 1.3으로 업그레이드 하실 것을 강력이 추천합니다. 이곳에서 프로그램을 구하실 수 있습니다: <ulink url=\"http://www.bibletime.info/software/download/\">다운로드</ulink>. 바이너리 패키지도 며칠 안에 릴리즈 될 것입니다."
 
-#: index.docbook:76
+#: index.docbook:87
 #, no-c-format
 msgid "Get the bibletime and the bibletime-i18n packages for full functionality. We're very sorry for the long release time, we hope to shorten it with the next releases."
 msgstr "완벽한 기능을 위해서는 바이블타임과 bibletime-i18n 패키지를 함께 설치하십시오. 릴리즈 타임이 너무 늦어져서 죄송합니다. 다음 릴리지는 좀 더 빠른 시간 안에 이루어질 수 있도록 하겠습니다."
@@ -3304,34 +3298,72 @@ msgid "The search dialog of previous versions wasn't easy to use. This is the ne
 msgstr "전 버전의 검색창은 사용하기가 쉽지 않았습니다. 새 검색창은 윈도우 오른쪽의 새 모듈 선택기와 같이 동작합니다. <ulink url=\"/images/screenshots/2-large.jpg\">큰 스크린샷</ulink>"
 
 #: index.docbook:14
-#, no-c-format
-msgid "www.bibletime.info in your language"
-msgstr ""
+#, fuzzy, no-c-format
+msgid "Help translate BibleTime into your language"
+msgstr "당신의 언어로 된 www.bibletime.info"
 
 #: index.docbook:15
 #, no-c-format
-msgid "As you may have noticed BibleTime's webpage is available in different languages. We want to support users by offering them our webpages in their language. If you are interested to help us please read this page."
+msgid "This is a part of software development where the help of many individals is needed. It is our desire to offer BibleTime to users in as many languages as possible. The following areas are open for your contributions:"
 msgstr ""
 
-#: index.docbook:19
+#: index.docbook:15 index.docbook:42
 #, no-c-format
-msgid "Translation in a new language"
+msgid "Translate the www.bibletime.info website."
 msgstr ""
 
-#: index.docbook:20
+#: index.docbook:15 index.docbook:52
 #, no-c-format
-msgid "If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <ulink url=\"/en/pot/full.pot\">Webpage translation template</ulink>. We recommend to use the program <ulink url=\"http://i18n.kde.org/tools/kbabel/\">KBabel</ulink> to translate the file. If you've finished translating it, please send it to <email>info@bibletime.info</email>."
+msgid "Translate the program's User Interface."
 msgstr ""
 
-#: index.docbook:26
+#: index.docbook:15 index.docbook:63
 #, no-c-format
-msgid "Existing translations"
+msgid "Translate the program's handbook."
 msgstr ""
 
 #: index.docbook:27
 #, no-c-format
-msgid "The following charts show the current translations and how much translations work they still need. If you speak one of those languages and want to update a translation just click on the download link and start working on the update. Don't hesitate to ask us <email>info@bibletime.info</email> if you have questions about the translation."
+msgid "On this page you can find statistics about the completeness of existing translations for each of these areas, as well as links to translation templates that you can use to submit new translations which do not yet exist. If a translation into your language does not yet exist, just download the templates, translate them and send them to <email>info@bibletime.info</email>. If you are not satisfied with the status of your language's translation, you can directly download the corresponding file, update the translation and send it in. In both cases we'll be sure to integrate your work as soon as possible."
 msgstr ""
+
+#: index.docbook:35
+#, no-c-format
+msgid "For the translation process we recommend that you use the excellent and mature program <ulink url=\"http://i18n.kde.org/tools/kbabel/\">KBabel</ulink>. It has many advanced features and is a great aid."
+msgstr ""
+
+#: index.docbook:43
+#, no-c-format
+msgid "If a translation of the website to your language does not yet exist, you can download and translate the <ulink url=\"/en/pot/full.pot\">Webpage translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
+msgstr ""
+
+#: index.docbook:53
+#, no-c-format
+msgid "If a translation of the User Interface to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD\"> User Interface translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
+msgstr ""
+
+#: index.docbook:64
+#, no-c-format
+msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
+msgstr ""
+
+#~ msgid "Installation of text modules"
+#~ msgstr "텍스트 모듈의 설치"
+
+#~ msgid "As you may have noticed BibleTime's webpage is available in different languages. We want to support users by offering them our webpages in their language. If you are interested to help us please read this page."
+#~ msgstr "바이블타임의 웹페이지가 다른 언어로 사용가능 한 것을 보셨을 것입니다. 저희 웹사이트가 당신의 언어로도 제공되기를 바랍니다. 저희를 도와주실 의향이 있으시면 이 페이지를 읽어주십시오."
+
+#~ msgid "Translation in a new language"
+#~ msgstr "새 언어로의 번역"
+
+#~ msgid "If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <ulink url=\"/en/pot/full.pot\">Webpage translation template</ulink>. We recommend to use the program <ulink url=\"http://i18n.kde.org/tools/kbabel/\">KBabel</ulink> to translate the file. If you've finished translating it, please send it to <email>info@bibletime.info</email>."
+#~ msgstr "당신의 모국어로의 번역이 아직 존재하지 않는다면, 당신의 언어로 번역을 하는 것은 아주 쉽습니다. 텍스트 파일을 다운로드 하셔서, 번역 작업을 하십시오. <ulink url=\"/en/pot/full.pot\">Webpage translation template</ulink>에서 파일을 다운로드 하실 수 있습니다. <ulink url=\"http://i18n.kde.org/tools/kbabel/\">KBabel</ulink> 프로그램을 사용해서 번역작업을 하실 것을 권유합니다. 번역작업이 마쳐지면, <email>info@bibletime.info</email>로 보내주십시오."
+
+#~ msgid "Existing translations"
+#~ msgstr "기존의 번역"
+
+#~ msgid "The following charts show the current translations and how much translations work they still need. If you speak one of those languages and want to update a translation just click on the download link and start working on the update. Don't hesitate to ask us <email>info@bibletime.info</email> if you have questions about the translation."
+#~ msgstr "다음의 차트는 현재 번역 상황을 보여주고 있으며 번역될 부분이 얼마나 남았는지를 보여줍니다. 당신이 다음의 언어중 한가지를 말할 수 있고, 번역 작업을 하기를 원한다면 다운로드 링크를 클릭하고, 업데이트 작업을 시작하십시오. 번역에 관한 질문이 있다면, <email>info@bibletime.info</email>로 연락을 주시기 바랍니다."
 
 #~ msgid "Requirements for BibleTime 1.3"
 #~ msgstr "바이블타임 1.3 설치에 필요한 것들"

@@ -23,12 +23,9 @@
 > 모듈은 바이블타임 프로그램에서 읽혀질 수 있는 텍스트입니다. 다양한 종류의 모둘들이 존재합니다: 성경, 주석, 어휘집, daily devotionals, 신앙서적. </para>
 
 <para
-> 다운로드한 모듈들을 어떻게 설치하는지를 보시려면 다음 페이지를 읽어주십시오: </para>
-
-<para
-> <ulink url="/documentation/installation/modules"
->텍스트 모듈의 설치</ulink
-> </para>
+> Please read the following page to see how to install the downloaded modules: <ulink url="/documentation/installation/modules"
+>Installation of text modules</ulink
+>. </para>
 
 
 <orderedlist

@@ -53,7 +53,7 @@
 > <ulink url="http://curl.sourceforge.net/"
 >Curl 
 >= 7.10</ulink
->. This is necessary for the remote installation features of the new Sword Setup Dialog. </listitem
+>. 새 스워드(Sword) 설정 창의 원격 설치 기능을 위해서 필요합니다. </listitem
 > </itemizedlist
 > </para>
 </section>
