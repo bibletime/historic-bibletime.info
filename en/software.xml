@@ -9,7 +9,7 @@
 <head>
 <title>Software</title>
 <summary>Introduction</summary>
-<keywords>Norman Walsh, DSSSL, SGML, XML, DocBook, Website</keywords>
+<keywords>BibleTime, Jesus, God, Bible study, Crosswire, Sword</keywords>
 </head>
 
 <section><title>Welcome to the BibleTime project.</title>
@@ -22,7 +22,7 @@ provided by the <ulink url="http://www.crosswire.org/sword/">Crosswire Bible Soc
 </para>
 </section>
 
-<section><title>News about BibleTime</title>
+<section id="news"><title>News about BibleTime</title>
 	<formalpara><title>2003-12-03: BibleTime 1.4beta1</title>
 		<para>
 		The first testing version of the upcoming BibleTime 1.4 was released today.

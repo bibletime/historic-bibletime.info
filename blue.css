@@ -248,7 +248,7 @@ textarea:focus {
 }
 
 .section img {
-	padding:3px;
+	padding:3px 3px 3px 10px;
 }
 
 .mediaobject {
@@ -393,4 +393,11 @@ table tr.question td {
 	padding:0px;
 	margin:0px;
 	padding-left:2px;
+}
+
+
+
+/* Special formatting for some pages */
+#software_gallery #content img {
+	margin-top:25px;
 }

@@ -23,7 +23,7 @@ msgstr ""
 msgid "Error"
 msgstr ""
 
-#: index.docbook:9 index.docbook:62 index.docbook:13
+#: index.docbook:9 index.docbook:66 index.docbook:13 index.docbook:62
 #, fuzzy, no-c-format
 msgid "BibleTime"
 msgstr "Щодо BibleTime"
@@ -43,98 +43,103 @@ msgstr "Щодо BibleTime"
 msgid "Screenshots"
 msgstr "Скріншоти"
 
-#: index.docbook:23 index.docbook:10
+#: index.docbook:23 index.docbook:9 index.docbook:14
+#, no-c-format
+msgid "Gallery"
+msgstr "Галерея"
+
+#: index.docbook:27 index.docbook:23 index.docbook:10
 #, no-c-format
 msgid "Download"
 msgstr "Завантажити"
 
-#: index.docbook:27 index.docbook:10 index.docbook:15
+#: index.docbook:31 index.docbook:27 index.docbook:10 index.docbook:15
 #, no-c-format
 msgid "In the press"
 msgstr "У пресі"
 
-#: index.docbook:31 index.docbook:10
+#: index.docbook:35 index.docbook:31 index.docbook:10
 #, no-c-format
 msgid "Contact"
 msgstr "Пишіть нам"
 
-#: index.docbook:35 index.docbook:9 index.docbook:19
+#: index.docbook:39 index.docbook:35 index.docbook:9 index.docbook:19
 #, no-c-format
 msgid "Guestbook"
 msgstr "Гостьова книга"
 
-#: index.docbook:39 index.docbook:9
+#: index.docbook:43 index.docbook:39 index.docbook:9
 #, no-c-format
 msgid "Links"
 msgstr "Посилання"
 
-#: index.docbook:43 index.docbook:9
+#: index.docbook:47 index.docbook:43 index.docbook:9
 #, no-c-format
 msgid "Link to us"
 msgstr "Посилання на нас"
 
-#: index.docbook:47 index.docbook:9 index.docbook:14
+#: index.docbook:51 index.docbook:47 index.docbook:9 index.docbook:14
 #, no-c-format
 msgid "License"
 msgstr "Ліцензія"
 
-#: index.docbook:52 index.docbook:9
+#: index.docbook:56 index.docbook:9 index.docbook:52
 #, no-c-format
 msgid "Documentation"
 msgstr "Документація"
 
-#: index.docbook:55 index.docbook:10
+#: index.docbook:59 index.docbook:10 index.docbook:55
 #, no-c-format
 msgid "Requirements"
 msgstr "Вимоги до системи"
 
-#: index.docbook:59 index.docbook:9 index.docbook:36
+#: index.docbook:63 index.docbook:9 index.docbook:59 index.docbook:36
 #, no-c-format
 msgid "Installation"
 msgstr ""
 
-#: index.docbook:66 index.docbook:9
+#: index.docbook:70 index.docbook:9 index.docbook:66
 #, no-c-format
 msgid "Sword"
 msgstr ""
 
-#: index.docbook:70 index.docbook:80 index.docbook:90 index.docbook:9
-#: index.docbook:10
+#: index.docbook:74 index.docbook:84 index.docbook:90 index.docbook:9
+#: index.docbook:70 index.docbook:80 index.docbook:10
 #, no-c-format
 msgid "Modules"
 msgstr "Модулі"
 
-#: index.docbook:75 index.docbook:9
+#: index.docbook:79 index.docbook:9 index.docbook:75
 #, no-c-format
 msgid "<title>FAQ</title>"
 msgstr ""
 
-#: index.docbook:83 index.docbook:10
+#: index.docbook:87 index.docbook:83 index.docbook:10
 #, no-c-format
 msgid "Sword CD"
 msgstr ""
 
-#: index.docbook:88 index.docbook:10
+#: index.docbook:92 index.docbook:10 index.docbook:88
 #, no-c-format
 msgid "Development"
 msgstr "Розробка ПЗ"
 
-#: index.docbook:91 index.docbook:10
+#: index.docbook:95 index.docbook:10 index.docbook:91
 #, no-c-format
 msgid "Help us"
 msgstr ""
 
-#: index.docbook:95 index.docbook:10
+#: index.docbook:99 index.docbook:10 index.docbook:95
 #, no-c-format
 msgid "Join us"
 msgstr ""
 
-#: index.docbook:99 index.docbook:10
+#: index.docbook:103 index.docbook:10 index.docbook:99
 #, no-c-format
 msgid "Mailinglists"
 msgstr ""
 
-#: index.docbook:104 index.docbook:18
+#: index.docbook:108 index.docbook:18 index.docbook:104
 #, no-c-format
 msgid "Biblestudy HowTo"
 msgstr ""
@@ -2000,47 +2005,52 @@ msgstr ""
 #: index.docbook:25 index.docbook:14
 #, fuzzy, no-c-format
 msgid "News about BibleTime"
-msgstr ""
-"#-#-#-#-#  software.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  software_news.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Щодо BibleTime"
+msgstr "Щодо BibleTime"
 
 #: index.docbook:26 index.docbook:15 index.docbook:25 index.docbook:37
+#: index.docbook:43
 #, no-c-format
 msgid "2003-10-19: SuSE 9.0 packages"
 msgstr ""
 
 #: index.docbook:27 index.docbook:16 index.docbook:26 index.docbook:38
+#: index.docbook:44
 #, no-c-format
 msgid "RPM packages are now available for SuSE 9.0. Report any problems to info@bibletime.info. Thank you!"
 msgstr ""
 
 #: index.docbook:32 index.docbook:21 index.docbook:31 index.docbook:43
+#: index.docbook:49
 #, no-c-format
 msgid "2003-10-16: New webpages"
 msgstr ""
 
 #: index.docbook:33 index.docbook:22 index.docbook:32 index.docbook:44
+#: index.docbook:50
 #, no-c-format
 msgid "BibleTime has now new webpages which offer better navigation, better design and faster page download time."
 msgstr ""
 
 #: index.docbook:37 index.docbook:26 index.docbook:36 index.docbook:48
+#: index.docbook:54
 #, no-c-format
 msgid "If you experience any problems with the new pages please let us know!"
 msgstr ""
 
 #: index.docbook:42 index.docbook:31 index.docbook:41 index.docbook:53
+#: index.docbook:59
 #, no-c-format
 msgid "2003-08-23: BibleTime 1.3"
 msgstr ""
 
 #: index.docbook:43 index.docbook:32 index.docbook:42 index.docbook:54
+#: index.docbook:60
 #, no-c-format
 msgid "Version 1.3 of BibleTime is finally available. BibleTime 1.3 contains a lot of new features, usability improvements and bug fixes. Upgrading to version 1.3 is strongly recommended for all our users. You can get the Software here: <ulink url=\"http://www.bibletime.info/software/download/\">Download</ulink>. Binary packages will be released in the next few days."
 msgstr ""
 
 #: index.docbook:48 index.docbook:37 index.docbook:47 index.docbook:59
+#: index.docbook:65
 #, no-c-format
 msgid "Get the bibletime and the bibletime-i18n packages for full functionality. We're very sorry for the long release time, we hope to shorten it with the next releases."
 msgstr ""
@@ -2159,11 +2169,6 @@ msgstr ""
 #, no-c-format
 msgid "Please read the <olink targetdocent=\"documentation_installation_bibletime\">installation instructions</olink>."
 msgstr ""
-
-#: index.docbook:9 index.docbook:14
-#, no-c-format
-msgid "Gallery"
-msgstr "Галерея"
 
 #: index.docbook:14
 #, fuzzy, no-c-format
@@ -2834,6 +2839,171 @@ msgstr ""
 #: index.docbook:27
 #, no-c-format
 msgid "The first testing version of the upcoming BibleTime 1.4 was released today. The new feature in comparision with 1.3 is the new SwordSetup dialog which makes the Sword and module configuration more userfriendly. Using the dialog you can now setup Sword's configuration files, install modules from the internet or from local sources (e.g. a CD) and you can uninstall modules using the dialog. This beta release also contains some important bugfixes."
+msgstr ""
+
+#: index.docbook:27
+#, no-c-format
+msgid "The first testing version of the upcoming BibleTime 1.4 was released today. The new feature in comparision with 1.3 is the new SwordSetup dialog which makes the Sword and module configuration more userfriendly. Using the dialog you can now setup Sword's configuration files, install modules from the internet or from local sources (e.g. a CD) and also uninstall modules from your system. This beta release also contains some important bugfixes."
+msgstr ""
+
+#: index.docbook:36
+#, no-c-format
+msgid "This 1.4beta1 release is only meant for testing, so we do not provide binary packages. If you know how to compile programs from source code we encourage you to try this beta1 release. You need Sword 1.5.6 with enabled curl support to make use of the remote installation features."
+msgstr ""
+
+#: index.docbook:16
+#, no-c-format
+msgid "You can find some nice screenshots of BibleTime here, showing one or two text module(s) each. They demonstrate the powerful Unicode handling mechanisms of <ulink url=\"http://www.trolltech.com\">Trolltech's</ulink> QT 3. Some of the screenshots are really impressive."
+msgstr ""
+
+#: index.docbook:19
+#, no-c-format
+msgid "Most of the screenshots were created using the superb <ulink url=\"http://home.att.net/~jameskass/CODE2000.ZIP\">Code2000</ulink> Unicode font. Click on the preview images to see a large and detailed version of each screenshot."
+msgstr ""
+
+#: index.docbook:23
+#, no-c-format
+msgid "BHS - hebrew rendering"
+msgstr ""
+
+#: index.docbook:23
+#, no-c-format
+msgid "The <emphasis>BHS</emphasis> (short for <emphasis>Biblia Hebraica Stuttgartensia</emphasis>), the best available text of the Hebrew Old Testament."
+msgstr ""
+
+#: index.docbook:23
+#, no-c-format
+msgid "As you can see, BibleTime renders the text correctly from right to left. Those of you who can read Hebrew will notice that the Vowel Points and the Cantillation Marks (you can switch both of them on and off) are displayed correctly. <ulink url=\"/images/gallery/bhs_small.jpg\">Large screenshot</ulink>"
+msgstr ""
+
+#: index.docbook:43
+#, no-c-format
+msgid "Peshitta - early syrian translation"
+msgstr ""
+
+#: index.docbook:43
+#, no-c-format
+msgid "The <emphasis>Peshitta</emphasis> contains an early Syrian text, running from right to left."
+msgstr ""
+
+#: index.docbook:43
+#, no-c-format
+msgid "QT renders this text very nice with Code2000, which is one of the very few fonts that support syrian characters. <ulink url=\"/images/gallery/peshitta_small.jpg\">Large screenshot</ulink>"
+msgstr ""
+
+#: index.docbook:59
+#, no-c-format
+msgid "The Arabic Bible"
+msgstr ""
+
+#: index.docbook:59
+#, no-c-format
+msgid "<emphasis>AraSVD</emphasis>: The Arabic Bible. Very nice example for right-to-left rendering of a complex script - Arabic is probably one of the most complicated scripts of the world. This screenshot was taken after linebreaks were switched off, providing a more readable text view. <ulink url=\"/images/gallery/arasvd_small.jpg\"></ulink>"
+msgstr ""
+
+#: index.docbook:76
+#, no-c-format
+msgid "Chinese rendering"
+msgstr ""
+
+#: index.docbook:76
+#, no-c-format
+msgid "<emphasis>ChiGU</emphasis>: Chinese Bible text. Since QT 3 BibleTime can correctly break the paragraphs (as you may know, there are no spaces between words). <ulink url=\"/images/gallery/chigu_small.jpg\"></ulink>"
+msgstr ""
+
+#: index.docbook:92
+#, no-c-format
+msgid "Greek rendering with Strong's numbers and morphological tags"
+msgstr ""
+
+#: index.docbook:92
+#, no-c-format
+msgid "<emphasis>IGNT</emphasis>: The Interlinear Greek New Testament. The green numbers in \"<![CDATA[< >]]>\" brackets are Strongnumbers, whereas the numbers in \"( )\" brackets are Morphologic Tags. Both of them can displayed in a tooltip using a predefined Strong's and Morphology dictionary, as you can see in the example. <ulink url=\"/images/gallery/ignt_small.jpg\"></ulink>"
+msgstr ""
+
+#: index.docbook:110
+#, no-c-format
+msgid "Korean and Thai"
+msgstr ""
+
+#: index.docbook:110
+#, no-c-format
+msgid "<emphasis>Kor</emphasis> and <emphasis>ThaiKJV</emphasis>. Korean and Thai are very good Unicode examples covered by an amount of Unicode scripts already. They are displayed in a parallel view in one window. The first line of Thai text is of a little smaller pointsize. It is a section heading, and those can be turned on and off using the first toolbutton in the display window. <ulink url=\"/images/gallery/korthai_small.jpg\"></ulink>"
+msgstr ""
+
+#: index.docbook:129
+#, no-c-format
+msgid "Bulgarian and footnotes"
+msgstr ""
+
+#: index.docbook:129
+#, no-c-format
+msgid "<emphasis>Bulgarian</emphasis>: The Bible in Bulgarian language. Bulgarian uses the Kyrillic script, which is also used in other languages like Russian. Notice the marked text - it is a \"footnote\". The popup menu shows how those can be turned on and off. <ulink url=\"/images/gallery/bulgarian_small.jpg\"></ulink>"
+msgstr ""
+
+#: index.docbook:146
+#, no-c-format
+msgid "Vietnamese and Romanian"
+msgstr ""
+
+#: index.docbook:146
+#, no-c-format
+msgid "<emphasis>Viet</emphasis> and <emphasis>RomCor</emphasis>. East Europe meets East Asia! Vietnamese and Romanian are not geographically linked, though they look somehow similar in this screenshot. <ulink url=\"/images/gallery/vietromcor_small.jpg\"></ulink>"
+msgstr ""
+
+#: index.docbook:162
+#, no-c-format
+msgid "Esperanto without verse numbers and linebreaks"
+msgstr ""
+
+#: index.docbook:162
+#, no-c-format
+msgid "YES, there is a Bible for those of you who prefer to speak Esperanto. This is not really a Unicode example, since the displayed characters come from the iso 8859-1 charset. But this shows how text looks like after switching off versenumbers and linebreaks. <ulink url=\"/images/gallery/esperanto_small.jpg\"></ulink>"
+msgstr ""
+
+#: index.docbook:23
+#, no-c-format
+msgid "As you can see, BibleTime renders the text correctly from right to left. Those of you who can read Hebrew will notice that the Vowel Points and the Cantillation Marks (you can switch both of them on and off) are displayed correctly. <ulink url=\"/images/gallery/bhs.png\">Large screenshot</ulink>"
+msgstr ""
+
+#: index.docbook:43
+#, no-c-format
+msgid "QT renders this text very nice with Code2000, which is one of the very few fonts that support syrian characters. <ulink url=\"/images/gallery/peshitta.png\">Large screenshot</ulink>"
+msgstr ""
+
+#: index.docbook:59
+#, no-c-format
+msgid "<emphasis>AraSVD</emphasis>: The Arabic Bible. Very nice example for right-to-left rendering of a complex script - Arabic is probably one of the most complicated scripts of the world. This screenshot was taken after linebreaks were switched off, providing a more readable text view. <ulink url=\"/images/gallery/arasvd.png\"></ulink>"
+msgstr ""
+
+#: index.docbook:76
+#, no-c-format
+msgid "<emphasis>ChiGU</emphasis>: Chinese Bible text. Since QT 3 BibleTime can correctly break the paragraphs (as you may know, there are no spaces between words). <ulink url=\"/images/gallery/chigu.png\"></ulink>"
+msgstr ""
+
+#: index.docbook:92
+#, no-c-format
+msgid "<emphasis>IGNT</emphasis>: The Interlinear Greek New Testament. The green numbers in \"<![CDATA[< >]]>\" brackets are Strongnumbers, whereas the numbers in \"( )\" brackets are Morphologic Tags. Both of them can displayed in a tooltip using a predefined Strong's and Morphology dictionary, as you can see in the example. <ulink url=\"/images/gallery/ignt.png\"></ulink>"
+msgstr ""
+
+#: index.docbook:110
+#, no-c-format
+msgid "<emphasis>Kor</emphasis> and <emphasis>ThaiKJV</emphasis>. Korean and Thai are very good Unicode examples covered by an amount of Unicode scripts already. They are displayed in a parallel view in one window. The first line of Thai text is of a little smaller pointsize. It is a section heading, and those can be turned on and off using the first toolbutton in the display window. <ulink url=\"/images/gallery/korthai.png\"></ulink>"
+msgstr ""
+
+#: index.docbook:129
+#, no-c-format
+msgid "<emphasis>Bulgarian</emphasis>: The Bible in Bulgarian language. Bulgarian uses the Kyrillic script, which is also used in other languages like Russian. Notice the marked text - it is a \"footnote\". The popup menu shows how those can be turned on and off. <ulink url=\"/images/gallery/bulgarian.png\"></ulink>"
+msgstr ""
+
+#: index.docbook:146
+#, no-c-format
+msgid "<emphasis>Viet</emphasis> and <emphasis>RomCor</emphasis>. East Europe meets East Asia! Vietnamese and Romanian are not geographically linked, though they look somehow similar in this screenshot. <ulink url=\"/images/gallery/vietromcor.png\"></ulink>"
+msgstr ""
+
+#: index.docbook:162
+#, no-c-format
+msgid "YES, there is a Bible for those of you who prefer to speak Esperanto. This is not really a Unicode example, since the displayed characters come from the iso 8859-1 charset. But this shows how text looks like after switching off versenumbers and linebreaks. <ulink url=\"/images/gallery/esperanto.png\"></ulink>"
 msgstr ""
 
 #~ msgid "What BibleTime is ..."

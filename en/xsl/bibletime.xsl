@@ -134,6 +134,9 @@
     </xsl:call-template>
   </xsl:variable>
 
+  <xsl:variable name="entry" select="$autolayout//*[@id=$id]"/>
+  <xsl:variable name="htmlfilename" select="concat($entry/@dir,$entry/@filename)"/>
+
   <xsl:variable name="filename">
     <xsl:apply-templates select="." mode="filename"/>
   </xsl:variable>
@@ -147,17 +150,67 @@
 		<xsl:apply-templates select="config" mode="head.mode"/>
 
 		<body>
+      <xsl:attribute name="id">
+				<xsl:value-of select="$id"/>
+      </xsl:attribute>
+
 			<div id="pagetop">
 				<img height="99" class="left" alt="pagetop logo" src="/images/pagetop-left.png"/>
 
 				<div id="flags">
-					<a title="en" href="/en/"><img alt="en" src="/images/flags/en.png"/></a>
+					<a title="en">
+						<xsl:attribute name="href">
+							<xsl:text>/en/</xsl:text>
+							<xsl:value-of select="$htmlfilename"/>
+						</xsl:attribute>
 
-					<a title="de" href="/de/"><img alt="de" src="/images/flags/de.png"/></a>
-					<a title="pt-br" href="/pt-br/"><img alt="pt-br" src="/images/flags/pt-br.png"/></a>
-					<a title="ro" href="/ro/"><img alt="ro" src="/images/flags/ro.png"/></a>
-					<a title="ru" href="/ru/"><img alt="ru" src="/images/flags/ru.png"/></a>
-					<a title="ua" href="/ua/"><img alt="ua" src="/images/flags/ua.png"/></a>
+						<img alt="en" src="/images/flags/en.png"/>
+					</a>
+
+					<a title="de">
+						<xsl:attribute name="href">
+							<xsl:text>/de/</xsl:text>
+							<xsl:value-of select="$htmlfilename"/>
+						</xsl:attribute>
+
+						<img alt="de" src="/images/flags/de.png"/>
+					</a>
+
+					<a title="pt-br">
+						<xsl:attribute name="href">
+							<xsl:text>/pt-br/</xsl:text>
+							<xsl:value-of select="$htmlfilename"/>
+						</xsl:attribute>
+
+						<img alt="pt-br" src="/images/flags/pt-br.png"/>
+					</a>
+
+					<a title="ro">
+						<xsl:attribute name="href">
+							<xsl:text>/ro/</xsl:text>
+							<xsl:value-of select="$htmlfilename"/>
+						</xsl:attribute>
+
+						<img alt="ro" src="/images/flags/ro.png"/>
+					</a>
+
+					<a title="ru">
+						<xsl:attribute name="href">
+							<xsl:text>/ru/</xsl:text>
+							<xsl:value-of select="$htmlfilename"/>
+						</xsl:attribute>
+
+						<img alt="ru" src="/images/flags/ru.png"/>
+					</a>
+
+					<a title="ua">
+						<xsl:attribute name="href">
+							<xsl:text>/ua/</xsl:text>
+							<xsl:value-of select="$htmlfilename"/>
+						</xsl:attribute>
+
+						<img alt="ua" src="/images/flags/ua.png"/>
+					</a>
 
 					<a href="/translate/index.html"><img alt="Translate www.bibletime.info!" src="/images/flags/new-lang.png"/></a>
 				</div>

@@ -1,211 +1,19 @@
-# #-#-#-#-#  biblehowto.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  development.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  development_help.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  development_join.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  development_mailinglists.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  documentation.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  documentation_faq.po (documentation_faq)  #-#-#-#-#
-# translation of documentation_faq.po to 
-# Copyright (C) 2003 Free Software Foundation, Inc.
-# Joachim Ansorg, 2003.
-#
-# #-#-#-#-#  documentation_installation.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  documentation_installation_bibletime.po (documentation_installation_bibletime)  #-#-#-#-#
-# translation of documentation_installation_bibletime.po to 
-# Copyright (C) 2003 Free Software Foundation, Inc.
+# translation of full.po to
 # Joachim Ansorg, 2003.
 # Joachim Ansorg, 2003.
-# Joachim Ansorg, 2003.
-# Joachim Ansorg, 2003.
-# Joachim Ansorg, 2003.
-#
-# #-#-#-#-#  documentation_installation_modules.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  documentation_installation_sword.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  documentation_requirements.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  error404.po (index)  #-#-#-#-#
-# translation of index.po to Polish
-# Copyright (C) 2003 Free Software Foundation, Inc.
-# Joachim Ansorg <joachim@ansorgs.de>, 2003
-#
-# #-#-#-#-#  how2-basics.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  how2-importance.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  how2-interpretation.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  layout.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  modules.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  modules_swordcd.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  software.po (software)  #-#-#-#-#
-# translation of software.po to 
-# Copyright (C) 2003 Free Software Foundation, Inc.
-# Joachim Ansorg, 2003.
-#
-# #-#-#-#-#  software_about.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  software_contact.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  software_download.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  software_gallery.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  software_guestbook.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  software_license.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  software_links.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  software_linkus.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  software_news.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  software_press.po (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  software_screenshots.po (software_screenshots)  #-#-#-#-#
-# translation of software_screenshots.po to 
-# Copyright (C) 2003 Free Software Foundation, Inc.
-# Joachim Ansorg, 2003.
-#
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: software_screenshots\n"
+"Project-Id-Version: full\n"
 "POT-Creation-Date: 2001-02-09 01:25+0100\n"
-"PO-Revision-Date: 2003-10-20 19:31+0200\n"
+"PO-Revision-Date: 2003-12-07 13:55+0100\n"
 "Last-Translator: Joachim Ansorg\n"
 "Language-Team:  <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: application/x-xml2pot; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  biblehowto.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  development.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  development_help.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  development_join.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  development_mailinglists.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  documentation.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  documentation_faq.po (documentation_faq)  #-#-#-#-#\n"
-"X-Generator: KBabel 1.0.2\n"
-"#-#-#-#-#  documentation_installation.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  documentation_installation_bibletime.po (documentation_installation_bibletime)  #-#-#-#-#\n"
-"X-Generator: KBabel 1.0.2\n"
-"#-#-#-#-#  documentation_installation_modules.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  documentation_installation_sword.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  documentation_requirements.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  error404.po (index)  #-#-#-#-#\n"
-"X-Generator: KBabel 1.1\n"
-"#-#-#-#-#  how2-basics.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  how2-importance.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  how2-interpretation.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  layout.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  modules.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  modules_swordcd.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  software.po (software)  #-#-#-#-#\n"
-"X-Generator: KBabel 1.0.2\n"
-"#-#-#-#-#  software_about.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  software_contact.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  software_download.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  software_gallery.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  software_guestbook.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  software_license.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  software_links.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  software_linkus.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  software_news.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  software_press.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  software_screenshots.po (software_screenshots)  #-#-#-#-#\n"
 "X-Generator: KBabel 1.0.2\n"
 
-#: index.docbook:4 index.docbook:16 index.docbook:15
+#: index.docbook:4 index.docbook:15
 #, no-c-format
 msgid "The BibleTime developers - www.bibletime.info"
 msgstr "Die BibleTime Entwickler - www.bibletime.info"
@@ -213,9 +21,9 @@ msgstr "Die BibleTime Entwickler - www.bibletime.info"
 #: index.docbook:5 index.docbook:9
 #, no-c-format
 msgid "Error"
-msgstr ""
+msgstr "Fehler"
 
-#: index.docbook:9 index.docbook:62 index.docbook:13
+#: index.docbook:9 index.docbook:66 index.docbook:13
 #, no-c-format
 msgid "BibleTime"
 msgstr "BibleTime"
@@ -235,98 +43,103 @@ msgstr "Über BibleTime"
 msgid "Screenshots"
 msgstr "Bildschirmfotos"
 
-#: index.docbook:23 index.docbook:10
+#: index.docbook:23 index.docbook:9 index.docbook:14
+#, no-c-format
+msgid "Gallery"
+msgstr "Galerie"
+
+#: index.docbook:27 index.docbook:10
 #, no-c-format
 msgid "Download"
 msgstr "Herunterladen"
 
-#: index.docbook:27 index.docbook:10 index.docbook:15
+#: index.docbook:31 index.docbook:10 index.docbook:15
 #, no-c-format
 msgid "In the press"
 msgstr "In der Öffentlichkeit"
 
-#: index.docbook:31 index.docbook:10
+#: index.docbook:35 index.docbook:10
 #, no-c-format
 msgid "Contact"
 msgstr "Kontakt"
 
-#: index.docbook:35 index.docbook:9 index.docbook:19
+#: index.docbook:39 index.docbook:9 index.docbook:19
 #, no-c-format
 msgid "Guestbook"
 msgstr "Gästebuch"
 
-#: index.docbook:39 index.docbook:9
+#: index.docbook:43 index.docbook:9
 #, no-c-format
 msgid "Links"
 msgstr "Verweise"
 
-#: index.docbook:43 index.docbook:9
+#: index.docbook:47 index.docbook:9
 #, no-c-format
 msgid "Link to us"
 msgstr "Auf uns verweisen"
 
-#: index.docbook:47 index.docbook:9 index.docbook:14
+#: index.docbook:51 index.docbook:9 index.docbook:14
 #, no-c-format
 msgid "License"
 msgstr "Lizenz"
 
-#: index.docbook:52 index.docbook:9
+#: index.docbook:56 index.docbook:9
 #, no-c-format
 msgid "Documentation"
 msgstr "Dokumentation"
 
-#: index.docbook:55 index.docbook:10
+#: index.docbook:59 index.docbook:10
 #, no-c-format
 msgid "Requirements"
 msgstr "Voraussetzungen"
 
-#: index.docbook:59 index.docbook:9 index.docbook:36
+#: index.docbook:63 index.docbook:9 index.docbook:36
 #, no-c-format
 msgid "Installation"
 msgstr "Installation"
 
-#: index.docbook:66 index.docbook:9
+#: index.docbook:70 index.docbook:9
 #, no-c-format
 msgid "Sword"
 msgstr "Sword"
 
-#: index.docbook:70 index.docbook:80 index.docbook:90 index.docbook:9
+#: index.docbook:74 index.docbook:84 index.docbook:90 index.docbook:9
 #: index.docbook:10
 #, no-c-format
 msgid "Modules"
 msgstr "Module"
 
-#: index.docbook:75 index.docbook:9
+#: index.docbook:79 index.docbook:9
 #, no-c-format
 msgid "<title>FAQ</title>"
 msgstr "<title>FAQ</title>"
 
-#: index.docbook:83 index.docbook:10
+#: index.docbook:87 index.docbook:10
 #, no-c-format
 msgid "Sword CD"
 msgstr "Sword CD"
 
-#: index.docbook:88 index.docbook:10
+#: index.docbook:92 index.docbook:10
 #, no-c-format
 msgid "Development"
 msgstr "Entwicklung"
 
-#: index.docbook:91 index.docbook:10
+#: index.docbook:95 index.docbook:10
 #, no-c-format
 msgid "Help us"
 msgstr "Helfen Sie uns"
 
-#: index.docbook:95 index.docbook:10
+#: index.docbook:99 index.docbook:10
 #, no-c-format
 msgid "Join us"
 msgstr "Mitmachen"
 
-#: index.docbook:99 index.docbook:10
+#: index.docbook:103 index.docbook:10
 #, no-c-format
 msgid "Mailinglists"
 msgstr "Mailinglisten"
 
-#: index.docbook:104 index.docbook:18
+#: index.docbook:108 index.docbook:18
 #, no-c-format
 msgid "Biblestudy HowTo"
 msgstr "Anleitung zum Bibelstudium"
@@ -934,21 +747,6 @@ msgstr ""
 #, no-c-format
 msgid "If you can't solve the problem please report the URL which failed to <email>info@bibletime.info</email>. Thank you very much!"
 msgstr ""
-
-#: index.docbook:15
-#, no-c-format
-msgid "The document you wanted to get is not available on www.bibletime.info. Please use the navigation tree on the left to see if the document was moved."
-msgstr ""
-
-#: index.docbook:19
-#, no-c-format
-msgid "If you can't solve the problem please contact us at <ulink url=\"mailto:info@bibletime.info\">info@bibletime.info></ulink>. Thank you very much!"
-msgstr ""
-
-#: index.docbook:15
-#, no-c-format
-msgid "How to contact us"
-msgstr "Wie man uns kontaktieren kann"
 
 #: index.docbook:1
 #, no-c-format
@@ -2059,9 +1857,9 @@ msgid "The steward is commended for only one thing, his shrewdness in using what
 msgstr "Der Verwalter wird nur für eine Sache gelobt, seine Schlauheit in der Benutzung von Dingen, die er vorbereiten muss für eine Zeit, in der er sie nicht haben würde. Aber er wird nicht für sein unethisches Verhalten gelobt, nämlich seinen Herren zu hintergehen."
 
 #: index.docbook:14
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Welcome to BibleTime!"
-msgstr "Willkommen zum BibleTime Projekt!"
+msgstr "Willkommen bei BibleTime!"
 
 #: index.docbook:15
 #, no-c-format
@@ -2093,7 +1891,7 @@ msgstr "Existierende Modularten"
 msgid "Bibles"
 msgstr "Bibeln"
 
-#: index.docbook:30 index.docbook:10
+#: index.docbook:30
 #, no-c-format
 msgid "Commentaries"
 msgstr "Kommentare"
@@ -2103,45 +1901,10 @@ msgstr "Kommentare"
 msgid "Lexicons / Dictionaries"
 msgstr "Lexika / Wörterbücher"
 
-#: index.docbook:30 index.docbook:10
+#: index.docbook:30
 #, no-c-format
 msgid "Books"
 msgstr "Bücher"
-
-#: index.docbook:10 index.docbook:15
-#, fuzzy, no-c-format
-msgid "Bible modules"
-msgstr "BibleTime"
-
-#: index.docbook:15
-#, fuzzy, no-c-format
-msgid "Book modules"
-msgstr "Module"
-
-#: index.docbook:15
-#, fuzzy, no-c-format
-msgid "Commentary modules"
-msgstr "Kommentare"
-
-#: index.docbook:10
-#, no-c-format
-msgid "Devotionals"
-msgstr ""
-
-#: index.docbook:15
-#, no-c-format
-msgid "Devotional modules"
-msgstr ""
-
-#: index.docbook:10
-#, fuzzy, no-c-format
-msgid "Lexicons"
-msgstr "Lizenz"
-
-#: index.docbook:15
-#, no-c-format
-msgid "Lexicon modules"
-msgstr ""
 
 #: index.docbook:15
 #, no-c-format
@@ -2208,61 +1971,6 @@ msgstr "Wenn Sie irgendwo in Europa leben, dann schicken die BibleTime Entwickle
 msgid "The Sword CD"
 msgstr "Die Sword CD"
 
-#: index.docbook:15
-#, fuzzy, no-c-format
-msgid "Welcome to the BibleTime project."
-msgstr "Willkommen zum BibleTime Projekt!"
-
-#: index.docbook:16
-#, no-c-format
-msgid "BibleTime is a Bible study application for Linux. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/sword/\">Crosswire Bible Society</ulink>."
-msgstr ""
-
-#: index.docbook:25 index.docbook:14
-#, no-c-format
-msgid "News about BibleTime"
-msgstr "Neues über BibleTime"
-
-#: index.docbook:26 index.docbook:15 index.docbook:25 index.docbook:37
-#, no-c-format
-msgid "2003-10-19: SuSE 9.0 packages"
-msgstr "19.10.2003: SuSE 9.0 Pakete"
-
-#: index.docbook:27 index.docbook:16 index.docbook:26 index.docbook:38
-#, no-c-format
-msgid "RPM packages are now available for SuSE 9.0. Report any problems to info@bibletime.info. Thank you!"
-msgstr "Es sind nun RPM Pakete für SuSE 9.0 vefügbar. Bei Problemen wenden Sie sich bitte an info@bibleitme.info. Vielen Dank!"
-
-#: index.docbook:32 index.docbook:21 index.docbook:31 index.docbook:43
-#, no-c-format
-msgid "2003-10-16: New webpages"
-msgstr "16.10.2003: Neue Internetseiten"
-
-#: index.docbook:33 index.docbook:22 index.docbook:32 index.docbook:44
-#, no-c-format
-msgid "BibleTime has now new webpages which offer better navigation, better design and faster page download time."
-msgstr "BibleTime verfügt nun über neue Webseiten, die eine bessere Seitennavigation, ein konsistenteres Design und schnellere Downloadzeiten bieten.."
-
-#: index.docbook:37 index.docbook:26 index.docbook:36 index.docbook:48
-#, no-c-format
-msgid "If you experience any problems with the new pages please let us know!"
-msgstr "Falls Sie irgendwelche Probleme mit den neuen Seiten feststellen lassen Sie es uns bitte wissen!"
-
-#: index.docbook:42 index.docbook:31 index.docbook:41 index.docbook:53
-#, no-c-format
-msgid "2003-08-23: BibleTime 1.3"
-msgstr "23.08.2003: BibleTime 1.3"
-
-#: index.docbook:43 index.docbook:32 index.docbook:42 index.docbook:54
-#, no-c-format
-msgid "Version 1.3 of BibleTime is finally available. BibleTime 1.3 contains a lot of new features, usability improvements and bug fixes. Upgrading to version 1.3 is strongly recommended for all our users. You can get the Software here: <ulink url=\"http://www.bibletime.info/software/download/\">Download</ulink>. Binary packages will be released in the next few days."
-msgstr "BibleTime in der Version 1.3 ist endlich verfügbar. 1.3 enthält viele neue Funktionen, Verbesserungen in der Benutzbarkeit und Fehlerkorrekturen. Die Installation von 1.3 wird allen Benutzern wärmstens empfohlen. Sie können sie Software hier herunterladen:  <ulink url=\"http://www.bibletime.info/software/download/\">Herunterladen</ulink>."
-
-#: index.docbook:48 index.docbook:37 index.docbook:47 index.docbook:59
-#, no-c-format
-msgid "Get the bibletime and the bibletime-i18n packages for full functionality. We're very sorry for the long release time, we hope to shorten it with the next releases."
-msgstr "Laden Sie die Pakete bibletime und bibletime-i18n herunter, um volle Funktionalität zu erhalten. Die lange Zeit zwischen den neuen Versionen tut uns leid, wir hoffen diese mit den nächsten Versionen zu verkürzen."
-
 #: index.docbook:14
 #, no-c-format
 msgid "The history of BibleTime"
@@ -2312,6 +2020,11 @@ msgstr "Wir sind dankbar, dass Gott uns hilft und dass Er unsere Arbeit mit neue
 #, fuzzy, no-c-format
 msgid "We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application."
 msgstr "Wir werden unsere Arbeit fortführen, aber da BibleTime besser und besser wird, werden wir einen Punkt erreichen, an dem BibleTime nur noch sehr wenige Dinge für eine normale Bibelstudienanwendung fehlen."
+
+#: index.docbook:15
+#, no-c-format
+msgid "How to contact us"
+msgstr "Wie man uns kontaktieren kann"
 
 #: index.docbook:16
 #, no-c-format
@@ -2378,10 +2091,115 @@ msgstr "<ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\"
 msgid "Please read the <olink targetdocent=\"documentation_installation_bibletime\">installation instructions</olink>."
 msgstr "Bitte lesen Sie die Installationsanleitung: <olink targetdocent=\"documentation_installation_bibletime\">hier</olink>"
 
-#: index.docbook:9 index.docbook:14
+#: index.docbook:16
 #, no-c-format
-msgid "Gallery"
-msgstr "Galerie"
+msgid "You can find some nice screenshots of BibleTime here, showing one or two text module(s) each. They demonstrate the powerful Unicode handling mechanisms of <ulink url=\"http://www.trolltech.com\">Trolltech's</ulink> QT 3. Some of the screenshots are really impressive."
+msgstr ""
+
+#: index.docbook:19
+#, no-c-format
+msgid "Most of the screenshots were created using the superb <ulink url=\"http://home.att.net/~jameskass/CODE2000.ZIP\">Code2000</ulink> Unicode font. Click on the preview images to see a large and detailed version of each screenshot."
+msgstr ""
+
+#: index.docbook:23
+#, no-c-format
+msgid "BHS - hebrew rendering"
+msgstr "BHS - Darstellung von Hebräisch"
+
+#: index.docbook:23
+#, no-c-format
+msgid "The <emphasis>BHS</emphasis> (short for <emphasis>Biblia Hebraica Stuttgartensia</emphasis>), the best available text of the Hebrew Old Testament."
+msgstr ""
+
+#: index.docbook:23
+#, no-c-format
+msgid "As you can see, BibleTime renders the text correctly from right to left. Those of you who can read Hebrew will notice that the Vowel Points and the Cantillation Marks (you can switch both of them on and off) are displayed correctly. <ulink url=\"/images/gallery/bhs.png\">Large screenshot</ulink>"
+msgstr ""
+
+#: index.docbook:43
+#, no-c-format
+msgid "Peshitta - early syrian translation"
+msgstr "Peshitta - frühe syrische Übersetzung"
+
+#: index.docbook:43
+#, no-c-format
+msgid "The <emphasis>Peshitta</emphasis> contains an early Syrian text, running from right to left."
+msgstr ""
+
+#: index.docbook:43
+#, no-c-format
+msgid "QT renders this text very nice with Code2000, which is one of the very few fonts that support syrian characters. <ulink url=\"/images/gallery/peshitta.png\">Large screenshot</ulink>"
+msgstr ""
+
+#: index.docbook:59
+#, no-c-format
+msgid "The Arabic Bible"
+msgstr "Die Arabische Bibel"
+
+#: index.docbook:59
+#, no-c-format
+msgid "<emphasis>AraSVD</emphasis>: The Arabic Bible. Very nice example for right-to-left rendering of a complex script - Arabic is probably one of the most complicated scripts of the world. This screenshot was taken after linebreaks were switched off, providing a more readable text view. <ulink url=\"/images/gallery/arasvd.png\">Large screenshot</ulink>"
+msgstr ""
+
+#: index.docbook:76
+#, no-c-format
+msgid "Chinese rendering"
+msgstr "Darstellung von Chinesisch"
+
+#: index.docbook:76
+#, no-c-format
+msgid "<emphasis>ChiGU</emphasis>: Chinese Bible text. Since QT 3 BibleTime can correctly break the paragraphs (as you may know, there are no spaces between words). <ulink url=\"/images/gallery/chigu.png\">Large screenshot</ulink>"
+msgstr ""
+
+#: index.docbook:92
+#, no-c-format
+msgid "Greek rendering with Strong's numbers and morphological tags"
+msgstr "Darstellung von Griechisch mit Strong-Nummern und morphologischen Markern."
+
+#: index.docbook:92
+#, no-c-format
+msgid "<emphasis>IGNT</emphasis>: The Interlinear Greek New Testament. The green numbers in \"<![CDATA[< >]]>\" brackets are Strongnumbers, whereas the numbers in \"( )\" brackets are Morphologic Tags. Both of them can displayed in a tooltip using a predefined Strong's and Morphology dictionary, as you can see in the example. <ulink url=\"/images/gallery/ignt.png\">Large screenshot</ulink>"
+msgstr ""
+
+#: index.docbook:110
+#, no-c-format
+msgid "Korean and Thai"
+msgstr "Koreanisch und Thai"
+
+#: index.docbook:110
+#, no-c-format
+msgid "<emphasis>Kor</emphasis> and <emphasis>ThaiKJV</emphasis>. Korean and Thai are very good Unicode examples covered by an amount of Unicode scripts already. They are displayed in a parallel view in one window. The first line of Thai text is of a little smaller pointsize. It is a section heading, and those can be turned on and off using the first toolbutton in the display window. <ulink url=\"/images/gallery/korthai.png\">Large screenshot</ulink>"
+msgstr ""
+
+#: index.docbook:129
+#, no-c-format
+msgid "Bulgarian and footnotes"
+msgstr "Bulgarisch und Fußnoten"
+
+#: index.docbook:129
+#, no-c-format
+msgid "<emphasis>Bulgarian</emphasis>: The Bible in Bulgarian language. Bulgarian uses the Kyrillic script, which is also used in other languages like Russian. Notice the marked text - it is a \"footnote\". The popup menu shows how those can be turned on and off. <ulink url=\"/images/gallery/bulgarian.png\">Large screenshot</ulink>"
+msgstr ""
+
+#: index.docbook:146
+#, no-c-format
+msgid "Vietnamese and Romanian"
+msgstr "Vietnamesisch und Rumänisch"
+
+#: index.docbook:146
+#, no-c-format
+msgid "<emphasis>Viet</emphasis> and <emphasis>RomCor</emphasis>. East Europe meets East Asia! Vietnamese and Romanian are not geographically linked, though they look somehow similar in this screenshot. <ulink url=\"/images/gallery/vietromcor.png\">Large screenshot</ulink>"
+msgstr ""
+
+#: index.docbook:162
+#, no-c-format
+msgid "Esperanto without verse numbers and linebreaks"
+msgstr "Esperanto ohne Versnummern und Zeilenumbrüchen."
+
+#: index.docbook:162
+#, no-c-format
+msgid "YES, there is a Bible for those of you who prefer to speak Esperanto. This is not really a Unicode example, since the displayed characters come from the iso 8859-1 charset. But this shows how text looks like after switching off versenumbers and linebreaks. <ulink url=\"/images/gallery/esperanto.png\">Large screenshot</ulink>"
+msgstr ""
 
 #: index.docbook:14
 #, no-c-format
@@ -3315,10 +3133,75 @@ msgstr ""
 "]]>\n"
 "</programlisting> Dies sieht folgendermaßen aus: <ulink url=\"http://www.bibletime.info/\">BibleTime - Bibelsoftware für KDE</ulink>"
 
-#: index.docbook:9
+#: index.docbook:15
 #, no-c-format
-msgid "News"
-msgstr "Neues"
+msgid "Welcome to the BibleTime project."
+msgstr "Willkommen zum BibleTime Projekt!"
+
+#: index.docbook:16
+#, no-c-format
+msgid "BibleTime is a Bible study application for Linux. It is based on the <ulink url=\"http://www.kde.org/\">K Desktop Environment</ulink> and uses the <ulink url=\"http://www.crosswire.org/sword/\">Sword</ulink> programming library to work with Bible texts, commentaries, dictionaries and books provided by the <ulink url=\"http://www.crosswire.org/sword/\">Crosswire Bible Society</ulink>."
+msgstr ""
+
+#: index.docbook:25
+#, no-c-format
+msgid "News about BibleTime"
+msgstr "Neues über BibleTime"
+
+#: index.docbook:26
+#, no-c-format
+msgid "2003-12-03: BibleTime 1.4beta1"
+msgstr "03.12.2003: BibleTime 1.4beta1"
+
+#: index.docbook:27
+#, no-c-format
+msgid "The first testing version of the upcoming BibleTime 1.4 was released today. The new feature in comparision with 1.3 is the new SwordSetup dialog which makes the Sword and module configuration more userfriendly. Using the dialog you can now setup Sword's configuration files, install modules from the internet or from local sources (e.g. a CD) and also uninstall modules from your system. This beta release also contains some important bugfixes."
+msgstr ""
+
+#: index.docbook:36
+#, no-c-format
+msgid "This 1.4beta1 release is only meant for testing, so we do not provide binary packages. If you know how to compile programs from source code we encourage you to try this beta1 release. You need Sword 1.5.6 with enabled curl support to make use of the remote installation features."
+msgstr ""
+
+#: index.docbook:43
+#, no-c-format
+msgid "2003-10-19: SuSE 9.0 packages"
+msgstr "19.10.2003: SuSE 9.0 Pakete"
+
+#: index.docbook:44
+#, no-c-format
+msgid "RPM packages are now available for SuSE 9.0. Report any problems to info@bibletime.info. Thank you!"
+msgstr "Es sind nun RPM Pakete für SuSE 9.0 vefügbar. Bei Problemen wenden Sie sich bitte an info@bibleitme.info. Vielen Dank!"
+
+#: index.docbook:49
+#, no-c-format
+msgid "2003-10-16: New webpages"
+msgstr "16.10.2003: Neue Internetseiten"
+
+#: index.docbook:50
+#, no-c-format
+msgid "BibleTime has now new webpages which offer better navigation, better design and faster page download time."
+msgstr "BibleTime verfügt nun über neue Webseiten, die eine bessere Seitennavigation, ein konsistenteres Design und schnellere Downloadzeiten bieten.."
+
+#: index.docbook:54
+#, no-c-format
+msgid "If you experience any problems with the new pages please let us know!"
+msgstr "Falls Sie irgendwelche Probleme mit den neuen Seiten feststellen lassen Sie es uns bitte wissen!"
+
+#: index.docbook:59
+#, no-c-format
+msgid "2003-08-23: BibleTime 1.3"
+msgstr "23.08.2003: BibleTime 1.3"
+
+#: index.docbook:60
+#, no-c-format
+msgid "Version 1.3 of BibleTime is finally available. BibleTime 1.3 contains a lot of new features, usability improvements and bug fixes. Upgrading to version 1.3 is strongly recommended for all our users. You can get the Software here: <ulink url=\"http://www.bibletime.info/software/download/\">Download</ulink>. Binary packages will be released in the next few days."
+msgstr "BibleTime in der Version 1.3 ist endlich verfügbar. 1.3 enthält viele neue Funktionen, Verbesserungen in der Benutzbarkeit und Fehlerkorrekturen. Die Installation von 1.3 wird allen Benutzern wärmstens empfohlen. Sie können sie Software hier herunterladen:  <ulink url=\"http://www.bibletime.info/software/download/\">Herunterladen</ulink>."
+
+#: index.docbook:65
+#, no-c-format
+msgid "Get the bibletime and the bibletime-i18n packages for full functionality. We're very sorry for the long release time, we hope to shorten it with the next releases."
+msgstr "Laden Sie die Pakete bibletime und bibletime-i18n herunter, um volle Funktionalität zu erhalten. Die lange Zeit zwischen den neuen Versionen tut uns leid, wir hoffen diese mit den nächsten Versionen zu verkürzen."
 
 #: index.docbook:16
 #, no-c-format
@@ -3356,9 +3239,9 @@ msgid "The review is online at: <ulink url=\"http://www.pfarrer-pc.de/magazin/2-
 msgstr "Der Test ist im Internet unter <ulink url=\"http://www.pfarrer-pc.de/magazin/2-02/art02-02-bibli.php\">www.pfarrer-pc.de</ulink> verfügbar."
 
 #: index.docbook:14
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Screenshots of BibleTime 1.3"
-msgstr "Verbesserungen in BibleTime 1.3"
+msgstr "Bildschirmfotos von BibleTime 1.3"
 
 #: index.docbook:16
 #, no-c-format
@@ -3367,7 +3250,7 @@ msgstr "Verbesserungen in 1.3"
 
 #: index.docbook:16
 #, no-c-format
-msgid "Here you can see some improvements of BibleTime 1.3. The tree on the left is now set up by module type and language. The greek text in the right display window is now displayed better because BibleTime supports now own font settings for each language. <ulink url=\"/screenshots/1-large.jpg\">Large screenshot</ulink>"
+msgid "Here you can see some improvements of BibleTime 1.3. The tree on the left is now set up by module type and language. The greek text in the right display window is now displayed better because BibleTime supports now own font settings for each language. <ulink url=\"/images//screenshots/1-large.jpg\">Large screenshot</ulink>"
 msgstr ""
 
 #: index.docbook:16
@@ -3382,68 +3265,5 @@ msgstr "Neues Suchdialog"
 
 #: index.docbook:33
 #, no-c-format
-msgid "The search dialog of previous versions wasn't easy to use. This is the new search dialog together with the new module chooser window on the right. <ulink url=\"/screenshots/2-large.jpg\">Large screenshot</ulink>"
-msgstr "Der Suchdialog früherer Versionen war nicht einfach zu benutzen. Dies ist der neue Suchdialog zusammen mit der Modulauswahl auf der rechten Seite."
-
-#: index.docbook:16
-#, no-c-format
-msgid "Here you can see some improvements of BibleTime 1.3. The tree on the left is now set up by module type and language. The greek text in the right display window is now displayed better because BibleTime supports now own font settings for each language. <ulink url=\"/images//screenshots/1-large.jpg\">Large screenshot</ulink>"
-msgstr ""
-
-#: index.docbook:33
-#, fuzzy, no-c-format
 msgid "The search dialog of previous versions wasn't easy to use. This is the new search dialog together with the new module chooser window on the right. <ulink url=\"/images/screenshots/2-large.jpg\">Large screenshot</ulink>"
-msgstr "Der Suchdialog früherer Versionen war nicht einfach zu benutzen. Dies ist der neue Suchdialog zusammen mit der Modulauswahl auf der rechten Seite."
-
-#: index.docbook:15 index.docbook:26
-#, fuzzy, no-c-format
-msgid "2003-12-03: BibleTime 1.4beta1"
-msgstr "23.08.2003: BibleTime 1.3"
-
-#: index.docbook:16
-#, no-c-format
-msgid "The first testing version of the upcoming BibleTime 1.4 was released today. The new feature in comparision with 1.3 is the new SwordSetup dialog which makes the Sword and module configuration more userfriendly. Using the dialog you can now setup Sword's configuration files, install modules from the internet or from local sources (e.g. a CD) and you can uninstall modules using the dialog. This beta release also contains some important bugfixes, e.g. to make the bookmark folder work on systems where it failed in some circumstances."
-msgstr ""
-
-#: index.docbook:20 index.docbook:32
-#, no-c-format
-msgid "This 1.4beta1 release is only meant for testing, so we do not provide binary packages. If you know how to compile programs from source code we encourage you to try this ebta1 release. You need Sword 1.5.6 with enabled curl support to make use of the remote installation features."
-msgstr ""
-
-#: index.docbook:27
-#, no-c-format
-msgid "The first testing version of the upcoming BibleTime 1.4 was released today. The new feature in comparision with 1.3 is the new SwordSetup dialog which makes the Sword and module configuration more userfriendly. Using the dialog you can now setup Sword's configuration files, install modules from the internet or from local sources (e.g. a CD) and you can uninstall modules using the dialog. This beta release also contains some important bugfixes."
-msgstr ""
-
-#~ msgid "Please don't edit the HTML files directly because they're generated from the docbook files. The translation file are also generated from the docbook data."
-#~ msgstr "Bitte bearbeiten Sie die HTML nicht direkt, da diese aus den Docbook Dateien generiert werden. Die Übersetzungsdateien werden ebenfalls aus den Docbook Dateien erzeugt."
-
-#~ msgid "We try to offer a recommended list of modules which are in your language. Please click on the module types links to get the list of recommended modules. If there's not yet such a list for your language you'll get the recommended english modules."
-#~ msgstr "Wir versuchen, ihnen eine Liste empfehlenswerter Module ihrer Sprache anzubieten. Bitte klicken Sie auf die Modultypen um eine Liste der empfohlenen Module zu bekommen. Falls es keine solche Liste für ihre Sprache gibt, bekommen Sie die Liste der englischen Module."
-
-#~ msgid "BibleTime is a Bible study application for Linux."
-#~ msgstr "BibleTime ist eine Anwendung für das Bibelstudium unter  Linux."
-
-#~ msgid "What BibleTime is ..."
-#~ msgstr "Was BibleTime ist ..."
-
-#~ msgid "BibleTime is a free Bible study application for Linux systems. BibleTime uses the desktop environment KDE."
-#~ msgstr "BibleTime ist eine freie Bibelstudien-Anwendung für Linux Systeme. BibleTime benutzt die KDE Umgebung."
-
-#~ msgid "We think that BibleTime is an easy to use but powerful study tool for christians all over the world."
-#~ msgstr "Wir denken, dass BibleTime ein einfach zu benutzendes, jedoch gleichzeitig mächtiges Studienwerkzeug für Christen in aller Welt ist."
-
-#~ msgid "If you have questions, ideas for new functions or comments to something please use the links on this page to send them to the right place!"
-#~ msgstr "Falls Sie Fragen, Ideen für neue Funktionen order Anregungen zu etwas haben, dann benutzen Sie bitte die Verweise auf dieser Seite, um sie an die richtige Stelle zu schicken."
-
-#~ msgid "For example the package \"bibletime-1.2.2-1suse8.1.i586.rpm\" was made for SuSE 8.1 systems running on a i586 or higher."
-#~ msgstr "So wurde z.B. das Paket  \"bibletime-1.2.2-1suse8.1.i586.rpm\" für SuSE 8.1 Systeme erstelt, die einen i586 kompatiblen oder besseren Prozessor verwenden."
-
-#~ msgid "Please download BibleTime at the Sourceforge project pages of BibleTime:"
-#~ msgstr "Bitte laden Sie BibleTime auf den Sourceforge Seiten von BibleTime herunter:"
-
-#~ msgid "Please download the packages \"bibletime\" and \"bibletime-i18n\"! Without the \"bibletime-i18n\" package you would have no handbook, daily tips or installation instructions."
-#~ msgstr "Bitte laden Sie die Pakete \"bibletime\" und \"bibletime-i18n\" herunter! Ohne dem \"bibletime-i18n\" Paket würden Sie kein Handbuch, keine täglichen Tipps und keine Installationsanleitung haben."
-
-#~ msgid "BibleTime 1.3"
-#~ msgstr "BibleTime 1.3"
+msgstr "Der Suchdialog früherer Versionen war nicht einfach zu benutzen. Dies ist der neue Suchdialog mit der neuen Modulauswahl auf der rechten Seite.<ulink url=\"/images/screenshots/2-large.jpg\">Großes Bildschirmfoto</ulink>"

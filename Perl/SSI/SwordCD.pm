@@ -171,7 +171,7 @@ sub show_checkOrder() {
 	my $q = $self->{'cgi_query'};
 	my $ret = "Check";
 
-		my %settings = (
+	my %settings = (
 		NAME => $q->param('name') || "",
 		STREET => $q->param('street') || "",
 		TOWN => $q->param('town') || "",

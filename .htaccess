@@ -34,8 +34,8 @@ RewriteRule	^screenshots/(.*)$		/images/screenshots/$1
 #URLS which changed while working on the pages
 RewriteRule	^contact/links/$		/software_links.html
 RewriteRule	^contact/linkus/$		/software_linkus.html
-RewriteRule	^software_gallery.html$		/software_screenshots.html [R,L]
-RewriteRule	^software/gallery$		/software_screesnhots.html [R,L]
+#RewriteRule	^software_gallery.html$		/software_gallery.html [R,L]
+RewriteRule	^software/gallery$		/software_gallery.html [R,L]
 
 
 # Rewrite rules for better CGI navigation

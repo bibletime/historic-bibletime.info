@@ -2,7 +2,7 @@
 <!DOCTYPE autolayout PUBLIC "-//Norman Walsh//DTD Website Autolayout V2.4.1//EN" "http://docbook.sourceforge.net/release/website/2.4.1/schema/dtd/autolayout.dtd">
 <autolayout>
 <style title="Blue" src="blue.css" type="text/css"/><config param="text-prefix" value="txt_"/><copyright><year>1999</year><year>2000</year><year>2001</year><year>2002</year><year>2003</year><holder role="http://www.bibletime.info/">Die BibleTime Entwickler - www.bibletime.info</holder></copyright><notoc page="error404.xml" id="error404" filename="error404.html">
-<title>Error</title>
+<title>Fehler</title>
 <summary>Error 404: File not found</summary>
 </notoc>
 <toc page="index.xml" id="index" filename="no_index.html">
@@ -18,6 +18,10 @@
 <tocentry page="software_screenshots.xml" id="software_screenshots" filename="software_screenshots.html">
 <title>Bildschirmfotos</title>
 <summary>Screenshots of BibleTime</summary>
+</tocentry>
+<tocentry page="software_gallery.xml" id="software_gallery" filename="software_gallery.html">
+<title>Galerie</title>
+<summary>Gallery of BibleTime</summary>
 </tocentry>
 <tocentry page="software_download.xml" id="software_download" filename="software_download.html">
 <title>Herunterladen</title>

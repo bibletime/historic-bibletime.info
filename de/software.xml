@@ -12,7 +12,7 @@
 <summary
 >Introduction</summary>
 <keywords
->Norman Walsh, DSSSL, SGML, XML, DocBook, Website</keywords>
+>BibleTime, Jesus, God, Bible study, Crosswire, Sword</keywords>
 </head>
 
 <section
@@ -28,17 +28,17 @@
 >. </para>
 </section>
 
-<section
+<section id="news"
 ><title
 >Neues über BibleTime</title>
 	<formalpara
 ><title
->23.08.2003: BibleTime 1.3</title>
+>03.12.2003: BibleTime 1.4beta1</title>
 		<para
-> The first testing version of the upcoming BibleTime 1.4 was released today. The new feature in comparision with 1.3 is the new SwordSetup dialog which makes the Sword and module configuration more userfriendly. Using the dialog you can now setup Sword's configuration files, install modules from the internet or from local sources (e.g. a CD) and you can uninstall modules using the dialog. This beta release also contains some important bugfixes. </para>
+> The first testing version of the upcoming BibleTime 1.4 was released today. The new feature in comparision with 1.3 is the new SwordSetup dialog which makes the Sword and module configuration more userfriendly. Using the dialog you can now setup Sword's configuration files, install modules from the internet or from local sources (e.g. a CD) and also uninstall modules from your system. This beta release also contains some important bugfixes. </para>
 	</formalpara>
 	<para
-> This 1.4beta1 release is only meant for testing, so we do not provide binary packages. If you know how to compile programs from source code we encourage you to try this ebta1 release. You need Sword 1.5.6 with enabled curl support to make use of the remote installation features. </para>
+> This 1.4beta1 release is only meant for testing, so we do not provide binary packages. If you know how to compile programs from source code we encourage you to try this beta1 release. You need Sword 1.5.6 with enabled curl support to make use of the remote installation features. </para>
 
 	
 	<formalpara

@@ -18,6 +18,8 @@ sub update_pot_files() {
 	print "Making POT files\n";
 	mkpath($dest);
 
+	unlink("$dest/full.pot");
+
 	opendir(DIR, $source);
 
 	while (my $file = readdir(DIR)) {
@@ -33,8 +35,8 @@ sub update_pot_files() {
 		print "\tCreating temporary POT $potfile\n";
 	}
 
-	print "Merging POT files.";
-	`msgcat $dest/*.pot > $dest/full.pot.cat`;
+	print "Merging POT files.\n";
+	`msgcat --force-po -o $dest/full.pot.cat $dest/*.pot`;
 	`rm $dest/*.pot`;
 	move("$dest/full.pot.cat","$dest/full.pot");
 
@@ -54,7 +56,11 @@ sub update_po_files() {
 	my $potfile = "$potdir/full.pot";
 	my $pofile  = "$podir/full.po";
 
-	`msgmerge --no-wrap $pofile $potfile -o $pofile.new`;
+	if (!-f $pofile) {
+		`touch $pofile`;
+	}
+
+	`msgmerge --force-po --no-wrap -o $pofile.new $pofile $potfile`;
 
 	if (compare($pofile, "$pofile.new") != 0) { #different
 		move("$pofile.new", $pofile);
