@@ -221,7 +221,7 @@
 						<img alt="ua" src="/images/flags/ua.png"/>
 					</a>
 
-					<a href="/translate.shtml"><img alt="Translate www.bibletime.info!" src="/images/flags/new-lang.png"/></a>
+					<a href="/translation.shtml"><img alt="Translate www.bibletime.info!" src="/images/flags/new-lang.png"/></a>
 				</div>
 			</div>
 

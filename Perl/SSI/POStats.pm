@@ -54,29 +54,33 @@ sub show_stats() {
 
 		my $total = $translated + $untranslated + $fuzzy;
 
-		my $untranslatedPerc = sprintf("%i", $untranslated / $total * 100);
-		if (!$untranslatedPerc) {
-			$untranslatedPerc = 1;
+		my $untranslatedPerc = sprintf("%.1f", $untranslated / $total * 100);
+		my $untranslatedWidth = sprintf("%i", $untranslated / $total * 100);
+		if (!$untranslatedWidth) {
+			$untranslatedWidth = 1;
 		}
 
-		my $fuzzyPerc = sprintf("%i", $fuzzy / $total * 100);
-		if (!$fuzzyPerc) {
-			$fuzzyPerc = 1;
+		my $fuzzyPerc = sprintf("%.1f", $fuzzy / $total * 100);
+		my $fuzzyWidth = sprintf("%i", $fuzzy / $total * 100);
+		if (!$fuzzyWidth) {
+			$fuzzyWidth = 1;
 		}
 
-		my $translatedPerc = 100 - $untranslatedPerc - $fuzzyPerc;
-		if ($translatedPerc < 1) {
-			$translatedPerc = 1;
+		my $translatedPerc = sprintf("%.1f", $translated / $total * 100);
+		my $translatedWidth = 100 - $fuzzyPerc - $untranslatedPerc;
+		if ($translatedWidth < 1) {
+			$translatedWidth = 1;
 		}
 
-	my $url = "http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime-website/$lang/po/full.po?content-type=text%2Fplain";
+		my $url = "http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime-website/$lang/po/full.po?rev=HEAD";
 
-		$ret .= $q->p("$lang [" . $q->a({-href=>"$url"}, "Download as PO file ") . "]") . $q->div({-class=>"language"},
-			$q->div({-style=>"width: $untranslatedPerc%;", -title=>"$untranslatedPerc%"}, ""),
-			$q->div({-style=>"width: $fuzzyPerc%;", -title=>"$fuzzyPerc%"}, ""),
-			$q->div({-style=>"width: $translatedPerc%;", -title=>"$translatedPerc%"}, ""),
+		$ret .= $q->div({-class=>"language"},
+			$q->p("$lang [" . $q->a({-href=>"$url"}, "Download as PO file") . "]:", "$translatedPerc% translated, $untranslatedPerc% untranslated, $fuzzyPerc% need revision"),
+			$q->div({-style=>"width: $translatedWidth%;", -title=>"$translatedPerc% translated"}, ""),
+			$q->div({-style=>"width: $untranslatedWidth%;", -title=>"$untranslatedPerc% untranslated"}, ""),
+			$q->div({-style=>"width: $fuzzyWidth%;", -title => "$fuzzyPerc% fuzzy"}, ""),
 		);
-	}
+	};
 
 	close(IN);
 

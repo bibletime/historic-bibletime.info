@@ -28,7 +28,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.0.2\n"
 
-#: index.docbook:4 index.docbook:15
+#: index.docbook:4 index.docbook:13
 #, no-c-format
 msgid "The BibleTime developers - www.bibletime.info"
 msgstr "Die BibleTime Entwickler - www.bibletime.info"
@@ -38,123 +38,128 @@ msgstr "Die BibleTime Entwickler - www.bibletime.info"
 msgid "Error"
 msgstr "Fehler"
 
-#: index.docbook:9 index.docbook:66 index.docbook:14
+#: index.docbook:9
+#, fuzzy, no-c-format
+msgid "Translation"
+msgstr "Installation"
+
+#: index.docbook:13 index.docbook:70 index.docbook:14 index.docbook:9
 #, no-c-format
 msgid "BibleTime"
 msgstr "BibleTime"
 
-#: index.docbook:12 index.docbook:10
+#: index.docbook:16 index.docbook:10
 #, no-c-format
 msgid "Software"
 msgstr "Software"
 
-#: index.docbook:15 index.docbook:9
+#: index.docbook:19 index.docbook:9
 #, no-c-format
 msgid "About BibleTime"
 msgstr "Über BibleTime"
 
-#: index.docbook:19 index.docbook:9
+#: index.docbook:23 index.docbook:9
 #, no-c-format
 msgid "Screenshots"
 msgstr "Bildschirmfotos"
 
-#: index.docbook:23 index.docbook:9 index.docbook:14
+#: index.docbook:27 index.docbook:9 index.docbook:14
 #, no-c-format
 msgid "Gallery"
 msgstr "Galerie"
 
-#: index.docbook:27 index.docbook:10
+#: index.docbook:31 index.docbook:10
 #, no-c-format
 msgid "Download"
 msgstr "Herunterladen"
 
-#: index.docbook:31 index.docbook:10 index.docbook:15
+#: index.docbook:35 index.docbook:10 index.docbook:15
 #, no-c-format
 msgid "In the press"
 msgstr "In der Öffentlichkeit"
 
-#: index.docbook:35 index.docbook:10
+#: index.docbook:39 index.docbook:10
 #, no-c-format
 msgid "Contact"
 msgstr "Kontakt"
 
-#: index.docbook:39 index.docbook:9 index.docbook:19
+#: index.docbook:43 index.docbook:9 index.docbook:19
 #, no-c-format
 msgid "Guestbook"
 msgstr "Gästebuch"
 
-#: index.docbook:43 index.docbook:9
+#: index.docbook:47 index.docbook:9
 #, no-c-format
 msgid "Links"
 msgstr "Verweise"
 
-#: index.docbook:47 index.docbook:9
+#: index.docbook:51 index.docbook:9
 #, no-c-format
 msgid "Link to us"
 msgstr "Auf uns verweisen"
 
-#: index.docbook:51 index.docbook:9 index.docbook:14
+#: index.docbook:55 index.docbook:9 index.docbook:14
 #, no-c-format
 msgid "License"
 msgstr "Lizenz"
 
-#: index.docbook:56 index.docbook:9
+#: index.docbook:60 index.docbook:9
 #, no-c-format
 msgid "Documentation"
 msgstr "Dokumentation"
 
-#: index.docbook:59 index.docbook:10
+#: index.docbook:63 index.docbook:10
 #, no-c-format
 msgid "Requirements"
 msgstr "Voraussetzungen"
 
-#: index.docbook:63 index.docbook:9 index.docbook:36
+#: index.docbook:67 index.docbook:9 index.docbook:36
 #, no-c-format
 msgid "Installation"
 msgstr "Installation"
 
-#: index.docbook:70 index.docbook:9
+#: index.docbook:74 index.docbook:9
 #, no-c-format
 msgid "Sword"
 msgstr "Sword"
 
-#: index.docbook:74 index.docbook:84 index.docbook:90 index.docbook:9
+#: index.docbook:78 index.docbook:88 index.docbook:90 index.docbook:9
 #: index.docbook:10
 #, no-c-format
 msgid "Modules"
 msgstr "Module"
 
-#: index.docbook:79 index.docbook:9
+#: index.docbook:83 index.docbook:9
 #, no-c-format
 msgid "<title>FAQ</title>"
 msgstr "<title>FAQ</title>"
 
-#: index.docbook:87 index.docbook:10
+#: index.docbook:91 index.docbook:10
 #, no-c-format
 msgid "Sword CD"
 msgstr "Sword CD"
 
-#: index.docbook:92 index.docbook:10
+#: index.docbook:96 index.docbook:10
 #, no-c-format
 msgid "Development"
 msgstr "Entwicklung"
 
-#: index.docbook:95 index.docbook:10
+#: index.docbook:99 index.docbook:10
 #, no-c-format
 msgid "Help us"
 msgstr "Helfen Sie uns"
 
-#: index.docbook:99 index.docbook:10
+#: index.docbook:103 index.docbook:10
 #, no-c-format
 msgid "Join us"
 msgstr "Mitmachen"
 
-#: index.docbook:103 index.docbook:10
+#: index.docbook:107 index.docbook:10
 #, no-c-format
 msgid "Mailinglists"
 msgstr "Mailinglisten"
 
-#: index.docbook:108 index.docbook:18
+#: index.docbook:112 index.docbook:18
 #, no-c-format
 msgid "Biblestudy HowTo"
 msgstr "Anleitung zum Bibelstudium"
@@ -3307,6 +3312,20 @@ msgstr "Neues Suchdialog"
 #, no-c-format
 msgid "The search dialog of previous versions wasn't easy to use. This is the new search dialog together with the new module chooser window on the right. <ulink url=\"/images/screenshots/2-large.jpg\">Large screenshot</ulink>"
 msgstr "Der Suchdialog früherer Versionen war nicht einfach zu benutzen. Dies ist der neue Suchdialog mit der neuen Modulauswahl auf der rechten Seite.<ulink url=\"/images/screenshots/2-large.jpg\">Großes Bildschirmfoto</ulink>"
+
+#: index.docbook:14
+#, no-c-format
+msgid "www.bibletime.info in your language"
+msgstr ""
+
+#: index.docbook:15
+#, no-c-format
+msgid "It's easy to have the BibleTime available webpage in your language. All you need is to translate a text file into your language and send the file to <email>info@bibletime.info</email>. The following charts show the current translations and how much translations work they still need:"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Translation statistics"
+#~ msgstr "Die Übersetzungen fehlen!"
 
 #~ msgid "Requirements for BibleTime 1.3"
 #~ msgstr "Anforderungen seit BibleTime 1.3"
