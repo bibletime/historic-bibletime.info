@@ -1,3 +1,5 @@
+ErrorDocument 404 /error404.html
+
 RewriteEngine On
 
 
@@ -15,6 +17,7 @@ RewriteRule	^assistance.s?html?$	development.html
 RewriteRule	^development.s?html?$	development.html
 RewriteRule	^gallery.s?html?$		software_gallery.html
 RewriteRule	^index.s?html?$			index.html
+RewriteRule	^index.cgi$				software_news.html
 RewriteRule	^installation.s?html?$	documentation_installation.html
 RewriteRule	^license.s?html?$		software_license.html
 RewriteRule	^link-us.s?html?$		software_linkus.html
@@ -32,6 +35,11 @@ RewriteRule	^contact/links/$		software_links.html
 RewriteRule	^contact/linkus/$		software_linkus.html
 
 
+RewriteRule	^software_gallery.html$		software_screenshots.html [R,L]
+RewriteRule	^software/gallery$		software_screesnhots.html [R,L]
+
+
+
 # Rewrite rules for better CGI navigation
 RewriteRule	^(software|documentation|modules|contact|development)/?$		$1.html [R,L]
 RewriteRule	^(software|documentation|modules|contact|development)/([^/]+)/?$	$1_$2.html [R,L]
@@ -46,6 +54,7 @@ RewriteRule	 ^$		index.html	[R,L]
 
 RewriteRule	 ^.+/(.+\.css)$		$1
 RewriteRule	 ^.+/(.+\.pl)$		$1
+RewriteRule	 ^.+/(favicon.ico)$		$1
 
 # If the / URI was called try to redirect into the right language folder
 RewriteCond  %{HTTP_USER_AGENT}  ^.*[;].(de|pt-br|ro|ru|ua)[-]?

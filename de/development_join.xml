@@ -59,7 +59,7 @@
 > <listitem
 > Lesen Sie die bestehende englische Dokumentation. Diese liegt im docs/ Verzeichnis des bibletime CVS Verzeichnisses. </listitem
 > <listitem
-> Die Dokumentation ist in Docbook Dateien  in den unicode/ Unterverzeichnissen jedes Dokumentations-Teiles (Handbuch, Anleitung zum Bibelstudium, Installation, Hilfedialog) gespeichert. </listitem
+> Die Dokumentation wird in sogenannten Docbook Dateien in dem Unterverzeichnis "Unicode" jedes Dokumentations-Teiles gespeichert (Handbuch, Anleitung zum Bibelstudium, Installation, Hilfeseiten). Bitte bearbeiten Sie die HTML nicht direkt, da sie automatisch aus den Docbook Dateien erzeugt werden.Die Datein für die Übersetzungen werden auch aus den Docbook Dateien generiert. </listitem
 > </orderedlist
 > </para>
 </section>

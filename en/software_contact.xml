@@ -13,10 +13,6 @@
 </head>
 
 <section><title>How to contact us</title>
-	<para>
-		If you have questions, ideas for new functions or comments to something please use the links on this page to send them to the right place!
-	</para>
-
 	<formalpara><title><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=100954">Send a Bug report</ulink></title>
 	<para>
  		If you find bugs in BibleTime use this link to report it so it can be fixed in later versions.

@@ -22,13 +22,13 @@
 > Diese Seite erklärt, wie man die Text-Module, die bei Crosswire verfügbar sind, zur BibleTime Software hinzufügt um diese wirklich nützlich zu machen. </para>
 
 <para
-> Die Module sind als ZIP Dateien bei der Crosswire Bibelgesellschaft verfügbar. Schauen Sie in den Modul-Abschnitt der BibleTime Internetseiten um einen Überblick über die verfügbaren Module zu bekommen. </para>
+> Die Module sind als ZIP Dateien bei der Crosswire Bibelgesellschaft verfügbar. Schauen Sie in den Abschnitt "Module" der BibleTime Internetseiten um einen Überblick über die verfügbaren Module zu bekommen. </para>
 
 <para
 > Bevor Sie damit beginnen, Module zu installieren, stellen Sie bitte sicher sicher, dass BibleTime installiert ist! </para>
 
 <para
-> Zuerst müssen Sie das Verzeichnis finden, dass wir im folgenden &raquo;Sword Verzeichnis&laquo; nenn. Das Sword Verzeichnis enthält alle Sword Daten, d.h. es muss zumindest die Unterverzeichnisse  &raquo;modules/&laquo; und &raquo;mods.d/&laquo; enthalten. </para>
+> Zuerst müssen Sie das Verzeichnis finden, dass wir im folgenden "Sword Verzeichnis" nenn. Das Sword Verzeichnis enthält alle Sword Daten, d.h. es muss zumindest die Unterverzeichnisse  "modules/" und "mods.d/" enthalten. </para>
 
 <para
 > Anschließend müssen Sie die heruntergeladenen ZIP Dateien in das Sword Verzeichnis entpacken, um die erwähnten.zwei Unterverzeichnisse mit Daten zu füllen. </para>

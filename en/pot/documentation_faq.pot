@@ -36,7 +36,7 @@ msgstr ""
 
 #: index.docbook:23
 #, no-c-format
-msgid "Please run configure with the parameter --prefix=&lt;your KDE directory&gt;. Then run make and make install as usual. The KDE directories for the widely used Linux distributions are: <orderedlist> <listitem>RedHat: /usr</listitem> <listitem>SuSE: /opt/kde3</listitem> <listitem>Mandrake: /usr</listitem> </orderedlist> Alternatively you can run the command &raquo;kde-config --prefix&laquo; to get your KDE directory. The commands are:"
+msgid "Please run configure with the parameter --prefix=&lt;your KDE directory&gt;. Then run make and make install as usual. The KDE directories for the widely used Linux distributions are: <orderedlist> <listitem>RedHat: /usr</listitem> <listitem>SuSE: /opt/kde3</listitem> <listitem>Mandrake: /usr</listitem> </orderedlist> Alternatively you can run the command \"kde-config --prefix\" to get your KDE directory. The commands are:"
 msgstr ""
 
 #: index.docbook:23

@@ -47,16 +47,16 @@
 > Wie versuchen Pakete für die wichtigsten Linux Distributionen zur Verfügung zu stellen. Diese enthalten RedHat, Mandrake und SuSE. </para>
 
 	<para
-> First download the binary package for your Linux distribution. For example: You want to download BibleTime 1.2.2 for SuSE Linux 8.1. In this case you have to download the package &raquo;bibletime-1.2.2-1suse8.1.i586.rpm&laquo;. Please don't forgot to download the package bibletime-doc to get the documentation and the translations, which are available for BibleTime. </para>
+> Laden Sie zuerst das Binärpaket für ihre Linux-Version herunter. Zum Beispiel: Sie möchten BibleTime 1.2.2. für SuSE 8.1. In diesem Falle müssen Sie das Paket "bibletime-1.2.2-1suse8.1.i586.rpm" herunterladen. Vergessen Sie auch nicht, das Paket bibletime-i18n zu installieren, da dieses die Übersetzungen des Programms und der Dokumentation enthält. </para>
 
 	<para
 > Wie Sie sehen, enthält jeder Paketname die Linuxdistribution und deren Version, für das es erstellt wurde. Versuchen Sie bitte nicht, ein Paket auf einem anderem System zu installieren, als für das es erstellt wurde. </para>
 
 	<para
-> You can download BibleTime here: <olink targetdocent="software_download"
->Download BibleTime</olink
->. Don't forget to install some text modules after you installed BibleTime: <olink targetdocent="documentation_installation_modules"
->How to install the text modules</olink
+> Laden Sie BibleTime hier herunter: <olink targetdocent="software_download"
+>BibleTime herunterladen</olink
+>. Vergessen Sie nicht danach einige Module zu installieren <olink targetdocent="documentation_installation_modules"
+>Wie man Module installiert</olink
 >. </para>
 </section>
 
@@ -65,33 +65,33 @@
 ><title
 >Übersetzung des Quellcodes</title>
 	<para
-> Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources: <orderedlist
+> Die Installation vom Quellcode ist schwieriger als die Installation mit Binärpaketen. Bitte befolgen Sie die nächsten Schritte, wenn Sie vom Quellcode installieren wollen: <orderedlist
 > <listitem
-> Install the required software: <olink targetdocent="documentation_requirements"
->BibleTime's requirements</olink
+> Benötigte Software installieren: <olink targetdocent="documentation_requirements"
+>BibleTimes Anforderungen</olink
 > </listitem
 > <listitem
 > Get the source code package of BibeTime: <olink targetdocent="software_download"
->Download</olink
+>Herunterladen</olink
 > </listitem
 > <listitem
-> Compile and install BibleTime: <programlisting>
+> BibleTime übersetzen und installieren  <programlisting>
 <![CDATA[
 	./configure --prefix=<your KDE directory>
 	make
  	make install
 ]]>
 			</programlisting
-> You can get your KDE directory by running the command <command
+> Sie können ihr KDE Verzeichnis mit dem Befehl <command
 >kde-config --prefix</command
->. If you get problems please read the FAQ here: <olink targetdocent="documentation_faq"
+> herausbekommen. Bei Problemen lesen Sie bitte das FAQ:  <olink targetdocent="documentation_faq"
 >FAQ</olink
->. If there's no solution of your problem, please contact us at <email
+>. Bei unlösbaren Problemen wenden Sie sich bitte an <email
 >info@bibletime.info</email
 > </listitem
 > </orderedlist
-> Don't forget to install some text modules after you installed BibleTime: <olink targetdocent="documentation_installation_modules"
->How to install the text modules</olink
+> Vergessen Sie nicht einige Module nach der Installation herunterzuladen: <olink targetdocent="documentation_installation_modules"
+>Wie man Module installiert</olink
 >. </para>
 </section>
 

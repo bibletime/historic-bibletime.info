@@ -31,7 +31,7 @@ msgstr ""
 
 #: index.docbook:20
 #, no-c-format
-msgid "For example the package &raquo;bibletime-1.2.2-1suse8.1.i586.rpm&laquo; was made for SuSE 8.1 systems running on a i586 or higher."
+msgid "For example the package \"bibletime-1.2.2-1suse8.1.i586.rpm\" was made for SuSE 8.1 systems running on a i586 or higher."
 msgstr ""
 
 #: index.docbook:24
@@ -46,7 +46,7 @@ msgstr ""
 
 #: index.docbook:31
 #, no-c-format
-msgid "Please download the packages &raquo;bibletime&laquo; and &raquo;bibletime-doc&laquo;! Without the &raquo;bibletime-doc&laquo; package you would have no handbook, daily tips or installation instructions."
+msgid "Please download the packages \"bibletime\" and \"bibletime-i18n\"! Without the \"bibletime-i18n\" package you would have no handbook, daily tips or installation instructions."
 msgstr ""
 
 #: index.docbook:36

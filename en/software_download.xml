@@ -18,7 +18,7 @@ There are several RPM packages available of BibleTime. To see whether they were 
 </para>
 
 <para>
-For example the package &raquo;bibletime-1.2.2-1suse8.1.i586.rpm&laquo; was made for SuSE 8.1 systems running on a i586 or higher.
+For example the package "bibletime-1.2.2-1suse8.1.i586.rpm" was made for SuSE 8.1 systems running on a i586 or higher.
 </para>
 
 <para>
@@ -29,7 +29,7 @@ Please download BibleTime at the Sourceforge project pages of BibleTime:
 </para>
 
 <para>
-Please download the packages &raquo;bibletime&laquo; and &raquo;bibletime-doc&laquo;! Without the &raquo;bibletime-doc&laquo; package you would have no handbook, daily tips or installation instructions.
+Please download the packages "bibletime" and "bibletime-i18n"! Without the "bibletime-i18n" package you would have no handbook, daily tips or installation instructions.
 </para>
 </section>
 

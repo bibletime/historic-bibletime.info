@@ -19,24 +19,24 @@ msgstr ""
 msgid "The BibleTime developers - www.bibletime.info"
 msgstr ""
 
-#: index.docbook:5 index.docbook:62
+#: index.docbook:5
+#, no-c-format
+msgid "Error"
+msgstr ""
+
+#: index.docbook:9 index.docbook:62
 #, no-c-format
 msgid "BibleTime"
 msgstr ""
 
-#: index.docbook:8
+#: index.docbook:12
 #, no-c-format
 msgid "Software"
 msgstr ""
 
-#: index.docbook:11
-#, no-c-format
-msgid "About BibleTime"
-msgstr ""
-
 #: index.docbook:15
 #, no-c-format
-msgid "News"
+msgid "About BibleTime"
 msgstr ""
 
 #: index.docbook:19

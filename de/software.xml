@@ -18,21 +18,39 @@
 <section
 ><title
 >Willkommen zum BibleTime Projekt!</title>
-<mediaobject
-> <imageobject
-> <imagedata fileref="/images/startuplogo.png" format="PNG"/> </imageobject
-> <textobject
-> <phrase
->startup logo</phrase
-> </textobject
-> </mediaobject>
 <para
-> BibleTime ist ein Bibelstudienprogramm für Linux. Wir denken, dass BibleTime ein nützliches Werkzeug für jeden Christen ist, der Linux benutzt. </para>
+> BibleTime ist eine Anwendung für das Bibelstudium unter  Linux. </para>
 
-<para
-> Wenn Sie mehr über BibleTime wissen möchten, lesen Sie bitte die "Über BibleTime"  Seiten: <olink targetdocent="software_about"
->Über BibleTime</olink
-> </para>
+<section
+><title
+>Neues über BibleTime</title>
+	<formalpara
+><title
+>19.10.2003: SuSE 9.0 Pakete</title>
+		<para
+> Es sind nun RPM Pakete für SuSE 9.0 vefügbar. Bei Problemen wenden Sie sich bitte an info@bibleitme.info. Vielen Dank! </para>
+	</formalpara>
+
+	<formalpara
+><title
+>16.10.2003: Neue Internetseiten</title>
+		<para
+> BibleTime verfügt nun über neue Webseiten, die eine bessere Seitennavigation, ein konsistenteres Design und schnellere Downloadzeiten bieten.. </para>
+		<para
+> Falls Sie irgendwelche Probleme mit den neuen Seiten feststellen lassen Sie es uns bitte wissen! </para>
+	</formalpara>
+
+	<formalpara
+><title
+>23.08.2003: BibleTime 1.3</title>
+		<para
+> BibleTime in der Version 1.3 ist endlich verfügbar. 1.3 enthält viele neue Funktionen, Verbesserungen in der Benutzbarkeit und Fehlerkorrekturen. Die Installation von 1.3 wird allen Benutzern wärmstens empfohlen. Sie können sie Software hier herunterladen:  <ulink url="http://www.bibletime.info/software/download/"
+>Herunterladen</ulink
+>. </para>
+		<para
+> Laden Sie die Pakete bibletime und bibletime-i18n herunter, um volle Funktionalität zu erhalten. Die lange Zeit zwischen den neuen Versionen tut uns leid, wir hoffen diese mit den nächsten Versionen zu verkürzen. </para>
+	</formalpara>
+</section>
 
 </section>
 

@@ -179,6 +179,7 @@ sub make_makefile() {
 	#`cp -R $dest/../en/schema $dest/../en/xsl $dest/`;
 	#cp $dest/../en/catalog.xml $dest/../en/VERSION $dest/`;
 	#`cp $dest/../en/*.css $dest/`;
+	`ln -s ../en/schema ../en/xsl ../en/catalog.xml ../en/VERSION $dest/`;
 
 	open(OUT, "> $dest/Makefile");
 

@@ -10,7 +10,7 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-xml2pot; charset=utf-8\n"
+"Content-Type: application/x-xml2pot; charset=UTF-8\n"
 "Content-Transfer-Encoding: ENCODING\n"
 
 #: index.docbook:9
@@ -58,12 +58,12 @@ msgid "Smaller banner"
 msgstr "2. Kleiner Banner"
 
 #: index.docbook:43
-#, no-c-format
+#, fuzzy, no-c-format
 msgid ""
 "Put the following HTML code on your pages: <programlisting>\n"
 "<![CDATA[\n"
 " <a href=\"http://www.bibletime.info/\" target=\"_blank\">\n"
-" <img src=\"http://www.bibletime.info/\" width=\"88\" height=\"31\" border=\"0\"/>\n"
+" <img src=\"http://www.bibletime.info/images/banner/small.jpg\" width=\"88\" height=\"31\" border=\"0\"/>\n"
 " </a>\n"
 "]]>\n"
 "</programlisting> This will look like this: <ulink url=\"http://www.bibletime.info/\"> <mediaobject> <imageobject> <imagedata fileref=\"/images/banner/small.jpg\" format=\"JPG\"/> </imageobject> </mediaobject> </ulink>"

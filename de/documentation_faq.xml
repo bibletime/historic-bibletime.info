@@ -29,7 +29,7 @@
 				</question>
 				<answer>
 					<para
-> Bitte starten SIe configure mit dem Parameter --prefix=&lt;Ihr KDE Verzeichnis&gt;. Dann starten Sie make und make install wir sonst auch. Die KDE Verzeichnisse für die meistbenutzten Linux Distributionen Sind: <orderedlist
+> Bitte starten SIe configure mit dem Parameter --prefix=&lt;Ihr KDE Verzeichnis&gt;. Dann starten Sie make und make install wir sonst auch. Die KDE Verzeichnisse der meistbenutzten Linux Distributionen sind: <orderedlist
 > <listitem
 >RedHat: /usr </listitem
 ><listitem
@@ -38,9 +38,9 @@
 ><listitem
 >Mandrake: /usr </listitem
 > </orderedlist
-> Als Alternative können Sie den Befehl &raquo;kde-config --prefix&laquo; benutzen, um das KDE Verzeichnis herauszubekommen.  <orderedlist
+> Als Alternative können Sie den Befehl "kde-config --prefix" benutzen, um das KDE Verzeichnis herauszubekommen.  <orderedlist
 > <listitem
->./configure --prefix=&lt;your KDE directory&gt;</listitem
+>./configure --prefix=&lt;Ihr KDE Verzeichnis&gt;</listitem
 > <listitem
 >make</listitem
 > <listitem
@@ -53,7 +53,7 @@
 			<qandaentry>
 				<question>
 					<para
->The translations are missing!</para>
+>Die Übersetzungen fehlen!</para>
 				</question>
 				<answer>
 					<para
@@ -86,11 +86,11 @@
 
 				<answer>
 					<para
-> First make sure you have the latest version of the module which has the problems! Check <ulink url="www.crosswire.org/sword"
+> Bitte stellen Sie zuerst sicher, dass sie die neuste Version des Modules installiert haben, dass die Probleme verursacht. Bitte überprüfen Sie dafür die Seite <ulink url="www.crosswire.org/sword"
 >www.crosswire.org/sword</ulink
-> for this. </para>
+>. </para>
 					<para
-> You have to install an unicode font like Code2000, Arial Unicode MS or Bitstream Cyberbit to display the special unicode characters. Check the section "Configuring BibleTime->Options Dialog->Fonts" in the handbook of BibleTime how to setup Unicode fonts under Linux. </para>
+> Sie müssen eine Unicode-Schriftart wie z.B. Code2000, Arial Unicode MS oder Bitstream Cyberbit installieren, um die speziellen Unicode-Zeichen anzeigen zu können. Lesen Sie bitte den Abschnitt "BibleTime einrichten->Einstellungen...->Schriftarten" in BibleTime's Handbuch um zu sehen, wie man Unicode-Schriftarten unter Linux einrichten kann. </para>
 				</answer>
 			</qandaentry>
 		</qandadiv>

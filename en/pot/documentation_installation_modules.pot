@@ -31,7 +31,7 @@ msgstr ""
 
 #: index.docbook:20
 #, no-c-format
-msgid "The modules are available as ZIP files from the Crosswire Bible society. Have a look into the &raquo;Modules&laquo; section of the BibleTime web pages to get an overview of the available modules."
+msgid "The modules are available as ZIP files from the Crosswire Bible society. Have a look into the \"Modules\" section of the BibleTime web pages to get an overview of the available modules."
 msgstr ""
 
 #: index.docbook:24
@@ -41,7 +41,7 @@ msgstr ""
 
 #: index.docbook:28
 #, no-c-format
-msgid "First you have to find the directory, which we'll call now &raquo;Sword directory&laquo;, on your system. The Sword directory contains all Sword data, i.e. it contains at least the sub-directories &raquo;modules/&laquo; and &raquo;mods.d/&laquo;."
+msgid "First you have to find the directory, which we'll call now \"Sword directory\", on your system. The Sword directory contains all Sword data, i.e. it contains at least the sub-directories \"modules/\" and \"mods.d/\"."
 msgstr ""
 
 #: index.docbook:32
