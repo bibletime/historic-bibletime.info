@@ -31,13 +31,13 @@
 			<tocentry page="software_license.xml" filename="software_license.html"/>
 		</tocentry>
 
-		<tocentry page="translation.xml" filename="translation.shtml"/>
-
 		<tocentry page="development.xml" filename="development.html">
 			<tocentry page="development_help.xml" filename="development_help.html"/>
 			<tocentry page="development_join.xml" filename="development_join.html"/>
 			<tocentry page="development_mailinglists.xml" filename="development_mailinglists.html"/>
 	  </tocentry>
+
+		<tocentry page="translation.xml" filename="translation.shtml"/>
 
 		<tocentry page="biblehowto.docbook" filename="biblehowto.html"/>
 
