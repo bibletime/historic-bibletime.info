@@ -1,0 +1,85 @@
+%settings = (
+fromMail => 'info@bibletime.de',
+toMail => 'info@bibletime.de',
+subject => '[Sword CD order]',
+sendmail => '|/usr/sbin/sendmail -oi -t',
+address => "\tJoachim Ansorg\n\tProject BibleTime\n\tPoststraße 2\n\tD - 56479 Salzburg /WW\n\tGermany"
+);
+
+%bank = (
+bank => 'Westerwald Bank eG',
+owner => 'BibleTime',
+account => '1061003',
+number => '573 918 00'
+);
+
+%cd_senders = (
+"Germany" => "Joachim Ansorg"
+);
+
+#costs for CDs and postage measured in Euros
+%costs = (
+oneCD => 1.3, #costs for one CD, the price is multiplied with the number of copies
+postage => 1.8 # costs for postage in Europe
+);
+
+%params = (
+name => param('NAME') || '',
+country => param('COUNTRY') || '',
+street => param('STREET') || '',
+town => param('TOWN') || '',
+copies => param('CDs') || '',
+email => param('EMAIL') || '',
+price => param('PRICE') || '',
+comments => param('COMMENTS') || ''
+);
+
+$text = q(<DIV CLASS="header">)
+. i18n("Confirmation of your Sword CD order")
+. q(</DIV>)
+. table({-style=>'margin-left:5mm;padding: 2px; width: 50%;',
+    	cellspacing=>'1', border => '0', cellpadding=>'3'},
+                Tr
+                (
+                [       td([b('Name: '),$params{'name'}]),
+                        td([b('Street: '), $params{'street'}]),
+                        td([b('Town: '),$params{'town'}]),
+                        td([b('Country: '),$params{'country'}]),
+                        td([b('eMail: '),$params{'email'}]),
+                        td([b('Number of CDs: '),$params{'copies'}]),
+			td([b('Your comments: '),$params{'comments'}])
+                ]
+                ),
+        );
+
+$params{'price'} = $params{'copies'} * $costs{'oneCD'} + $costs{'postage'};
+my $newAddress = $settings{'address'};
+$newAddress =~ s/\n/<BR>\n/g;
+
+$text .= p . i18n("We calculate the price in the following way:")
+. div({ -style=>'margin-left:5mm;padding: 2px; width: 50%;' },
+  	b( i18n("Number of copies * expenses for one CD + postage.") )
+  )
+. i18n("In your case this is:") . q(<BR> )
+. div({ -style=>'margin-left:5mm;padding: 2px; width: 50%;'},
+  	b("\t$params{'copies'} * $costs{'oneCD'} EUR + $costs{'postage'} = $params{'price'} EUR<BR>\n")
+  )
+. i18n("so our expenses to send you the order are $params{'price'} EUR.\n You may send more money to support our work, but this is obligatory.")
+. p( i18n("If the entries are correct press the \"Send order\" button. Otherwise press the back button and correct the information.") )
+. p( i18n("You will get a confirmation eMail that we received your order. This eMail does also contain all the information of this page (settings for the bank account, snail mail address, costs ...)") )
+. "\n<BR>"
+. start_form({method => 'POST', action => '/page.pl?type=Modules_swordcdsend&lang=' . param("lang")})
+. hidden({-name => 'EMAIL', -value => $params{'email'}})
+. hidden({-name => 'NAME', -value => $params{'name'}})
+. hidden({-name => 'CDs', -value => $params{'copies'}})
+. hidden({-name => 'COUNTRY', -value => $params{'country'}})
+. hidden({-name => 'STREET', -value => $params{'street'}})
+. hidden({-name => 'TOWN', -value => $params{'town'}})
+. hidden({-name => 'PRICE', -value => $params{'price'}})
+. q(<INPUT TYPE="hidden" NAME="type" VALUE="Modules_swordcdsend">)
+. hidden({-name => 'lang', -value => param{'lang'}})
+. p({-align => 'center'},submit({-name => 'SendButton', -value => 'Send order'}))
+. end_form;
+
+
+return $text;

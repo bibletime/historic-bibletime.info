@@ -1,0 +1,105 @@
+return q(<TABLE CLASS="border" CELLSPACING="0">
+<colgroup>
+<col width="48%">
+<col width="4%">
+<col width="48%">
+</colgroup>
+<TR><td colspan="3" align="center" valign="center"><DIV CLASS="header">)
+. i18n("The BibleTime module gallery")
+. q(</div></TD></TR>
+<TR>
+ <td colspan="3"><P>)
+. i18n("You can find some nice screenshots of BibleTime here, showing one or two text module(s) each. They demonstrate the powerful Unicode handling mechanisms of <A HREF=\"http://www.trolltech.com\">Trolltech's</A> QT 3. Some of the screenshots are really impressive and (at least) compare to expensive commercial bible software products.")
+
+. q(</P><P>)
+
+. i18n("Most of the screenshots were created using the superb Code2000 Unicode font. Click on the preview images to see a large and detailed version of each screenshot.")
+
+. q(</p>
+ </TD>
+</TR>
+<TR>
+ <TD><a href="screenshots/gallery/peshitta.png">
+  <IMG SRC="screenshots/gallery/peshitta_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
+ <TD></TD>
+ <TD><a href="screenshots/gallery/bhs.png">
+  <IMG SRC="screenshots/gallery/bhs_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
+</TR>
+<TR STYLE="padding-bottom:5mm;">
+ <TD valign=top>)
+
+. i18n("<P>The <B>Peshitta</B> contains an early Syrian NT text, running from right to left.</p> <p>QT renders this text very nice with Code2000, which is one of the very few fonts that support syrian characters.")
+
+. q(</P></TD>
+ <TD></TD>
+ <TD valign=top>)
+
+. i18n("<P>The <B>BHS</B> (short for <I>Biblia Hebraica Stuttgartensia</I>), the best available text of the Hebrew Old Testament.</P> <P>As you can see, BibleTime renders the text correctly from right to left. Those of you who can read Hebrew will notice that the Vowel Points and the Cantillation Marks (you can switch both of them on and off) are displayed correctly. This (esp. the Cantillation Marks) is a feature that (as far as I know) no commercial project has.")
+
+. q(</P></TD>
+</TR>
+<TR>
+ <TD><a href="screenshots/gallery/arasvd.png">
+   <IMG SRC="screenshots/gallery/arasvd_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
+ <TD></TD>
+ <TD width="50%"><a href="screenshots/gallery/chigu.png">
+   <IMG SRC="screenshots/gallery/chigu_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
+</TR>
+<TR STYLE="padding-bottom:5mm;">
+ <TD valign=top>)
+. i18n("<p><B>AraSVD</B>: The Arabic Bible.</p> <p>Very nice example for right-to-left rendering of a complex script - Arabic is probably one of the most complicated scripts of the world. This screenshot was taken after linebreaks were switched off, providing a more readable text view.")
+. q(</p></TD>
+ <TD></TD>
+ <TD valign=top><p>)
+.i18n("<p><B>ChiGU</B>: Chinese Bible text.</P><p>Since QT 3 BibleTime can correctly break the paragraphs (as you may know, there are no spaces between words).")
+. q(</p></TD>
+</TR>
+<TR>
+ <TD><a href="screenshots/gallery/ignt.png">
+   <IMG SRC="screenshots/gallery/ignt_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
+ <TD></TD>
+ <TD><a href="screenshots/gallery/korthai.png">
+   <IMG SRC="screenshots/gallery/korthai_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
+</TR>
+<TR STYLE="padding-bottom:5mm;">
+ <TD valign=top><p>)
+. i18n("<B>IGNT</B>: The Interlinear Greek New Testament.</p><p>The green numbers in \"&lt; &gt\"; brackets are Strongnumbers, whereas the numbers in \"( )\" brackets are Morphologic Tags. Both of them can displayed in a tooltip using a predefined Strong's and Morphology dictionary, as you can see in the example.")
+.q(</p></TD>
+<TD></TD>
+ <TD valign=top><p>)
+. i18n("<B>Kor</B> and <B>ThaiKJV</B>.</p><p>Korean and Thai are very good Unicode examples covered by an amount of Unicode scripts already. They are displayed in a parallel view in one window. The first line of Thai text is of a little smaller pointsize. It is a section heading, and those can be turned on and off using the first toolbutton in the display window.</p>")
+. q(</TD>
+</TR>
+<TR>
+ <TD><a href="screenshots/gallery/bulgarian.png">
+   <IMG SRC="screenshots/gallery/bulgarian_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
+ <TD></TD>
+ <TD><a href="screenshots/gallery/vietromcor.png">
+   <IMG SRC="screenshots/gallery/vietromcor_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
+</TR>
+<TR STYLE="padding-bottom:5mm;">
+ <TD valign=top><p>)
+. i18n("<B>Bulgarian</B>: The Bible in Bulgarian language.</p><p>Bulgarian uses the Kyrillic script, which is also used in other languages like Russian. Notice the marked text - it is a \"footnote\". The popup menu shows how those can be turned on and off.</p>")
+. q(</TD>
+<TD></TD>
+<TD valign=top>)
+. i18n("<p><B>Viet</B> and <B>RomCor</B>.</p><p>East Europe meets East Asia! Vietnamese and Romanian are not geographically linked, though they look somehow similar in this screenshot.</P>")
+. q(</TD>
+</TR>
+<TR>
+ <TD><a href="screenshots/gallery/esperanto.png">
+   <IMG SRC="screenshots/gallery/esperanto_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
+ <TD></TD>
+ <TD><a href="screenshots/gallery/gothicab.png">
+   <IMG SRC="screenshots/gallery/gothicab_small.jpg" WIDTH="350" HEIGHT="280" BORDER="0"></A></TD>
+</TR>
+<TR STYLE="padding-bottom:5mm;">
+ <TD valign=top>)
+. i18n("<P><B>Esperanto</B>.</P><p>YES, there is a Bible for those of you who prefer to speak Esperanto. This is not really a Unicode example, since the displayed characters come from the iso 8859-1 charset. But this shows how text looks like after switching off versenumbers and linebreaks.</p>")
+. q(</TD>
+ <TD></TD>
+ <TD valign=top>)
+. i18n("<P><B>GothicA</B> and <B>GothicB</B>: these are 2 (incomplete) Manuscripts in Gothic.</P><P>As you can see, the parallel text view can help you with comparing different manuscripts/texts/translations.</p>")
+. q(</TD>
+</TR>
+</table>);

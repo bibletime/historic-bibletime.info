@@ -1,0 +1,489 @@
+D: 2002-09-01
+S: RedHat 7.3 RPMs available!
+A: Joachim Ansorg
+T: Since some weeks we have now RPM packages for the common Linux distribution <B>RedHat 7.3</B> available! We
+ hope to make the installation of BibleTime more easy with these packages!<BR>
+Download <A href="http://prdownloads.sourceforge.net/bibletime/bibletime-1.2.1-1.rh73.i386.rpm?download">the main package (bibletime)</A> and
+ <A href="http://prdownloads.sourceforge.net/bibletime/bibletime-doc-1.2.1-1.rh73.noarch.rpm?download">the documentation package (bibletime-doc)</A> !
+Please click on the links and <I>don't</I> choose "Save as ...".<BR>If something doesn't work please send us an eMail!<BR>
+Many, many thanks to our kind team members who help us developing BibleTime!
+
+D: 2002-09-01
+S: Sword CD orders
+A: Joachim Ansorg
+T: Delay of the Sword CD orders.
+<P>I'm sorry that the Sword CD orders we got are not yet sent! We're waiting for the release of the new Sword CD which
+will include many bugfixes to the library, the Windows prigram and some of the module texts. If you want to get the older CD (which contains bugs)
+please send an eMail!<BR>
+</p>
+
+D: 2002-07-23
+S: Your help needed
+A: Martin Gruner
+T: Are you a Christian?<br>
+Are you gifted with programming skills (C++, KDE)?<br>
+Do you want to use them for Christ?<br>
+<p>
+If <i>no</i>, you can still help:
+<ul>
+<li>If any of your friends match the description above, and you know they are looking for a good opensource project where they can use their talents for Christ, please <b>let them know</b>. You might also want to consider writing to christian mailinglists or newsgroups.
+<li>Maybe you have a christian website where you could <b>post an announcement</b>? Please include a link to <a href=http://www.bibletime.de>bibletime.de</a>.
+</ul>
+</p><p>
+If <i>yes</i>, please <b>join the development</b> of BibleTime.</p>
+<p>
+We are in <b>urgent</b> need of Developers, and we depend upon your help to find them.<br>
+More information available at <a href=mailto:info@bibletime.de>info@bibletime.de</a>.</p>
+
+D: 2002-06-7
+S: BibleTime 1.2.1
+A: Joachim Ansorg
+T: Today we released BibleTime 1.2.1, a bug fix version of BibleTime 1.2. BibleTime 1.2 is an advanced Bible study program with versions for KDE 3.<BR>Don't forget to install the bibletime-doc package of the 1.2 area.
+
+D: 2002-05-12
+S: New german module on Crosswire!
+A: Joachim Ansorg
+T: Maybe you already noticed it: The german bible module "Elberfelder Bibel 1871" is now available on Crosswire!<BR>
+Get the module <A HREF="http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=GerElb1871">here</A>.
+
+D: 2002-05-12
+S: New screenshots!
+A: Joachim Ansorg
+T: I added two new screenshots of BibleTime 1.2! I hope you see know what is possible with the new version
+of BibleTime!<BR>
+I hope you like the images. <a href="/screenshots.shtml">Click here</A> to watch them.
+
+D: 2002-05-05
+S: 1.2 released
+A: Joachim Ansorg
+T: Today we finally released BibleTime 1.2, the version for the brand new KDE 3. The 1.2 release is identical with 1.1, except for some bugfixes which were necessary to work correctly on KDE 3. The unicode rendering quality was drastically improved by switching to KDE 3 - Hebrew and greek modules are looking much better now!
+<P>We hope that this 1.2 release will work correctly for everybody.</P>
+<P>The source packages and binary packages for SuSE 8.0 are already uploaded. More packages will follow later. Don't forget to download the right bibletime-doc package if you want to have the messages, the tips, the handbook and/or the translations of them.<BR>
+Now download and enjoy the cool new BibleTime 1.2 and it's features! :)</P>
+
+D: 2002-04-29
+S: 1.2beta2 released
+A: Martin Gruner
+T: We just released 1.2beta2, the (hopefully) last release before 1.2 finally comes! My apologies for the premature upload of the 1.2 files (though not officially announced). A critical mem leak forced us to pull the files again.<br>
+Please download and test the packages to help us make sure no (serious) bugs are left. Saving to plaintext does not work at the moment, as well as the "close all" action. If you found a bug, please report using the bug tracker on the left side.
+
+D: 2002-04-14
+S: Translating BibleTime
+A: Martin Gruner
+T: Since Joachim has to do his military service at the moment, I want to encourage everybody who is interested in translating BibleTime into his language to join the development mailing list (message to <a href=mailto:majordomo@crosswire.org>majordomo@crosswire.org</a> with empty subject and the body containing <tt>subscribe bt-devel</tt>). Since version 1.1 BibleTime uses a new system for translating the messages and documentation, which will make the work much easier for translators. All you have to do is edit some .po files, maybe using KBabel. Subsequent translations will only have to translate the changed parts of the orignial docs. Please consider giving your country's BibleTime users the opportunity to have BibleTime in their native language.
+
+D: 2002-04-14
+S: Port to KDE 3 - BibleTime 1.2beta1
+A: Martin Gruner
+T: We ported BibleTime to the KDE 3 architecture and released a 1.2beta1. Please test it. Known issues are Keyboard Accelerators and Saving to Plaintext. There are <i>no new features</i>, but the port improved some things dramatically. E.g., Unicode handling was greatly improved (Hebrew and Arabic render correctly <i>from right to left</i>). The packages are a bit bloated because of the KDE admin/ folder. If anybody knows how to remove this safely (for the releases), please mail to the development list. Please test and report bugs to the list or using the bug tracker.
+
+D: 2002-04-13
+S: Sword CDs
+A: Joachim Ansorg
+T: Shipping of the Sword CDs may take some more days because we're waiting for a new CD which is being prepared by the Crosswire Bible Society. Please be patient if you're waiting for your CD(s). We're sorry for the delay.
+
+D: 2002-04-13
+S: BibleTime 1.1
+A: Joachim Ansorg
+T: We're glad to announce the new BibleTime 1.1 today.
+We released the long awaited version 1.1 of BibleTime, the Bible study application for KDE 2.2. This new version contains many bugfixes, improvements and new features. One of the most important things are:
+	<UL>
+		<LI>Support for general books (GBS), now you can read book like Josephus in BibleTime.
+		<LI>Support for profiles, which define the appearance of the working place
+		<LI>Support for cross references in the text
+		<LI>Improved Unicode support, although not yet perfect.
+		<LI>Speed improvements. For example printing is almost twice as fast.
+		<LI>Improved display windows. Independent display settings for each window (footnotes, strongs ...)
+		<LI>Improved commentary editor, although it's not really usable.
+		<LI>Improved printing styles, they're now XML based.
+		<LI>Better optionsdialog. The dialog has now a better structure to make navigation more easy. More help was also added there.
+		<LI>Better helpfiles and documentation. The bibletime-doc package contains now the improved documentation. Don't forget to install it.
+		<LI>Many other small improvements and bugfixes we don't remember :)
+	</UL>
+Binary packages for Mandrake 8.2 and SuSE 7.3 are available. We hope that more packages will be added later. Download the packages on <A HREF="http://www.bibletime.de/">www.bibletime.de</A>.
+<BR><BR>
+The next planned version is BibleTime 1.2. Version 1.2, which will use KDE 3  supports Unicode in a much better way. For example RightToLeft, line breaks with Chinese and printing Unicode text will work pretty well with the upcoming 1.2. But please note that these improvements were made in KDE and Qt. 1.2 will have the same features as 1.1.
+<BR><BR>
+I want to thank all the members of  the bt-devel mailinglist, especially Fred, Brook and Martin for their great help! Fred wrote the handbook and the other documentation, Brook did the packaging and Martin managed the 1.1 release.
+
+D: 2002-04-01
+S: BibleTime 1.1beta2
+A: Joachim Ansorg
+T: Today we released BibleTime 1.1beta2, out second beta release of the upcoming 1.1 release. Since this release is only for testing and not for productivity, we provide only the source package. Binary packages will be released when the final 1.1 is out.<BR>
+The 1.1beta2 release we released the source code and the documentation package, which includes the messages, the new handook, the installation instructions, the Bible study howto and the helpdialog pages.
+The only translation which is included is German, which is not yet finished. If you like to have the handbook in your language please write to <A HREF="mailto:info@bibletime.de">info@bibletime.de</A>.<BR>
+To compile the source code download and install the new <I>Sword 1.5.3</I>, which you can download <A HREF="http://www.crosswire.org/sword/software/index.jsp">on crosswire.org</A>. Don't forget to
+read the installation instructions on Crosswire and in our documentation package. Please test BibleTime 1.1beta2 heavily, because 1.1 should be stable and bugfree. If you find a bug,
+report it <A HREF="http://www.bibletime.de/cgi-bin/ax.pl?http://sourceforge.net/tracker/?group_id=954&atid=100954">with the bug tracker</A>.<BR>
+Improvements of 1.1beta2 are (see the file Changelog in the source package for more details):
+        <UL>
+                <LI>Improved GBS support, but there are no officially released GBS modules yet
+                <LI>New cool icons by Timothy R. Butler!
+                <LI>Many, many bugfixes
+                <LI>Improved printing quality and speed
+                <LI>Improved printing system, new XML standard styles
+        </UL>
+BibleTime requires an installed KDE 2.2.x system.
+<BR><BR>
+Tomorrow I'll start my military service so I have only little time for BibleTime. I'm glad that Martin takes some of my responsibilities while I'm away. Don't expect BibleTime 1.1 too early.
+
+
+D: 2002-03-13
+S: Link to us!
+A: Joachim Ansorg
+T: We have now graphics which you can put on your website to link to us! Read <A HREF="link-us.shtml">this page</A> for a description how to do this!
+If you have a website we would be glad if you support us by adding a link to our pages!
+
+D: 2002-02-18
+S: Screenshot of BibleTime 1.1
+A: Joachim Ansorg
+T: I uploaded a new screenshot of the General Book Support in BibleTime. It shows the EnumaElish module, which is not yet released.
+As you can see, you can navigate in the book using a traditional keychooser (at the top) and a treeview at the left.
+Book modules like Josephus will follow in the next weeks, so BibleTime 1.1 will be fully usable with books.<br>
+See the screenshot <A HREF="screenshots.shtml">here</A>.
+
+D: 2002-02-18
+S: BibleTime 1.1beta1
+A: Joachim Ansorg
+T: Today we released the first beta release of BibleTime 1.1. It's called BibleTime 1.1beta1.<br>
+Everyone who's experienced enough to compile BibleTime from sources should try out beta1.1. Please report all bugs you find, because
+the final 1.1 release should be absolutely stable! Please note that documentation and translations are not included in this beta release because they're not required for full functionality.<br>
+BibleTime 1.1beta1 is not for your daily work, it's a BETA release. So backup your old KDE config files before you start 1.1beta1, because
+we can't guarantee that all things work. If you notice that 1.1 is not compatible with 1.0 please post a bugreport.
+<br>
+Download the tarball from our SourceForge download page. Binary packages will be provided for the final release.<br>
+I want to thank all our friendly users, developers and our documentation author Fred Saalbach for your patience - you all made it possible
+to continue our work on BibleTime!
+
+D: 2002-01-31
+S: We need your help!
+A: Joachim Ansorg
+T: Martin, the main BibleTime programmer besides me, needs a new computer. His
+old K6-200 is really worn out and not proper for programming projects as
+complex as BibleTime any more.
+Like me, he spent many hours, days and nights working on BibleTime. Therefore
+I think I may ask you for your help. Would you please seriously consider
+making a donation? Even a small amount of money would be helpful. If you are
+interested, please contact me at <A HREF="mailto:info@bibletime.de">info@bibletime.de</A>.^
+<br><br>
+Luke 10:7--for the laborer is worthy of his hire.
+
+D: 2002-01-31
+S: Problems with SuSE 7.3 RPM
+A: Joachim Ansorg
+T: At the moment some unresolved library references occur with the SuSE 7.3 package. Until
+we upload a new fixed SuSE 7.3 RPM please use the option "--nodeps" for the RPM command
+to ignore this bad reference to the library.
+
+
+D: 2002-01-31
+S: 1.0.3 released
+A: Joachim Ansorg
+T: We released now version 1.0.3 of BibleTime. In comparision  with 1.0.2 it contains only fixes to work with FreeBSD. If you use 1.0.2
+there's no need to update. If you use a version which was released before 1.0 it's recommended to upgrade now.<br>
+Get version 1.0.3 in the download section on the left of this page.
+
+D: 2002-01-26
+S: Support for Debian
+A: Joachim Ansorg
+T: Daniel Glassey posted the following on Sword's development mailinglist:<br>
+<P  STYLE="margin-left:5mm;width:80%;">
+<code>
+If there is anyone else out there on the list using Debian you can now
+install your modules with apt etc. Just add
+<B><I>deb http://www.crosswire.org/~glasseyes/debian unstable main</I></B>
+to your sources.list and away you go.
+Note that the debs are built with an autoscript and are mostly untested. Bug reports appreciated.<br>
+</code>
+</P>
+More details are on <A HREF="/cgi-bin/ax.pl?http://www.crosswire.org/~glasseyes/">www.crosswire.org/~glasseyes</A>. I hope you like it.
+
+D: 2002-01-10
+S: New logo!
+A: Joachim Ansorg
+T:Some good news!
+<IMG STYLE="padding:1mm;" SRC="/images/startuplogo.png" WIDTH="350" HEIGHT="150" BORDER="0" ALT="new logo" ALIGN="left">
+Timothy R. Butler made a really nice logo for BibleTime. We use it as new startupscreen.
+
+D: 2001-12-23
+S: Sword CD order script uses now Euro
+A: Joachim Ansorg
+T: I changed the order script for the Sword CD to use Euro as currency. Sending out CDs in Europe should now be much simpler
+because almost all european countries have the same money now. Changing money into german mark or dollars in not required any longer.
+Inhabitants of countries which do not have Euro as currency (e.g. Switzerland) should try to get Euro at their local bank so they can send it to me.<br>
+I had to raise the costs a little bit because my CD burner doesn't like cheap CD-R. The price for one CD is now 3.1 EUR, for two
+CDs 4.4 Euro and so on. I think it's not too much.
+
+D: 2001-11-22
+S: New screenshot of BibleTime 1.1pre
+A: Joachim Ansorg
+T: Today I uploaded a new screenshot of the upcoming BibleTime 1.1 release. 1.1 contains new features and many bugfixes.
+Unicode support was improved in comparision with version 1.0.x. Profile management was added. Each display window
+has now an own button to set the display parameters like Strongs, morphcodes, headings, footnotes ...<br>
+Support for hyperlinks to other bible keys was improved, too. On many other places small things were also made better.<br>
+BibleTime 1.1 will be simpler to use for many users and we hope we're one  step further to a good and easy to
+use Bible study software. For your interest: If KDE 3.0 gets released in the beginning of 2002 Qt 3 will be used, too. Qt3 has better
+Unicode support with better right-to-left support and so on. We hope BibleTime will benefit from these new things in Qt 3.
+
+D: 2001-11-22
+S: www.crosswire.org has new cool webpages!
+A: Joachim Ansorg
+T: www.crosswire.org has now finally really cool webpages! The old pages were not really attractive,
+the new ones are! To have a look at the new design <A HREF="/cgi-bin/ax.pl?http://www.crosswire.org/">click here</A>.
+
+
+D: 2001-11-19
+S: BibleTime 1.0.2
+A: Joachim Ansorg
+T: Today we released BibleTime 1.0.2! Finally we got this release out!<br>
+Version 1.0.2 fixes some problems which occured if KDE 2.2 was used. 1.0.2 does now also compile with automake 2.5.
+But it contains no new features! 1.1 will have new ones. Sorry for the long time for this simple bugfix release.
+Choose the download section on the left to get 1.0.2.
+
+D: 2001-10-18
+S: Binary RPM for SuSE 7.3
+A: Joachim Ansorg
+T: Today we uploaded a binary RPM package for SuSE 7.3 systems. We hope everything works as expected. You can get the package on the download page. The link to this page is the in the BibleTime part of the menu on the left side of this page. If you have problems with the package
+please send an eMail to <A HREF="mailto:info@bibletime.de">info@bibletime.de</A>.
+
+D: 2001-10-18
+S: Status of development
+A: Joachim Ansorg
+T: This is a staus message of current development.<br>
+Development is not progressing very well because the active programmers (Martin and me) have less time due to my school leaving examination and Martins theology study.<br>
+Version 1.0.2 of BibleTime shouldn't take too long because we're still waiting for the spanish translation which will hopeyfully be finished soon.<br>
+Version 1.1 will still take more time. The new features are better unicode support, workspace profiles and other smaller improvements and bugfixes.
+But the promised module installer won't be included in 1.1 because the programmer who volunteered for this task has no time any more. It will be included in a later version. Sorry!<br>
+If there are serious bugs left in 1.0 please submit a bugreport using the link in the menu on the left side. <br><br>Thank you very much for your understanding.
+
+D: 2001-08-18
+S: Binary RPM for SuSE 7.0
+A: Joachim Ansorg
+T: We do now have a SuSE 7.0 RPM. I hope it's working on all SuSE 7.0 systems. Maybe it works also on SuSE 7.1.
+
+D: 2001-08-12
+S: Problems with Autoconf 2.5 solved
+A: Joachim Ansorg
+T: We finally solved the Autoconf 2.5 problems.<br>
+The KDE developers put some fixes into their CVS to make the standard KDE configure system work with Autoconf 2.5. We applied their changes
+and have now a working configure system with all version common versions of autoconf.<br>
+The changes we're uploaded into out CVS, BibleTime 1.1 and 1.0.2 will contain the changes.
+
+D: 2001-08-02
+S: We need an expert in Autoconf
+A: Joachim Ansorg
+T: I'm unable to solve the problem with Autoconf 2.5.<br>As you may know there are problems with out current
+configure script and Autoconf 2.5.x. Because I can't solve this problem I'm looking this way for an expert in autoconf who may be able to help us
+with this issue.<br>
+We'd be really glad if somebody could help us!
+
+D: 2001-07-18
+S: Problems on Slackware 8
+A: Joachim Ansorg
+T: Some users using Slackware 8.0 reported problems compiling the source package of BibleTime 1.0.x.<br>In my opinion this is a problem with Autoconf 2.5 which is not
+compatible with previous versions in all things. We're working on it.
+
+D: 2001-07-18
+S: Mandrake 8 RPMs under RedHat 7.1
+A: Joachim Ansorg
+T: Two users reported that they are sucessfully using the Mandrake 8 RPMs under RedHat 7.1. If you have RedHat try to use the Mandrake RPM!
+
+D: 2001-07-17
+S: Proper Mandrake 8 RPMs now!
+A: Joachim Ansorg
+T: Brook uploaded now working Mansdrake 8 RPMs.<br>
+Get them here: <A HREF="/cgi-bin/ax.pl?http://sourceforge.net/project/showfiles.php?group_id=954">The download page</A>
+
+D: 2001-07-14
+S: Mandrake 8 RPMs not working properly
+A: Joachim Ansorg
+T: Sorry, but the current Mandrake RPMs were made for the upcoming KDE 2.2beta so they are not working with the stable KDE 2.1.x.<br>
+Brook will hopefully upload new ones in some days. Sorry for this problem!
+
+
+D: 2001-07-07
+S: Mandrake 8 RPMs of BibleTime 1.0.1
+A: Joachim Ansorg
+T: Brook completed his Mandrake 8 RPMs!
+
+D: 2001-07-07
+S: Updates to www.bibletime.de
+A: Joachim Ansorg
+T: Today I worked on the webpages and fixed many things, especially the guestbook.<br>Martin pointed out some
+navigation problems and I hope I made it better now.
+
+D: 2001-07-06
+S: BibleTime 1.0.1
+A: Joachim Ansorg
+T: Today we released BibleTime 1.0.1, a bug-fix version of 1.0.<br>
+We hope everything is working now properly.<br><A HREF="/cgi-bin/ax.pl?http://sourceforge.net/project/showfiles.php?group_id=954">The download page</A>
+
+D: 2001-06-28
+S: Problems with BibleTime 1.0
+A: Joachim Ansorg
+T: BibleTime 1.0 has some problems. The documentation is incomplete and BibleTime itself has some small bugs. The
+binary packages have some problems, too (wrong dependencies etc.).
+We will release BibleTime 1.01 really soon. Decide if you want to wait until we release it or if you want to use 1.0.<br>
+We are very sorry for these problems...
+
+D: 2001-06-28
+S: BibleTime 1.0
+A: Joachim Ansorg
+T: Today we finally released BibleTime 1.0!<br>We're really glad we got it out now. We want to excuse the late release date
+but we wanted to make a stable release. If you have not setup a Sword directory it will automatically created
+while installing the binary RPMs.<br>
+We hope you enjoy BibleTime!<br>
+We want to thank God for all the new developers and artists who joined our team! I think development will speed up!
+The next version will be called 1.1 and the major improvement will be an installation manager for the Sword modules.
+<UL><LI><A HREF="/cgi-bin/ax.pl?http://sourceforge.net/project/showfiles.php?group_id=954">The download page</A></LI></UL>
+The team of BibleTime
+
+D: 2001-06-12
+S: Static binary now working again
+A: Joachim Ansorg
+T: I got a user comment about the static binary of BibleTime 0.24 available on
+SourceForge that it's not working. He was right. I'm very sorry for this
+problem! It works now again!
+
+D: 2001-06-01
+S: Unicode support in BibleTime 1.0
+A: Joachim Ansorg
+T: I updated the second screenshot to show the Unicode support of the upcoming BibleTime 1.0. The chinese text was encoded in UTF-8,
+the other modules are encoded in the traditional way.<BR>I hope you like it.
+
+
+D: 2001-06-01
+S: New developers
+A: Joachim Ansorg
+T: In the last time more and more developers show their interest in BibleTime and it's development.<BR>
+I'm very glad that the project is still living and that it will continue in future. The new members of our team have all good ideas and they are all talented! Isn't this great?<BR>
+I want to thank God for the new developers because this gives me great relief. I'm also very thankful, that he blesses our project so much.<BR>
+After 1.0 I will do much less development (coding) but more project management to give the new members some work :)<br>
+I want to have more time for God and to study his word.
+Being a christian is much more important than being a geek, I chose being a christian. But I've to learn really much!
+
+D: 2001-06-01
+S: Changed again our release date
+A: Joachim Ansorg
+T: Sorry, but it was necessary to change our release date again. I'm very busy with school so I'm unable to finish my german translation and to fix the last bugs.
+I don't want to give a new release date, because we're breaking all :)
+
+
+D: 2001-05-24
+S: New scheduled release date
+A: Joachim Ansorg
+T: We had to change our first release date. It's now the 5th of June, code freeze will be on 30th of may. Packages wll be provided 2001-06-05.
+We hope we are ready at this new release date. Thank you for your patience!
+
+D: 2001-05-08
+S: New RPMS of BibleTime development version
+A: Joachim Ansorg
+T: Brook uploaded some new up-to-date RPMs which do now included a statically linked in Sword.
+
+D: 2001-04-23
+S: New RPMS
+A: Joachim Ansorg
+T: Brook Humphrey created some new RPMs for Mandrake of BibleTime 1.0beta1 and of current CVS. Please have a look at the download section.
+
+D: 2001-04-23
+S: Translations for BibleTime 1.0
+A: Joachim Ansorg
+T: Today I send out the file to the translators of BibleTime. If you are a translator and you have not received an eMail from me in your mails please contact me at "<A HREF="mailto:jansorg@gmx.de">Joachim Ansorg &lt;jansorg@gmx.de&gt;</A>"!
+<BR>Thank you!
+
+D: 2001-04-08
+S: Translations for BibleTime 1.0
+A: Joachim Ansorg
+T: On the next monday the translators of BibleTime will get their command to start their translations :)<BR>
+The things which have to be translated are the messages, the handbook and a new Bible Study HowTo made by Bob Harman which will be included in BibleTime 1.0.
+The translator will have one month to finish their work, BibleTime 1.0 is scheduled for the 27th of May.<BR>
+If you like to have BibleTime in your own language please send us an eMail until Sonday evening.
+
+D: 2001-04-08
+S: Screenshots updated
+A: Joachim Ansorg
+T: I updated the screenshots to 1.0beta1. They show some new features and improvements.
+
+D: 2001-03-08
+S: BibleTime 1.0beta1
+A: Joachim Ansorg
+T: Today we released the first beta version of BibleTime 1.0. It's supposed
+to be a version for people interested in testing and reporting bugs.<BR>
+Because it's a beta version we do only offer a source package for download.
+Get the sources <A HREF="/cgi-bin/ax.pl?http://sourceforge.net/project/showfiles.php?group_id=954">here</A>.
+We hope it compiles with all versions of KDE 2, if it doesn't please report it
+using our bug tracking system on SourceForge. There you should also report
+all other bugs you find in 1.0beta1. Please notice that the documentation and translations of this release is not complete,
+it will be completed until 1.0.<BR>
+Please read the requirements page. This beta release requires the CVS version of Sword 1.52, a snapshot is available
+<A HREF="ftp://ftp.crosswire.org/pub/bibletime/sword-snapshot20010408.tar.gz">here</A>
+The final version of BibleTime will work with a public available release of Sword.
+<BR><BR>
+Happy testing!
+
+D: 2001-03-18
+S: Moved CVS to SourceForge
+A: Joachim Ansorg
+T: Today we moved our CVS to SourceForge. The repositories on Crosswire will be deleted soon,
+so do not use it anymore.<BR>
+Read <a href="/development.shtml">this page</A> how to get the sources from Sourceforge.
+
+D: 2001-03-12
+S: New page for developers
+A: Joachim Ansorg
+T: Today I added a new page for developers. The page contains information how to get
+started with development. This is interesting for people who want to participate in our project.<BR>
+You find the page in the section "Documentation" on the left side of this page.
+
+D: 2001-03-10
+S: Sourceforge
+A: Joachim Ansorg
+T: We are switching to Sourceforge at the moment.
+Browse to: <A HREF="http://sourceforge.net/projects/bibletime/">sourceforge.net/projects/bibletime</A>. Please report all bugs you know in the bug tracker and make feature requests there so we know what you would like in BibleTime 1.0! It's really easy!
+
+D: 2001-03-10
+S: New section "FAQ"
+A: Joachim Ansorg
+T: I added a new FAQ page. If you have suggestions or comments please send an eMail to
+<A HREF="mailto:info@bibletime.de">info@bibletime.de</A>.
+
+D: 2001-03-04
+S: New design!
+A: Joachim Ansorg
+T: Today I finished the new web site design I was planning.
+It was necessary because the old looked horrible.<BR>
+The new design has a consistens look and does not use frames. If you have
+suggestions how to improve it please eMail me at
+<A HREF="mailto:info@bibletime.de">info@bibletime.de</A>.<BR>
+I designed the pages to use standards. Konqueror displays them much better than Netscape,
+you'll see the difference. But it's not really bad in Netscape.
+<BR>The installation page has been imprroved using the information from the
+handbook Fred is working on.<BR>I want to thank him for his really usefull work
+for BibleTime. He's doing a great job with the handbook!<BR>
+
+D: 2001-02-18
+S: Sword Logo contest
+A: Joachim Ansorg
+T: Hi!<BR>
+On the Sword development mailinglist the following was posted:
+<HR><FONT size="-2">Dear Everyone,<BR>I was talking to Troy this
+evening and we were talking about needing a really cool Sword Project logo,
+and it is Troy's belief that we could get really cool logo's without having a
+contest with a prize but I am willing to put up some money for a gift certificate
+(or something cool like that!) for the person with the best logo design.<BR>
+So if you want to be involved, design a logo and post it somewhere where online.<BR>
+Post the URL on this mailing list and then we will pick which is the best
+and it will be used as The Sword Project's logo. Here are a couple things to
+remember when designing:<BR>
+-It needs to be a good general purpose image, for letter heads, web sites, etc.
+<BR>-Think of a cool way to do the text "The Sword Project" and a image
+(such as a sword, but not just a basic 'sword', make it all integrated in a
+very nice professional manner.)<BR>-Remember it needs to be able to be used
+and look good on a website, in stationary, icons, etc.<BR>We will choose a
+winner once we have seen quite a few entries and are happy with one.
+The person will then be contacted to see how they want to get their prize
+and the logo will be released for everyone to see! :) <BR><BR>So start working!<BR><BR>
+In Christ,<BR><A HREF="mailto:jhughes@crosswire.org">Jonathan &lt;jhughes@crosswire.org&gt;</A>.</FONT>
+<HR>
+I'm sure that some cool graphics will be created!
+If you created a new logo please send the link to Jonathan.
