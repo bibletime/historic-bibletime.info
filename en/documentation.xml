@@ -1,0 +1,29 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="documentation">
+<config param="desc" value="BibleTime's documentation"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title>Documentation</title>
+<summary>Introduction</summary>
+<keywords>Norman Walsh, DSSSL, SGML, XML, DocBook, Website</keywords>
+</head>
+
+<section><title>BibleTime's documemtation</title>
+
+<para>
+Since you have to know how to install and use BibleTime we provide here some useful documentation pages and links.
+Since many users have the same problems with BibleTime please be sure to check the answers there if you have problem.
+</para>
+
+</section>
+
+</webpage>
+
+<!--
+Local variables:
+mode: docbook
+End:
+-->

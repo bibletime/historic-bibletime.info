@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2001-02-09 01:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-xml2pot; charset=utf-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+
+#: index.docbook:10
+#, no-c-format
+msgid "Modules"
+msgstr ""
+
+#: index.docbook:15
+#, no-c-format
+msgid "Module addons for BibleTime"
+msgstr ""
+
+#: index.docbook:17
+#, no-c-format
+msgid "A module is a text which can be read within the BibleTime application. There are different module types: Bibles, commentaries, lexicons, daily devotionals and books."
+msgstr ""
+
+#: index.docbook:21
+#, no-c-format
+msgid "Please read the following page to see how to install the downloaded modules:"
+msgstr ""
+
+#: index.docbook:25
+#, no-c-format
+msgid "Installation of text modules"
+msgstr ""
+
+#: index.docbook:30
+#, no-c-format
+msgid "Available types of modules"
+msgstr ""
+
+#: index.docbook:30
+#, no-c-format
+msgid "Bibles"
+msgstr ""
+
+#: index.docbook:30
+#, no-c-format
+msgid "Commentaries"
+msgstr ""
+
+#: index.docbook:30
+#, no-c-format
+msgid "Lexicons / Dictionaries"
+msgstr ""
+
+#: index.docbook:30
+#, no-c-format
+msgid "Books"
+msgstr ""
+

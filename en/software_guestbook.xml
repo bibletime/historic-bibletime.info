@@ -1,0 +1,25 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="software_guestbook">
+<config param="desc" value="News"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+	<title>Guestbook</title>
+	<summary>BibleTime's guestbook</summary>
+	<keywords>BibleTime, Guestbook</keywords>
+</head>
+
+<section><title>BibleTime's Guestbook</title>
+	<para>
+	This page shows BibleTime's guestbook. Please post your own comments if you like. Please write your comments in english if possible! HTML is not allowed and will be removed. You may use normal line breaks to divide into paragraphs.
+	</para>
+
+<section><title>Guestbook</title>
+<ssi mode="exec" cgi="/guestbook.pl"/>
+</section>
+
+</section>
+
+</webpage>

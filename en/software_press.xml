@@ -1,0 +1,47 @@
+<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="software_press">
+<config param="desc" value="In the press"/>
+<config param="rcsdate" value="$Date$"/>
+<head>
+<title>In the press</title>
+<summary>BibleTime in the press</summary>
+<keywords>BibleTime, Press</keywords>
+</head>
+
+<section><title>In the press</title>
+<para>
+On <ulink url="http://dot.kde.org/995302757">dot.kde.org</ulink> Andreas Pour draws the following conclusion in his review:
+</para>
+
+<section>
+<blockquote><attribution>Andreas Pour (&copy; 2001 Andreas "Dre" Pour. All rights reserved)</attribution>
+<para>
+Bibletime is already a true godsend for religious KDE users. It is easily useable though it may take a bit of time to learn some quirks. I think the next release will make it even better, particularly by providing a GUI for the difficult Sword installation/configuration. Besides this, my personal wishlist item is to use KHTML for its advanced navigation features.
+</para>
+</blockquote>
+</section>
+
+<section>
+<para>
+The german magazine &raquo;Pfarrer &amp; PC&laquo; reviewed Bible software for Linux which also covers BibleTime among &raquo;Gnomesword&laquo; and &raquo;Volksbibel 2000&laquo;. Their conclusion in german for BibleTime:
+</para>
+
+<blockquote><attribution>Pfarrer &amp; PC 2002 (&copy; Pfarrer &amp; PC 2002)</attribution>
+<para lang="de">
+Trotzdem: Alles dran, alles drin - BibleTime ist ein funktional wie optisch gelungenes Bibel-Programm, dem man unter Linux große Verbreitung wünschen darf. Ein wenig bedauerlich ist das copyrightbedingte Fehlen der »großen« zeitgenössischen Bibelübersetzungen. Dafür beschert BibleTime dem Nutzer Einblicke in selten genutzte Übersetzungen und ein gutes Handling griechischer und hebräischer Originaltexte.
+</para>
+
+</blockquote>
+
+<para>
+The review is online at: <ulink url="http://www.pfarrer-pc.de/magazin/2-02/art02-02-bibli.php">www.pfarrer-pc.de</ulink>
+</para>
+</section>
+
+</section>
+
+</webpage>
