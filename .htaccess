@@ -14,7 +14,6 @@ RewriteRule	^images/banner_small.jpg?$	/images/banner/small.jpg
 #  rewrite rules for old pages of www.bibletime.de
 RewriteRule	^about.s?html?$			/bibletime_about.html
 RewriteRule	^assistance.s?html?$		/development.html
-RewriteRule	^development.s?html?$		/development.html
 RewriteRule	^gallery.s?html?$		/software_gallery.html
 RewriteRule	^index.shtml$			/index.html
 RewriteRule	^index.cgi$			/index.html
