@@ -1,8 +1,11 @@
 <H3>i18n("Requirements of the different BibleTime versions")</H3>
+<P>
 i18n("On this page we list the requirements of the available BibleTime versions.
 The requirements often give the download pages where to get the required stuff.")
+</P>
 
 <H3>i18n("Requirements since BibleTime 1.1")</H3>
+<P>
 <UL>
 	<LI>
 		<A HREF="http://www.kde.org/" TARGET="_blank">KDE 3</A>:  i18n("At least the libraries and the base package.")
@@ -15,8 +18,10 @@ The requirements often give the download pages where to get the required stuff."
 		i18n("Installation instructions for Sword are available here: ") <A HREF="/documentation/installation_sword">i18n("Sword's installation")</A>
 	</LI>
 </UL>
+</P>
 
 <H3>i18n("Requirements since BibleTime 1.2")</H3>
+<P>
 <UL>
 	<LI>
 		<A HREF="http://www.kde.org/" TARGET="_blank">KDE 3</A>:  i18n("At least the libraries and the base package.")
@@ -29,6 +34,7 @@ The requirements often give the download pages where to get the required stuff."
 		i18n("Installation instructions for Sword are available here: ") <A HREF="/documentation/installation_sword">i18n("Sword's installation")</A>
 	</LI>
 </UL>
+</P>
 
 <!--
 <H3>i18n("Requirements since BibleTime 1.3")</H3>

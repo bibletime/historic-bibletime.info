@@ -1,17 +1,33 @@
 <H3>i18n("Installation of BibleTime")</H3>
-i18n("This page explains how BibleTime should be installed.
-Please follow these steps to get a working installation of BibleTime quickly.")
 
-<H3>i18n("The two ways to install BibleTime")</H3>
+<P>
+i18n("This page explains how BibleTime should be installed. Please follow these steps to get a working installation of BibleTime quickly.")
+</P>
+
+<H3>
+i18n("The two ways to install BibleTime")
+</H3>
+
+<P>
 i18n("There are two possibilities to install BibleTime on your system:")
 <OL>
 	<LI>i18n("Install using prebuilt binary packages, like RPM or DEB")</LI>
 	<LI>i18n("Compile BibleTime from sources on your own system")</LI>
 </OL>
-i18n("We recommend the installation using the binary packages. It's the simplest way.")
+</P>
 
-<H3>i18n("Prebuilt binary packages")</H3>
+<P>
+i18n("We recommend the installation using the binary packages. It's the simplest way.")
+</P>
+
+<H3>
+i18n("Prebuilt binary packages")
+</H3>
+
+<P>
 i18n("We try to provide packages for the most important Linux distributions. These include RedHat, Mandrake and SuSE.")
+</P>
+
 <P>
 i18n("First download the binary package for your Linux distribution. For example:")<BR>
 i18n("You want to download BibleTime 1.2.2 for SuSE Linux 8.1. In this case you have to download the package &raquo;bibletime-1.2.2-1suse8.1.i586.rpm&laquo;.")
@@ -30,6 +46,7 @@ i18n("As you can see each package name contains the Linux distribution and versi
 
 <P>
 i18n("You can download BibleTime here:") <A HREF="/software/download/">i18n("Download BibleTime")</A>.
+i18n("Don't forget to install some text modules after you installed BibleTime:") <A HREF="/documentation/installation/modules/">i18n("How to install the text modules")</A>.
 </P>
 
 <H3>i18n("Compilation from source code")</H3>
@@ -58,5 +75,5 @@ i18n("Installation using BibleTime's source code is more difficult than using bi
 		i18n("If there's no solution of your problem, please contact us at") <A HREF="mailto:info@bibletime.info">info @ bibletime.info</A>
 	</LI>
 </OL>
-
+i18n("Don't forget to install some text modules after you installed BibleTime:") <A HREF="/documentation/installation/modules/">i18n("How to install the text modules")</A>.
 </P>

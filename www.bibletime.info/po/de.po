@@ -1,9 +1,9 @@
 # translation of de.po to German
-# Joachim Ansorg <joachim@ansorgs.de>, 2002
+# Joachim Ansorg <joachim@ansorgs.de>, 2002,2003
 msgid ""
 msgstr ""
 "Last-Translator: Joachim Ansorg <joachim@ansorgs.de>\n"
-"PO-Revision-Date: 2002-12-28 14:59+0100\n"
+"PO-Revision-Date: 2003-01-10 23:55+0100\n"
 "Language-Team: German <de@li.org>\n"
 "Content-Type: text/plain; charset=ISO-8859-15\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -134,7 +134,7 @@ msgid "FAQ answer"
 msgstr "FAQ Antwort"
 
 msgid "Requirements"
-msgstr "Voraussetzungen"
+msgstr "Voraussetz- ungen"
 
 msgid "BibleTime's documemtation"
 msgstr "BibleTimes Dokumentation"
@@ -311,7 +311,7 @@ msgid "Mailing lists"
 msgstr "Mailinglisten"
 
 msgid "BibleTime's development"
-msgstr "BibleTime's Entwicklung"
+msgstr "BibleTimes Entwicklung"
 
 msgid "These pages describe how to join in the development of BibleTime and which ways exist to help us! BibleTime's quality and usefulness depends on the help of others to a large degree."
 msgstr "Diese Seiten beschreiben, wie man sich in die Entwicklung von BibleTime einklinken kann und welche Wege bestehen uns zu helfen. BibleTimes Quaität und Nützlichkeit hängt zu einem großen Teil von der Hilfe anderer ab."
@@ -356,7 +356,7 @@ msgid "We're grateful that God supports us and that he blesses our work with new
 msgstr "Wir sind dankbar, dass Gott uns hilft und dass Er unsere Arbeit mit neuen Team-Mitgliedern segnet. Gott ist gut!"
 
 msgid "We will continue our work, but since BibleTime is getting better and better we'll reach a point where BibleTime has only a few things left which are useful for a normal Bible study application."
-msgstr "Wir werden unsere Arbeit fortführen, aber da BibleTime besser und besser wird werden wir einen Punkt erreichen, an dem BibleTime nur noch sehr wenige Dinge für eine normale Bibelstudienanwendung fehlen."
+msgstr "Wir werden unsere Arbeit fortführen, aber da BibleTime besser und besser wird, werden wir einen Punkt erreichen, an dem BibleTime nur noch sehr wenige Dinge für eine normale Bibelstudienanwendung fehlen."
 
 msgid "New web pages"
 msgstr "Neue Web Seiten"
@@ -365,7 +365,7 @@ msgid "Added by"
 msgstr "Hinzugefügt von"
 
 msgid "on"
-msgstr "An"
+msgstr "am"
 
 msgid "We finally have a new web page!  We hope you enjoy it.  <BR>  As you can see, it has a better structure, a better design and better content.<BR>  We added new things like a short devotional and a poll system to ask questions about BibleTime.  But the best thing is:<BR>  International pages! The pages are available in English and German for now. New translations will be added as soon as we find volunteers for this task!"
 msgstr "Wir haben endlich eine neue Internetseite! Wir hoffen, sie gefällt ihnen! <BR> Wie Sie sehen können, hat sie eine bessere Struktur, ein schöneres Design und besseren Inhalt. <BR> Wir haben  einige Dinge wie eine kurze Andacht oder ein Umfragesystem, um Fragen bezüglich BibleTime zu stellen, hinzugefügt. Aber das Beste ist: <BR> Internationale Seiten! Die Seiten sind bis jetzt in Englisch und Deutsch vorhanden. Neue Übersetzungenn kommen dazu, sobald wir die Freiwilligen dazu gefunden haben."
@@ -712,17 +712,14 @@ msgstr "Das Sword Projekt bietet eine CD an, welche die Software für Windows, Li
 msgid "The CD is freely available like all the other things the Crosswire Bible society is offering for you! See below how to download the CD."
 msgstr "Die CD ist, wie all die anderen Dinge der Crosswire Bibelgesellschaft auch, frei verfügbar! Schauen Sie weiter unten, um die CD herunterzuladen."
 
-msgid "If you can't download the CD, for example because you don't have a fast connection, you can order the CD for the expenses."
-msgstr "Falls Sie die CD nicht herunterladen können, zum Beispiel weil Sie keinen schnellen Zugang haben, können Sie die CD gegen Unkostenerstattung bestellen."
-
 msgid "If you're living in Europe the BibleTime developers send out the CDs to you. In this case please fill out the form below and send it away."
 msgstr "Wenn Sie in Europa leben, dann schicken die BibleTime Entwickler ihnen die CDs. In diesem Falle füllen Sie das Formular unten aus und schicken Sie es ab."
 
 msgid "I want to download the Sword CD!"
 msgstr "Ich möchte die Sword CD herunterladen!"
 
-msgid "No problem! Please download the file with the latest date from <A HREF=\"ftp://ftp.crosswire.org/pub/sword/iso/\">ftp.crosswire.org/pub/sword/iso/</A>"
-msgstr "Kein Problem! Bitte laden Sie die Datei mit dem letzten Datum von <A HREF=\"ftp://ftp.crosswire.org/pub/sword/iso/\">ftp.crosswire.org/pub/sword/iso/</A> herunter"
+msgid "No problem! Please download the file with the latest date from <A HREF=\"ftp://ftp.crosswire.org/pub/sword/iso/\">ftp.crosswire.org/pub/sword/iso/</A>."
+msgstr "Kein Problem! Bitte laden Sie die Datei mit dem letzten Datum von <A HREF=\"ftp://ftp.crosswire.org/pub/sword/iso/\">ftp.crosswire.org/pub/sword/iso/</A> herunter."
 
 msgid "Don't forget that the file is over 600 MB large and that you should have a fast connection to download it."
 msgstr "Vergessen Sie nicht, dass die Datei über 600MB groß ist, sie sollten also eine schnelle Verbindung haben, um sie herunterzuladen."
@@ -826,14 +823,14 @@ msgstr "Gnomesword"
 msgid "Gnomesword is a Sword frontend using the Gnome toolkit. A really good application. Be sure to check it out!"
 msgstr "Gnomesword ist ein Sword Frontend für Gnome. Eine wirklich gelungene Anwendung. Probieren Sie sie auf jeden Fall aus!"
 
-msgid "The Online Bible"
-msgstr "The Online Bible"
+msgid "OnlineBible"
+msgstr "OnlineBible"
 
 msgid "The online Bible is a powerful Bible study application for Windows."
-msgstr "Die Online Bibel ist ein mächtiges Bibelstudien Programm für WIndows."
+msgstr "Die Online Bibel ist ein mächtiges Bibelstudien Programm für Windows."
 
-msgid "Bible workshop"
-msgstr "Bible workshop"
+msgid "BibleWorkshop"
+msgstr "BibleWorkshop"
 
 msgid "The Bible Workshop program is a powerful Bible study application for Windows, which is available in english, german and french.<BR>  It's possible to enhance the Bible Workshop using Text libraries you can buy."
 msgstr "Das Bible Workshop Programm ist eine mächtiges Bibelstudien Anwendung für Windows, die in Englisch, Deutsch und Französisch verfügbar ist.<BR> Es ist möglich BibleWorkshop durch Text-Bibliotheken zu erweitern, die sie kaufen können."
@@ -881,7 +878,7 @@ msgid "Do you want to pray?"
 msgstr "Möchten Sie beten?"
 
 msgid "Praying is something everybody can do. If you are praying for the Sword and BibleTime projects you are helping us as much as the other team members of the BibleTime project."
-msgstr "Beten ist etwas, was jeder tun kann. Wenn Sie für die Sword und BibleTime Projekte beten, tun Sie genau so viel, wie die anderen Team-Mitglieder des BibleTime Projektes."
+msgstr "Beten ist etwas, was jeder tun kann. Wenn Sie für die Sword und BibleTime Projekte beten, tun Sie genauso viel, wie die anderen Team-Mitglieder des BibleTime Projektes."
 
 msgid "Do you know how to program software?"
 msgstr "Können Sie Software schreiben?"
@@ -1000,8 +997,8 @@ msgstr "Bitte stellen Sie sicher, dass die Bibel oder der Kommentar beide Testam
 msgid "Please make sure that the Bible or commentary you selected contains both testaments (OT and NT). Some modules contain only the new testament (e.g. the GerBen  module). If the module has both the problem is probably caused by wrong permissions of the data files. Please set the right permissions of the file and directories.  <p />  The best solution is to create a group called sword and put in this group every user who wants to use  BibleTime  <p />  Now set read-write permissions for the group and change the ownership of every file in the Sword directory to root:sword.  <p />  Execute the following commands to solve the problems:  <p />  <ul>  <li> create a group called sword  </li>  <li> then:  <ul>  <li> cd &lt;your path to SWORD&gt;  </li>  <li> chown root:sword modules mods.d -R  </li>  <li> chmod a+r+X modules/ mods.d/ -R  </li>  <li> chmod g+r+w+X modules/ mods.d/ -R  </li>  <li> chmod u+r+w+X modules/ mods.d/ -R  </li>  </ul>  </li>  </ul>  <p />  These commands set the permission that everybody can read the files, but only the members of the group sword and the owner (root) can write to the files. You need write access for the personal commentary module.  <p />"
 msgstr "Bitte stellen Sie sicher, dass die Bibel oder der Kommentar, den sie ausgewählt haben beide Testamente enthält (AT und NT). Einige Module enthalten nur das neue Testament (z.B. das GerBen Modul). Wenn das Modul beide enthält wird das Problem wahrscheinlich durch falsche Rechte der Daten-Dateien verursacht. Bitte setzen Sie die richtigen Rechte für die Dateien und Verzeichnisse. <P> Die beste Lösung ist es, eine Gruppe names sword zu erstellen und in diese Gruppe jeden Benutzer zu setzen, der BibleTime benutzt. <P> Nun setzen Sie schreiben-lesen Rechte für die Gruppe und ändern die Besitzrechte jeder Datei im Sword Verzeichnis auf root:sword. <P> Führen Sie die folgenden Befehle aus, um das Problem zu lösen: <ul> <li> legen Sie eine Gruppe namens sword an.</li> <li> dann:<ul> <li> cd &lt;Ihr Swordverzeichnis&gt;  </li> <li> chown root:sword modules mods.d -R  </li> <li> chmod a+r+X modules/ mods.d/ -R  </li> <li> chmod g+r+w+X modules/ mods.d/ -R  </li> <li> chmod u+r+w+X modules/ mods.d/ -R  </li> </ul> </li> </ul> <p /> Diese Befehle setzen Sie Rechte, sodass jeder die Dateien lesen kann, aber nur die Mitglieder der Gruppe sword und der Besitzer (root) können in die Dateien schreiben.Sie benötigen Schreib-Zugrif für den Persönlichen Kommentar. <p />"
 
-msgid "If you can't download the CD, for example because you don't have a fast connection, you can order the CD for free."
-msgstr "Wenn Sie die CD nicht herunterladen können, zum Beispiel weil Sie keine schnelle Verbindung haben, können Sie die CD kostenlos bestellen."
+msgid "If you can't download the CD, for example because you don't have a fast connection, you can order the CD."
+msgstr "Wenn Sie die CD nicht herunterladen können, zum Beispiel weil Sie keine schnelle Verbindung haben, können Sie die CD bestellen."
 
 msgid "Please check the information you entered:"
 msgstr "Bitte überprüfen Sie die von ihnen eingegebenen Informationen:"
@@ -1031,7 +1028,7 @@ msgid "Otherwise, if everything is correct, please send the order by clicking on
 msgstr "Wenn jedoch alles stimmt, schicken Sie bitte die Bestellung durch klicken auf den Knopf weiter unten ab."
 
 msgid "The BibleTime developers will send you the CDs for free."
-msgstr "Die BibleTiem Entwickler schicken ihnen die CD kostenlos zu."
+msgstr "Die BibleTime Entwickler schicken ihnen die CD kostenlos zu."
 
 msgid "Order the CDs!"
 msgstr "Bestellen der CDs!"
@@ -1083,4 +1080,193 @@ msgstr "Impressum"
 
 msgid "We don't advise to use BibleTime 0.3! Use BibleTime 1.1 if you use KDE 2 and the most current version of BibleTime if you use KDE 3."
 msgstr "Wir raten nicht zur Benutzung von BibleTime 0.3! Benutzen Sie BibleTime 1.1, falls Sie KDE 2 benutzen und die aktuellste Version wenn Sie KDE 3 benutzen."
+
+msgid "The daily tips and the documentation are missing!"
+msgstr "Die täglichen Tipps und die Dokumentation fehlen!"
+
+msgid "Please install the package bibletime-doc which contains the daily tips, the handbook, the installation instructions and the Bible study howto."
+msgstr "Bitte installieren Sie das Paket bibletime-doc, das die täglichen Tipps, das Handbuch, die Installationsanleitung und die Anleitung zum Bibelstudium enthält."
+
+msgid "CD order was sent successfully"
+msgstr "Die CD Bestellung wurde erfolgreich verschickt"
+
+msgid "The CD order was send to the BibleTime developers. You will get a confirmation eMail to make sure everything went right!"
+msgstr "Die CD Bestellung wurde zu den BibleTime Entwicklern geschickt. Sie bekommen noch eine Bestätigungs eMail um sicherzustellen, dass alles glatt gelaufen ist."
+
+msgid "<B>I don't want to smoke any more ...</B><BR>  Do you want to stop smoking? Do you think you're to fat? Do you want to do more sports?"
+msgstr "<B>Ich will nie mehr rauchen ...</B><BR>Wollen Sie mit dem Rauchen aufhören? Denken Sie, Sie sind zu dick? Wollen Sie mehr Sport machen?"
+
+msgid "<P>  There may be important things in your live you really want to change. More important things than smoking or health.  <BR>  Maybe you read the Bible very seldom or you don't pass on the gospel?  You can't change these things in your life? You tried this many, many times but you had no success?  </P>    <P>  God doesn't love you any more!  </P>    Stop! That's a lie satan loves to spread! The truth is, that God loves you the same as the people, who solve their problems with ease.  It is unimportant how many times you do the same failures, God loves you nevertheless:    <DIV STYLE=\"padding-left:10px; font-size:smaller;\">  For when we were still without strength, at the right time Christ gave his life for evil-doers.  Now it is hard for anyone to give his life even for an upright man, though it might be that for a good man someone would give his life.  But God has made clear his love to us, in that, when we were still sinners, Christ gave his life for us.  </DIV>  <SMALL>Romans 5:6-8 (The Bible in Basic Englisch)</SMALL>    <P>  God loves you with all your failures! Why else should he have died on the cross for you?  But he loves to see that you get rid of your failures.  </P>  <P>  This is possible, because you're a new man since you're a christian (Ephesians 4,20-24)! God will give you the strength you need to change the things  you wanted to change yourself so many times!  </P>  <P>  Read the Bible, pray a lot, go to the church! Please ask others to pray for you, too!  </P>      If you have comments please send me an eMail!  <BR>  Joachim Ansorg &lt;<A HREF=\"mailto:joachim@ansorgs.de\">joachim@ansorgs.de</A>&gt;"
+msgstr "<P> In ihrem Leben kann es wichtige Dinge geben, die Sie unbedingt ändern wollen. Wichtigere Dinge als Rauchen oder Gesundheit. <BR> Vielleicht lesen Sie die Bibel viel zu wenig oder Sie sagen sein Wort nicht weiter? Sie schaffen das nicht? Schon so oft Male probiert und immer noch kein Erfolg? </P><P> Gott liebt Sie nicht mehr! </P>Stopp! Das ist eine Lüge, die Satan gern verbreitet. Die Tatsache ist, dass Gott Sie genauso liebt, wie Menschen, die ihre Probleme mit Leichtigkeit lösen. Es ist egal, wie oft Sie die selben Fehler machen, Gott liebt Sie trotzdem:<DIV STYLE=\"padding-left:10px; font-size:smaller;\">Denn Christus ist, als wir noch schwach waren, zur rechten Zeit für Gottlose gestorben. Nun stirbt kaum jemand für einen Gerechten; für einen Wohltäter entschließt sich vielleicht jemand zu sterben. Gott aber beweist seine Liebe gegen uns damit, dass Christus für uns gestorben ist, als wir noch Sünder waren.</DIV><SMALL>Römer 5, 6-8 (Schlachter Übersetzung)</SMALL><P>Gott liebt Sie mit allen ihren Fehler! Warum sonst sollte er für Sie am Kreuz gestorben sein? <BR>Aber er möchte, dass Sie ihre Fehler loswerden. <P> Das ist möglich, weil Sie seit ihrer Bekehrung ein komplett neuer Mensch geworden sind (z.B. Epheser 4, 20-24)!  Gott wird ihnen die nötige Kraft geben, die Dinge zu ändern, die Sie schon so oft versucht haben, selbst zu ändern.</P> <P>Lesen Sie die Bibel, beten Sie viel, gehen Sie in den Gottesdienst! Bitten Sie doch auch andere, für Sie zu beten </P> Wenn Sie Kommentare haben, schicken Sie mir doch einfach eine eMail!<BR>Joachim Ansorg &lt;<A HREF=\"mailto:joachim@ansorgs.de\">joachim@ansorgs.de</A>&gt;</P><P></DIV><P>"
+
+msgid "A new year ..."
+msgstr "Ein neues Jahr ..."
+
+msgid "2002 is gone. We wish you God's blessings for 2003 and hope that you had a good new years eve.<BR>  In the right upper corner of the page there's now a very small devotional for the visitors of ur pages. We'd be glad if you think some minutes about the things, which are important in our opition."
+msgstr "2002 ist vorbei. Wir wünschen ihnen für das Jahr 2003 Gottes Segen und hoffen, dass Sie einen schönen Silvester-Abend hatten.<BR> In der rechten oberen Ecke der Seite ist jetzt eine wirklich kleine Andacht für die Seitenbesucher untergebracht."
+
+msgid "new beta3 released"
+msgstr "Neue Beta3 Version veröffentlicht"
+
+msgid "A new beta version of the upcoming BibleTime 1.3 is <a href=http://sourceforge.net/project/showfiles.php?group_id=954&release_id=125315>  released</a>. No binary packages. Only for testing purposes. Please do test and report success and/or failure <a href=http://sourceforge.net/tracker/?atid=521207&group_id=954&func=browse>here</a>."
+msgstr "Eine neue Beta Version des bald erscheinenden BibleTime 1.3 wurde <a href=http://sourceforge.net/project/showfiles.php?group_id=954&release_id=125315> veröffentlicht</a>. Es werden keine Binärpakete zur Verfügung gestellt, da diese Version nur zu Testzwecken dient. Bitte testen Sie diese Version und berichten Sie Erfolge und Fehler <a href=http://sourceforge.net/tracker/?atid=521207&group_id=954&func=browse>hier</a>."
+
+msgid "MacSword for OS X"
+msgstr "MacSword für OS X"
+
+msgid "MacSword is a new Bible study application for the new Macintosh OS X system.<BR>  The screenshots look very promising!"
+msgstr "MacSword ist ein neues Bibelstudienprogramm für das neue Macintosh OS X System.<BR> Die Bildschirmfotos sehen sehr vielversprechend aus!"
+
+msgid "Bible software for Mac"
+msgstr "Bibelsoftware für den Mac"
+
+msgid "BibleReader"
+msgstr "BibleReader"
+
+msgid "BibleReader is a good and fast Bible study application for Unix systems. It's on of the few linux Bible study programs, which are not based on the Sword library<BR>  Check it out!"
+msgstr "BibleReader ist ein gutes und schnelles Bibelstudien Programm für Unix Systeme. Es ist eines der wenigen Bibelprogramme für Linux, die nicht auf der Sword Bibliothek basieren.<BR> Probieren Sie es aus!"
+
+msgid "Sword for Windows"
+msgstr "Sword für Windows"
+
+msgid "This is the Windows Bible study application made by the Sword team!<BR>  Sword is supported by the Crosswire Bible Society."
+msgstr "Dies ist das Windows Bibelprogramm des Sword Teams!<BR>Sword wird von der Crosswire Bibelgesellschaft unterstützt."
+
+msgid "Bible Technologies Group"
+msgstr "Bible Technologies Group"
+
+msgid "The home of the new common exchange Text format OSIS, which will hopefully be used by many Bible societies and publishers of the world."
+msgstr "Das Zuhause des neuen Textaustausch-Formates OSIS, welches hoffentlich von vielen Bibelgesellschaften und Verlagen der Welt benutzt werden wird."
+
+msgid "Volksbibel 2000.2"
+msgstr "Volksbibel 2000.2"
+
+msgid "Volksbibel 2000.2 is a german, metacard based software Bible study tool for Windows, Linux and Mac.<BR>  Althouth there are not so many texts as other software packages have, it has some cool things like basic map support included.  <BR>  If you are german try it out!"
+msgstr "Volksbibel 2000.2 is ein deutsches, metacard basiertes Bibelstudien-Programm für Windows, Linux und Mac.<BR> Obwohl nicht so viele Texte wie bei anderen Software-Paketen verfügbar sind, verfügt das Programm über Dinge wie Grundlagen von Landkarten-Unterstützung.<BR> Wenn Sie Deutscher sind, probieren Sie es aus!"
+
+msgid "BibleWorks"
+msgstr "BibleWorks"
+
+msgid "BibleWorks is one of the best Bible study applications for Windows!  <BR>  Very good but very expensive, too. Only useful for Bible scholars."
+msgstr "BibleWorks ist eines der besten Bibelstudien-Programme für Windows!<BR> Sehr gut, aber auch sehr teuer. Die Software ist nur für Theologie-Studenten wirklich nützlich!"
+
+msgid "Logos"
+msgstr "Logos"
+
+msgid "Logos is one of the best Bible study applications for Windows.  <BR>  You can buy many, many texts to enhance it."
+msgstr "Logos ist eine der besten Bibelstudienprogramm für Windows.<BR>Sie können sehr, sehr viele Text dazukaufen, um die Software zu erweitern."
+
+msgid "Add your guestbook item"
+msgstr "Fügen Sie ihren Gästebuch Eintrag hinzu"
+
+msgid "Report website problems"
+msgstr "Seitenprobleme berichten"
+
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+msgid "Copyright pages"
+msgstr "Copyright Seiten"
+
+msgid "What can I do with the CD?"
+msgstr "Was kann ich mit der CD machen?"
+
+msgid "You can do several important things with the CD:"
+msgstr "Sie können einige wichtige Dinge mit der CD machen:"
+
+msgid "Study the Bible!"
+msgstr "Studieren Sie die Bibel!"
+
+msgid "Use all the bibles, commentaries, lexicons, glossaries and books to study God's word! We hope, that the CD helps you to study the word in a more efficient way!"
+msgstr "Benutzen Sie all die Bibeln, Kommentare, Lexika, Wörterbücher und Bücher um Gottes Wort zu studieren. Wir hoffen, dass die CD ihnen hilft, Gottes Wort in einer effizienteren Art und Weise zu studieren!"
+
+msgid "Copy the cD!"
+msgstr "Kopieren Sie die CD!"
+
+msgid "Make copies of the CD!"
+msgstr "Machen Sie Kopien der CD!"
+
+msgid "Please copy the CD and share it with many others! If you can, please do this for free. If you can't, please demand only the money to cover your expenses, otherwise it woudn't be possible to distribute some of the texts on the CD."
+msgstr "Bitte kopieren Sie die CD und teilen Sie diese mit vielen anderen! Wenn Sie können, dann tun Sie dies bitte kostenlos. Wenn Sie dies jedoch nicht können, verlangen Sie bitte nur das Geld um ihre Unkosten zu decken. Ansonsten wäre es nicht möglich einige Texte auf der CD zu verteilen."
+
+msgid "Since we're not author of the linked pages we're not responsible for their content, we explicitely dissociate ourself from the content of the linked pages! This is required because german law says you're responsible for the content of the linked pages unless you explicitely dissociate yourself from these pages."
+msgstr "Da wir nicht Autor der verlinkten Seiten sind, sind wir nicht für deren Inhalt verantwortlich. Wir distanzieren und ausdrücklich vom Inhalt der Seiten, auf die wir verweisen. Dies ist erforderlich, weil deutsches Recht aussagt, dass man selbst für den Inhalt der verlinkten Seiten ist, außer man distanziert sich ausdrücklich vom Inhalt dieser Seiten."
+
+msgid "List of important christian pages"
+msgstr "Liste wichtiger christlicher Seiten"
+
+msgid "There are many other christian pages in the word wide web. Some are more, others are less important."
+msgstr "Es gibt jede Menge andere christliche Seiten im World Wide Web. Einige sind mehr, andere weniger wichtig."
+
+msgid "We collected a list of pages which are important in our opinion."
+msgstr "Wir haben eine Liste von Seiten gesammelt, die unserer Meinung nach wichtig sind."
+
+msgid "To subscribe to the development mailing list of the Sword project please visit the following web page and enter your eMail address there:"
+msgstr "Um sich auf die Entwicklungs-Mailingliste des Sword Projektes einzutragen, besuchen Sie bitte die folgende Webseite und geben Sie  dort ihre eMail Adresse ein:"
+
+msgid "Archives of the Sword development mailing list are available at:"
+msgstr "Archive der Sword Entwicklungs-Mailingliste sind verfügbar auf:"
+
+msgid "Installation of text modules"
+msgstr "Installation von Text-Modulen"
+
+msgid "Installation of Sword's text modules"
+msgstr "Installation von Swords Text-Modulen"
+
+msgid "The modules are available as ZIP files from the Crosswire Bible society. Have a look into the &raquo;Modules&laquo; section of the BibleTime web pages to get an overview of the available modules."
+msgstr "Die Module sind als ZIP Dateien bei der Crosswire Bibelgesellschaft verfügbar. Schauen Sie in den Modul-Abschnitt der BibleTime Internetseiten um einen Überblick über die verfügbaren Module zu bekommen."
+
+msgid "Before you start installing modules please make sure BibleTime is installed!"
+msgstr "Bevor Sie damit beginnen, Module zu installieren, stellen Sie bitte sicher sicher, dass BibleTime installiert ist!"
+
+msgid "First you have to find the directory, which we'll call now &raquo;Sword directory&laquo;, on your system. The Sword directory contains all Sword data, i.e. it contains at least the sub-directories &raquo;modules/&laquo; and &raquo;mods.d/&laquo;."
+msgstr "Zuerst müssen Sie das Verzeichnis finden, dass wir im folgenden &raquo;Sword Verzeichnis&laquo; nenn. Das Sword Verzeichnis enthält alle Sword Daten, d.h. es muss zumindest die Unterverzeichnisse  &raquo;modules/&laquo; und &raquo;mods.d/&laquo; enthalten."
+
+msgid "Then you have to unzip the downloaded ZIP file(s) into the Sword directory to populate the two subdirectories we mentioned."
+msgstr "Anschließend müssen Sie die heruntergeladenen ZIP Dateien in das Sword Verzeichnis entpacken, um die erwähnten.zwei Unterverzeichnisse mit Daten zu füllen."
+
+msgid "After restarting BibleTime the modules should appear in the main index on the left side of the main window."
+msgstr "Nach einem Neustart von BibleTime sollten die Module im Hauptindex auf der linken Seite des Hauptfensters erscheinen."
+
+msgid "The installation instructions made by the Sword team are available here:"
+msgstr "Die Installations-Anleitung, die vom Sword Team erstellt wurde, ist hier verfügbar:"
+
+msgid "If you get into troubles please read the answers to the frequently asked questions. The FAQ is available on the left side of this page."
+msgstr "Wenn Sie Probleme bekommen, lesen Sie bitte zuerst die Antworten auf die häufig gestellten Fragen. Das FAQ ist auf der linken Seite dieser Seite verfügbar."
+
+msgid "This page explains how to add the text modules, which are available from Crosswire, to the BibleTime software to make it really useful."
+msgstr "Diese Seite erklärt, wie man die Text-Module, die bei Crosswire verfügbar sind, zur BibleTime Software hinzufügt um diese wirklich nützlich zu machen."
+
+msgid "The FAQ of the Sword project is available here: "
+msgstr "Das FAQ des Sword-Projektes ist hier verfügbar:"
+
+msgid "Back to the BibleTime FAQ: "
+msgstr "Zurück zum BibleTime FAQ:"
+
+msgid "BibleTime development mailing list"
+msgstr "BibleTime Entwicklungs Mailingliste"
+
+msgid "Sword development mailing list"
+msgstr "Sword Entwicklungs Mailingliste"
+
+msgid "Don't forget to install some text modules after you installed BibleTime:"
+msgstr "Vergessen Sie nicht, einige Text Module zu installieren, nachdem Sie BibleTime installiert haben:"
+
+msgid "How to install the text modules"
+msgstr "Wie man die Text Module installiert"
+
+msgid "Where can I write down my personal notes?"
+msgstr "Wo kann ich meine persönlichen Anmerkungen aufschreiben?"
+
+msgid "You have to install the module \"Personal\", which is available as a commentary on Crosswire.<BR>  See our commentary page for more information: <A HREF=\"/modules/commentaries/\">Commentaries</A>"
+msgstr "Sie müssen das Modul \"Personal\" installieren, dass als Kommentar bei Crosswire verfügbar ist.<BR> Lesen Sie unsere Kommentar-Seiten für weitere Informationen: <A HREF=\"/modules/commentaries/\">Kommentare</A>"
+
+msgid "Why is one of the two testaments of a Bible module empty?"
+msgstr "Warum ist eines der beiden Testamente eines Bibel-Modules leer?"
+
+msgid "Some modules only contain the text of the old or new testament.<BR>  Recent versions of BibleTime should only offer the testament which has some text in it."
+msgstr "Einige Module enthalten nur den Text des alten oder neuen Testamentes.<BR> Neuere Versionen von BibleTime sollten nur die Testamente anzeigen, die auch einen Inhalt haben."
+
+msgid "The daily tips and the documentation are missing!"
+msgstr ""
 

@@ -1,17 +1,20 @@
 <H3>i18n("What BibleTime is ...")</H3>
-
+<P>
 i18n("BibleTime is a free Bible study application for Linux systems. BibleTime uses the desktop environment KDE.")
 <BR>
 i18n("We think that BibleTime is an easy to use but powerful study tool for christians all over the world.")
+</P>
 
 <H3>i18n("The history of BibleTime")</H3>
 <P>
 i18n("Back in June of 1999 Thomas Hagedorn, Thorsten Uhlmann and Joachim Ansorg started to work on a Bible study application for KDE 1.0.")
 </P>
+
 <P>
 i18n("The first version was released two months later as version 0.1. This version was very simple and supported only the most basic things.")
 i18n("After three months of hard work version 0.2 was released to the public. This version was usable, it supported basic printing, searching and offered a simple editor for personal notes.")
 </P>
+
 <P>
 i18n("BibleTime 0.2 was later ported to KDE 2 and totally redesigned with a more powerful interface, better printing and a lot of internal changes. This version was called BibleTime 0.3")
 i18n("BibleTime 1.0, which was released almost one year after version 0.3 and was the first version we considered as stable.")

@@ -1,0 +1,18 @@
+<H3>i18n("Contact information")</H3>
+<P>
+i18n("We provide contact information to protect us from legal problems.")
+i18n("You can contact us at:")
+<blockquote>
+	Joachim Ansorg<br>
+	BibleTime<BR>
+	Poststraﬂe 2<BR>
+	56479 Salzburg<BR>
+	Germany<BR>
+	i18n("phone:") +4926671480<BR>
+	i18n("email:") info@bibletime.info
+</blockquote>
+</P>
+
+<P>
+i18n("We strongly reject any responsibility for all of the links which point to external pages.")
+</P>
