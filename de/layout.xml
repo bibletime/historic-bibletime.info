@@ -5,69 +5,71 @@
   <style title="Blue" src="blue.css" type="text/css"
 ></style>
 
-	<copyright>
-    <year
+  <copyright>
+	<year
 >1999</year>
-		<year
+	<year
 >2000</year>
-		<year
+	<year
 >2001</year>
-		<year
+	<year
 >2002</year>
-		<year
+	<year
 >2003</year>
-		<year
+	<year
 >2004</year>
-    <holder role="http://www.bibletime.info/"
+    	<holder role="http://www.bibletime.info/"
 >Die BibleTime Entwickler - www.bibletime.info</holder>
   </copyright>
 
+  <!-- Pages which do not appear in the navigation on the left -->
   <notoc page="error404.xml" filename="error404.html"
 ></notoc>
-
+  <notoc page="devotional.xml" filename="devotional.html"
+></notoc>
+  
   <toc page="index.xml" filename="no_index.html">
-		<tocentry page="software.xml" filename="index.html">
-			<tocentry page="software_about.xml" filename="software_about.html"
+	<tocentry page="software.xml" filename="index.html">
+		<tocentry page="software_about.xml" filename="software_about.html"
 ></tocentry>
-			<tocentry page="software_screenshots.xml" filename="software_screenshots.html"
+		<tocentry page="software_screenshots.xml" filename="software_screenshots.html"
 ></tocentry>
-			<tocentry page="software_gallery.xml" filename="software_gallery.html"
+		<tocentry page="software_gallery.xml" filename="software_gallery.html"
 ></tocentry>
-			<tocentry page="software_installation.xml" filename="software_installation.html"
+		<tocentry page="software_installation.xml" filename="software_installation.html"
 ></tocentry>
-			<tocentry page="software_faq.xml" filename="software_faq.html"
+		<tocentry page="software_faq.xml" filename="software_faq.html"
 ></tocentry>
-			<tocentry page="software_swordcd.xml" filename="software_swordcd.shtml"
+		<tocentry page="software_swordcd.xml" filename="software_swordcd.shtml"
 ></tocentry>
-			<tocentry page="software_links.xml" filename="software_links.html"
+		<tocentry page="software_links.xml" filename="software_links.html"
 ></tocentry>
-			<tocentry page="software_linkus.xml" filename="software_linkus.html"
+		<tocentry page="software_linkus.xml" filename="software_linkus.html"
 ></tocentry>
-			<tocentry page="software_guestbook.xml" filename="software_guestbook.shtml"
+		<tocentry page="software_guestbook.xml" filename="software_guestbook.shtml"
 ></tocentry>
-			<tocentry page="software_press.xml" filename="software_press.html"
+		<tocentry page="software_press.xml" filename="software_press.html"
 ></tocentry>
-			<tocentry page="software_contact.xml" filename="software_contact.html"
+		<tocentry page="software_contact.xml" filename="software_contact.html"
 ></tocentry>
-			<tocentry page="software_license.xml" filename="software_license.html"
+		<tocentry page="software_license.xml" filename="software_license.html"
 ></tocentry>
-		</tocentry>
+	</tocentry>
 
-		<tocentry page="development.xml" filename="development.html">
-			<tocentry page="development_help.xml" filename="development_help.html"
+	<tocentry page="development.xml" filename="development.html">
+		<tocentry page="development_help.xml" filename="development_help.html"
 ></tocentry>
-			<tocentry page="development_join.xml" filename="development_join.html"
+		<tocentry page="development_join.xml" filename="development_join.html"
 ></tocentry>
-			<tocentry page="development_mailinglists.xml" filename="development_mailinglists.html"
+		<tocentry page="development_mailinglists.xml" filename="development_mailinglists.html"
 ></tocentry>
-	  </tocentry>
+	</tocentry>
 
-		<tocentry page="translation.xml" filename="translation.shtml"
+	<tocentry page="translation.xml" filename="translation.shtml"
 ></tocentry>
 
-		<tocentry page="biblehowto.docbook" filename="biblehowto.html"
+	<tocentry page="biblehowto.docbook" filename="biblehowto.html"
 ></tocentry>
 
 	</toc>
 </layout>
-

@@ -1,7 +1,5 @@
+<?xml version="1.0" ?>
 <!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
-	<!NOTATION XML SYSTEM "xml">
-
-	<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
   <!ENTITY bibletime '<application
 >BibleTime</application
 >'>
@@ -9,6 +7,7 @@
   <!ENTITY % addindex "IGNORE">
 
   <!-- user entities -->
+
   <!ENTITY how2-chap1 SYSTEM "how2-importance.docbook">
   <!ENTITY how2-chap2 SYSTEM "how2-basics.docbook">
   <!ENTITY how2-chap3 SYSTEM "how2-interpretation.docbook">
@@ -22,9 +21,8 @@
 	<summary
 >The BibleTime Biblestudy HowTo</summary>
 	<keywords
->BibleTime, Screenshots, Software, About, Introduction</keywords>
+>Bible,study,bibletime,sword,crosswire,introduction,help,holy</keywords>
 </head>
-
 
 <book>
 

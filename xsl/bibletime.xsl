@@ -21,7 +21,7 @@
 <!--
 <xsl:output method="xml"
             indent="yes"
-			encoding="UTF-8"
+	    encoding="UTF-8"
             doctype-public="-//W3C//DTD XHTML 1.1//EN"
             doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11-flat.dtd"
 />
@@ -32,6 +32,7 @@
 <xsl:variable name="l10n.gentext.default.language">en</xsl:variable>
 
 <xsl:param name="autolayout" select="document($autolayout-file, /*)"/>
+<xsl:param name="devotional" select="document('devotional.xml', /*)"/>
 
 <!-- ==================================================================== -->
 
@@ -50,7 +51,7 @@
 <xsl:param name="spacing.paras">0</xsl:param>
 <xsl:param name="make.valid.html">1</xsl:param>
 <xsl:param name="html.cleanup">1</xsl:param>
-<xsl:param name="make.single.year.ranges">1</xsl:param>
+<xsl:param name="make.single.year.ranges">0</xsl:param>
 <xsl:param name="make.year.ranges">1</xsl:param>
 <xsl:param name="nav.graphics">1</xsl:param>
 
@@ -247,11 +248,9 @@
 				<div id="navigation">
 					<xsl:choose>
 						<xsl:when test="$toc">
-							<div class="naventry">
-								<xsl:apply-templates select="$toc">
-									<xsl:with-param name="pageid" select="@id"/>
-								</xsl:apply-templates>
-							</div>
+							<xsl:apply-templates select="$toc">
+								<xsl:with-param name="pageid" select="@id"/>
+							</xsl:apply-templates>
 						</xsl:when>
 						<xsl:otherwise>&#160;</xsl:otherwise>
 					</xsl:choose>
@@ -265,21 +264,36 @@
 						<br/>
 						<img alt="counter" src="http://cgicounter.puretec.de/cgi-bin/cnt?clsid=6bfe60d8ff2e9c56d7db8be538c054421"/>
 					</div>
+					
+					<div id="copyright">
+						<xsl:call-template name="webpage.footer"/>
+					</div>
+
 				</div>
 
 				<div id="content">
 					<xsl:apply-templates select="child::*[name(.) != 'webpage']"/>
 					<xsl:call-template name="process.footnotes"/>
 				</div>
+				
+				<div id="rightpanel">
+					<xsl:apply-templates select="$devotional" mode="intro"/>
+				</div>
 
 			</td></tr></table>
 
-			<div id="pagebottom">
-				<xsl:call-template name="webpage.footer"/>
-			</div>
 
 		</body>
 	</html>
+</xsl:template>
+
+<!-- Called with the devotional file to display the short intro on the right -->
+<xsl:template match="id('devotional')" mode="intro">
+	<div id="devotional">
+	<h3><xsl:value-of select="./child::section[position()=1]/title"/></h3>
+	<p><xsl:value-of select="./child::section[position()=1]/para"/></p>
+	<p>[ <a href="devotional.html">Read more...</a> ]</p>
+	</div>
 </xsl:template>
 
 <xsl:template match="config[@param='filename']" mode="head.mode">

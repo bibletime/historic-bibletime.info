@@ -49,10 +49,12 @@
     </xsl:call-template>
   </xsl:variable>
 
-  <xsl:apply-templates select="tocentry">
-    <xsl:with-param name="pageid" select="$pageid"/>
-    <xsl:with-param name="relpath" select="$relpath"/>
-  </xsl:apply-templates>
+  <ul>
+	<xsl:apply-templates select="tocentry">
+		<xsl:with-param name="pageid" select="$pageid"/>
+		<xsl:with-param name="relpath" select="$relpath"/>
+	</xsl:apply-templates>
+  </ul>
 </xsl:template>
 
 <!-- ==================================================================== -->
@@ -61,7 +63,6 @@
   <xsl:param name="pageid" select="@id"/>
   <xsl:param name="toclevel" select="count(ancestor::*)"/>
   <xsl:param name="relpath" select="''"/>
-  <xsl:param name="revisionflag" select="@revisionflag"/>
 
   <xsl:variable name="page" select="."/>
   <xsl:variable name="target"
@@ -126,138 +127,28 @@
           c. it is a closed page      other/closed
   -->
 
-  <xsl:variable name="preceding-icon">
-    <xsl:value-of select="$relpath"/>
-    <xsl:value-of select="$nav.icon.path"/>
-    <xsl:value-of select="$nav.icon.style"/>
-    <xsl:choose>
-      <xsl:when test="$pageid=@id">
-        <xsl:choose>
-          <xsl:when test="$hasdescendant != 0">
-            <xsl:text>/current/open</xsl:text>
-          </xsl:when>
-          <xsl:otherwise>
-            <xsl:text>/current/leaf</xsl:text>
-          </xsl:otherwise>
-        </xsl:choose>
-      </xsl:when>
-      <xsl:otherwise>
-        <xsl:choose>
-          <xsl:when test="$hasdescendant = 0">
-            <xsl:text>/other/leaf</xsl:text>
-          </xsl:when>
-          <xsl:when test="$is.open != 0">
-            <xsl:text>/other/open</xsl:text>
-          </xsl:when>
-          <xsl:otherwise>
-            <xsl:text>/other/closed</xsl:text>
-          </xsl:otherwise>
-        </xsl:choose>
-      </xsl:otherwise>
-    </xsl:choose>
-    <xsl:value-of select="$nav.icon.extension"/>
-  </xsl:variable>
-
-  <xsl:variable name="preceding-text">
-    <xsl:choose>
-      <xsl:when test="$pageid=@id">
-        <xsl:choose>
-          <xsl:when test="$hasdescendant != 0">
-            <xsl:value-of select="$nav.text.current.open"/>
-          </xsl:when>
-          <xsl:otherwise>
-            <xsl:value-of select="$nav.text.current.page"/>
-          </xsl:otherwise>
-        </xsl:choose>
-      </xsl:when>
-      <xsl:otherwise>
-        <xsl:choose>
-          <xsl:when test="$isancestor != 0">
-            <xsl:value-of select="$nav.text.other.open"/>
-          </xsl:when>
-          <xsl:when test="$hasdescendant != 0">
-            <xsl:value-of select="$nav.text.other.closed"/>
-          </xsl:when>
-          <xsl:otherwise>
-            <xsl:value-of select="$nav.text.other.page"/>
-          </xsl:otherwise>
-        </xsl:choose>
-      </xsl:otherwise>
-    </xsl:choose>
-  </xsl:variable>
-
-  <xsl:variable name="following-icon">
-    <xsl:value-of select="$relpath"/>
-    <xsl:value-of select="$nav.icon.path"/>
-    <xsl:value-of select="$nav.icon.style"/>
-    <xsl:text>/current/pointer</xsl:text>
-    <xsl:value-of select="$nav.icon.extension"/>
-  </xsl:variable>
-
-  <xsl:variable name="following-text">
-    <xsl:value-of select="$nav.text.pointer"/>
-  </xsl:variable>
-
-  <xsl:variable name="revisionflag-icon">
-    <xsl:value-of select="$relpath"/>
-    <xsl:value-of select="$nav.icon.path"/>
-    <xsl:value-of select="$nav.icon.style"/>
-    <xsl:text>/</xsl:text>
-    <xsl:value-of select="$revisionflag"/>
-    <xsl:value-of select="$nav.icon.extension"/>
-  </xsl:variable>
-
-  <xsl:variable name="revisionflag-text">
-    <xsl:choose>
-      <xsl:when test="$revisionflag = 'changed'">
-        <xsl:value-of select="$nav.text.revisionflag.changed"/>
-      </xsl:when>
-      <xsl:when test="$revisionflag = 'added'">
-        <xsl:value-of select="$nav.text.revisionflag.added"/>
-      </xsl:when>
-      <xsl:when test="$revisionflag = 'deleted'">
-        <xsl:value-of select="$nav.text.revisionflag.deleted"/>
-      </xsl:when>
-      <xsl:otherwise>
-        <xsl:value-of select="$nav.text.revisionflag.off"/>
-      </xsl:otherwise>
-    </xsl:choose>
-  </xsl:variable>
-
-  <div>
-    <xsl:if test="$toclevel = 2">
-      <xsl:attribute name="class">
-        <xsl:text>toplevel</xsl:text>
-      </xsl:attribute>
-    </xsl:if>
-
-    <xsl:if test="$toclevel &gt; 2">
-      <xsl:attribute name="class">
-        <xsl:text>shrink</xsl:text>
-        <xsl:value-of select="$toclevel - 2"/>
-      </xsl:attribute>
-    </xsl:if>
-
-		<xsl:choose>
-			<xsl:when test="$nav.graphics != 0">
-				<xsl:call-template name="link.to.page">
-					<xsl:with-param name="href" select="@href"/>
-					<xsl:with-param name="page" select="$target"/>
-					<xsl:with-param name="relpath" select="$relpath"/>
-					<xsl:with-param name="linktext">
-						<img src="{$preceding-icon}" alt="{$preceding-text}"/>
-					</xsl:with-param>
-				</xsl:call-template>
-			</xsl:when>
-			<xsl:otherwise>
-				<xsl:value-of select="$preceding-text"/>
-			</xsl:otherwise>
-		</xsl:choose>
+  <li>
+	<xsl:choose>
+  		<xsl:when test="$pageid = @id">
+			<xsl:attribute name="class">current</xsl:attribute>
+		</xsl:when>
+	</xsl:choose>
+	
+	
+	<xsl:choose>
+		<xsl:when test="$nav.graphics != 0">
+			<xsl:call-template name="link.to.page">
+				<xsl:with-param name="href" select="@href"/>
+				<xsl:with-param name="page" select="$target"/>
+				<xsl:with-param name="relpath" select="$relpath"/>
+				<xsl:with-param name="linktext">
+				</xsl:with-param>
+			</xsl:call-template>
+		</xsl:when>
+	</xsl:choose>
 
     <xsl:choose>
-      <xsl:when test="$pageid = @id">
-        <span class="curpage">
-
+      <xsl:when test="$pageid = @id">        
           <xsl:choose>
             <xsl:when test="titleabbrev">
               <xsl:apply-templates select="titleabbrev"/>
@@ -267,52 +158,11 @@
             </xsl:otherwise>
           </xsl:choose>
 
-          <xsl:if test="$nav.revisionflag != '0' and $revisionflag">
-            <xsl:value-of select="$nav.text.spacer"/>
-            <xsl:choose>
-              <xsl:when test="$nav.graphics = '1'">
-                <img src="{$revisionflag-icon}" alt="{$revisionflag-text}" align="bottom"/>
-              </xsl:when>
-              <xsl:otherwise>
-                <xsl:text>(</xsl:text>
-                <xsl:value-of select="$revisionflag-text"/>
-                <xsl:text>)</xsl:text>
-              </xsl:otherwise>
-            </xsl:choose>
-	  </xsl:if>
-
           <xsl:if test="$nav.pointer != '0'">
             <xsl:value-of select="$nav.text.spacer"/>
-            <xsl:choose>
-              <xsl:when test="$nav.graphics = '1'">
-                <img src="{$following-icon}" alt="{$following-text}"/>
-              </xsl:when>
-              <xsl:otherwise>
-                <xsl:value-of select="$following-text"/>
-              </xsl:otherwise>
-            </xsl:choose>
-	  </xsl:if>
-        </span>
+	  </xsl:if>	
       </xsl:when>
       <xsl:otherwise>
-        <span>
-          <xsl:choose>
-            <xsl:when test="$isdescendant='0'">
-              <xsl:choose>
-                <xsl:when test="$isancestor='1'">
-                  <xsl:attribute name="class">ancestor</xsl:attribute>
-                </xsl:when>
-                <xsl:otherwise>
-                  <xsl:attribute name="class">otherpage</xsl:attribute>
-                </xsl:otherwise>
-              </xsl:choose>
-            </xsl:when>
-            <xsl:otherwise>
-              <!-- IS a descendant of curpage -->
-              <xsl:attribute name="class">descendant</xsl:attribute>
-            </xsl:otherwise>
-          </xsl:choose>
-
           <xsl:call-template name="link.to.page">
             <xsl:with-param name="href" select="@href"/>
             <xsl:with-param name="page" select="$target"/>
@@ -326,35 +176,24 @@
                   <xsl:apply-templates select="title"/>
                 </xsl:otherwise>
               </xsl:choose>
-
             </xsl:with-param>
           </xsl:call-template>
-
-          <xsl:if test="$nav.revisionflag != '0' and $revisionflag">
-            <xsl:value-of select="$nav.text.spacer"/>
-            <xsl:choose>
-              <xsl:when test="$nav.graphics = '1'">
-                <img src="{$revisionflag-icon}" alt="{$revisionflag-text}"/>
-              </xsl:when>
-              <xsl:otherwise>
-                <xsl:text>(</xsl:text>
-                <xsl:value-of select="$revisionflag-text"/>
-                <xsl:text>)</xsl:text>
-              </xsl:otherwise>
-            </xsl:choose>
-	  </xsl:if>
-
-        </span>
       </xsl:otherwise>
     </xsl:choose>
-  </div>
+ 	
+  </li>
+    <xsl:choose>
+		<xsl:when test="$hasdescendant != 0">
+			<ul>
+				<xsl:apply-templates select="tocentry">
+					<xsl:with-param name="pageid" select="$pageid"/>
+					<xsl:with-param name="relpath" select="$relpath"/>
+				</xsl:apply-templates>
+			</ul>
+		</xsl:when>
+      		<xsl:otherwise></xsl:otherwise>
+    </xsl:choose>
 
-  <xsl:if test="$is.open != 0">
-    <xsl:apply-templates select="tocentry">
-      <xsl:with-param name="pageid" select="$pageid"/>
-      <xsl:with-param name="relpath" select="$relpath"/>
-    </xsl:apply-templates>
-  </xsl:if>
 </xsl:template>
 
 <xsl:template name="insert.spacers">

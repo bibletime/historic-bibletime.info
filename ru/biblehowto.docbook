@@ -1,7 +1,5 @@
+<?xml version="1.0" ?>
 <!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
-	<!NOTATION XML SYSTEM "xml">
-
-	<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
   <!ENTITY bibletime '<application
 >BibleTime</application
 >'>
@@ -9,6 +7,7 @@
   <!ENTITY % addindex "IGNORE">
 
   <!-- user entities -->
+
   <!ENTITY how2-chap1 SYSTEM "how2-importance.docbook">
   <!ENTITY how2-chap2 SYSTEM "how2-basics.docbook">
   <!ENTITY how2-chap3 SYSTEM "how2-interpretation.docbook">
@@ -22,9 +21,8 @@
 	<summary
 >The BibleTime Biblestudy HowTo</summary>
 	<keywords
->BibleTime, Screenshots, Software, About, Introduction</keywords>
+>Bible,study,bibletime,sword,crosswire,introduction,help,holy</keywords>
 </head>
-
 
 <book>
 
@@ -83,7 +81,7 @@
 >Авторское право на этот текст принадлежит автору Bob Harman. Fred Saalbach адаптировал текст для BibleTime.</para>
 
 <para
->Не эксклюзивные права на распространение этого документа с программой &bibletime; были предоставлены. Распространение как часть программы Bibletime без изменения и без ограничения воспроизведения согласно положению "честное использование" ("fair use") закона об авторском праве США, также разрешено.</para>
+>Не эксклюзивные права на распространение этого документа с программой &bibletime; были предоставлены. Дальнейшее распространение как части программы Bibletime без изменения и без ограничения воспроизведения согласно положению "честное использование" ("fair use") закона об авторском праве США, также разрешено.</para>
 
 <para
 >По вопросам, касающимся использования этих материалов обращайтесь к Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. Hampton VA 23666 USA <email
@@ -107,9 +105,9 @@
 <para
 ><application
 >"Как изучать Библию"</application
-> это помощник для изучения Библии. </para>
+> - это помощь в изучении Библии. </para>
 <para
->Команда &bibletime; надеется, что это руководство побудит читателей изучать Писание для того, чтобы узнать, о чём в нём говорится.Это особенное обучающее руководство было выбрано потому, что оно не защищает никакую особую деноминационную доктрину.Мы ожидаем, что вы сами будете читать и изучать Писания, чтобы понять, о чём в них говорится.Если вы начнёте с желанием, чтобы Господь сеял Своё слово в ваше сердце, - Он не разочарует вас.</para>
+>Команда &bibletime; надеется, что это руководство побудит читателей изучать Писание, чтобы узнать, о чём в нём говорится. Было выбрано именно это обучающее руководство, поскольку оно не защищает никакую определённую деноминационную доктрину. Мы ожидаем, что вы сами будете читать и изучать Писания, чтобы понять, о чём в них говорится. Если вы начнёте с желанием, чтобы Господь сеял Своё слово в ваше сердце, - Он не разочарует вас.</para>
 </abstract>
 
 <keywordset>

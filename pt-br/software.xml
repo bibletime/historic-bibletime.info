@@ -35,11 +35,24 @@
 >Notícias sobre o BibleTime</title>
 	<formalpara
 ><title
+>09/02/2004: BibleTime 1.4.1 para MacOS X</title>
+		<para
+>Na lista de email de desenvolvimento do BibleTime <ulink url="http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html"
+>Daniel Glassey escreveu</ulink
+> que o BibleTime agora está disponível também para MacOS X. Para ter BibleTime rodando em Mac, por favor, siga as instruções <ulink url="http://www.crosswire.org/pipermail/bt-devel/2004-February/005163.html"
+>desse email</ulink
+> e <ulink url="http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html"
+>desse email</ulink
+>. Por favor, comunique problemas ou sucessos para <email
+>info@bibletime.info</email
+>. </para>
+	</formalpara>
+	
+	<formalpara
+><title
 >29/01/2004: BibleTime 1.4.1</title>
 		<para
 >BibleTime 1.4.1 foi lançado hoje. A mudança mais importante na versão 1.4.1 são traduções atualizadas e correções de bugs, especialmente no diálogo de configuração do Sword. </para>
-		<para
->Nós esperamos fornecer mais pacotes binários RPM nos próximos dias, mas pedimos desculpas por não podermos fornecer um pacote RPM de aplicação para SuSE 9.0 porque nós não temos acesso a um sistema SuSE 9.0 limpo. Se algum de nossos usuários tiver um sistema rodando SuSE 9.0 limpo (i.e., sem alterações) nós apreciaríamos essa ajuda. </para>
 	</formalpara>
 	
 	<formalpara

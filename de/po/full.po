@@ -49,199 +49,205 @@ msgid "Error"
 msgstr "Fehler"
 
 #. Tag: title
-#: autolayout.xml:9 index.xml:9
+#: autolayout.xml:9 devotional.xml:10
+#, no-c-format
+msgid "Devotional"
+msgstr ""
+
+#. Tag: title
+#: autolayout.xml:13 index.xml:9
 #, no-c-format
 msgid "BibleTime"
 msgstr "BibleTime"
 
 #. Tag: title
-#: autolayout.xml:12 software.xml:10
+#: autolayout.xml:16 software.xml:10
 #, no-c-format
 msgid "Software"
 msgstr "Software"
 
 #. Tag: title
-#: autolayout.xml:15 software_about.xml:9
+#: autolayout.xml:19 software_about.xml:9
 #, no-c-format
 msgid "About BibleTime"
 msgstr "Über BibleTime"
 
 #. Tag: title
-#: autolayout.xml:19 software_screenshots.xml:9
+#: autolayout.xml:23 software_screenshots.xml:9
 #, no-c-format
 msgid "Screenshots"
 msgstr "Bildschirmfotos"
 
 #. Tag: title
-#: autolayout.xml:23 software_gallery.xml:9 software_gallery.xml:14
+#: autolayout.xml:27 software_gallery.xml:9 software_gallery.xml:14
 #, no-c-format
 msgid "Gallery"
 msgstr "Galerie"
 
 #. Tag: title
-#: autolayout.xml:27 software_download.xml:10 software_installation.xml:12
+#: autolayout.xml:31 software_download.xml:10 software_installation.xml:12
 #, no-c-format
 msgid "Download"
 msgstr "Herunterladen"
 
 #. Tag: title
-#: autolayout.xml:31 software_faq.xml:9
+#: autolayout.xml:35 software_faq.xml:9
 #, no-c-format
 msgid "<title>FAQ</title>"
 msgstr "<title>FAQ</title>"
 
 #. Tag: title
-#: autolayout.xml:35 software_swordcd.xml:10
+#: autolayout.xml:39 software_swordcd.xml:10
 #, no-c-format
 msgid "Sword CD"
 msgstr "Sword CD"
 
 #. Tag: title
-#: autolayout.xml:39 software_links.xml:9
+#: autolayout.xml:43 software_links.xml:9
 #, no-c-format
 msgid "Links"
 msgstr "Verweise"
 
 #. Tag: title
-#: autolayout.xml:43 software_linkus.xml:9
+#: autolayout.xml:47 software_linkus.xml:9
 #, no-c-format
 msgid "Link to us"
 msgstr "Auf uns verweisen"
 
 #. Tag: title
-#: autolayout.xml:47 software_guestbook.xml:9
+#: autolayout.xml:51 software_guestbook.xml:9
 #, no-c-format
 msgid "Guestbook"
 msgstr "Gästebuch"
 
 #. Tag: title
-#: autolayout.xml:51 software_press.xml:10 software_press.xml:15
+#: autolayout.xml:55 software_press.xml:10 software_press.xml:15
 #, no-c-format
 msgid "In the press"
 msgstr "In der Öffentlichkeit"
 
 #. Tag: title
-#: autolayout.xml:55 software_contact.xml:10
+#: autolayout.xml:59 software_contact.xml:10
 #, no-c-format
 msgid "Contact"
 msgstr "Kontakt"
 
 #. Tag: title
-#: autolayout.xml:59 software_license.xml:9 software_license.xml:14
+#: autolayout.xml:63 software_license.xml:9 software_license.xml:14
 #, no-c-format
 msgid "License"
 msgstr "Lizenz"
 
 #. Tag: title
-#: autolayout.xml:64 development.xml:10
+#: autolayout.xml:68 development.xml:10
 #, no-c-format
 msgid "Development"
 msgstr "Entwicklung"
 
 #. Tag: title
-#: autolayout.xml:67 development_help.xml:10
+#: autolayout.xml:71 development_help.xml:10
 #, no-c-format
 msgid "Help us"
 msgstr "Helfen Sie uns"
 
 #. Tag: title
-#: autolayout.xml:71 development_join.xml:10
+#: autolayout.xml:75 development_join.xml:10
 #, no-c-format
 msgid "Join us"
 msgstr "Mitmachen"
 
 #. Tag: title
-#: autolayout.xml:75 development_mailinglists.xml:10
+#: autolayout.xml:79 development_mailinglists.xml:10
 #, no-c-format
 msgid "Mailinglists"
 msgstr "Mailinglisten"
 
 #. Tag: title
-#: autolayout.xml:80 translation.xml:9
+#: autolayout.xml:84 translation.xml:9
 #, no-c-format
 msgid "Translation"
 msgstr "Übersetzung"
 
 #. Tag: title
-#: autolayout.xml:84 biblehowto.docbook:18
+#: autolayout.xml:88 biblehowto.docbook:17
 #, no-c-format
 msgid "Biblestudy HowTo"
 msgstr "Anleitung zum Bibelstudium"
 
 #. Tag: title
-#: biblehowto.docbook:27
+#: biblehowto.docbook:25
 #, no-c-format
 msgid "The Biblestudy HowTo"
 msgstr "Die Anleitung zum Bibelstudium"
 
 #. Tag: author
-#: biblehowto.docbook:30
+#: biblehowto.docbook:28
 #, no-c-format
 msgid "<firstname>Bob</firstname> <surname>Harman</surname>"
 msgstr "<firstname>Bob</firstname> <surname>Harman</surname>"
 
 #. Tag: trans_comment
-#: biblehowto.docbook:36
+#: biblehowto.docbook:34
 #, no-c-format
 msgid "ROLES_OF_TRANSLATORS"
 msgstr "<firstname>Joachim</firstname> <surname>Ansorg</surname>"
 
 #. Tag: holder
-#: biblehowto.docbook:40
+#: biblehowto.docbook:38
 #, no-c-format
 msgid "The team of &bibletime;, info@bibletime.info"
 msgstr "Das &bibletime; Team, info@bibletime.info"
 
 #. Tag: holder
-#: biblehowto.docbook:43
+#: biblehowto.docbook:41
 #, no-c-format
 msgid "Bob Harman"
 msgstr "Bob Harman"
 
 #. Tag: para
-#: biblehowto.docbook:46
+#: biblehowto.docbook:44
 #, no-c-format
 msgid "The copyright of this text is held by the author Bob Harman. The text was adapted for publication with BibleTime by Fred Saalbach."
 msgstr "Das Copyright dieses Textes liegt bei dem Autoren Bob Harman. Der Text wurde von Fred Saalbach zur Publikation mit BibleTime angepasst."
 
 #. Tag: para
-#: biblehowto.docbook:50
+#: biblehowto.docbook:48
 #, no-c-format
 msgid "Non exclusive serial rights for this distribution of this document with the &bibletime; Software have been made. Redistribution as part of the Bibletime software without modification and limited reproduction as provided by the \"fair use\" provisions of the US copyright code are also permitted."
 msgstr "Non exclusive serial rights for this distribution of this document with the &bibletime; Software have been made. Redistribution as part of the Bibletime software without modification and limited reproduction as provided by the \"fair use\" provisions of the US copyright code are also permitted."
 
 #. Tag: para
-#: biblehowto.docbook:56
+#: biblehowto.docbook:54
 #, no-c-format
 msgid "For questions regarding the use of this material contact Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. Hampton VA 23666 USA <email>ncc@ncchampton.org</email>."
 msgstr "Bei Fragen zur Benutzung diese Materials wenden Sie sich bitte an Bob Harman c/o New Covenant Church 1079 Big Bethel Rd. Hampton VA 23666 USA <email>ncc@ncchampton.org</email>."
 
 #. Tag: para
-#: biblehowto.docbook:60
+#: biblehowto.docbook:58
 #, no-c-format
 msgid "Scripture quotes are from the New American Standard Bible unless otherwise indicated"
 msgstr "<emphasis>Anm. des Übersetzers:</emphasis> Der deutsche Text der Bibelstellen ist der deutschen revidierten Lutherbibel von 1984 entnommen. Ich übernehme keinerlei Garantie für die Übersetzung, weder für falsche Wiedergabe noch für unwörtliche und sinnverfälschende Übersetzung. Ich habe mit bestem Wissen und Können übersetzt. Da ich jedoch kein Übersetzer bin, können sich Fehler eingeschlichen sein. Die Originalfassung wird in Englisch mit BibleTime mitgeliefert."
 
 #. Tag: title
-#: biblehowto.docbook:69
+#: biblehowto.docbook:67
 #, no-c-format
 msgid "Abstract"
 msgstr "Zusammenfassung"
 
 #. Tag: para
-#: biblehowto.docbook:70
+#: biblehowto.docbook:68
 #, no-c-format
 msgid "The <application>Biblestudy HowTo</application> is a guide for studying the Bible."
 msgstr "Die <application>Anleitung zum Bibelstudium</application> ist ein Handbuch zum Studieren der Bibel."
 
 #. Tag: para
-#: biblehowto.docbook:73
+#: biblehowto.docbook:71
 #, no-c-format
 msgid "It is the hope of the &bibletime; team that this HowTo will provoke the readers to study the scriptures to see what they say. This particular study guide has been chosen as it takes care not to advocate any particular denominational doctrine. We expect you to read and study the scriptures to understand what they say. If you start with the attitude that you want to have the Lord sow his word in your heart He will not disappoint you."
 msgstr "Es ist die Hoffnung des &bibletime; Teams das diese Anleitung die Leser zum Studieren der Bibel bewegt, um zu sehen was die Bibel zu sagen hat. Genau die Anleitung wurde ausgewählt weil sie keine Werbung für irgendeine religiöse Gruppierung macht. Wir möchten von ihnen, dass Sie die Bibel studieren um zu verstehen, was darin steht. Wenn Sie mit der Erwartungdaran herangehen, dass Gott sein Wort in ihr Herz legen soll wird Er  Sie nicht enttäuschen."
 
 #. Tag: keyword
-#: biblehowto.docbook:83
+#: biblehowto.docbook:81
 #, no-c-format
 msgid "Bible"
 msgstr "Bibel"
@@ -250,13 +256,13 @@ msgstr "Bibel"
 #. Tag: keyword
 #. #-#-#-#-#  how2-basics.pot (PACKAGE VERSION)  #-#-#-#-#
 #. Tag: title
-#: biblehowto.docbook:84 how2-basics.docbook:49
+#: biblehowto.docbook:82 how2-basics.docbook:49
 #, no-c-format
 msgid "Study"
 msgstr "Studieren"
 
 #. Tag: keyword
-#: biblehowto.docbook:85
+#: biblehowto.docbook:83
 #, no-c-format
 msgid "HowTo"
 msgstr "Anleitung"
@@ -482,6 +488,12 @@ msgstr "Diese Seiten beschreiben, wie man sich in die Entwicklung von BibleTime 
 #, no-c-format
 msgid "Please read the following pages very carefully to see whether you can help us with the development!"
 msgstr "Bitte lesen Sie die nächsten Seiten sehr sorgfältig, um zu sehen, ob Sie uns mit der Entwicklung helfen können!"
+
+#. Tag: title
+#: devotional.xml:15
+#, no-c-format
+msgid "Come to the light"
+msgstr ""
 
 #. Tag: title
 #: error404.xml:14
@@ -1425,8 +1437,8 @@ msgstr "Nicht wenig!"
 #. Tag: para
 #: how2-importance.docbook:257
 #, no-c-format
-msgid "Eccl.12:11 \"<emphasis>The words of wise men are like goads, and masters of these collections are like well-driven nails; they are given by one Shepherd. But beyond this, my son, be warned: the writing of many books is endless, and excessive devotion to books is wearying to the body.</emphasis>\""
-msgstr "Prediger 12,11+12 <emphasis><quote>Die Worte der Weisen sind wie Stacheln, und wie eingeschlagene Nägel sind die einzelnen Sprüche; sie sind von einem Hirten gegeben. Und über dem allen, mein Sohn, laß dich warnen; denn des vielen Büchermachens ist kein Ende, und viel Studieren macht den Leib müde. </quote></emphasis>"
+msgid "Eccl.12:11-12 \"<emphasis>The words of wise men are like goads, and masters of these collections are like well-driven nails; they are given by one Shepherd. But beyond this, my son, be warned: the writing of many books is endless, and excessive devotion to books is wearying to the body.</emphasis>\""
+msgstr "Prediger 12,11-12 <emphasis><quote>Die Worte der Weisen sind wie Stacheln, und wie eingeschlagene Nägel sind die einzelnen Sprüche; sie sind von einem Hirten gegeben. Und über dem allen, mein Sohn, laß dich warnen; denn des vielen Büchermachens ist kein Ende, und viel Studieren macht den Leib müde. </quote></emphasis>"
 
 #. Tag: title
 #: how2-importance.docbook:264
@@ -1724,8 +1736,8 @@ msgstr "\"3 Tage &amp; 3 Nächte\" (Mt.12,40) haben zur \"Mittwochs Kreuzigungst
 #. Tag: para
 #: how2-interpretation.docbook:120
 #, no-c-format
-msgid "We need an historical tidbit: Jews counted any part of a day as a full day, as we would count buckets of water (if there were six and one-half buckets of water, we would say there were 7 buckets of water even if one was only partly full). So to the Jewish mind, any part of a day counted as a full day, and days started at 6 p.m. and ended at 6 a.m. Friday from 3 p.m. to 6 p.m. = day 1. Friday 6 p.m. to Saturday 6 p.m. = day 2. Saturday 6 p.m. to Sunday 5 or so a.m. = day 3. Interpreting within the cultural context keeps us out of trouble."
-msgstr "Wir benötigen einen geschichtlichen Leckerbissen: Die Juden zählten jeden Teil eines Tages als vollen Tag, so wie wir Eimer Wasser zählen würden (wenn wir sechs und einen halben Eimer Wasser hätten, würden wir sagen dass es sieben Eimer Wasser sind sogar wenn der letzte nur teilweise voll ist). Dies istdie jüdische Art. Jeder Teil eines Tages wurde als voller Tag gezählt, Tage begannen um 18h und endeten um 6h. Freitag von 15h bis 18h = 1. Tag. Freitag von 18h bis Samstag 18h = 2. Tag. Samstag 18.00h bis Sonntag vielleicht 5h = 3. Tag. Die Auslegung im kulturellen Kontext bringt uns aus den Schwierigkeiten heraus."
+msgid "We need an historical tidbit: Jews counted any part of a day as a full day, as we would count buckets of water (if there were six and one-half buckets of water, we would say there were 7 buckets of water even if one was only partly full). So to the Jewish mind, any part of a day counted as a full day, and days started at 6 p.m. and ended at 6 p.m. Friday from 3 p.m. to 6 p.m. = day 1. Friday 6 p.m. to Saturday 6 p.m. = day 2. Saturday 6 p.m. to Sunday 5 or so a.m. = day 3. Interpreting within the cultural context keeps us out of trouble."
+msgstr "Wir benötigen einen geschichtlichen Leckerbissen: Die Juden zählten jeden Teil eines Tages als vollen Tag, so wie wir Eimer Wasser zählen würden (wenn wir sechs und einen halben Eimer Wasser hätten, würden wir sagen dass es sieben Eimer Wasser sind sogar wenn der letzte nur teilweise voll ist). Dies istdie jüdische Art. Jeder Teil eines Tages wurde als voller Tag gezählt, Tage begannen um 18h und endeten um 18h. Freitag von 15h bis 18h = 1. Tag. Freitag von 18h bis Samstag 18h = 2. Tag. Samstag 18.00h bis Sonntag vielleicht 5h = 3. Tag. Die Auslegung im kulturellen Kontext bringt uns aus den Schwierigkeiten heraus."
 
 #. Tag: title
 #: how2-interpretation.docbook:127
@@ -3539,150 +3551,156 @@ msgstr "Neues über BibleTime"
 
 #. Tag: title
 #: software.xml:26
-#, fuzzy, no-c-format
-msgid "2004-01-29: BibleTime 1.4.1"
-msgstr "29.12.2003: BibleTime 1.4"
+#, no-c-format
+msgid "2004-02-09: BibleTime 1.4.1 for Mac OS X"
+msgstr "09.02.2004: BibleTime 1.4.1 für Mac OS X"
 
 #. Tag: para
 #: software.xml:27
 #, no-c-format
-msgid "BibleTime 1.4.1 was released today. The most important changes in version 1.4.1 are updated translations and bugfixes, especially in the Sword setup dialog."
-msgstr ""
-
-#. Tag: para
-#: software.xml:30
-#, no-c-format
-msgid "We hope to provide more binary RPM packages in the next few days, but we're sorry that we can't provide a SuSE 9.0 RPM application-package because we don't have access to a clean SuSE 9.0 system. If one of our users has a clean SuSE 9.0 system running we'd appreciate his help."
-msgstr ""
+msgid "On the BibleTime development list <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\">Daniel Glassey writes</ulink> that BibleTime is now available for Mac OSX. To get BibleTime running on Mac please follow the instructions in <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005163.html\">this eMail</ulink> and <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\">this eMail</ulink>. Please report problems or success to <email>info@bibletime.info</email>."
+msgstr "Auf der BibleTime Entwiclungs-Mailingliste <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\">schreibt Daniel Glassey</ulink>, dass BibleTime jetzt auf Mac OS X läuft. Um BibleTime auf Mac OS X laufen zu lassen, folgen Sie bitte den Anweisungen in <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005163.html\">dieser eMail</ulink> und in <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\">dieser eMail</ulink>. Schicken Sie bitte Bereichte über Erfolge oder Probleme an <email>info@bibletime.info</email>."
 
 #. Tag: title
-#: software.xml:35
+#: software.xml:32
+#, no-c-format
+msgid "2004-01-29: BibleTime 1.4.1"
+msgstr "29.01.2004: BibleTime 1.4.1"
+
+#. Tag: para
+#: software.xml:33
+#, no-c-format
+msgid "BibleTime 1.4.1 was released today. The most important changes in version 1.4.1 are updated translations and bugfixes, especially in the Sword setup dialog."
+msgstr "BibleTime 1.4.1 wurde heute veröffentlicht. Die wichtigsten  Änderungen in Version 1.4.1 sind bearbeitete Übersetzungen und Fehlerkorrekturen, besonders im Sword Einrichungdialog."
+
+#. Tag: title
+#: software.xml:38
 #, no-c-format
 msgid "2004-01-26: User forums online"
 msgstr "26.01.2004: Benutzerforen online"
 
 #. Tag: para
-#: software.xml:36
+#: software.xml:39
 #, no-c-format
 msgid "We're happy to announce a forum for BibleTime users. Please ask all your questions there if you need help. We'd appreciate all feedback and suggestions in the forum, too. The address is <ulink url=\"http://www.crosswire.org/forums\">http://www.crosswire.org/forums</ulink>."
 msgstr "Wir sind froh Benutzerforen für BibleTime Benutzer ankündigen zu können. Bitte stellen sie ihre Fragen dort, falls Sie Hilfe benötigen. Wir würden jegliche Form von Feedback oder Vorschlägen ebenfalls im Forum begrüßen. Die Adresse ist <ulink url=\"http://www.crosswire.org/forums\">http://www.crosswire.org/forums</ulink>."
 
 #. Tag: title
-#: software.xml:41
+#: software.xml:44
 #, no-c-format
 msgid "2004-01-16: Debian packages available"
 msgstr "16.01.2004: Debian Pakete verfügbar"
 
 #. Tag: para
-#: software.xml:42
+#: software.xml:45
 #, no-c-format
 msgid "<ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">Debian packages of BibleTime 1.4</ulink> are available now in Debian Unstable. Be sure to get the <ulink url=\"http://packages.debian.org/unstable/kde/bibletime-i18n\">bibletime-i18n package</ulink>, too. Kudos to our Debian packager Daniel Glassey for his work!"
 msgstr "<ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">Debian Pakete von BibleTime 1.4</ulink> sind nun in Debian Unstable verfügbar. Installieren Sie auch das <ulink url=\"http://packages.debian.org/unstable/kde/bibletime-i18n\">bibletime-i18n Paket</ulink>. Ein dickes Dankeschön an unseren Debian Paketautor Daniel Glassey für seine Arbeit!"
 
 #. Tag: title
-#: software.xml:47
+#: software.xml:50
 #, no-c-format
 msgid "2004-01-11: New translation effort"
 msgstr "11.01.2004: Neue Übersetzungsmöglichkeit"
 
 #. Tag: para
-#: software.xml:48
+#: software.xml:51
 #, no-c-format
 msgid "First of all we want to wish all of you a truly happy and blessed new year."
 msgstr "Zu Beginn wünschen wir allen ein wirklich frohes und gesegnetes neues Jahr."
 
 #. Tag: para
-#: software.xml:51
+#: software.xml:54
 #, no-c-format
 msgid "As you probably already noticed, there is a new page online called <ulink url=\"translation.shtml\">&quot;Translation&quot;</ulink>. This page gives an introduction into how you can help with the translation of the different areas of the BibleTime project, and offers detailed statistics on the completeness of the existing languages. Be sure to check it out."
 msgstr "Wie Sie vielleicht schon bemerkt haben, gibt es eine neue Seite namens <ulink url=\"translation.shtml\">&quot;Übersetzung&quot;</ulink>. Diese Seite enthält eine Einleitung, wie Sie bei der Übersetzung der verschiedenen Bereiche des BibleTime Projektes helfen können. Die Seite enthält auch detailierte Statistiken über die Vollständigkeit der bisherigen Übersetzungen. Schauen Sie doch mal nach."
 
 #. Tag: title
-#: software.xml:58
+#: software.xml:61
 #, no-c-format
 msgid "2003-12-29: BibleTime 1.4"
 msgstr "29.12.2003: BibleTime 1.4"
 
 #. Tag: para
-#: software.xml:59
+#: software.xml:62
 #, no-c-format
 msgid "The new version 1.4 of BibleTime is now available for download. 1.4 in comparision with version 1.3 contains a new SwordSetup dialog to setup Sword and to install modules from local sources or from the internet. With the SwordSetup part it's also possible to remove modules from disk. 1.4 also contains many new bugfixes. BibleTime 1.4 is available on our download page."
 msgstr "Die neue Version 1.4 von BibleTime ist verfügbar. Verglichen mit 1.3 enthält sie einen neuen Sword-Setup-Dialog, mit dem man Sword konfigurieren und Module von lokalen Quellen oder aus dem Internet installieren kann. Man kann damit natürlich auch module wieder aus dem System entfernen. 1.4 enthält weiterhin viele Fehlerkorrekturen. BibleTime 1.4 ist auf unserer Downloadseite erhältlich."
 
 #. Tag: para
-#: software.xml:62
+#: software.xml:65
 #, no-c-format
 msgid "You need Sword 1.5.7 with enabled curl support to make use of the remote installation features. The binary packages we provide for some of the major linux distributions should work out of the box."
 msgstr "Sie benötigen Sword 1.5.7 mit eingeschalteter Curl-Unterstützung, um die neuen Internet-Installationsfähigkeiten benutzen zu können. Die Binärpakete, die wir für einige der wichtigsten Linux-Distributionen bereitstellen, sollten hoffentlich problemlos funktionieren."
 
 #. Tag: para
-#: software.xml:65
+#: software.xml:68
 #, no-c-format
 msgid "If you run into troubles installing BibleTime or you have problems using it please submit a bugreport. We need your support to improve BibleTime."
 msgstr "Wenn sie Probleme beim Installieren von BibleTime haben, senden sie bitte einen Fehlerbericht. Wir brauchen Ihre Unterstützung, um BibleTime verbessern zu können."
 
 #. Tag: title
-#: software.xml:70
+#: software.xml:73
 #, no-c-format
 msgid "2003-12-03: BibleTime 1.4beta1"
 msgstr "03.12.2003: BibleTime 1.4beta1"
 
 #. Tag: para
-#: software.xml:71
+#: software.xml:74
 #, no-c-format
 msgid "The first testing version of the upcoming BibleTime 1.4 was released today. The new feature in comparision with 1.3 is the new SwordSetup dialog which makes the Sword and module configuration more userfriendly. Using the dialog you can now setup Sword's configuration files, install modules from the internet or from local sources (e.g. a CD) and also uninstall modules from your system. This beta release also contains some important bugfixes."
 msgstr "Die erste Testversion des bald erscheinenden BibleTime 1.4 wurde heute veröffentlicht.Die im Vergleich mit 1.3 wichtigste neue Funktion ist der neue SwordSetup-Dialog, der die Sword- und Modulkonfiguration benutzerfreundlich macht.Mit dem Dialog kann die Swordkonfigurationsdatei verwaltet werden, es können Module aus dem Internet oder von lokalen Quellen installiert werden und es können ebenso auch Module vom System gelöscht werden.Diese Betaversion ehthält auch einige wichtige Fehlerkorrekturen."
 
 #. Tag: para
-#: software.xml:79
+#: software.xml:82
 #, no-c-format
 msgid "This 1.4beta1 release is only meant for testing, so we do not provide binary packages. If you know how to compile programs from source code we encourage you to try this beta1 release. You need Sword 1.5.6 with enabled curl support to make use of the remote installation features."
 msgstr "Die 1.4beta1 Version ist nur für Testzwecke bestimmt, daher werden keine Binärpakete zur Verfügung gestellt. Wenn Sie wissen, wie man Programme vom Quellcode aus übersetzt möchten wir Sie ermutigen, diese Testversion auszuprobieren. Sie benötigen Sword 1.5.6 mit eingeschalteter Unterstützung von curl, um die Modulinstallation aus dem Internet nutzen zu können."
 
 #. Tag: title
-#: software.xml:86
+#: software.xml:89
 #, no-c-format
 msgid "2003-10-19: SuSE 9.0 packages"
 msgstr "19.10.2003: SuSE 9.0 Pakete"
 
 #. Tag: para
-#: software.xml:87
+#: software.xml:90
 #, no-c-format
 msgid "RPM packages are now available for SuSE 9.0. Report any problems to info@bibletime.info. Thank you!"
 msgstr "Es sind nun RPM Pakete für SuSE 9.0 vefügbar. Bei Problemen wenden Sie sich bitte an info@bibletime.info. Vielen Dank!"
 
 #. Tag: title
-#: software.xml:92
+#: software.xml:95
 #, no-c-format
 msgid "2003-10-16: New webpages"
 msgstr "16.10.2003: Neue Internetseiten"
 
 #. Tag: para
-#: software.xml:93
+#: software.xml:96
 #, no-c-format
 msgid "BibleTime has now new webpages which offer better navigation, better design and faster page download time."
 msgstr "BibleTime verfügt nun über neue Webseiten, die eine bessere Seitennavigation, ein konsistenteres Design und schnellere Downloadzeiten bieten.."
 
 #. Tag: para
-#: software.xml:97
+#: software.xml:100
 #, no-c-format
 msgid "If you experience any problems with the new pages please let us know!"
 msgstr "Falls Sie irgendwelche Probleme mit den neuen Seiten feststellen lassen Sie es uns bitte wissen!"
 
 #. Tag: title
-#: software.xml:102
+#: software.xml:105
 #, no-c-format
 msgid "2003-08-23: BibleTime 1.3"
 msgstr "23.08.2003: BibleTime 1.3"
 
 #. Tag: para
-#: software.xml:103
+#: software.xml:106
 #, no-c-format
 msgid "Version 1.3 of BibleTime is finally available. BibleTime 1.3 contains a lot of new features, usability improvements and bug fixes. Upgrading to version 1.3 is strongly recommended for all our users. You can get the Software here: <ulink url=\"http://www.bibletime.info/software/download/\">Download</ulink>. Binary packages will be released in the next few days."
 msgstr "BibleTime in der Version 1.3 ist endlich verfügbar. 1.3 enthält viele neue Funktionen, Verbesserungen in der Benutzbarkeit und Fehlerkorrekturen. Die Installation von 1.3 wird allen Benutzern wärmstens empfohlen. Sie können sie Software hier herunterladen:  <ulink url=\"http://www.bibletime.info/software/download/\">Herunterladen</ulink>."
 
 #. Tag: para
-#: software.xml:108
+#: software.xml:111
 #, no-c-format
 msgid "Get the bibletime and the bibletime-i18n packages for full functionality. We're very sorry for the long release time, we hope to shorten it with the next releases."
 msgstr "Laden Sie die Pakete bibletime und bibletime-i18n herunter, um volle Funktionalität zu erhalten. Die lange Zeit zwischen den neuen Versionen tut uns leid, wir hoffen diese mit den nächsten Versionen zu verkürzen."
@@ -3944,6 +3962,9 @@ msgstr "<title>Übersetzung des Programm-Handbuchs.</title>"
 #, no-c-format
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
 msgstr "Wenn eine Übersetzung des Handbuches in ihrer Sprache noch nicht existiert, können Sie <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\">Handbuch Übersetzungsvorlage</ulink> herunterladen und übersetzen. Wenn Sie eine bestehende Übersetzung weiterübersetzen möchten, benutzen Sie die Verweise in der unten stehenden Tabelle um die entsprechende Datei zum Übersetzen herunterzuladen."
+
+#~ msgid "You can find the application package on our download page."
+#~ msgstr "Sie können das Anwendungspaket auf der Downloadseite finden."
 
 #, fuzzy
 #~ msgid "2004-01-26: Debian packages available"

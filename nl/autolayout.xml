@@ -5,6 +5,10 @@
 <title>Foutmelding</title>
 <summary>Error 404: File not found</summary>
 </notoc>
+<notoc page="devotional.xml" id="devotional" filename="devotional.html">
+<title>Devotional</title>
+<summary>BibleTime devotional</summary>
+</notoc>
 <toc page="index.xml" id="index" filename="no_index.html">
 <title>BibleTime</title>
 <summary>Introduction</summary>

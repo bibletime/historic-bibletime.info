@@ -25,7 +25,7 @@
 >K Desktop Environment</ulink
 > и использует программные библиотеки <ulink url="http://www.crosswire.org/sword/"
 >Sword</ulink
-> для работы с текстами Библии, комментариями, словарями и книгами  to work with Bible texts, commentaries, dictionaries and books предоставленными <ulink url="http://www.crosswire.org/"
+> для работы с текстами Библии, комментариями, словарями и книгами предоставленными <ulink url="http://www.crosswire.org/"
 >Библейским Обществом Crosswire</ulink
 >. </para>
 </section>
@@ -35,11 +35,24 @@
 >Новости о BibleTime</title>
 	<formalpara
 ><title
+>2004-02-09: BibleTime 1.4.1 for Mac OS X</title>
+		<para
+>On the BibleTime development list <ulink url="http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html"
+>Daniel Glassey writes</ulink
+> that BibleTime is now available for Mac OSX. To get BibleTime running on Mac please follow the instructions in <ulink url="http://www.crosswire.org/pipermail/bt-devel/2004-February/005163.html"
+>this eMail</ulink
+> and <ulink url="http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html"
+>this eMail</ulink
+>. Please report problems or success to <email
+>info@bibletime.info</email
+>. </para>
+	</formalpara>
+	
+	<formalpara
+><title
 >2004-01-29: BibleTime 1.4.1</title>
 		<para
 >BibleTime 1.4.1 was released today. The most important changes in version 1.4.1 are updated translations and bugfixes, especially in the Sword setup dialog. </para>
-		<para
->We hope to provide more binary RPM packages in the next few days, but we're sorry that we can't provide a SuSE 9.0 RPM application-package because we don't have access to a clean SuSE 9.0 system. If one of our users has a clean SuSE 9.0 system running we'd appreciate his help. </para>
 	</formalpara>
 	
 	<formalpara
@@ -57,7 +70,7 @@
 		<para
 ><ulink url="http://packages.debian.org/unstable/kde/bibletime"
 >Debian-пакеты BibleTime 1.4</ulink
->находятся сейчас в Debian Unstable (нестабильный). Также проверьте, чтобы у вас был <ulink url="http://packages.debian.org/unstable/kde/bibletime-i18n"
+> находятся сейчас в Debian Unstable (нестабильный). Также проверьте, чтобы у вас был <ulink url="http://packages.debian.org/unstable/kde/bibletime-i18n"
 >пакет bibletime-i18n</ulink
 >. Kudos нашему Debian-упаковщику Даниэлю Гласси (Daniel Glassey) за эту работу! </para>
 	</formalpara>
