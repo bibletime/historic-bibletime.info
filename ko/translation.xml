@@ -20,63 +20,63 @@
 ><title
 >Help translate BibleTime into your language</title>
 <para
->This is a part of software development where the help of many individals is needed. It is our desire to offer BibleTime to users in as many languages as possible. The following areas are open for your contributions: <orderedlist numeration="arabic">
+>이것은 많은 분들의 참여가 필요한 소프트웨어 개발 작업의 일부입니다. 바이블타임이 가능한한 많은 언어로 지원되길 소망합니다. 다음의 영역들이 당신의 도움을 필요로 하고 있습니다: <orderedlist numeration="arabic">
 	<listitem
 ><para
->Translate the www.bibletime.info website.</para
+>www.bibletime.info 웹사이트의 번역.</para
 ></listitem>
 	<listitem
 ><para
->Translate the program's User Interface.</para
+>프로그램의 사용자 인터페이스의 번역.</para
 ></listitem>
 	<listitem
 ><para
->Translate the program's handbook.</para
+>프로그램 핸드북의 번역.</para
 ></listitem>
 </orderedlist>
 </para>
 
 <para
->On this page you can find statistics about the completeness of existing translations for each of these areas, as well as links to translation templates that you can use to submit new translations which do not yet exist. If a translation into your language does not yet exist, just download the templates, translate them and send them to <email
+>이 페이지에서 각 영역의 기존 번역작업완료도에 대한 통계를 보실 수 있으며, 새 번역작업을 위한 번역 자료도 확인하실 수 있습니다. 당신의 언어로의 번역이 존재하지 않는다면, 템플릿을 다운로드하셔서 번역하시다음 <email
 >info@bibletime.info</email
->. If you are not satisfied with the status of your language's translation, you can directly download the corresponding file, update the translation and send it in. In both cases we'll be sure to integrate your work as soon as possible. </para>
+>로 보내주십시오. 당신의 언어로의 번역 상태가 마음에 드시지 않는다면, 기존의 파일을 다운로드하셔서 업데이트 하신다음 보내주십시오. 두가지 경우 모두 빠른시간안에 당신의 번역물을 적용하겠습니다. </para>
 
 <para
->For the translation process we recommend that you use the excellent and mature program <ulink url="http://i18n.kde.org/tools/kbabel/"
+>번역작업을 위해서는 훌륭하며 성숙한 프로그램인 <ulink url="http://i18n.kde.org/tools/kbabel/"
 >KBabel</ulink
->. It has many advanced features and is a great aid. </para>
+>을 사용하시기 바랍니다. 많은 훌륭한 기능들을 제공하여 번역작업에 큰도움이 됩니다. </para>
 </section>
 
 
 <section
 ><title
->Translate the www.bibletime.info website.</title>
+>www.bibletime.info 웹사이트 번역.</title>
 <para
->If a translation of the website to your language does not yet exist, you can download and translate the <ulink url="/en/pot/full.pot"
->Webpage translation template</ulink
->. If you want to update an existing translation, use the links in the table below to download the corresponding file. </para>
+>당신의 언어로의 웹사이트 번역이 존재하지 않는다면, <ulink url="/en/pot/full.pot"
+>웹페이지 번역 템플릿</ulink
+>에서 템플릿을 다운로드하여 번역하실 수 있습니다. 기존의 번역을 업데이트하시려면, 아래의 테이블에서 필요한 파일을 다운로드 하십시오. </para>
 	<ssi mode="exec" cgi="/postats/website_stats.pl"
 ></ssi>
 </section>
 
 <section
 ><title
->Translate the program's User Interface.</title>
+>프로그램 사용자 인터페이스의 번역.</title>
 <para
->If a translation of the User Interface to your language does not yet exist, you can download and translate the <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD"
-> User Interface translation template</ulink
->. If you want to update an existing translation, use the links in the table below to download the corresponding file. </para>
+>사용자 인터페이스의 번역이 아직 존재하지 않는다면, <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD"
+> 사용자 인터페이스 번역 템플릿</ulink
+>에서 템플릿을 다운로드하여 번역하십시오. 기존의 번역을 업데이트하시려면, 아래 테이블에서 필요한 파일을 다운로드하십시오. </para>
 	<ssi mode="exec" cgi="/postats/messages_stats.pl"
 ></ssi>
 </section>
 
 <section
 ><title
->Translate the program's handbook.</title>
+>프로그램 핸드북의 번역.</title>
 <para
->If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD"
-> handbook translation template</ulink
->. If you want to update an existing translation, use the links in the table below to download the corresponding file. </para>
+>당신의 언어로 된 핸드북이 존재하지 않는다면, <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD"
+> 핸드북 번역 템플릿</ulink
+>에서 템플릿을 다운로드하여 번역하실 수 있습니다. 기존의 번역을 업데이트하고 싶으시면, 아래의 테이블에서 필요한 파일을 다운로드하실 수 있습니다. </para>
 	<ssi mode="exec" cgi="/postats/handbook_stats.pl"
 ></ssi>
 </section>

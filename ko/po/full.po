@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: full\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2001-02-09 01:25+0100\n"
-"PO-Revision-Date: 2004-01-10 23:08+0545\n"
+"PO-Revision-Date: 2004-02-04 11:05+0545\n"
 "Last-Translator:  <s970501@ku.edu.np>\n"
 "Language-Team:  <ko@li.org>\n"
 "MIME-Version: (null)\n"
@@ -429,7 +429,7 @@ msgstr "바이블타임 프로젝트의 메일링리스트에 가입하기위해
 #: development_mailinglists.xml:20
 #, no-c-format
 msgid "Archives of the BibleTime development mailing list are available at <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/\">www.crosswire.org/pipermail/bt-devel</ulink>."
-msgstr ""
+msgstr "바이블타임 개발 메일링리스트의 아카이브는 <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/\">www.crosswire.org/pipermail/bt-devel</ulink>에서 확인하실 수 있습니다."
 
 #. Tag: title
 #: development_mailinglists.xml:25
@@ -447,7 +447,7 @@ msgstr "스워드(Sword) 프로젝트의 개발 메일링리스트에 가입하�
 #: development_mailinglists.xml:29
 #, no-c-format
 msgid "Archives of the Sword development mailing list are available at <ulink url=\"http://www.crosswire.org/pipermail/sword-devel/\">www.crosswire.org/pipermail/sword-devel</ulink>."
-msgstr ""
+msgstr "스워드(Sword) 개발 메일링리스트의 아카이브는 <ulink url=\"http://www.crosswire.org/pipermail/sword-devel/\">www.crosswire.org/pipermail/sword-devel</ulink>에서 확인하실 수 있습니다."
 
 #. Tag: title
 #: development.xml:15
@@ -513,7 +513,7 @@ msgstr "성경의 가장 큰 목적은 우리를 그분에게로 인도하는 �
 #: how2-basics.docbook:15
 #, no-c-format
 msgid "John R.W. Stott, <emphasis>Christ the Controversialist</emphasis>, InterVarsity Press 1978, pp.97, 104."
-msgstr ""
+msgstr "John R.W. Stott, <emphasis>Christ the Controversialist</emphasis>, InterVarsity Press 1978, pp.97, 104."
 
 #. Tag: para
 #: how2-basics.docbook:17
@@ -1110,7 +1110,7 @@ msgstr "시저의 <emphasis>Gallic War</emphasis>는 10개의 사본이 존재�
 #: how2-importance.docbook:74
 #, no-c-format
 msgid "Textual critic F. J. A. Hort, \"The New Testament in the Original Greek\", vol. 1 p561, Macmillan Co., quoted in <emphasis>Questions of Life</emphasis> p. 25-26"
-msgstr ""
+msgstr "Textual critic F. J. A. Hort, \"The New Testament in the Original Greek\", vol. 1 p561, Macmillan Co., quoted in <emphasis>Questions of Life</emphasis> p. 25-26"
 
 #. Tag: para
 #: how2-importance.docbook:76
@@ -1140,7 +1140,7 @@ msgstr "딤후 3:16에서 선포하길, \"<emphasis>모든 성경은 하나님�
 #: how2-importance.docbook:91
 #, no-c-format
 msgid "John R.W. Stott, <emphasis>Christ the Controversialist</emphasis>, InterVarsity Press 1978, pp.93-95"
-msgstr ""
+msgstr "존 R.W. 스토트, <emphasis>Christ the Controversialist</emphasis>, InterVarsity Press 1978, pp.93-95"
 
 #. Tag: para
 #: how2-importance.docbook:92
@@ -1422,7 +1422,7 @@ msgstr "부가(Appendix): \"Once for All\""
 #: how2-importance.docbook:267
 #, no-c-format
 msgid "John R. W. Stott, <emphasis>Christ the Controversialist,</emphasis> InterVarsity Press 1978, pp.106-107"
-msgstr ""
+msgstr "존 R. W. 스토트, <emphasis>Christ the Controversialist,</emphasis> InterVarsity Press 1978, pp.106-107"
 
 #. Tag: para
 #: how2-importance.docbook:268
@@ -2320,7 +2320,7 @@ msgstr "바이블타임의 방명록페이지입니다. 방명록에 글을 남�
 #: software_guestbook.xml:19
 #, no-c-format
 msgid "Please add your comments to our guestbook!"
-msgstr ""
+msgstr "방명록에 메세지를 남겨주세요!"
 
 #. Tag: title
 #: software_installation.xml:17
@@ -2332,7 +2332,7 @@ msgstr "바이블타임 구하기"
 #: software_installation.xml:18
 #, no-c-format
 msgid "This is a short list of available download locations. Packages which are not provided on our SourceForge pages might be outdated. Please see below for detailed download and installation instructions."
-msgstr ""
+msgstr "사용가능한 다운로드 지점들의 간단한 리스트입니다. 저희의 SourceForge 페이지에서 제공되지 않는 패키지들은 사용이 중지된 패키지들일 것입니다. 자세한 다운로드 및 설치 명령어를 보시려면 아래를 참고하십시오."
 
 #. Tag: para
 #: software_installation.xml:22
@@ -2344,19 +2344,19 @@ msgstr "바이블타임은 <ulink url=\"http://sourceforge.net/project/showfiles
 #: software_installation.xml:27
 #, no-c-format
 msgid "Debian packages are available for <ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">Debian Unstable</ulink> and <ulink url=\"http://packages.debian.org/stable/x11/bibletime\">Debian Stable</ulink>."
-msgstr ""
+msgstr "<ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">Debian Unstable</ulink>과 <ulink url=\"http://packages.debian.org/stable/x11/bibletime\">Debian Stable</ulink>을 위한 데비안 패키지가 사용가능합니다."
 
 #. Tag: para
 #: software_installation.xml:32
 #, no-c-format
 msgid "Gentoo packages are available on <ulink url=\"http://packages.gentoo.org/search/?sstring=bibletime\">www.gentoo.org</ulink>."
-msgstr ""
+msgstr "젠투 패키지가 <ulink url=\"http://packages.gentoo.org/search/?sstring=bibletime\">www.gentoo.org</ulink>에서 제공되고 있습니다."
 
 #. Tag: para
 #: software_installation.xml:37
 #, no-c-format
 msgid "A FreeBSD application port of BibleTime can be found on <ulink url=\"http://www.FreeBSD.org/cgi/ports.cgi?query=bibletime&amp;stype=all\">www.freebsd.org</ulink>."
-msgstr ""
+msgstr "바이블타임의 FreeBSD 포팅 버전을 <ulink url=\"http://www.FreeBSD.org/cgi/ports.cgi?query=bibletime&amp;stype=all\">www.freebsd.org</ulink>에서 구하실 수 있습니다."
 
 #. Tag: title
 #: software_installation.xml:45
@@ -2368,7 +2368,7 @@ msgstr "바이블타임의 설치"
 #: software_installation.xml:46
 #, no-c-format
 msgid "This section explains how to install BibleTime on your system. Basically there are two ways to install it: Either by using prebuilt binary packages or by compiling from source code. Installing BibleTime using prebuilt packages is the easiest way."
-msgstr ""
+msgstr "이 섹션은 바이블타임을 당신의 시스템에 설치하는 방법을 설명하고 있습니다. 기본적으로 설치하는 두가지 방법이 존재합니다: prebuilt binary packages를 사용하시거나 소스코드로부터 컴파일 하실 수 있습니다. prebuilt packages로 부터 설치하는 것이 가장 쉬운 방법일 것입니다."
 
 #. Tag: title
 #: software_installation.xml:50
@@ -2392,7 +2392,7 @@ msgstr "먼저 당신의 리눅스 배포판에 맞는 바이너리 패키지를
 #: software_installation.xml:57
 #, no-c-format
 msgid "If there are no packages for your version of Linux you have to install from source code. Please see below how to do that."
-msgstr ""
+msgstr "당신의 리눅스에 맞는 패키지가 없다면, 소스코드로부터 설치하셔야합니다. 아래의 설명을 참고해주십시오."
 
 #. Tag: title
 #: software_installation.xml:61
@@ -2404,13 +2404,13 @@ msgstr "소스코드로부터 컴파일하기"
 #: software_installation.xml:62
 #, no-c-format
 msgid "Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources:"
-msgstr ""
+msgstr "바이블타임을 소스코드로부터 설치하는 것은 바이너리 패키지를 사용하는 것보다 좀 더 어렵습니다. 소스로부터 설치하시려면 다음의 순서들을 따라주십시오:"
 
 #. Tag: para
 #: software_installation.xml:67
 #, no-c-format
 msgid "At first make sure the required software is installed on your system. Depending on your Linux distribution you have to install the development packages of the required software, too."
-msgstr ""
+msgstr "먼저 필요한 소프트웨어들이 시스템에 설치되어 있는 지를 확인하십시오. 리눅스 배포판에 따라서 필요한 소프트웨어들의 개발판(development) 버전들을 깔아야하는 경우도 있습니다."
 
 #. Tag: para
 #: software_installation.xml:72
@@ -2446,7 +2446,7 @@ msgstr "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Swor
 #: software_installation.xml:83
 #, no-c-format
 msgid "Installation instructions are available on <ulink url=\"http://www.crosswire.org/sword/software/index.jsp\">www.crosswire.org/sword/software</ulink>. Basically the installation steps are"
-msgstr ""
+msgstr "설치 명령어는 <ulink url=\"http://www.crosswire.org/sword/software/index.jsp\">www.crosswire.org/sword/software</ulink>에서 확인하실 수 있습니다. 기본적인 설치 과정들은 "
 
 #. Tag: screen
 #: software_installation.xml:84
@@ -2457,12 +2457,16 @@ msgid ""
 "                                                                <command>make install</command>\n"
 "                                                                <command>make install_config</command>"
 msgstr ""
+"<command>./usrinst.sh --enable-shared --with-curl --without-clucene</command>\n"
+"                                                                <command>make</command>\n"
+"                                                                <command>make install</command>\n"
+"                                                                <command>make install_config</command>"
 
 #. Tag: para
 #: software_installation.xml:89
 #, no-c-format
 msgid "Please note that this list is only valid for the latest version of BibleTime, older versions may require other software."
-msgstr ""
+msgstr "이 리스트는 최신판의 바이블타임에만 적용된다는 것을 명심하십시오. 구버전들은 다른 소프트웨어들을 필요로합니다."
 
 #. Tag: para
 #: software_installation.xml:94
@@ -2478,12 +2482,15 @@ msgid ""
 "                                                <command>make</command>\n"
 "                                                <command>make install</command>"
 msgstr ""
+"<command>./configure --prefix=&lt;your KDE directory&gt;</command>\n"
+"                                                <command>make</command>\n"
+"                                                <command>make install</command>"
 
 #. Tag: para
 #: software_installation.xml:98
 #, no-c-format
 msgid "You can get your KDE directory by running the command <command>kde-config --prefix</command>. If you get problems please read our <olink targetdocent=\"software_faq\">FAQ</olink>. If there's no solution of your problem, please contact us at <email>info@bibletime.info</email>."
-msgstr ""
+msgstr "<command>kde-config --prefix</command>란 명령어를 통해서 당신의 KDE 디렉토리를 확인하실 수 있습니다. 문제를 만나셨다면 <olink targetdocent=\"software_faq\">FAQ</olink> 페이지를 읽어주십시오. FAQ에서도 문제에 대한 답을 찾지 못하셨다면, <email>info@bibletime.info</email>로 연락주시기 바랍니다."
 
 #. Tag: title
 #: software_installation.xml:108
@@ -2495,13 +2502,13 @@ msgstr "스워드(Sword) 텍스트 모듈의 설치"
 #: software_installation.xml:109
 #, no-c-format
 msgid "You need Sword modules to work with BibleTime. Since version 1.4 BibleTime offers a userfriendly dialog to manage Sword modules. We strongly recommend this way to install modules on your computer."
-msgstr ""
+msgstr "바이블타임을 사용하시려면 스워드(Sword) 모듈이 필요합니다. 바이블타임 버전 1.4 부터는 스워드(Sword) 모듈을 관리하기 위한 편리한 창을 제공합니다. 관리창을 통하여 모듈들을 설치하시기를 권장합니다."
 
 #. Tag: para
 #: software_installation.xml:113
 #, no-c-format
 msgid "Instructions for manual module installation is available on <ulink url=\"http://www.crosswire.org/sword/modules/moduleinstall.jsp\">www.crosswire.org/sword/modules</ulink>."
-msgstr ""
+msgstr "수동 모듈 설치에 대한 설명은 <ulink url=\"http://www.crosswire.org/sword/modules/moduleinstall.jsp\">www.crosswire.org/sword/modules</ulink>에서 확인하실 수 있습니다."
 
 #. Tag: title
 #: software_installation.xml:117
@@ -2513,7 +2520,7 @@ msgstr "제공되는 모듈의 종류"
 #: software_installation.xml:118
 #, no-c-format
 msgid "Here is a list of available module types and where to get more information about the available module types:"
-msgstr ""
+msgstr "이곳에 제공되는 모듈들의 리스트와 자세한 정보를 얻을 수 있는 링크가 있습니다:"
 
 #. Tag: ulink
 #: software_installation.xml:122
@@ -3506,55 +3513,55 @@ msgstr "2003-12-29: BibleTime 1.4"
 #: software.xml:27
 #, no-c-format
 msgid "BibleTime 1.4.1 was released today. The most important changes in version 1.4.1 are updated translations and bugfixes, especially in the Sword setup dialog."
-msgstr ""
+msgstr "바이블타임 1.4.1이 오늘 릴리즈되었습니다. 버전 1.4.1에서의 가장 중요한 변화는 업데이트된 번역과 버그픽스들입니다. 특히 스워드(Sword)의 설치 창이 많이 개선되었습니다."
 
 #. Tag: para
 #: software.xml:30
 #, no-c-format
 msgid "We hope to provide more binary RPM packages in the next few days, but we're sorry that we can't provide a SuSE 9.0 RPM application-package because we don't have access to a clean SuSE 9.0 system. If one of our users has a clean SuSE 9.0 system running we'd appreciate his help."
-msgstr ""
+msgstr "며칠안으로 더 많은 바이너리 RPM 패키지들을 제공하려 합니다, 하지만 SuSE 9.0 RPM 패키지를 제공할 수 없는 것 같습니다. 테스트 할 수 있는 SuSE 9.0 시스템이 없습니다. 사용자 중에서 SuSE 9.0을 사용하고 계신 분이 계시다면 저희를 좀 도와주시기 바랍니다."
 
 #. Tag: title
 #: software.xml:35
 #, no-c-format
 msgid "2004-01-26: User forums online"
-msgstr ""
+msgstr "2004-01-26: 온라인 유저 포럼이 열렸습니다"
 
 #. Tag: para
 #: software.xml:36
 #, no-c-format
 msgid "We're happy to announce a forum for BibleTime users. Please ask all your questions there if you need help. We'd appreciate all feedback and suggestions in the forum, too. The address is <ulink url=\"http://www.crosswire.org/forums\">http://www.crosswire.org/forums</ulink>."
-msgstr ""
+msgstr "바이블타임 사용자들을 위한 포럼이 열렸다는 기쁜 소식을 접합니다. 도움이 필요하시면 어떤 질문이든지 하십시오. 또한, 피드백과 제안들도 모두 환영합니다. 주소는 <ulink url=\"http://www.crosswire.org/forums\">http://www.crosswire.org/forums</ulink>입니다."
 
 #. Tag: title
 #: software.xml:41
 #, no-c-format
 msgid "2004-01-16: Debian packages available"
-msgstr ""
+msgstr "2004-01-16: 데비안 패키지가 사용가능합니다"
 
 #. Tag: para
 #: software.xml:42
 #, no-c-format
 msgid "<ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">Debian packages of BibleTime 1.4</ulink> are available now in Debian Unstable. Be sure to get the <ulink url=\"http://packages.debian.org/unstable/kde/bibletime-i18n\">bibletime-i18n package</ulink>, too. Kudos to our Debian packager Daniel Glassey for his work!"
-msgstr ""
+msgstr "<ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">데비안용 바이블타임 1.4 패키지</ulink>(unstable)를 사용하실 수 있습니다. 반드시 <ulink url=\"http://packages.debian.org/unstable/kde/bibletime-i18n\">bibletime-i18n 패키지</ulink>를 함께 받으십시오. Kudos to our Debian packager Daniel Glassey for his work!"
 
 #. Tag: title
 #: software.xml:47
 #, no-c-format
 msgid "2004-01-11: New translation effort"
-msgstr ""
+msgstr "2004-01-11: 번역 작업을 위한 새로운 노력들"
 
 #. Tag: para
 #: software.xml:48
 #, no-c-format
 msgid "First of all we want to wish all of you a truly happy and blessed new year."
-msgstr ""
+msgstr "먼저 새해에도 정말 행복하시고 축복이 넘치는 한해되시길 바랍니다."
 
 #. Tag: para
 #: software.xml:51
 #, no-c-format
 msgid "As you probably already noticed, there is a new page online called <ulink url=\"translation.shtml\">&quot;Translation&quot;</ulink>. This page gives an introduction into how you can help with the translation of the different areas of the BibleTime project, and offers detailed statistics on the completeness of the existing languages. Be sure to check it out."
-msgstr ""
+msgstr "이미 알고 계시리라 생각되지만, <ulink url=\"translation.shtml\">&quot;Translation&quot;</ulink> 페이지가 새로 생겼습니다. 이 페이지는 바이블타임 프로젝트의 여러부분의 번역 작업을 돕는 방법에 대해서 소개하고 있으며, 각종 언어의 번역 작업의 자세한 통계자료를 제공하고 있습니다. 확인하시기 바랍니다."
 
 #. Tag: title
 #: software.xml:58
@@ -3704,7 +3711,7 @@ msgstr "새 검책 창"
 #: software_screenshots.xml:19
 #, no-c-format
 msgid "Since version 1.4 BibleTime offers a new dialog to manage Sword modules. It is now possible to setup Sword's configuration, install modules and uninstall modules using a userfriendly interface. <ulink url=\"/images//screenshots/3-large.jpg\">Large screenshot</ulink>"
-msgstr ""
+msgstr "바이블타임 버전 1.4 부터는 새로운 스워드(Sword) 모듈 관리 창을 제공하고 있습니다. 스워드의 환경 설정도 가능하며 모듈의 설치와 제거를 위한 편리한 인터페이스를 지원합니다. <ulink url=\"/images//screenshots/3-large.jpg\">큰 스크린샷</ulink>"
 
 #. Tag: phrase
 #: software_screenshots.xml:29
@@ -3836,73 +3843,73 @@ msgstr "당신의 언어로 된 www.bibletime.info"
 #: translation.xml:15
 #, no-c-format
 msgid "This is a part of software development where the help of many individals is needed. It is our desire to offer BibleTime to users in as many languages as possible. The following areas are open for your contributions:"
-msgstr ""
+msgstr "이것은 많은 분들의 참여가 필요한 소프트웨어 개발 작업의 일부입니다. 바이블타임이 가능한한 많은 언어로 지원되길 소망합니다. 다음의 영역들이 당신의 도움을 필요로 하고 있습니다:"
 
 #. Tag: para
 #: translation.xml:21
 #, no-c-format
 msgid "<para>Translate the www.bibletime.info website.</para>"
-msgstr ""
+msgstr "<para>www.bibletime.info 웹사이트의 번역.</para>"
 
 #. Tag: para
 #: translation.xml:22
 #, no-c-format
 msgid "<para>Translate the program's User Interface.</para>"
-msgstr ""
+msgstr "<para>프로그램의 사용자 인터페이스의 번역.</para>"
 
 #. Tag: para
 #: translation.xml:23
 #, no-c-format
 msgid "<para>Translate the program's handbook.</para>"
-msgstr ""
+msgstr "<para>프로그램 핸드북의 번역.</para>"
 
 #. Tag: para
 #: translation.xml:27
 #, no-c-format
 msgid "On this page you can find statistics about the completeness of existing translations for each of these areas, as well as links to translation templates that you can use to submit new translations which do not yet exist. If a translation into your language does not yet exist, just download the templates, translate them and send them to <email>info@bibletime.info</email>. If you are not satisfied with the status of your language's translation, you can directly download the corresponding file, update the translation and send it in. In both cases we'll be sure to integrate your work as soon as possible."
-msgstr ""
+msgstr "이 페이지에서 각 영역의 기존 번역작업완료도에 대한 통계를 보실 수 있으며, 새 번역작업을 위한 번역 자료도 확인하실 수 있습니다. 당신의 언어로의 번역이 존재하지 않는다면, 템플릿을 다운로드하셔서 번역하시다음 <email>info@bibletime.info</email>로 보내주십시오. 당신의 언어로의 번역 상태가 마음에 드시지 않는다면, 기존의 파일을 다운로드하셔서 업데이트 하신다음 보내주십시오. 두가지 경우 모두 빠른시간안에 당신의 번역물을 적용하겠습니다."
 
 #. Tag: para
 #: translation.xml:35
 #, no-c-format
 msgid "For the translation process we recommend that you use the excellent and mature program <ulink url=\"http://i18n.kde.org/tools/kbabel/\">KBabel</ulink>. It has many advanced features and is a great aid."
-msgstr ""
+msgstr "번역작업을 위해서는 훌륭하며 성숙한 프로그램인 <ulink url=\"http://i18n.kde.org/tools/kbabel/\">KBabel</ulink>을 사용하시기 바랍니다. 많은 훌륭한 기능들을 제공하여 번역작업에 큰도움이 됩니다."
 
 #. Tag: title
 #: translation.xml:42
 #, no-c-format
 msgid "<title>Translate the www.bibletime.info website.</title>"
-msgstr ""
+msgstr "<title>www.bibletime.info 웹사이트 번역.</title>"
 
 #. Tag: para
 #: translation.xml:43
 #, no-c-format
 msgid "If a translation of the website to your language does not yet exist, you can download and translate the <ulink url=\"/en/pot/full.pot\">Webpage translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
-msgstr ""
+msgstr "당신의 언어로의 웹사이트 번역이 존재하지 않는다면, <ulink url=\"/en/pot/full.pot\">웹페이지 번역 템플릿</ulink>에서 템플릿을 다운로드하여 번역하실 수 있습니다. 기존의 번역을 업데이트하시려면, 아래의 테이블에서 필요한 파일을 다운로드 하십시오."
 
 #. Tag: title
 #: translation.xml:52
 #, no-c-format
 msgid "<title>Translate the program's User Interface.</title>"
-msgstr ""
+msgstr "<title>프로그램 사용자 인터페이스의 번역.</title>"
 
 #. Tag: para
 #: translation.xml:53
 #, no-c-format
 msgid "If a translation of the User Interface to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD\"> User Interface translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
-msgstr ""
+msgstr "사용자 인터페이스의 번역이 아직 존재하지 않는다면, <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD\"> 사용자 인터페이스 번역 템플릿</ulink>에서 템플릿을 다운로드하여 번역하십시오. 기존의 번역을 업데이트하시려면, 아래 테이블에서 필요한 파일을 다운로드하십시오."
 
 #. Tag: title
 #: translation.xml:63
 #, no-c-format
 msgid "<title>Translate the program's handbook.</title>"
-msgstr ""
+msgstr "<title>프로그램 핸드북의 번역.</title>"
 
 #. Tag: para
 #: translation.xml:64
 #, no-c-format
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
-msgstr ""
+msgstr "당신의 언어로 된 핸드북이 존재하지 않는다면, <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> 핸드북 번역 템플릿</ulink>에서 템플릿을 다운로드하여 번역하실 수 있습니다. 기존의 번역을 업데이트하고 싶으시면, 아래의 테이블에서 필요한 파일을 다운로드하실 수 있습니다."
 
 #~ msgid "<ulink url=\"http://www.crosswire.org/mailman/listinfo/bt-devel\">www.crosswire.org/mailman/listinfo/bt-devel</ulink>."
 #~ msgstr "<ulink url=\"http://www.crosswire.org/mailman/listinfo/bt-devel\">www.crosswire.org/mailman/listinfo/bt-devel</ulink>."

@@ -7,6 +7,17 @@ use lib "../Perl";
 use Locale::PO;
 use strict;
 
+sub get_langs {
+	my $file = shift || "language.conf";
+	
+	open(IN, "< $file");
+	my $line = <IN>;
+	my @langs = split(" ", $line);
+	close(IN);
+	
+	return @langs;
+}
+
 sub parse_pofile(){
 	my $pofile = shift;
 	my $lang   = shift;
@@ -68,7 +79,7 @@ sub bibletime_stats() {
 #website stats
 open(OUT, "> website_stats.txt");
 
-my @langs = sort("bg", "cs", "de", "fr", "it", "ko", "nl", "pt-br", "ro", "ru", "ua");
+my @langs = sort &get_langs("../language.conf");
 foreach my $lang (@langs){
 	print OUT &parse_pofile( "../$lang/po/full.po", "$lang" );
 }

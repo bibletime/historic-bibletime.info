@@ -9,6 +9,17 @@ use strict;
 
 # This script updates the translation in the folder given as parameter
 
+sub get_langs {
+	my $file = shift || "language.conf";
+	
+	open(IN, "< $file");
+	my $line = <IN>;
+	my @langs = split(" ", $line);
+	close(IN);
+	
+	return @langs;
+}
+
 # 1st parameter is the dir with the english XML sources
 # 2nd parameter is the dir where the POT files should be put
 sub update_pot_files() {
@@ -139,7 +150,8 @@ while (my $lang = pop(@ARGV)) {
 	push(@langs, $lang);
 }
 if (!@langs) {
-	@langs = ("bg", "cs", "de", "fr", "nl", "ko", "pt-br", "ro", "ru", "ua");
+	@langs = sort &get_langs();
+	#("bg", "cs", "de", "fr", "nl", "ko", "pt-br", "ro", "ru", "ua");
 }
 
 #required for all languages

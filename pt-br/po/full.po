@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: full\n"
 "POT-Creation-Date: 2001-02-09 01:25+0100\n"
-"PO-Revision-Date: 2004-01-17 03:52-0200\n"
+"PO-Revision-Date: 2004-02-01 13:56-0200\n"
 "Last-Translator: Samuel Lucas Vaz de Mello <samuelm@estadao.com.br>\n"
 "Language-Team: Brazilian Portuguese\n"
 "MIME-Version: 1.0\n"
@@ -1109,7 +1109,7 @@ msgstr "Existem dez copias de Caesar's <emphasis>Gallaic War</emphasis>, a mais 
 #: how2-importance.docbook:74
 #, no-c-format
 msgid "Textual critic F. J. A. Hort, \"The New Testament in the Original Greek\", vol. 1 p561, Macmillan Co., quoted in <emphasis>Questions of Life</emphasis> p. 25-26"
-msgstr ""
+msgstr "Critica textual, F. J. A. Hort, \"O Novo Testamento no Original Grego\", vol. 1 p561, Macmillan Co., citado em <emphasis>Questões da Vida</emphasis> p. 25-26"
 
 #. Tag: para
 #: how2-importance.docbook:76
@@ -1886,9 +1886,9 @@ msgstr "O futuro do BibleTime"
 
 #. Tag: para
 #: software_about.xml:41
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "We're grateful that God supports us and that He blesses our work with new team members. God is good!"
-msgstr "Nós estamos gratos por Deus nos dar suporte e por nos abençoar com novos membros no time. Deus é excelente!"
+msgstr "Nós estamos gratos por Deus nos sustentar e por nos abençoar com novos membros no time. Deus é excelente!"
 
 #. Tag: para
 #: software_about.xml:45
@@ -2114,7 +2114,7 @@ msgstr "Por que um dos dois testamentos de um módulo da Bíblia fazio?"
 
 #. Tag: para
 #: software_faq.xml:122
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Some modules only contain the text of the old or new testament. Recent versions of BibleTime should only offer the testament which has some text in it."
 msgstr "Alguns módulos somente contêm textos do velho ou novo testamento. Versões recentes do BibleTime devem oferecer somente o testamento que contiver algum texto."
 
@@ -3522,33 +3522,33 @@ msgstr "Notícias sobre o BibleTime"
 
 #. Tag: title
 #: software.xml:26
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "2004-01-29: BibleTime 1.4.1"
-msgstr "29/12/2003: BibleTime 1.4"
+msgstr "29/01/2004: BibleTime 1.4.1"
 
 #. Tag: para
 #: software.xml:27
 #, no-c-format
 msgid "BibleTime 1.4.1 was released today. The most important changes in version 1.4.1 are updated translations and bugfixes, especially in the Sword setup dialog."
-msgstr ""
+msgstr "BibleTime 1.4.1 foi lançado hoje. A mudança mais importante na versão 1.4.1 são traduções atualizadas e correções de bugs, especialmente no diálogo de configuração do Sword."
 
 #. Tag: para
 #: software.xml:30
 #, no-c-format
 msgid "We hope to provide more binary RPM packages in the next few days, but we're sorry that we can't provide a SuSE 9.0 RPM application-package because we don't have access to a clean SuSE 9.0 system. If one of our users has a clean SuSE 9.0 system running we'd appreciate his help."
-msgstr ""
+msgstr "Nós esperamos fornecer mais pacotes binários RPM nos próximos dias, mas pedimos desculpas por não podermos fornecer um pacote RPM de aplicação para SuSE 9.0 porque nós não temos acesso a um sistema SuSE 9.0 limpo. Se algum de nossos usuários tiver um sistema rodando SuSE 9.0 limpo (i.e., sem alterações) nós apreciaríamos essa ajuda."
 
 #. Tag: title
 #: software.xml:35
 #, no-c-format
 msgid "2004-01-26: User forums online"
-msgstr ""
+msgstr "26/01/2004: Forums de usuários online"
 
 #. Tag: para
 #: software.xml:36
 #, no-c-format
 msgid "We're happy to announce a forum for BibleTime users. Please ask all your questions there if you need help. We'd appreciate all feedback and suggestions in the forum, too. The address is <ulink url=\"http://www.crosswire.org/forums\">http://www.crosswire.org/forums</ulink>."
-msgstr ""
+msgstr "Nós estamos felizes em anunciar um fórum para os usuários do BibleTime. Por favor, faça todas as perguntas lá se você precisar de ajuda. Nós apreciaremos todo retorno e sugestões no fórum também. O endereço é <ulink url=\"http://www.crosswire.org/forums\">http://www.crosswire.org/forums</ulink>."
 
 #. Tag: title
 #: software.xml:41
