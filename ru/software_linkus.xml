@@ -24,7 +24,7 @@
 ><title
 >1. Большой баннер</title>
 <para
-> Put the following HTML-code on your pages: <programlisting>
+> Put the following HTML code on your pages: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank"
 ><br/>
@@ -46,7 +46,7 @@
 ><title
 >2. Маленький баннер</title>
 <para
-> Put the following HTML-code on your pages: <programlisting>
+> Put the following HTML code on your pages: <programlisting>
 <![CDATA[
  <a href="http://www.bibletime.info/" target="_blank">
  <img src="http://www.bibletime.info/" width="88" height="31" border="0"/>

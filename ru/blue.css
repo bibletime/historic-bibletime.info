@@ -7,7 +7,7 @@ body, p, h1, h2, h3, h4, h5, h6, a:link, a:visited, a:hover, a:active, a:focus {
 	font-family:Verdana, Arial, Tahoma, Helevtica, sans-serif;
 }
 
-p {
+td, p {
 	font-size:0.95em;
 }
 
@@ -51,7 +51,7 @@ h3 {
 }
 
 h4 {
-	font-size:1.1em;
+	font-size:1.02em;
 }
 
 h5 {
@@ -101,15 +101,16 @@ textarea:focus {
 #header {
 	padding:0px;
 	height:86px;
-	clear:both;
 	color:white;
 	background-color:transparent;
-	background-image:url(/images/pagetop-left.png);
-	background-repeat:no-repeat;
 	border-bottom:1px solid lightGrey;
 }
 
-#header > img {
+#header > img.left {
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+}
+#header > img.right {
 	padding:0px 0px 0px 0px;
 	margin:0px 0px 0px 0px;
 	position:absolute;
@@ -222,12 +223,6 @@ textarea:focus {
 	margin:0px;
 }
 
-/*
-#content .section .titlepage div .title h1,h2 {
-	border-bottom:2px solid lightGrey;
-	text-decoration:underline;
-}*/
-
 .section p {
 	margin:3px 0px;
 	padding-left:10px;
@@ -241,20 +236,6 @@ textarea:focus {
 .mediaobject {
 	margin-bottom:30px;
 }
-/*.mediaobject img {
-	float:left;
-	width:70%;
-	margin:0px;
-}
-
-.mediaobject .caption {
-	float:right;
-	width:28%;
-	clear:right;
-	text-align:left;
-	padding:0px;
-	margin:0px;
-}*/
 
 .blockquote {
 	margin-bottom:25p;

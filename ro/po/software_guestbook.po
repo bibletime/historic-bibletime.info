@@ -25,7 +25,7 @@ msgstr "Cartea de oaspeti BibleTime"
 
 #: index.docbook:15
 #, fuzzy, no-c-format
-msgid "This page shows BibleTime's guestbook. Please post your own comments if you like. Please write your comments in english if possible! HTML is not allowed and will be removed. You may use normal line breaks to divide into paragraphs."
+msgid "This page shows BibleTime's guestbook. Please post your own comments if you like. Please write your comments in English if possible! HTML is not allowed and will be removed. You may use normal line breaks to divide into paragraphs."
 msgstr "Aceasta pagina afiseaza cartea de oaspeti BibleTime. Te rog pune propriile tale comentarii daca vrei. Te rog scrie-le, pe cat posibil in limba engleza!"
 
 #, fuzzy

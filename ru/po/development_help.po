@@ -47,7 +47,7 @@ msgstr "Умеешь программировать?"
 
 #: index.docbook:28
 #, fuzzy, no-c-format
-msgid "Do you know how to program in C++? Are you familiar with the KDE programming interface or are motivate to learn it? If you have time to regularly work on the BibleTime source code we ask you to join our team! If you want to join the team, please read the page &raquo;Join the team&laquo; in this section."
+msgid "Do you know how to program in C++? Are you familiar with the KDE programming interface or are motivate to learn it? If you have time to regularly work on the BibleTime source code we ask you to join our team! If you want to join the team, please read the page \"Join the team\" in this section."
 msgstr "Умеете ли вы программировать в С++?  Знаком ли вам интерфейс программирования KDE, а если нет, то хотите ли вы его выучить?  Если у вас есть время, чтобы регулярно работать над исходным кодом BibleTime добро пожаловать в нашу команду!"
 
 #: index.docbook:34
@@ -57,7 +57,7 @@ msgstr "Умеешь писать документацию?"
 
 #: index.docbook:35
 #, fuzzy, no-c-format
-msgid "Do you think you would be good in working on BibleTime's english documentation? If you think you are, please read the page &raquo;Join the team&laquo; in this section."
+msgid "Do you think you would be good in working on BibleTime's english documentation? If you think you are, please read the page \"Join the team\" in this section."
 msgstr "Если да, то прочитайте страницу \"Стань членом команды\"."
 
 #: index.docbook:41
@@ -71,6 +71,6 @@ msgid "BibleTime should be useable for everyone. That's why we need a translatio
 msgstr "Если вы захотите применить свои переводчиские способности напишите нам по адресу info@bibletime.info, чтобы убедится, что перевод на ваш язык еще не начат другим членом команды.  Мы вышлем вам файлы для перевода."
 
 #: index.docbook:47
-#, no-c-format
-msgid "Please use the KDE program called &raquo;KBabel&laquo; to translate the files! It's a good tool which simplifies the translation process"
+#, fuzzy, no-c-format
+msgid "Please use the KDE program called \"KBabel\" to translate the files! It's a good tool which simplifies the translation process"
 msgstr "После этого вы можете использовать программу KDE, которая называется \"KBabel\" для перевода этих файлов.  Эта программа - хороший инструмент в помощь переводчику."

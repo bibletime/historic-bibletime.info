@@ -45,7 +45,7 @@ msgstr ""
 
 #: index.docbook:28
 #, no-c-format
-msgid "Do you know how to program in C++? Are you familiar with the KDE programming interface or are motivate to learn it? If you have time to regularly work on the BibleTime source code we ask you to join our team! If you want to join the team, please read the page &raquo;Join the team&laquo; in this section."
+msgid "Do you know how to program in C++? Are you familiar with the KDE programming interface or are motivate to learn it? If you have time to regularly work on the BibleTime source code we ask you to join our team! If you want to join the team, please read the page \"Join the team\" in this section."
 msgstr ""
 
 #: index.docbook:34
@@ -55,7 +55,7 @@ msgstr ""
 
 #: index.docbook:35
 #, no-c-format
-msgid "Do you think you would be good in working on BibleTime's english documentation? If you think you are, please read the page &raquo;Join the team&laquo; in this section."
+msgid "Do you think you would be good in working on BibleTime's english documentation? If you think you are, please read the page \"Join the team\" in this section."
 msgstr ""
 
 #: index.docbook:41
@@ -70,5 +70,5 @@ msgstr ""
 
 #: index.docbook:47
 #, no-c-format
-msgid "Please use the KDE program called &raquo;KBabel&laquo; to translate the files! It's a good tool which simplifies the translation process"
+msgid "Please use the KDE program called \"KBabel\" to translate the files! It's a good tool which simplifies the translation process"
 msgstr ""

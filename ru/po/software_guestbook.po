@@ -27,7 +27,7 @@ msgstr "Гостевая книга BibleTime"
 
 #: index.docbook:15
 #, fuzzy, no-c-format
-msgid "This page shows BibleTime's guestbook. Please post your own comments if you like. Please write your comments in english if possible! HTML is not allowed and will be removed. You may use normal line breaks to divide into paragraphs."
+msgid "This page shows BibleTime's guestbook. Please post your own comments if you like. Please write your comments in English if possible! HTML is not allowed and will be removed. You may use normal line breaks to divide into paragraphs."
 msgstr "На этой странице вы найдете гостевую книгу проекта BibleTime.  Если хотите оставьте в книге ваши комментарии. Пожалуйста, если можете, пишите по английски."
 
 #, fuzzy

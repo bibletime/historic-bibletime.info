@@ -120,7 +120,7 @@ msgstr ""
 
 #: index.docbook:71
 #, no-c-format
-msgid "The online Bible is a powerful Bible study application for Windows."
+msgid "The Online Bible is a powerful Bible study application for Windows."
 msgstr ""
 
 #: index.docbook:76
@@ -140,7 +140,7 @@ msgstr ""
 
 #: index.docbook:83
 #, no-c-format
-msgid "Volksbibel 2000.2 is a german, metacard based software Bible study tool for Windows, Linux and Mac. Althouth there are not so many texts as other software packages have, it has some cool things like basic map support included. If you are german try it out!"
+msgid "Volksbibel 2000.2 is a German, metacard based software Bible study tool for Windows, Linux and Mac. Althouth there are not so many texts as other software packages have, it has some cool things like basic map support included. If you are german try it out!"
 msgstr ""
 
 #: index.docbook:90

@@ -8,28 +8,29 @@
 </head>
   <body>
     <div id="header">
-      <img src="/images/pagetop-right.png" />
+      <img height="86" class="left" alt="left" src="/images/pagetop-left.png" />
+      <img height="86" class="right" alt="right" src="/images/pagetop-right.png" />
       <div id="flags">
         <a title="en" href="/en/">
-          <img src="/images/flags/en.png" />
+          <img alt="en" src="/images/flags/en.png" />
         </a>
         <a title="de" href="/de/">
-          <img src="/images/flags/de.png" />
+          <img alt="de" src="/images/flags/de.png" />
         </a>
         <a title="pt-br" href="/pt-br/">
-          <img src="/images/flags/pt-br.png" />
+          <img alt="pt-br" src="/images/flags/pt-br.png" />
         </a>
         <a title="ro" href="/ro/">
-          <img src="/images/flags/ro.png" />
+          <img alt="ro" src="/images/flags/ro.png" />
         </a>
         <a title="ru" href="/ru/">
-          <img src="/images/flags/ru.png" />
+          <img alt="ru" src="/images/flags/ru.png" />
         </a>
         <a title="ua" href="/ua/">
-          <img src="/images/flags/ua.png" />
+          <img alt="ua" src="/images/flags/ua.png" />
         </a>
         <a href="/">
-          <img src="/images/flags/new-lang.png" />
+          <img alt="newlang" src="/images/flags/new-lang.png" />
         </a>
       </div>
     </div>
@@ -40,7 +41,7 @@
             <div class="naventry">
               <div class="toplevel">
                 <a href="index.html">
-                  <img src="/images/navicons/bibletime/other/closed.png" alt="" border="0" />
+                  <img src="/images/navicons/bibletime/other/closed.png" alt="" />
                 </a>
                 <span class="otherpage">
                   <a href="index.html">Приложения</a>
@@ -48,7 +49,7 @@
               </div>
               <div class="toplevel">
                 <a href="documentation.html">
-                  <img src="/images/navicons/bibletime/other/closed.png" alt="" border="0" />
+                  <img src="/images/navicons/bibletime/other/closed.png" alt="" />
                 </a>
                 <span class="otherpage">
                   <a href="documentation.html">Документация</a>
@@ -56,7 +57,7 @@
               </div>
               <div class="toplevel">
                 <a href="modules.html">
-                  <img src="/images/navicons/bibletime/other/open.png" alt="" border="0" />
+                  <img src="/images/navicons/bibletime/other/open.png" alt="" />
                 </a>
                 <span class="ancestor">
                   <a href="modules.html">Модули</a>
@@ -64,13 +65,13 @@
               </div>
               <div class="shrink1">
                 <a href="modules_swordcd.shtml">
-                  <img src="/images/navicons/bibletime/current/leaf.png" alt="" border="0" />
+                  <img src="/images/navicons/bibletime/current/leaf.png" alt="" />
                 </a>
                 <span class="curpage">Sword на CD</span>
               </div>
               <div class="toplevel">
                 <a href="development.html">
-                  <img src="/images/navicons/bibletime/other/closed.png" alt="" border="0" />
+                  <img src="/images/navicons/bibletime/other/closed.png" alt="" />
                 </a>
                 <span class="otherpage">
                   <a href="development.html">Разработка ПО</a>
@@ -78,7 +79,7 @@
               </div>
               <div class="toplevel">
                 <a href="biblehowto.html">
-                  <img src="/images/navicons/bibletime/other/leaf.png" alt="" border="0" />
+                  <img src="/images/navicons/bibletime/other/leaf.png" alt="" />
                 </a>
                 <span class="otherpage">
                   <a href="biblehowto.html">Как изучать Библию</a>
@@ -86,28 +87,28 @@
               </div>
             </div>
             <div id="logos">
-              <a href="http://www.sf.net/projects/bibletime/" target="_blank">
-                <img src="http://sourceforge.net/sflogo.php?group_id=954&amp;type=1" alt="sf logo" width="88" height="31" vspace="3" border="0" />
+              <a href="http://www.sf.net/projects/bibletime/">
+                <img src="http://sourceforge.net/sflogo.php?group_id=954&amp;type=1" alt="sf logo" width="88" height="31" />
               </a>
               <br />
-              <img src="http://cgicounter.puretec.de/cgi-bin/cnt?clsid=6bfe60d8ff2e9c56d7db8be538c054421" />
+              <img alt="counter" src="http://cgicounter.puretec.de/cgi-bin/cnt?clsid=6bfe60d8ff2e9c56d7db8be538c054421" />
             </div>
           </div>
           <div id="rightpanel"></div>
           <div id="content">
-            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821809"></a>Что такое Sword на компакт-диске?</h2></div></div><div></div></div>
+            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821831"></a>Что такое Sword на компакт-диске?</h2></div></div><div></div></div>
 <p> The Sword project offers a CD which contains all the software for Windows, Linux and Mac OS X. The CD is freely available like all the other things the Crosswire Bible society is offering for you! See below how to download the CD. If you can't download the CD, for example because you don't have a fast connection, you can order the CD. If you're living in Europe the BibleTime developers send out the CDs to you. In this case please fill out the form below and send it away. </p>
 </div>
-            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821830"></a>What can I do with the CD?</h2></div></div><div></div></div>
+            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821852"></a>What can I do with the CD?</h2></div></div><div></div></div>
 <p> You can do several important things with the CD: </p><div class="itemizedlist"><ul><li> <p><b>Study the Bible! </b>  Use all the bibles, commentaries, lexicons, glossaries and books to study God's word! We hope, that the CD helps you to study the word in a more efficient way!  </p> </li><li> <p><b>Make copies of the CD! </b>  Please copy the CD and share it with many others! If you can, please do this for free. If you can't, please demand only the money to cover your expenses, otherwise it woudn't be possible to distribute some of the texts on the CD.  </p> </li></ul></div><p> </p>
 </div>
-            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821885"></a>I want to download the Sword CD!</h2></div></div><div></div></div>
+            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821907"></a>I want to download the Sword CD!</h2></div></div><div></div></div>
 <p> No problem! Please download the file with the latest date from <a href="ftp://ftp.crosswire.org/pub/sword/iso/" target="_top">ftp.crosswire.org/pub/sword/iso/</a>. Don't forget that the file is over 600 MB large and that you should have a fast connection to download it. </p>
 </div>
-            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821908"></a>I want to order the Sword CD!</h2></div></div><div></div></div>
+            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821930"></a>I want to order the Sword CD!</h2></div></div><div></div></div>
 <p> If you're NOT living in Europe please go to the Crosswire's CD order page and order the CD there. If you're living somewhere in Europe the BibleTime developers will send you the CD. Please fill in the required information in the form below and send it. The BibleTime developers will send you the CDs for free. </p>
 </div>
-            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821925"></a>Sword на CD</h2></div></div><div></div></div>
+            <div xmlns="http://www.w3.org/1999/xhtml" class="section" lang="en" xml:lang="en"><div class="titlepage"><div><div><h2 class="title"><a id="id2821947"></a>Sword на CD</h2></div></div><div></div></div>
 <!--#exec cgi="/swordcd.pl"-->
 </div>
           </div>

@@ -25,5 +25,5 @@ msgstr "Документація BibleTime"
 
 #: index.docbook:15
 #, no-c-format
-msgid "This page shows BibleTime's guestbook. Please post your own comments if you like. Please write your comments in english if possible! HTML is not allowed and will be removed. You may use normal line breaks to divide into paragraphs."
+msgid "This page shows BibleTime's guestbook. Please post your own comments if you like. Please write your comments in English if possible! HTML is not allowed and will be removed. You may use normal line breaks to divide into paragraphs."
 msgstr ""

@@ -65,5 +65,5 @@ msgstr "Raporteaza probleme ale site-ului"
 
 #: index.docbook:39
 #, no-c-format
-msgid "If you have problem with the webpages or if youhave some ideas how to improve them please write it down using the link!"
+msgid "If you have problem with the webpages or if you have some ideas how to improve them please write it down using the link!"
 msgstr ""
