@@ -28,12 +28,12 @@
 				<para>As you can see, BibleTime renders the text correctly from right to left.
 				Those of you who can read Hebrew will notice that the Vowel Points and the Cantillation Marks (you can
 				switch both of them on and off) are displayed correctly.
-				<ulink url="/images/gallery/bhs_small.jpg">Large screenshot</ulink>
+				<ulink url="/images/gallery/bhs.png">Large screenshot</ulink>
 				</para>
 			</formalpara>
 		</caption>
 		<imageobject>
-			<imagedata fileref="/images/gallery/bhs.png" format="PNG"/>
+			<imagedata fileref="/images/gallery/bhs_small.jpg" format="JPG"/>
 		</imageobject>
 		<textobject>
 			<phrase>BHS - hebrew rendering</phrase>
@@ -45,11 +45,11 @@
 			<formalpara><title>Peshitta - early syrian translation</title>
 				<para>The <emphasis>Peshitta</emphasis> contains an early Syrian text, running from right to left.</para>
 				<para>QT renders this text very nice with Code2000, which is one of the very few fonts that support	syrian characters.
-				<ulink url="/images/gallery/peshitta_small.jpg">Large screenshot</ulink></para>
+				<ulink url="/images/gallery/peshitta.png">Large screenshot</ulink></para>
 			</formalpara>
 		</caption>
 		<imageobject>
-			<imagedata fileref="/images/gallery/peshitta.png" format="PNG"/>
+			<imagedata fileref="/images/gallery/peshitta_small.jpg" format="JPG"/>
 		</imageobject>
 		<textobject>
 			<phrase>Peshitta - early syrian translation</phrase>
@@ -62,11 +62,11 @@
 				<para><emphasis>AraSVD</emphasis>: The Arabic Bible. Very nice example for right-to-left
 				rendering of a complex script - Arabic is probably one of the most complicated scripts of
 				the world. This screenshot was taken after linebreaks were switched off, providing a more readable text view.
-				<ulink url="/images/gallery/arasvd_small.jpg"></ulink></para>
+				<ulink url="/images/gallery/arasvd.png"></ulink></para>
 			</formalpara>
 		</caption>
 		<imageobject>
-			<imagedata fileref="/images/gallery/arasvd.png" format="PNG"/>
+			<imagedata fileref="/images/gallery/arasvd_small.jpg" format="JPG"/>
 		</imageobject>
 		<textobject>
 			<phrase>The Arabic Bible</phrase>
@@ -78,11 +78,11 @@
 			<formalpara><title>Chinese rendering</title>
 				<para><emphasis>ChiGU</emphasis>: Chinese Bible text. Since QT 3 BibleTime can correctly
 				break the paragraphs (as you may know, there are no spaces between words).
-				<ulink url="/images/gallery/chigu_small.jpg"></ulink></para>
+				<ulink url="/images/gallery/chigu.png"></ulink></para>
 			</formalpara>
 		</caption>
 		<imageobject>
-			<imagedata fileref="/images/gallery/chigu.png" format="PNG"/>
+			<imagedata fileref="/images/gallery/chigu_small.jpg" format="JPG"/>
 		</imageobject>
 		<textobject>
 			<phrase>Chinese rendering</phrase>
@@ -96,11 +96,11 @@
 				brackets are Strongnumbers, whereas the numbers in "( )" brackets are Morphologic Tags.
 				Both of them can displayed in a tooltip using a predefined Strong's and Morphology dictionary,
 				as you can see in the example.
-				<ulink url="/images/gallery/ignt_small.jpg"></ulink></para>
+				<ulink url="/images/gallery/ignt.png"></ulink></para>
 			</formalpara>
 		</caption>
 		<imageobject>
-			<imagedata fileref="/images/gallery/ignt.png" format="PNG"/>
+			<imagedata fileref="/images/gallery/ignt_small.jpg" format="JPG"/>
 		</imageobject>
 		<textobject>
 			<phrase>Greek rendering with Strong's numbers and morphological tags</phrase>
@@ -115,11 +115,11 @@
 				They are displayed in a parallel view in one window. The first line of Thai text is of a
 				little smaller pointsize. It is a section heading, and those can be turned on and off using
 				the first toolbutton in the display window.
-				<ulink url="/images/gallery/korthai_small.jpg"></ulink></para>
+				<ulink url="/images/gallery/korthai.png"></ulink></para>
 			</formalpara>
 		</caption>
 		<imageobject>
-			<imagedata fileref="/images/gallery/korthai.png" format="PNG"/>
+			<imagedata fileref="/images/gallery/korthai_small.jpg" format="JPG"/>
 		</imageobject>
 		<textobject>
 			<phrase>Korean and Thai</phrase>
@@ -132,11 +132,11 @@
 				<para><emphasis>Bulgarian</emphasis>: The Bible in Bulgarian language. Bulgarian uses the Kyrillic
 				script, which is also used in other languages like Russian. Notice the marked text - it is a
 				"footnote". The popup menu shows how those can be turned on and off.
-				<ulink url="/images/gallery/bulgarian_small.jpg"></ulink></para>
+				<ulink url="/images/gallery/bulgarian.png"></ulink></para>
 			</formalpara>
 		</caption>
 		<imageobject>
-			<imagedata fileref="/images/gallery/bulgarian.png" format="PNG"/>
+			<imagedata fileref="/images/gallery/bulgarian_small.jpg" format="JPG"/>
 		</imageobject>
 		<textobject>
 			<phrase>Bulgarian and footnotes</phrase>
@@ -148,11 +148,11 @@
 			<formalpara><title>Vietnamese and Romanian</title>
 				<para><emphasis>Viet</emphasis> and <emphasis>RomCor</emphasis>. East Europe meets East Asia!
 				Vietnamese and Romanian are not geographically linked, though they look somehow similar in this screenshot.
-				<ulink url="/images/gallery/vietromcor_small.jpg"></ulink></para>
+				<ulink url="/images/gallery/vietromcor.png"></ulink></para>
 			</formalpara>
 		</caption>
 		<imageobject>
-			<imagedata fileref="/images/gallery/vietromcor.png" format="PNG"/>
+			<imagedata fileref="/images/gallery/vietromcor_small.jpg" format="JPG"/>
 		</imageobject>
 		<textobject>
 			<phrase>Vietnamese and Romanian</phrase>
@@ -165,11 +165,11 @@
 				<para>YES, there is a Bible for those of you who prefer to speak Esperanto. This is not really a
 				Unicode example, since the displayed characters come from the iso 8859-1 charset. But this shows
 				how text looks like after switching off versenumbers and linebreaks.
-				<ulink url="/images/gallery/esperanto_small.jpg"></ulink></para>
+				<ulink url="/images/gallery/esperanto.png"></ulink></para>
 			</formalpara>
 		</caption>
 		<imageobject>
-			<imagedata fileref="/images/gallery/esperanto.png" format="PNG"/>
+			<imagedata fileref="/images/gallery/esperanto_small.jpg" format="JPG"/>
 		</imageobject>
 		<textobject>
 			<phrase>Esperanto without verse numbers and linebreaks</phrase>
@@ -186,7 +186,7 @@
 			</formalpara>
 		</caption>
 		<imageobject>
-			<imagedata fileref="/images/gallery/X.png" format="PNG"/>
+			<imagedata fileref="/images/gallery/X.png" format="JPG"/>
 		</imageobject>
 		<textobject>
 			<phrase></phrase>
