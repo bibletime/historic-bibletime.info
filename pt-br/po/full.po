@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: application/x-xml2pot; charset=UTF-8\n"
 "Content-Transfer-Encoding: ENCODING\n"
 
-#: index.docbook:4 index.docbook:16
+#: index.docbook:4 index.docbook:16 index.docbook:15
 #, no-c-format
 msgid "The BibleTime developers - www.bibletime.info"
 msgstr ""
@@ -215,21 +215,6 @@ msgid "HowTo"
 msgstr ""
 
 #: index.docbook:15
-#, no-c-format
-msgid "BibleTime's development"
-msgstr "Desenvolvimento do BibleTime"
-
-#: index.docbook:16
-#, no-c-format
-msgid "These pages describe how to join in the development of BibleTime and which ways exist to help us! BibleTime's quality and usefulness depends on the help of others to a large degree."
-msgstr "Estas páginas descrevem como se juntar ao desenvolvimento do BibleTime e quais as formas existentes de nos ajudar! A qualidade de usabilidade do BibleTime depende em larga escala da ajuda de outros."
-
-#: index.docbook:20
-#, no-c-format
-msgid "Please read the following pages very carefully to see whether you can help us with the development!"
-msgstr "Por favor leia as seguintes páginas muito cuidadosamente para ver se você pode nos ajudar com o desenvolvimento!"
-
-#: index.docbook:15
 #, fuzzy, no-c-format
 msgid "Help us ..."
 msgstr "Nos ajude"
@@ -419,15 +404,20 @@ msgstr "Arquivos de listas de discussão de desenvolvimento do Sword estão disp
 msgid "www.crosswire.org/pipermail/sword-devel"
 msgstr ""
 
-#: index.docbook:14
+#: index.docbook:15
 #, no-c-format
-msgid "BibleTime's documemtation"
-msgstr "Documentação do BibleTime"
+msgid "BibleTime's development"
+msgstr "Desenvolvimento do BibleTime"
 
 #: index.docbook:16
-#, fuzzy, no-c-format
-msgid "Since you have to know how to install and use BibleTime we provide here some useful documentation pages and links. Since many users have the same problems with BibleTime please be sure to check the answers in the FAQ if you have problem."
-msgstr "Desde que você deve saber como instalar e usar o BibleTime nós provemos aqui algumas páginas de informação útil e links. Desde que muitos usuários tem os mesmos problemas com BibleTime por favor tenha certeza de checar as respostas se você tiver problemas."
+#, no-c-format
+msgid "These pages describe how to join in the development of BibleTime and which ways exist to help us! BibleTime's quality and usefulness depends on the help of others to a large degree."
+msgstr "Estas páginas descrevem como se juntar ao desenvolvimento do BibleTime e quais as formas existentes de nos ajudar! A qualidade de usabilidade do BibleTime depende em larga escala da ajuda de outros."
+
+#: index.docbook:20
+#, no-c-format
+msgid "Please read the following pages very carefully to see whether you can help us with the development!"
+msgstr "Por favor leia as seguintes páginas muito cuidadosamente para ver se você pode nos ajudar com o desenvolvimento!"
 
 #: index.docbook:14
 #, no-c-format
@@ -691,6 +681,16 @@ msgstr "A instalação básica é descrita nas páginas da Sociedade Bíblica Cr
 msgid "http://www.crosswire.org/sword/software/index.jsp"
 msgstr ""
 
+#: index.docbook:14
+#, no-c-format
+msgid "BibleTime's documemtation"
+msgstr "Documentação do BibleTime"
+
+#: index.docbook:16
+#, fuzzy, no-c-format
+msgid "Since you have to know how to install and use BibleTime we provide here some useful documentation pages and links. Since many users have the same problems with BibleTime please be sure to check the answers in the FAQ if you have problem."
+msgstr "Desde que você deve saber como instalar e usar o BibleTime nós provemos aqui algumas páginas de informação útil e links. Desde que muitos usuários tem os mesmos problemas com BibleTime por favor tenha certeza de checar as respostas se você tiver problemas."
+
 #: index.docbook:15
 #, fuzzy, no-c-format
 msgid "Requirements for BibleTime 1.1"
@@ -724,6 +724,16 @@ msgstr ""
 #: index.docbook:14
 #, no-c-format
 msgid "The document is not available"
+msgstr ""
+
+#: index.docbook:15
+#, no-c-format
+msgid "The document you wanted to get is not available on <ulink url=\"http://www.bibletime.info/\">www.bibletime.info</ulink>. Please use the navigation tree on the left to see if the document was moved."
+msgstr ""
+
+#: index.docbook:19
+#, no-c-format
+msgid "If you can't solve the problem please report the URL which failed to <email>info@bibletime.info</email>. Thank you very much!"
 msgstr ""
 
 #: index.docbook:15
@@ -2794,6 +2804,16 @@ msgstr ""
 #: index.docbook:33
 #, no-c-format
 msgid "The search dialog of previous versions wasn't easy to use. This is the new search dialog together with the new module chooser window on the right. <ulink url=\"/screenshots/2-large.jpg\">Large screenshot</ulink>"
+msgstr ""
+
+#: index.docbook:16
+#, no-c-format
+msgid "Here you can see some improvements of BibleTime 1.3. The tree on the left is now set up by module type and language. The greek text in the right display window is now displayed better because BibleTime supports now own font settings for each language. <ulink url=\"/images//screenshots/1-large.jpg\">Large screenshot</ulink>"
+msgstr ""
+
+#: index.docbook:33
+#, no-c-format
+msgid "The search dialog of previous versions wasn't easy to use. This is the new search dialog together with the new module chooser window on the right. <ulink url=\"/images/screenshots/2-large.jpg\">Large screenshot</ulink>"
 msgstr ""
 
 #~ msgid "What BibleTime is ..."

@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY documentation_installation_bibletime SYSTEM "documentation_installation_bibletime.xml" NDATA XML>
 ]>
@@ -22,10 +22,12 @@
 > Existem vários pacotes RPM disponíveis para BibleTime. Para ver se eles foram feitos para o seu sistema dê uma olhada no nome do arquivo do pacote. Eles contêm o nome abreviado e versão da distribuição Linux para o qual foram feitos. </para>
 
 <para
->  </para>
+> The "bibletime" package contains the software and documentation in English. Translation files for both are to be found in the "bibletime-i18n" package. </para>
 
 <para
->  </para>
+> You can download BibleTime at <ulink url="http://sourceforge.net/project/showfiles.php?group_id=954"
+>our sourceforge project pages</ulink
+>. </para>
 
 </section>
 
@@ -34,7 +36,9 @@
 ><title
 >Instalação</title>
 <para
->  </para>
+> Please read the <olink targetdocent="documentation_installation_bibletime"
+>installation instructions</olink
+>. </para>
 </section>
 
 </webpage>

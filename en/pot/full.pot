@@ -918,6 +918,21 @@ msgstr ""
 #: index.docbook:15
 #, no-c-format
 msgid ""
+"The document you wanted to get is not available on <ulink url=\"http://www."
+"bibletime.info/\">www.bibletime.info</ulink>. Please use the navigation tree "
+"on the left to see if the document was moved."
+msgstr ""
+
+#: index.docbook:19
+#, no-c-format
+msgid ""
+"If you can't solve the problem please report the URL which failed to "
+"<email>info@bibletime.info</email>. Thank you very much!"
+msgstr ""
+
+#: index.docbook:15
+#, no-c-format
+msgid ""
 "The document you wanted to get is not available on www.bibletime.info. "
 "Please use the navigation tree on the left to see if the document was moved."
 msgstr ""

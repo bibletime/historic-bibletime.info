@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
 ]>
@@ -21,13 +21,15 @@
 <para
 > Para assinar a lista de discussão de desenvolvimento do projeto BibleTime por favor visite a seguinte página e digite seu endereço de eMail lá: </para>
 <para
->  </para>
+> <ulink url="http://www.crosswire.org/mailman/listinfo/bt-devel"
+>www.crosswire.org/mailman/listinfo/bt-devel</ulink
+>. </para>
 
 <para
 > Arquivos da lista de discussão de desenvolvimento do BibleTime estão disponíveis em: </para>
 <para
 > <ulink url="http://www.crosswire.org/pipermail/bt-devel/"
-></ulink
+>www.crosswire.org/pipermail/bt-devel</ulink
 > </para>
 </section>
 
@@ -38,13 +40,15 @@
 > Para assinar a lista de discussão de desenvolvimento do projeto Sword por favor visite a seguinte página web e digite seu endereço de eMail lá: </para>
 
 <para
->  </para>
+> <ulink url="http://www.crosswire.org/mailman/listinfo/sword-devel"
+>www.crosswire.org/mailman/listinfo/sword-devel</ulink
+>. </para>
 <para
 > Arquivos de listas de discussão de desenvolvimento do Sword estão disponíveis em: </para>
 
 <para
 > <ulink url="http://www.crosswire.org/pipermail/sword-devel/"
-></ulink
+>www.crosswire.org/pipermail/sword-devel</ulink
 > </para>
 </section>
 

@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
 ]>
@@ -19,7 +19,7 @@
 ><title
 >O que é o CD Sword?</title>
 <para
->  </para>
+> The Sword project offers a CD which contains all the software for Windows, Linux and Mac OS X. The CD is freely available like all the other things the Crosswire Bible society is offering for you! See below how to download the CD. If you can't download the CD, for example because you don't have a fast connection, you can order the CD. If you're living in Europe the BibleTime developers send out the CDs to you. In this case please fill out the form below and send it away. </para>
 </section>
 
 

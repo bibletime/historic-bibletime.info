@@ -1,4 +1,4 @@
-<!DOCTYPE webpage SYSTEM "schema/dtd/website.dtd" [
+<!DOCTYPE webpage SYSTEM "../en/schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 ]>
 
@@ -7,7 +7,7 @@
 <config param="rcsdate" value="$Date$"/>
 <head>
 <title
-></title>
+>Sword</title>
 <summary
 >How to install Swors</summary>
 <keywords
@@ -32,7 +32,7 @@
 
 <para
 > <ulink url="http://www.crosswire.org/sword/software/index.jsp"
-></ulink
+>http://www.crosswire.org/sword/software/index.jsp</ulink
 > </para>
 </section>
 
