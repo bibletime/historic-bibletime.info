@@ -29,6 +29,8 @@ RewriteRule	^screenshots.s?html?$		/software_screenshots.html
 RewriteRule	^screenshots_old.s?html?$	/software_screenshots.html
 RewriteRule	^sword_cd.s?html?$		/modules_swordcd.html
 
+RewriteRule	^screenshots/(.*)$		/images/screenshots/$1
+
 #URLS which changed while working on the pages
 RewriteRule	^contact/links/$		/software_links.html
 RewriteRule	^contact/linkus/$		/software_linkus.html
