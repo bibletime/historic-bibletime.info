@@ -18,7 +18,7 @@ As you may have noticed BibleTime's webpage is available in different languages.
 
 <section><title>Translation in a new language</title>
 <para>
-If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <ulink url="/en/pot/full.pot">Webpage translation template</ulink>. We recommend to use the program <ulink url="http://i18n.kde.org/tools/kbabel/">KBabel</ulink> to translate the file. If you're finished translating it, send it to <email>info@bibletime.info</email>.
+If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <ulink url="/en/pot/full.pot">Webpage translation template</ulink>. We recommend to use the program <ulink url="http://i18n.kde.org/tools/kbabel/">KBabel</ulink> to translate the file. If you've finished translating it, please send it to <email>info@bibletime.info</email>.
 </para>
 </section>
 
@@ -27,7 +27,21 @@ If the translation in your language doesn't exist yet, it's easy to do a transla
 <para>
 The following charts show the current translations and how much translations work they still need. If you speak one of those languages and want to update a translation just click on the download link and start working on the update. Don't hesitate to ask us <email>info@bibletime.info</email> if you have questions about the translation.
 </para>
-	<ssi mode="exec" cgi="/postats.pl"/>
+	<ssi mode="exec" cgi="/postats/website_stats.pl"/>
+</section>
+
+<section><title>GUI messages translations</title>
+<para>
+Translations of the BibleTime user interface messages.
+</para>
+	<ssi mode="exec" cgi="/postats/messages_stats.pl"/>
+</section>
+
+<section><title>Handbook translations</title>
+<para>
+Translations of BibleTime's handbook.
+</para>
+	<ssi mode="exec" cgi="/postats/handbook_stats.pl"/>
 </section>
 
 </section>

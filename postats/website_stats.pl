@@ -17,5 +17,5 @@ my $stats = SSI::POStats->new( $cgi );
 print $cgi->header();
 
 print $cgi->start_div({-id=>'postats'});
-print $stats->show_stats("website_stats.pl");
+print $stats->show_stats("website_stats.txt");
 print $cgi->end_div();
