@@ -2,6 +2,7 @@
 # This script processes the makefiles and creates the file which contains the necessary
 # entries so the SSI script can create the translation statistics
 
+use lib "Perl";
 use lib "../Perl";
 use Locale::PO;
 use strict;
@@ -46,25 +47,28 @@ sub parse_pofile(){
 sub bibletime_stats() {
 	my $sourcedir = shift;
 	my $targetfile = shift;
+	my @files;
 
-	open(FILE, "> $targetfile");
 	opendir(DIR, $sourcedir);
-
 	while (my $pofile = readdir(DIR)) {
 		next unless ($pofile =~ /(\.po)$/);
+		push (@files, $pofile);
+	}
+	closedir(DIR);
+
+	open(FILE, "> $targetfile");
+	foreach my $pofile (sort(@files)) {
 		my $lang = $pofile;
 		$lang =~ s/(\.po)$//;
 		print FILE &parse_pofile("$sourcedir/$pofile", "$lang");
 	}
-
 	close(FILE);
-	closedir(DIR);
 }
 
 #website stats
 open(OUT, "> website_stats.txt");
 
-my @langs = ("bg", "de", "ko", "pt-br", "ro", "ru", "ua");
+my @langs = sort("bg", "de", "ko", "pt-br", "ro", "ru", "ua");
 foreach my $lang (@langs){
 	print OUT &parse_pofile( "../$lang/po/full.po", "$lang" );
 }
@@ -73,4 +77,4 @@ close(OUT);
 #bibletime stats
 &bibletime_stats( "../../bibletime-i18n/po", 					"messages_stats.txt" );
 &bibletime_stats( "../../bibletime-i18n/po/howto", 		"howto_stats.txt" );
-&bibletime_stats( "../../bibletime-i18n/po/handbook", 	"handbook_stats.txt" );
+&bibletime_stats( "../../bibletime-i18n/po/handbook", "handbook_stats.txt" );
