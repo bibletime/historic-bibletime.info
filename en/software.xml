@@ -1,6 +1,7 @@
 <!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_about SYSTEM "software_about.xml" NDATA XML>
+<!ENTITY development_team SYSTEM "development_team.xml" NDATA XML>
 ]>
 
 <webpage id="software">
