@@ -14,17 +14,20 @@
 
 <section><title>Joachim</title>
 
-<formalpara><title>Age:</title></formalpara>
+<formalpara><title>Age:</title>
+<para>22</para>
+</formalpara>
 
-<formalpara><title>Occupation:</title>Student of IT</formalpara>
+<formalpara><title>Occupation:</title>
+<para>Student of IT</para>
+</formalpara>
 
 <formalpara><title>BibleTime involvement:</title>
+<para></para>
 </formalpara>
 
 <formalpara><title>Planned tasks:</title>
-</formalpara>
-
-<formalpara><title>Support this project member:</title>
+<para></para>
 </formalpara>
 
 </section>
@@ -33,31 +36,34 @@
 
 <section><title>Martin</title>
 
-<formalpara><title>Age:</title>24</formalpara>
+<formalpara><title>Age:</title><para>24</para></formalpara>
 
-<formalpara><title>Occupation:</title>Student of Theology</formalpara>
+<formalpara><title>Occupation:</title><para>Student of Theology</para></formalpara>
 
 <formalpara><title>BibleTime involvement:</title>
-I have been involved in BibleTime
+<para>I have been involved in BibleTime
 since 1999. So far I helped with the project administration, the
 build system, parts of the code in the backend as well as in the User
 Interface of BibleTime, and recently I designed the Install Manager.
+</para>
 </formalpara>
 
 <formalpara><title>Planned tasks:</title>
-Revise the Handbook. Test the code
+<para>Revise the Handbook. Test the code
 thoroughly and fix remaining bugs. Prepare for the 1.5 release (Sword
 1.5.8 release needed).
+</para>
 </formalpara>
 
 <formalpara><title>Support this project member:</title>
+<para>
 Since I have to finance my
 studies, I need to earn some money. Would you like to help me work on
 BibleTime instead of something else? Please consider making a
 donation, even small amounts will help a lot and be used to perform
 work on BibleTime (code, docs, administration, sword). I'll provide
 reports on how much I worked on BibleTime and what I got accomplished
-during that time.
+during that time.</para>
 </formalpara>
 
 <para>
