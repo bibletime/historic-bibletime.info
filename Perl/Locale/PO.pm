@@ -239,7 +239,7 @@ sub load_file {
       # contined string
       $buffer .= $self->dequote($_);
     } else {
-      warn "Strange line in $file: $_\n";
+      #warn "Strange line in $file: $_\n";
     }
   }
   if (defined($po)) {
