@@ -251,7 +251,7 @@ textarea:focus {
      z-index:3; /* This allows the content to overlap the right menu in narrow windows in good browsers. */	
 	margin:0 170px 0 180px;
 	padding-top:10px;
-	background-color:transparent;
+	background-color:white;
 }
 
 #content img {
@@ -366,7 +366,7 @@ p.title {
 	font-size:1.0em;
 }
 
-pre {
+#software_linkus pre {
 	white-space: normal;
 	margin:5px 15px;
 	font-size:0.95em;
@@ -445,7 +445,7 @@ pre {
 /* --------------------- Own stuff ------------------------ */
 
 div.guestbook {
-	width:100%;
+	width:80%;
 	}
 div.guestbook form.additem {
 	color:black;
@@ -454,7 +454,7 @@ div.guestbook form.additem {
 	margin-bottom:15px;
 	}
 div.guestbook .item {
-	width:100%;
+	width:80%;
 	}
 div.guestbook .item .header {
 	border-bottom: 2px dashed #B4CAFF;
@@ -476,7 +476,7 @@ div.guestbook .item .comments {
 	}
 div.guestbook .item .comments p {
 	margin:0;
-	padding:0;h
+	padding:0;
 }
 
 div.swordcd {

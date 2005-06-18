@@ -1,7 +1,6 @@
 <!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_about SYSTEM "software_about.xml" NDATA XML>
-<!ENTITY development_team SYSTEM "development_team.xml" NDATA XML>
 ]>
 
 <webpage id="software">
@@ -37,18 +36,45 @@
 	
 	<formalpara
 ><title
->2005-01-24: Bible software Survey</title>
+>2005-06-17: BibleTime 1.5 release candidate 2</title>
 		<para
->Bible Software vendors from around the globe are jointly sponsoring a cooperative User Survey to glean from Bible Software Users worldwide their needs, requests, and dreams. We'd be glad if you could take the survey here: <ulink url="http://www.surveymonkey.com/s.asp?u=91866814127"
->Bible software survey</ulink
+>The second release candidate of BibleTime version 1.5 was released today. It contains fixes for most of the problems found in 1.5rc1 and some more additional improvements. Please report all problems and bugs you encounter <ulink url="http://sourceforge.net/tracker/?atid=521207&amp;group_id=954&amp;func=browse"
+>here</ulink
+>. The source code of BibleTime 1.5rc2 and Sword 1.5.8 is available in the download section. </para>
+	</formalpara>
+	
+	<formalpara
+><title
+>2005-06-15: BibleTime forums online</title>
+		<para
+>In the ongoing effort to build a BibleTime user community the BibleTime forums are now available for everybody at <ulink url="http://forum.bibletime.info/"
+>forum.bibletime.info</ulink
+>. All users of BibleTime are encouraged to use these forums to discuss everything related to BibleTime. </para>
+	</formalpara>
+	
+	<formalpara
+><title
+>2005-05-29: BibleTime 1.5 release candidate 1</title>
+		<para
+>O primeiro candidato a liberação do Bible Time versão 1.5 foi disponibilizado hoje. Ele contêm uma tonelada de reparos, melhorias e novas características. Todos os que são capazes de instalar software usando o código fonte são encorajados a testar esta versão. Por favor informe todos os problemas e erros que você encontrar <ulink url="http://sourceforge.net/tracker/?atid=521207&amp;group_id=954&amp;func=browse"
+>here</ulink
+>. O código fonte do Bible Time 1.5rc1 e do Sword 1.5.8 estão disponíveis na seção download. </para>
+	</formalpara>
+	
+	<formalpara
+><title
+>2005-01-24: Pesquisa de Software Bíblico</title>
+		<para
+>Vendedores de Software Bíblico de todo o globo estão juntos patrocinando uma Pesquisa de Usuário para receber de Usuários de Software Bíblicos do mundo todo suas necessidades, desejos e sonhos. Nós ficaríamos gratos se você pudesse preencher a pesquisa aqui: <ulink url="http://www.surveymonkey.com/s.asp?u=91866814127"
+>Pesquisa de software Bíblico</ulink
 > </para>
 	</formalpara>
 	
 	<formalpara
 ><title
->2004-12-23: Status update</title>
+>2004-12-23: Situação da atualização</title>
 		<para
->The BibleTime project is still alive and development is almost finished for the next version, BibleTime 1.5. This version will contain major user interface improvements which will make it simpler to use than any other version before. We hope to release version 1.5 in the first three months of the next year. </para>
+>O projeto BibleTime ainda está vivo e o desenvolvimento da próxima versão, BibleTime 1.5, está quase terminado.  Esta versão vai conter principalmente melhorias na interface do usuário que farão dessa versão mais fácil de usar que qualquer outra anterior. Nós esperamos liberar a versão 1.5 nos primeiros três meses do próximo ano. </para>
 	</formalpara>
 
 	<formalpara

@@ -51,7 +51,7 @@ msgid "BibleTime"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:24 software.xml:11
+#: autolayout.xml:24 software.xml:10
 #, no-c-format
 msgid "Software"
 msgstr ""
@@ -123,37 +123,49 @@ msgid "License"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:72 development.xml:10
+#: autolayout.xml:71 software_imprint.xml:10
+#, no-c-format
+msgid "Imprint"
+msgstr ""
+
+#. Tag: title
+#: autolayout.xml:76 layout.xml:45
+#, no-c-format
+msgid "User forum"
+msgstr ""
+
+#. Tag: title
+#: autolayout.xml:79 development.xml:10
 #, no-c-format
 msgid "Development"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:75 development_help.xml:13
+#: autolayout.xml:82 development_help.xml:12
 #, no-c-format
 msgid "Help us"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:79 development_join.xml:10
+#: autolayout.xml:86 development_join.xml:10
 #, no-c-format
 msgid "Join us"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:83 development_mailinglists.xml:10
+#: autolayout.xml:90 development_mailinglists.xml:10
 #, no-c-format
 msgid "Mailinglists"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:88 translation.xml:9
+#: autolayout.xml:95 translation.xml:9
 #, no-c-format
 msgid "Translation"
 msgstr ""
 
 #. Tag: title
-#: autolayout.xml:92 biblehowto.docbook:17
+#: autolayout.xml:99 biblehowto.docbook:17
 #, no-c-format
 msgid "Biblestudy HowTo"
 msgstr ""
@@ -271,13 +283,13 @@ msgid "HowTo"
 msgstr ""
 
 #. Tag: title
-#: development_help.xml:18
+#: development_help.xml:17
 #, no-c-format
 msgid "Please help us ..."
 msgstr ""
 
 #. Tag: para
-#: development_help.xml:19
+#: development_help.xml:18
 #, no-c-format
 msgid ""
 "Our aim is to develop BibleTime into a really mature Bible study application "
@@ -286,13 +298,13 @@ msgid ""
 msgstr ""
 
 #. Tag: title
-#: development_help.xml:25
+#: development_help.xml:24
 #, no-c-format
 msgid "Do you want to pray?"
 msgstr ""
 
 #. Tag: para
-#: development_help.xml:26
+#: development_help.xml:25
 #, no-c-format
 msgid ""
 "Praying is something everybody can do. If you are praying for the Sword and "
@@ -301,30 +313,13 @@ msgid ""
 msgstr ""
 
 #. Tag: title
-#: development_help.xml:31
-#, no-c-format
-msgid "Would you like to support the developers?"
-msgstr ""
-
-#. Tag: para
-#: development_help.xml:32
-#, no-c-format
-msgid ""
-"On the <olink targetdocent=\"development_team\">team page</olink>, you can "
-"find information about the members of the BibleTime team and ways how you "
-"can support them. If you like using BibleTime, but don't have the time or "
-"knowledge to help with the development yourself, you might want to consider "
-"this possibility."
-msgstr ""
-
-#. Tag: title
-#: development_help.xml:40
+#: development_help.xml:30
 #, no-c-format
 msgid "Do you know how to program software?"
 msgstr ""
 
 #. Tag: para
-#: development_help.xml:41
+#: development_help.xml:31
 #, no-c-format
 msgid ""
 "Do you know how to program in C++? Are you familiar with the KDE programming "
@@ -335,13 +330,13 @@ msgid ""
 msgstr ""
 
 #. Tag: title
-#: development_help.xml:50
+#: development_help.xml:40
 #, no-c-format
 msgid "Do you know how to write documentation?"
 msgstr ""
 
 #. Tag: para
-#: development_help.xml:51
+#: development_help.xml:41
 #, no-c-format
 msgid ""
 "Do you think you would be good in working on BibleTime's english "
@@ -350,13 +345,13 @@ msgid ""
 msgstr ""
 
 #. Tag: title
-#: development_help.xml:58
+#: development_help.xml:48
 #, no-c-format
 msgid "Are you good in translating english into another language?"
 msgstr ""
 
 #. Tag: para
-#: development_help.xml:59
+#: development_help.xml:49
 #, no-c-format
 msgid ""
 "BibleTime should be useable for everyone. That's why we need a translation "
@@ -367,7 +362,7 @@ msgid ""
 msgstr ""
 
 #. Tag: para
-#: development_help.xml:65
+#: development_help.xml:55
 #, no-c-format
 msgid ""
 "You can find more information about the translation process on the page "
@@ -574,143 +569,6 @@ msgstr ""
 msgid ""
 "Please read the following pages very carefully to see whether you can help "
 "us with the development!"
-msgstr ""
-
-#. Tag: title
-#: development_team.xml:10
-#, no-c-format
-msgid "The team"
-msgstr ""
-
-#. Tag: title
-#: development_team.xml:15
-#, no-c-format
-msgid "Joachim"
-msgstr ""
-
-#. Tag: title
-#: development_team.xml:17 development_team.xml:52
-#, no-c-format
-msgid "Age:"
-msgstr ""
-
-#. Tag: para
-#: development_team.xml:18
-#, no-c-format
-msgid "<para>22</para>"
-msgstr ""
-
-#. Tag: title
-#: development_team.xml:21 development_team.xml:54
-#, no-c-format
-msgid "Occupation:"
-msgstr ""
-
-#. Tag: para
-#: development_team.xml:22
-#, no-c-format
-msgid "Student of IT"
-msgstr ""
-
-#. Tag: title
-#: development_team.xml:25 development_team.xml:56
-#, no-c-format
-msgid "BibleTime involvement:"
-msgstr ""
-
-#. Tag: para
-#: development_team.xml:26
-#, no-c-format
-msgid ""
-"Together with Thomas Hagedorn and Torsten Uhlmann, I founded the BibleTime "
-"project. Since then I did most of the coding, as well as hosting the "
-"bibletime.info website and all the administrative tasks that belong to "
-"leading the project."
-msgstr ""
-
-#. Tag: title
-#: development_team.xml:33 development_team.xml:71
-#, no-c-format
-msgid "Support this project member:"
-msgstr ""
-
-#. Tag: para
-#: development_team.xml:34
-#, no-c-format
-msgid ""
-"Leading the BibleTime project involves a lot of work and making important "
-"decisions. I would like to ask for your prayers for God's guidance for me "
-"and the whole team."
-msgstr ""
-
-#. Tag: title
-#: development_team.xml:40 development_team.xml:64
-#, no-c-format
-msgid "Planned tasks:"
-msgstr ""
-
-#. Tag: para
-#: development_team.xml:41
-#, no-c-format
-msgid "Bugfixes, code cleanups, prepare for the 1.5 release."
-msgstr ""
-
-#. Tag: title
-#: development_team.xml:50
-#, no-c-format
-msgid "Martin"
-msgstr ""
-
-#. Tag: para
-#: development_team.xml:52
-#, no-c-format
-msgid "<para>24</para>"
-msgstr ""
-
-#. Tag: para
-#: development_team.xml:54
-#, no-c-format
-msgid "Student of Theology"
-msgstr ""
-
-#. Tag: para
-#: development_team.xml:57
-#, no-c-format
-msgid ""
-"I have been involved in BibleTime since 1999. So far I helped with the "
-"project administration, the build system, parts of the code in the backend "
-"as well as in the User Interface of BibleTime, and recently I designed the "
-"Install Manager."
-msgstr ""
-
-#. Tag: para
-#: development_team.xml:65
-#, no-c-format
-msgid ""
-"Revise the Handbook. Test the code thoroughly and fix remaining bugs. "
-"Prepare for the 1.5 release (Sword 1.5.8 release needed)."
-msgstr ""
-
-#. Tag: para
-#: development_team.xml:72
-#, no-c-format
-msgid ""
-"Since I have to finance my studies, I need to earn some money. Would you "
-"like to help me work on BibleTime instead of something else? Please consider "
-"making a donation, even small amounts will help a lot. I will use them to "
-"perform work on BibleTime (code, docs, administration, sword) at a fixed "
-"rate per hour. I'll provide reports on how much I worked on BibleTime and "
-"what I got accomplished during that time. Also, Joachim will check my "
-"handling of the money."
-msgstr ""
-
-#. Tag: para
-#: development_team.xml:83
-#, no-c-format
-msgid ""
-"Please use the link below to send your donation through PayPal. You don't "
-"need to have an own PayPal account for this. Don't hesitate to email me at "
-"<email>mg.pub@gmx.net</email> if you have questions."
 msgstr ""
 
 #. Tag: title
@@ -2568,7 +2426,7 @@ msgid "Introduction"
 msgstr ""
 
 #. Tag: para
-#: software_about.xml:15 software.xml:17
+#: software_about.xml:15 software.xml:16
 #, no-c-format
 msgid ""
 "BibleTime is a Bible study application for Linux. It is based on the <ulink "
@@ -3140,6 +2998,34 @@ msgstr ""
 #: software_guestbook.xml:24
 #, no-c-format
 msgid "Please add your comments here:"
+msgstr ""
+
+#. Tag: title
+#: software_imprint.xml:15
+#, no-c-format
+msgid "Responsibility"
+msgstr ""
+
+#. Tag: para
+#: software_imprint.xml:16
+#, no-c-format
+msgid "This imprint is required in Germany for all webpages."
+msgstr ""
+
+#. Tag: para
+#: software_imprint.xml:17
+#, no-c-format
+msgid "The person who responsible for these webpages is:"
+msgstr ""
+
+#. Tag: address
+#: software_imprint.xml:20
+#, no-c-format
+msgid ""
+"Joachim Ansorg <street>Alter Krofdorfer Weg 6</street> <postcode>35398</"
+"postcode> <city>Gie&szlig;en</city> <country>Germany</country> "
+"<phone>49.641.3605122</phone> <otheraddr>email: joachim at joachim-ansorg "
+"dot de</otheraddr>"
 msgstr ""
 
 #. Tag: title
@@ -4083,25 +3969,78 @@ msgid ""
 msgstr ""
 
 #. Tag: title
-#: software.xml:16
+#: software.xml:15
 #, no-c-format
 msgid "Welcome to the BibleTime project."
 msgstr ""
 
 #. Tag: title
-#: software.xml:26
+#: software.xml:25
 #, no-c-format
 msgid "News about BibleTime"
 msgstr ""
 
 #. Tag: title
+#: software.xml:27
+#, no-c-format
+msgid "2005-06-17: BibleTime 1.5 release candidate 2"
+msgstr ""
+
+#. Tag: para
 #: software.xml:28
+#, no-c-format
+msgid ""
+"The second release candidate of BibleTime version 1.5 was released today. It "
+"contains fixes for most of the problems found in 1.5rc1 and some more "
+"additional improvements. Please report all problems and bugs you encounter "
+"<ulink url=\"http://sourceforge.net/tracker/?atid=521207&amp;"
+"group_id=954&amp;func=browse\">here</ulink>. The source code of BibleTime "
+"1.5rc2 and Sword 1.5.8 is available in the download section."
+msgstr ""
+
+#. Tag: title
+#: software.xml:34
+#, no-c-format
+msgid "2005-06-15: BibleTime forums online"
+msgstr ""
+
+#. Tag: para
+#: software.xml:35
+#, no-c-format
+msgid ""
+"In the ongoing effort to build a BibleTime user community the BibleTime "
+"forums are now available for everybody at <ulink url=\"http://forum."
+"bibletime.info/\">forum.bibletime.info</ulink>. All users of BibleTime are "
+"encouraged to use these forums to discuss everything related to BibleTime."
+msgstr ""
+
+#. Tag: title
+#: software.xml:40
+#, no-c-format
+msgid "2005-05-29: BibleTime 1.5 release candidate 1"
+msgstr ""
+
+#. Tag: para
+#: software.xml:41
+#, no-c-format
+msgid ""
+"The first release candidate of BibleTime version 1.5 was released today. It "
+"contains a ton of fixes, improvements and new features. Everybody who is "
+"capable to install software using the source code is encouraged to test this "
+"release. Please report all problems and bugs you encounter <ulink url="
+"\"http://sourceforge.net/tracker/?atid=521207&amp;group_id=954&amp;"
+"func=browse\">here</ulink>. The source code of BibleTime 1.5rc1 and Sword "
+"1.5.8 is available in the download section."
+msgstr ""
+
+#. Tag: title
+#: software.xml:46
 #, no-c-format
 msgid "2005-01-24: Bible software Survey"
 msgstr ""
 
 #. Tag: para
-#: software.xml:29
+#: software.xml:47
 #, no-c-format
 msgid ""
 "Bible Software vendors from around the globe are jointly sponsoring a "
@@ -4112,13 +4051,13 @@ msgid ""
 msgstr ""
 
 #. Tag: title
-#: software.xml:36
+#: software.xml:54
 #, no-c-format
 msgid "2004-12-23: Status update"
 msgstr ""
 
 #. Tag: para
-#: software.xml:37
+#: software.xml:55
 #, no-c-format
 msgid ""
 "The BibleTime project is still alive and development is almost finished for "
@@ -4129,13 +4068,13 @@ msgid ""
 msgstr ""
 
 #. Tag: title
-#: software.xml:42
+#: software.xml:60
 #, no-c-format
 msgid "2004-05-25: Documentation author(s) needed"
 msgstr ""
 
 #. Tag: para
-#: software.xml:43
+#: software.xml:61
 #, no-c-format
 msgid ""
 "The BibleTime team is in urgent need of one or more volunteers who want to "
@@ -4146,13 +4085,13 @@ msgid ""
 msgstr ""
 
 #. Tag: title
-#: software.xml:48
+#: software.xml:66
 #, no-c-format
 msgid "2004-02-09: BibleTime 1.4.1 for Mac OS X"
 msgstr ""
 
 #. Tag: para
-#: software.xml:49
+#: software.xml:67
 #, no-c-format
 msgid ""
 "On the BibleTime development list <ulink url=\"http://www.crosswire.org/"
@@ -4166,13 +4105,13 @@ msgid ""
 msgstr ""
 
 #. Tag: title
-#: software.xml:54
+#: software.xml:72
 #, no-c-format
 msgid "2004-01-29: BibleTime 1.4.1"
 msgstr ""
 
 #. Tag: para
-#: software.xml:55
+#: software.xml:73
 #, no-c-format
 msgid ""
 "BibleTime 1.4.1 was released today. The most important changes in version "
@@ -4181,13 +4120,13 @@ msgid ""
 msgstr ""
 
 #. Tag: title
-#: software.xml:60
+#: software.xml:78
 #, no-c-format
 msgid "2004-01-26: User forums online"
 msgstr ""
 
 #. Tag: para
-#: software.xml:61
+#: software.xml:79
 #, no-c-format
 msgid ""
 "We're happy to announce a forum for BibleTime users. Please ask all your "
@@ -4197,13 +4136,13 @@ msgid ""
 msgstr ""
 
 #. Tag: title
-#: software.xml:66
+#: software.xml:84
 #, no-c-format
 msgid "2004-01-16: Debian packages available"
 msgstr ""
 
 #. Tag: para
-#: software.xml:67
+#: software.xml:85
 #, no-c-format
 msgid ""
 "<ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">Debian "
@@ -4214,20 +4153,20 @@ msgid ""
 msgstr ""
 
 #. Tag: title
-#: software.xml:72
+#: software.xml:90
 #, no-c-format
 msgid "2004-01-11: New translation effort"
 msgstr ""
 
 #. Tag: para
-#: software.xml:73
+#: software.xml:91
 #, no-c-format
 msgid ""
 "First of all we want to wish all of you a truly happy and blessed new year."
 msgstr ""
 
 #. Tag: para
-#: software.xml:76
+#: software.xml:94
 #, no-c-format
 msgid ""
 "As you probably already noticed, there is a new page online called <ulink "
@@ -4238,13 +4177,13 @@ msgid ""
 msgstr ""
 
 #. Tag: title
-#: software.xml:83
+#: software.xml:101
 #, no-c-format
 msgid "2003-12-29: BibleTime 1.4"
 msgstr ""
 
 #. Tag: para
-#: software.xml:84
+#: software.xml:102
 #, no-c-format
 msgid ""
 "The new version 1.4 of BibleTime is now available for download. 1.4 in "
@@ -4255,7 +4194,7 @@ msgid ""
 msgstr ""
 
 #. Tag: para
-#: software.xml:87
+#: software.xml:105
 #, no-c-format
 msgid ""
 "You need Sword 1.5.7 with enabled curl support to make use of the remote "
@@ -4264,7 +4203,7 @@ msgid ""
 msgstr ""
 
 #. Tag: para
-#: software.xml:90
+#: software.xml:108
 #, no-c-format
 msgid ""
 "If you run into troubles installing BibleTime or you have problems using it "
@@ -4272,13 +4211,13 @@ msgid ""
 msgstr ""
 
 #. Tag: title
-#: software.xml:95
+#: software.xml:113
 #, no-c-format
 msgid "2003-12-03: BibleTime 1.4beta1"
 msgstr ""
 
 #. Tag: para
-#: software.xml:96
+#: software.xml:114
 #, no-c-format
 msgid ""
 "The first testing version of the upcoming BibleTime 1.4 was released today. "
@@ -4290,7 +4229,7 @@ msgid ""
 msgstr ""
 
 #. Tag: para
-#: software.xml:104
+#: software.xml:122
 #, no-c-format
 msgid ""
 "This 1.4beta1 release is only meant for testing, so we do not provide binary "
@@ -4300,13 +4239,13 @@ msgid ""
 msgstr ""
 
 #. Tag: title
-#: software.xml:111
+#: software.xml:129
 #, no-c-format
 msgid "2003-10-19: SuSE 9.0 packages"
 msgstr ""
 
 #. Tag: para
-#: software.xml:112
+#: software.xml:130
 #, no-c-format
 msgid ""
 "RPM packages are now available for SuSE 9.0. Report any problems to "
@@ -4314,13 +4253,13 @@ msgid ""
 msgstr ""
 
 #. Tag: title
-#: software.xml:117
+#: software.xml:135
 #, no-c-format
 msgid "2003-10-16: New webpages"
 msgstr ""
 
 #. Tag: para
-#: software.xml:118
+#: software.xml:136
 #, no-c-format
 msgid ""
 "BibleTime has now new webpages which offer better navigation, better design "
@@ -4328,19 +4267,19 @@ msgid ""
 msgstr ""
 
 #. Tag: para
-#: software.xml:122
+#: software.xml:140
 #, no-c-format
 msgid "If you experience any problems with the new pages please let us know!"
 msgstr ""
 
 #. Tag: title
-#: software.xml:127
+#: software.xml:145
 #, no-c-format
 msgid "2003-08-23: BibleTime 1.3"
 msgstr ""
 
 #. Tag: para
-#: software.xml:128
+#: software.xml:146
 #, no-c-format
 msgid ""
 "Version 1.3 of BibleTime is finally available. BibleTime 1.3 contains a lot "
@@ -4351,7 +4290,7 @@ msgid ""
 msgstr ""
 
 #. Tag: para
-#: software.xml:133
+#: software.xml:151
 #, no-c-format
 msgid ""
 "Get the bibletime and the bibletime-i18n packages for full functionality. "

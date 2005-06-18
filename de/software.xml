@@ -1,7 +1,6 @@
 <!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_about SYSTEM "software_about.xml" NDATA XML>
-<!ENTITY development_team SYSTEM "development_team.xml" NDATA XML>
 ]>
 
 <webpage id="software">
@@ -37,7 +36,34 @@
 	
 	<formalpara
 ><title
->2005-01-24: Bible software Survey</title>
+>2005-06-17: BibleTime 1.5 release candidate 2</title>
+		<para
+>The second release candidate of BibleTime version 1.5 was released today. It contains fixes for most of the problems found in 1.5rc1 and some more additional improvements. Please report all problems and bugs you encounter <ulink url="http://sourceforge.net/tracker/?atid=521207&amp;group_id=954&amp;func=browse"
+>here</ulink
+>. The source code of BibleTime 1.5rc2 and Sword 1.5.8 is available in the download section. </para>
+	</formalpara>
+	
+	<formalpara
+><title
+>2005-06-15: BibleTime forums online</title>
+		<para
+>In the ongoing effort to build a BibleTime user community the BibleTime forums are now available for everybody at <ulink url="http://forum.bibletime.info/"
+>forum.bibletime.info</ulink
+>. All users of BibleTime are encouraged to use these forums to discuss everything related to BibleTime. </para>
+	</formalpara>
+	
+	<formalpara
+><title
+>29.05.2005: BibleTime 1.5 Release-Kandidat 1</title>
+		<para
+>Der erste Release-Kandidat von BibleTime Version 1.5 wurde heute veröffentlicht. Er enthält eine Menge an Korrekturen, Verbesserungen und neuen Funktionen. Jeder, der Software mittels Quellcode installieren kann, wird ermutigt, diese Vorabversion zu testen. Bitte berichten Sie alle Probleme und Fehler, die sie finden <ulink url="http://sourceforge.net/tracker/?atid=521207&amp;group_id=954&amp;func=browse"
+>an dieser Stelle</ulink
+>. Die Quellcodepakete von BibleTime 1.5rc1 und Sword 1.5.8 sind im Downloadbereich zu finden. </para>
+	</formalpara>
+	
+	<formalpara
+><title
+>24.01.2005: Bibelsoftware Umfrage</title>
 		<para
 >Bible Software vendors from around the globe are jointly sponsoring a cooperative User Survey to glean from Bible Software Users worldwide their needs, requests, and dreams. We'd be glad if you could take the survey here: <ulink url="http://www.surveymonkey.com/s.asp?u=91866814127"
 >Bible software survey</ulink

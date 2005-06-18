@@ -1,7 +1,6 @@
 <!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_about SYSTEM "software_about.xml" NDATA XML>
-<!ENTITY development_team SYSTEM "development_team.xml" NDATA XML>
 ]>
 
 <webpage id="software">
@@ -34,6 +33,33 @@
 <section
 ><title
 >Nouvelles de BibleTime</title>
+	
+	<formalpara
+><title
+>17-06-2005 : BibleTime 1.5 release candidate 2</title>
+		<para
+>La deuxième release candidate de BibleTime version 1.5 a été publiée aujourd'hui. Elle contient des corrections de bugs concernant la majorité des problèmes rencontrés avec la version 1.5rc1, plus quelques améliorations. Si vous rencontrez des problèmes avec cette version, contactez nous <ulink url="http://sourceforge.net/tracker/?atid=521207&amp;group_id=954&amp;func=browse"
+>ICI</ulink
+>. Le code source de BibleTime 1.5rc2 et de Sword 1.5.8 est disponible dans la section Téléchargement. </para>
+	</formalpara>
+	
+	<formalpara
+><title
+>15-06-2005 : Forum des utilisateurs en ligne</title>
+		<para
+>Soucieux de créer une communauté d'utilisateurs de BibleTime, nous avons créé des forums BibleTime à l'adresse suivante : <ulink url="http://forum.bibletime.info/"
+>forum.bibletime.info</ulink
+>. Tous les utilisateurs de BibleTime sont invités à utiliser ce forum pour y échanger des informations au sujet de BibleTime (une partie en Français est disponible). </para>
+	</formalpara>
+	
+	<formalpara
+><title
+>29-05-2005 : BibleTime 1.5 release candidate 1</title>
+		<para
+>La première release candidate de BibleTime version 1.5 a été publiée aujourd'hui. Elle contient des tonnes d'améliorations, de corrections de bugs et de nouvelles fonctions. Quiconque capable d'installer un logiciel à partir du code source est invité à tester cette pré-version. Informez-nous des problèmes et des bugs rencontrés <ulink url="http://sourceforge.net/tracker/?atid=521207&amp;group_id=954&amp;func=browse"
+>ICI</ulink
+>. Le code source de BibleTime 1.5rc1 et de Sword 1.5.8 est disponible dans la section Téléchargement. </para>
+	</formalpara>
 	
 	<formalpara
 ><title

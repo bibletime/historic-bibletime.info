@@ -1,7 +1,6 @@
 <!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
-<!ENTITY development_team SYSTEM "development_team.xml" NDATA XML>
 <!ENTITY development_join SYSTEM "development_join.xml" NDATA XML>
 <!ENTITY translations SYSTEM "translation.xml" NDATA XML>
 ]>
@@ -25,15 +24,6 @@ for supporting the BibleTime project directly and indirectly:
 <section><title>Do you want to pray?</title>
 <para>
 Praying is something everybody can do. If you are praying for the Sword and BibleTime projects you are helping us as much as the other team members of the BibleTime project.
-</para>
-</section>
-
-<section><title>Would you like to support the developers?</title>
-<para>
-On the <olink targetdocent="development_team">team page</olink>, you can find information about 
-the members of the BibleTime team and ways how you can support them. If you like using BibleTime, 
-but don't have the time or knowledge to help with the development yourself, you might want to consider 
-this possibility.
 </para>
 </section>
 

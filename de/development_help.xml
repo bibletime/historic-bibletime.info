@@ -1,7 +1,6 @@
 <!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
-<!ENTITY development_team SYSTEM "development_team.xml" NDATA XML>
 <!ENTITY development_join SYSTEM "development_join.xml" NDATA XML>
 <!ENTITY translations SYSTEM "translation.xml" NDATA XML>
 ]>
@@ -31,15 +30,6 @@
 >Möchten Sie beten?</title>
 <para
 >Beten ist etwas, was jeder tun kann. Wenn Sie für die Sword und BibleTime Projekte beten, tun Sie genauso viel, wie die anderen Team-Mitglieder des BibleTime Projektes. </para>
-</section>
-
-<section
-><title
->Möchten Sie die Entwickler unterstützen?</title>
-<para
->On the <olink targetdocent="development_team"
->team page</olink
->, you can find information about the members of the BibleTime team and ways how you can support them. If you like using BibleTime, but don't have the time or knowledge to help with the development yourself, you might want to consider this possibility. </para>
 </section>
 
 <section

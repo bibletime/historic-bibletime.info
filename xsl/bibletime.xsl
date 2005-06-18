@@ -242,7 +242,8 @@
 						<br/>
 						<a href="http://jigsaw.w3.org/css-validator/check/referer"><img src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS"/></a>
 						<br/>
-						<img alt="counter" src="http://cgicounter.puretec.de/cgi-bin/cnt?clsid=6bfe60d8ff2e9c56d7db8be538c054421"/>
+<!-- 						<img alt="counter" src="http://cgicounter.puretec.de/cgi-bin/cnt?clsid=6bfe60d8ff2e9c56d7db8be538c054421"/> -->
+						<img alt="counter" src="http://www.bibletime.info/cgi-sys/Count.cgi?df=bibletime.dat|display=Counter|ft=0|md=6|frgb=100;139;216|dd=B"/>
 					</div>
 					
 					<div id="copyright">

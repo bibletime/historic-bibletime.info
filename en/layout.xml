@@ -38,8 +38,13 @@
 		<tocentry page="software_press.xml" filename="software_press.html"/>
 		<tocentry page="software_contact.xml" filename="software_contact.html"/>
 		<tocentry page="software_license.xml" filename="software_license.html"/>
+		<tocentry page="software_imprint.xml" filename="software_imprint.html"/>
 	</tocentry>
-
+	
+	<tocentry id="forum.bibletime.info" href="http://forum.bibletime.info/">
+		<title>User forum</title>
+	</tocentry>
+    
 	<tocentry page="development.xml" filename="development.html">
 		<tocentry page="development_help.xml" filename="development_help.html"/>
 		<tocentry page="development_join.xml" filename="development_join.html"/>

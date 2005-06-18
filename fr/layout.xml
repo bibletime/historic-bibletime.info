@@ -64,8 +64,15 @@
 ></tocentry>
 		<tocentry page="software_license.xml" filename="software_license.html"
 ></tocentry>
+		<tocentry page="software_imprint.xml" filename="software_imprint.html"
+></tocentry>
 	</tocentry>
-
+	
+	<tocentry id="forum.bibletime.info" href="http://forum.bibletime.info/">
+		<title
+>Forum utilisateurs</title>
+	</tocentry>
+    
 	<tocentry page="development.xml" filename="development.html">
 		<tocentry page="development_help.xml" filename="development_help.html"
 ></tocentry>

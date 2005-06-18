@@ -54,7 +54,7 @@ sub show_addItem() {
 	$ret .= $q->Tr( $q->td($self->i18n("eMail:")), $q->td($q->textfield({-name=>'email',-override=>'1',-value=>'',-size=>'50'}))  );
 	$ret .= $q->Tr( $q->td($self->i18n("Web address:")), $q->td($q->textfield({-name=>'web',-value=>'',-override=>'1' ,-size=>'50'}))  );
 	$ret .= $q->Tr( $q->td({-colspan=>'2'}, $self->i18n("Add your comments here:")) );
-	$ret .= $q->Tr( $q->td({-colspan=>'2'}, $q->textarea({-name=>'comments', -value=>'', -override=>'1', -rows=>'12', -cols=>'60'}) ));
+	$ret .= $q->Tr( $q->td({-colspan=>'2'}, $q->textarea({-name=>'comments', -value=>'', -override=>'1', -rows=>'12', -cols=>'40'}) ));
 	$ret .= $q->Tr( $q->td({-colspan=>'2', -height=>'10'})); # space
 	$ret .= $q->Tr( $q->td({-colspan=>'2', -align=>'center'}, $q->submit( $self->i18n_safe("Add your comments ...")) ));
 	$ret .= $q->Tr( $q->td({-colspan=>'2', -height=>'20'})); # space
@@ -85,11 +85,11 @@ sub list_items() {
  	while (my @data = $sth->fetchrow_array()) { #this loop prints all the news items
 		my ($name, $email, $web, $comments, $date) = @data[0 ... 4];
 
-		$email =~ s|@|<img src="/images/mail.png">|; #make unreadable for spam robots
+		$email =~ s|@|<img src="/images/mail.png"/>|; #make unreadable for spam robots
 		#$email =~ s/[.]/;dot;/; #make unreadable for spam robots
 
 		$comments =~ s/<.*?>\n{0,}//g; # strip out HTML, although it have been stripped out on creation time when it was written into the DB
-		$comments =~ s/(?:\n){2,}/<P>/g; # two newlines are a new paragraph
+		$comments =~ s/(?:\n){2,}/<p\/>/g; # two newlines are a new paragraph
 		$comments =~ s/(?:\n)/<br\/>/g; # one newline is a line break in html
 
 		if ($name && $comments) { #we have a valid entry, each entry is in an own small table

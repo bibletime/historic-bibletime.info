@@ -1,7 +1,6 @@
 <!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_about SYSTEM "software_about.xml" NDATA XML>
-<!ENTITY development_team SYSTEM "development_team.xml" NDATA XML>
 ]>
 
 <webpage id="software">
@@ -24,6 +23,25 @@ provided by the <ulink url="http://www.crosswire.org/">Crosswire Bible Society</
 </section>
 
 <section><title>News about BibleTime</title>
+	
+	<formalpara><title>2005-06-17: BibleTime 1.5 release candidate 2</title>
+		<para>
+			The second release candidate of BibleTime version 1.5 was released today.  It contains fixes for most of the problems found in 1.5rc1 and some more additional improvements.
+			Please report all problems and bugs you encounter <ulink url="http://sourceforge.net/tracker/?atid=521207&amp;group_id=954&amp;func=browse">here</ulink>. The source code of BibleTime 1.5rc2 and Sword 1.5.8 is available in the download section.
+		</para>
+	</formalpara>
+	
+	<formalpara><title>2005-06-15: BibleTime forums online</title>
+		<para>
+			In the ongoing effort to build a BibleTime user community the BibleTime forums are now available for everybody at <ulink url="http://forum.bibletime.info/">forum.bibletime.info</ulink>. All users of BibleTime are encouraged to use these forums to discuss everything related to BibleTime.
+		</para>
+	</formalpara>
+	
+	<formalpara><title>2005-05-29: BibleTime 1.5 release candidate 1</title>
+		<para>
+			The first release candidate of BibleTime version 1.5 was released today. It contains a ton of fixes, improvements and new features. Everybody who is capable to install software using the source code is encouraged to test this release. Please report all problems and bugs you encounter <ulink url="http://sourceforge.net/tracker/?atid=521207&amp;group_id=954&amp;func=browse">here</ulink>. The source code of BibleTime 1.5rc1 and Sword 1.5.8 is available in the download section.
+		</para>
+	</formalpara>
 	
 	<formalpara><title>2005-01-24: Bible software Survey</title>
 		<para>

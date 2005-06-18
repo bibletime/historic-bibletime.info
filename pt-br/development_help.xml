@@ -1,7 +1,6 @@
 <!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
 <!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
-<!ENTITY development_team SYSTEM "development_team.xml" NDATA XML>
 <!ENTITY development_join SYSTEM "development_join.xml" NDATA XML>
 <!ENTITY translations SYSTEM "translation.xml" NDATA XML>
 ]>
@@ -35,15 +34,6 @@
 
 <section
 ><title
->Você gostaria de apoiar os desenvolvedores?</title>
-<para
->Na página <olink targetdocent="development_team"
->o time</olink
-> você pode achar informação sobre os membros do time do BibleTime e formas de apoiá-los. Se você gosta de usar o BibleTime, mas não tem o tempo ou o conhecimento que com desenvolvimento você pode considerar essa possibilidade. </para>
-</section>
-
-<section
-><title
 >Você sabe programar softwares?</title>
 <para
 >Você sabe como programar em C++? Você está familiarizado com a interface de programação do KDE ou está motivado a aprendê-la? Se você tiver tempo para trabalhar regularmente no código fonte do BibleTime nós lhe pedimos para se juntar ao nosso time! Por favor, leia a página <olink targetdocent="development_join"
@@ -64,7 +54,7 @@
 ><title
 >Você é bom em traduzir do inglês para outros idiomas?</title>
 <para
->BibleTime deve ser usável por todos. Por isso nós precisamos de uma traduação no seu idioma, se ainda não houver uma disponível. Se você decidir iniciar o trabalho de tradução por favor nos contacte em info@bibletime.info para ver se a tradução ainda não foi iniciada por outro membro do time. Nós providenciaremos os arquivos que deverão ser traduzidos. </para>
+>O BibleTime deve ser usável por todos. Por isso nós precisamos de uma traduação no seu idioma, se ainda não houver uma disponível. Se você decidir iniciar o trabalho de tradução por favor nos contacte em info@bibletime.info para ver se a tradução ainda não foi iniciada por outro membro do time. Nós providenciaremos os arquivos que deverão ser traduzidos. </para>
 <para
 >Você pode encontrar mais informação sobre o processo de traduçãona página de <olink targetdocent="translation"
 >tradução do BibleTime</olink
