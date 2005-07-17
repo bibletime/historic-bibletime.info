@@ -35,7 +35,7 @@
 </notoc>
 <notoc page="sidebar_tips.xml" id="sidebar_tips" filename="sidebar_tips.html">
 <title
->Sidebar tips</title>
+>Tipps</title>
 <summary
 >BibleTime tips</summary>
 </notoc>
@@ -130,7 +130,7 @@
 </tocentry>
 <tocentry id="forum.bibletime.info" href="http://forum.bibletime.info/">
 <title
->User forum</title>
+>Benutzerforum</title>
 </tocentry>
 <tocentry page="development.xml" id="development" filename="development.html">
 <title

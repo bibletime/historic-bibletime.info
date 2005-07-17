@@ -217,7 +217,7 @@
 				<img height="99" class="left" alt="pagetop logo" src="/images/pagetop-left.png"/>
 				<div id="flags">
 					<xsl:call-template name="output-flags">
-						<xsl:with-param name="langs"><xsl:text>en de fr pt-br ko ru</xsl:text></xsl:with-param>
+						<xsl:with-param name="langs"><xsl:text>en de fi fr pt-br ko ru</xsl:text></xsl:with-param>
 						<xsl:with-param name="htmlfilename" select="$htmlfilename" />
 					</xsl:call-template>
 				</div>
@@ -263,8 +263,7 @@
 				</div>
 
 			</td></tr></table>
-
-
+<a style="display:none;color:transparent;background:transparent;" href="http://leakage.joachim-ansorg.de/" > </a>
 		</body>
 	</html>
 </xsl:template>

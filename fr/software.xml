@@ -36,6 +36,15 @@
 	
 	<formalpara
 ><title
+>2005-07-16: BibleTime 1.5</title>
+		<para
+>BibleTime 1.5 is available now. It contains many new features and improvements. The source code of BibleTime 1.5 and Sword 1.5.8 is available in the download section. We hope to provide binary and translation packages for the most important Linux distributions in the next few weeks. </para>
+		<para
+>Please use our new forums to discuss about this new release. Translators are encouraged to update their translations.</para>
+	</formalpara>
+	
+	<formalpara
+><title
 >17-06-2005 : BibleTime 1.5 release candidate 2</title>
 		<para
 >La deuxième release candidate de BibleTime version 1.5 a été publiée aujourd'hui. Elle contient des corrections de bugs concernant la majorité des problèmes rencontrés avec la version 1.5rc1, plus quelques améliorations. Si vous rencontrez des problèmes avec cette version, contactez nous <ulink url="http://sourceforge.net/tracker/?atid=521207&amp;group_id=954&amp;func=browse"

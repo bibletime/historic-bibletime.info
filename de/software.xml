@@ -36,20 +36,29 @@
 	
 	<formalpara
 ><title
->2005-06-17: BibleTime 1.5 release candidate 2</title>
+>2005-07-16: BibleTime 1.5</title>
 		<para
->The second release candidate of BibleTime version 1.5 was released today. It contains fixes for most of the problems found in 1.5rc1 and some more additional improvements. Please report all problems and bugs you encounter <ulink url="http://sourceforge.net/tracker/?atid=521207&amp;group_id=954&amp;func=browse"
->here</ulink
->. The source code of BibleTime 1.5rc2 and Sword 1.5.8 is available in the download section. </para>
+>BibleTime 1.5 is available now. It contains many new features and improvements. The source code of BibleTime 1.5 and Sword 1.5.8 is available in the download section. We hope to provide binary and translation packages for the most important Linux distributions in the next few weeks. </para>
+		<para
+>Please use our new forums to discuss about this new release. Translators are encouraged to update their translations.</para>
 	</formalpara>
 	
 	<formalpara
 ><title
->2005-06-15: BibleTime forums online</title>
+>17.06.2005: BibleTime 1.5 Release Kandidat 2</title>
 		<para
->In the ongoing effort to build a BibleTime user community the BibleTime forums are now available for everybody at <ulink url="http://forum.bibletime.info/"
+>Der zweite Release-Kandidat von BibleTime Version 1.5 wurde heute veröffentlicht. Er korrigiert die meisten der Probleme, die in 1.5rc1 gefunden wurden und enthält zusätzlich einige zusätzliche Verbesserungen. Bitte berichten Sie alle Probleme und Fehler die sie finden <ulink url="http://sourceforge.net/tracker/?atid=521207&amp;group_id=954&amp;func=browse"
+>auf dieser Seite</ulink
+>. Der Quellcode  von BibleTime 1.5rc2 und Sword 1.5.8 kann im Download-Abschnitt gefunden werden. </para>
+	</formalpara>
+	
+	<formalpara
+><title
+>15.06.2005: BibleTime-Forum online</title>
+		<para
+>Im Prozess eine BibleTime Benutzergemeinschaft aufzubauen wurde nun für alle ein BibleTime-Foum auf <ulink url="http://forum.bibletime.info/"
 >forum.bibletime.info</ulink
->. All users of BibleTime are encouraged to use these forums to discuss everything related to BibleTime. </para>
+> eingerichtet. Alle Benutzer von BibleTime werden gebeten, diese Foren zur Diskussion aller Dinge zu benutzen, die mit BibleTime zu tun haben. </para>
 	</formalpara>
 	
 	<formalpara
@@ -65,9 +74,9 @@
 ><title
 >24.01.2005: Bibelsoftware Umfrage</title>
 		<para
->Bible Software vendors from around the globe are jointly sponsoring a cooperative User Survey to glean from Bible Software Users worldwide their needs, requests, and dreams. We'd be glad if you could take the survey here: <ulink url="http://www.surveymonkey.com/s.asp?u=91866814127"
->Bible software survey</ulink
-> </para>
+>Hersteller von Bibelsoftware unterstützn gemeinsam eine Benutzerumfrage um weltweit von den Benutzern der Bibelsoftware deren Bedürfnisse, Wünsche und Träume zu sammeln.Wir wären froh, wenn Sie an dieser Umfrage hier teilnehmen könnten: <ulink url="http://www.surveymonkey.com/s.asp?u=91866814127"
+>Bibelsoftware Umfrage</ulink
+>. </para>
 	</formalpara>
 	
 	<formalpara

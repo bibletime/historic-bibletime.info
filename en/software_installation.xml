@@ -72,16 +72,16 @@ This section explains how to install BibleTime on your system. Basically there a
 						<para>At least the libraries and the base package. KDE 3 is shipped with many Linux distributions. Very often it's installed by default.
 						</para>
 					</listitem>
-					<listitem>
+<!--					<listitem>
 						<para><ulink url="http://curl.sourceforge.net/">Curl >= 7.9</ulink>.</para>
 						<para>This is necessary for the remote installation features of the new Sword Setup Dialog. Curl has to be installed before Sword.
 						</para>
-					</listitem>
+					</listitem>-->
 					<listitem>
-						<para><ulink url="http://www.crosswire.org/sword/software/swordapi.jsp">Sword 1.5.7</ulink>.</para>
+						<para><ulink url="http://www.crosswire.org/sword/software/swordapi.jsp">Sword 1.5.8</ulink>.</para>
 						<para>Installation instructions are available on <ulink url="http://www.crosswire.org/sword/software/index.jsp">www.crosswire.org/sword/software</ulink>. Basically the installation steps are
 							<screen>
-								<command>./usrinst.sh --enable-shared --with-curl --without-clucene</command>
+								<command>./usrinst.sh --enable-shared --without-clucene</command>
 								<command>make</command>
 								<command>make install</command>
 								<command>make install_config</command>

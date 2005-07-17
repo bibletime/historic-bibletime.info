@@ -6,6 +6,10 @@ URI: de/index.html
 Content-type: text/html
 Content-language: de
 
+URI: fi/index.html
+Content-type: text/html
+Content-language: fi
+
 URI: fr/index.html
 Content-type: text/html
 Content-language: fr
