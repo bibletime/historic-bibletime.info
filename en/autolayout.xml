@@ -67,38 +67,4 @@
 <title>License</title>
 <summary>BibleTime's license</summary>
 </tocentry>
-<tocentry page="software_imprint.xml" id="software_imprint" filename="software_imprint.html">
-<title>Imprint</title>
-<summary>BibleTime imprint</summary>
-</tocentry>
-</tocentry>
-<tocentry id="forum.bibletime.info" href="http://forum.bibletime.info/">
-<title>User forum</title>
-</tocentry>
-<tocentry page="development.xml" id="development" filename="development.html">
-<title>Development</title>
-<summary>BibleTime's development</summary>
-<tocentry page="development_help.xml" id="development_help" filename="development_help.html">
-<title>Help us</title>
-<summary>Direct and indirect support for the development of BibleTime</summary>
-</tocentry>
-<tocentry page="development_join.xml" id="development_join" filename="development_join.html">
-<title>Join us</title>
-<summary>BibleTime's development</summary>
-</tocentry>
-<tocentry page="development_mailinglists.xml" id="development_mailinglists" filename="development_mailinglists.html">
-<title>Mailinglists</title>
-<summary>BibleTime's mailinglists</summary>
-</tocentry>
-</tocentry>
-<tocentry page="translation.xml" id="translation" filename="translation.shtml">
-<title>Translation</title>
-<summary>BibleTime translation statistics</summary>
-</tocentry>
-<tocentry page="biblehowto.docbook" id="biblehowto" filename="biblehowto.html">
-<title>Biblestudy HowTo</title>
-<summary>The BibleTime Biblestudy HowTo</summary>
-</tocentry>
-</toc>
-</autolayout>
-
+<tocentry/></tocentry></toc></autolayout>
