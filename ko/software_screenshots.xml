@@ -18,36 +18,19 @@
 
 <section
 ><title
->Screenshots of BibleTime</title>
+>Screenshots of BibleTime 1.5</title>
+
 
 	<mediaobject>
 		<caption>
 			<formalpara
 ><title
->New Sword setup dialog</title>
+>The main window</title>
 				<para
->바이블타임 버전 1.4 부터는 새로운 스워드(Sword) 모듈 관리 창을 제공하고 있습니다. 스워드의 환경 설정도 가능하며 모듈의 설치와 제거를 위한 편리한 인터페이스를 지원합니다. <ulink url="/images//screenshots/3-large.jpg"
->큰 스크린샷</ulink
-> </para>
-			</formalpara>
-		</caption>
-		<imageobject>
-			<imagedata fileref="/images/screenshots/3.jpg" format="JPG"/>
-		</imageobject>
-		<textobject>
-			<phrase
->Improvements in BibleTime 1.4</phrase>
-		</textobject>
-	</mediaobject>
-
-	<mediaobject>
-		<caption>
-			<formalpara
-><title
->1.3에서 개선된 사항들</title>
-				<para
->바이블타임 1.3에서 몇가지 개선된 것들이 있습니다. 왼쪽의 트리가 모듈 타입과 언어별로 정렬되었습니다. 새 바이블타임은 각 언어 고유의 폰트 사용을 지원하기 때문에 오른쪽 디스플레이 윈도우의 헬라어 텍스트도 더욱 깔끔하게 보여집니다. <ulink url="/images//screenshots/1-large.jpg"
->큰 스크린샷</ulink
+>Here you can see a typical BibleTime session. On the left pane, you see the "bookshelf" which offers quick access to all installed electronic works as well as facilities to create and manage your own bookmarks. Below is the "mag(nifying glass)", which can display additional information about a word or piece of text. In this example it shows details about the greek word that the KJV translates as "born". The main part of the BibleTime window (called "desk") offers space to read works such as Bibles, commentaries, lexicons or other books. The <ulink url="software_gallery.html"
+>gallery</ulink
+> has some nice examples of BibleTime's powerful language handling capabilities. <ulink url="/images//screenshots/1-large.jpg"
+>Large screenshot</ulink
 > </para>
 			</formalpara>
 		</caption>
@@ -56,7 +39,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->바이블타임 1.3에서 개선된 사항들</phrase>
+>The main window</phrase>
 		</textobject>
 	</mediaobject>
 
@@ -64,10 +47,33 @@
 		<caption>
 			<formalpara
 ><title
->New search dialog</title>
+>The Bookshelf Manager</title>
 				<para
->전 버전의 검색창은 사용하기가 쉽지 않았습니다. 새 검색창은 윈도우 오른쪽의 새 모듈 선택기와 같이 동작합니다. <ulink url="/images/screenshots/2-large.jpg"
->큰 스크린샷</ulink
+>BibleTime offers a dialog to automatically download and manage electronic works. You simply define a library (a remote collection of works, such as <ulink url="http://www.crosswire.org/sword/"
+>Crosswire</ulink
+>), and then you can transfer works from this library to your local bookshelf to use them. Easy, huh? <ulink url="/images//screenshots/3-large.jpg"
+>Large screenshot</ulink
+> </para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/screenshots/3.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>The Bookshelf Manager</phrase>
+		</textobject>
+	</mediaobject>
+
+	
+	<mediaobject>
+		<caption>
+			<formalpara
+><title
+>The search dialog</title>
+				<para
+>BibleTime offers a powerful search dialog. You can choose between different search algorithms (from simple AND to regular expressions), and even limit your search to certain kinds of text, such as footnotes. <ulink url="/images/screenshots/2-large.jpg"
+>Large screenshot</ulink
 > </para>
 			</formalpara>
 		</caption>
@@ -76,7 +82,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->New search dialog</phrase>
+>The search dialog</phrase>
 		</textobject>
 	</mediaobject>
 

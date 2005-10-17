@@ -45,12 +45,16 @@
 >Für die Übersetzungsarbeit empfehlen wir ihnen das wirklich gute Programm <ulink url="http://i18n.kde.org/tools/kbabel/"
 >KBabel</ulink
 >. Es verfügt über viele erweiterte Funktionen und ist eine große Hilfe. </para>
+<para
+>Eine Liste der Sprach-Abkürzungen ist auf <ulink url="http://www.w3.org/WAI/ER/IG/ert/iso639.htm"
+>www.w3.org/WAI/ER/IG/ert/iso639.htm</ulink
+> verfügbar.</para>
 </section>
 
 
 <section
 ><title
->Übersetzung der www.bibletime.info Seiten</title>
+>Übersetzung der www.bibletime.info Internetseiten</title>
 <para
 >Wenn eine Übersetzung der Webseite in ihrer Sprache noch nicht  existiert, laden und übersetzen Sie die <ulink url="/en/pot/full.pot"
 >Webseiten Überzetzungsvorlage</ulink

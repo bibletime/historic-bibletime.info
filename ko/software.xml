@@ -33,6 +33,28 @@
 <section
 ><title
 >바이블타임 뉴스</title>
+	<formalpara
+><title
+>2005-10-16: BibleTime 1.5.2</title>
+		<para
+>A new bugfix release has been released today. Version 1.5.2 contains fixes for most of the bugs found in 1.5.1. It also contains some minor improvements to the user interface. See the file Changelog in the source code package for more details.</para>
+		<para
+>BibleTime 1.5.2 is available from the usual places. We'd be glad if binary packages could be prepared to simplify BibleTime's installation.</para>
+	</formalpara>
+	
+	<formalpara
+><title
+>2005-09-28: New forums</title>
+		<para
+>Because the old forum software turned out to be insecure we installed a new forum software today. We hope that you will continue to use the forums.</para>
+	</formalpara>
+	
+	<formalpara
+><title
+>2005-09-12: BibleTime 1.5.1 and translations</title>
+		<para
+>The bugfix release 1.5.1 is available now at our download location. A first version of BibleTime's translation files has been released, too.</para>
+	</formalpara>
 	
 	<formalpara
 ><title

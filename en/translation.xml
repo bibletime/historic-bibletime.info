@@ -36,6 +36,8 @@ update the translation and send it in. In both cases we'll be sure to integrate 
 For the translation process we recommend that you use the excellent and mature program
 <ulink url="http://i18n.kde.org/tools/kbabel/">KBabel</ulink>. It has many advanced features and is a great aid.
 </para>
+<para>
+A list of the language abbreviations is avalable at <ulink url="http://www.w3.org/WAI/ER/IG/ert/iso639.htm">www.w3.org/WAI/ER/IG/ert/iso639.htm</ulink>.</para>
 </section>
 
 

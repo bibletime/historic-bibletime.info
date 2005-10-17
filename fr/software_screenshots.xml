@@ -18,36 +18,19 @@
 
 <section
 ><title
->Captures d'écrans de BibleTime</title>
+>Screenshots of BibleTime 1.5</title>
+
 
 	<mediaobject>
 		<caption>
 			<formalpara
 ><title
->Nouvelle fenêtre de gestion des modules Sword</title>
+>The main window</title>
 				<para
->Depuis la version 1.4, BibleTime offre une nouvelle fenêtre pour gérer les modules Sword. Il es désormais possible de gérer la configuration de Sword, d'installer et de supprimer des modules au moyen d'une interface conviviale. <ulink url="/images//screenshots/3-large.jpg"
->Capture d'écrans</ulink
-> </para>
-			</formalpara>
-		</caption>
-		<imageobject>
-			<imagedata fileref="/images/screenshots/3.jpg" format="JPG"/>
-		</imageobject>
-		<textobject>
-			<phrase
->Améliorations dans BibleTime 1.4</phrase>
-		</textobject>
-	</mediaobject>
-
-	<mediaobject>
-		<caption>
-			<formalpara
-><title
->Améliorations dans BibleTime 1.3</title>
-				<para
->Voici quelques améliorations de BibleTime 1.3. L'arbre sur le côté gauche est maintenant organisé par type de module et par langue. Le texte en grec dans la fenêtre de droite est mieux affiché car BibleTime gère maintenant une police par langue. <ulink url="/images//screenshots/1-large.jpg"
->Grande capture d'écran</ulink
+>Here you can see a typical BibleTime session. On the left pane, you see the "bookshelf" which offers quick access to all installed electronic works as well as facilities to create and manage your own bookmarks. Below is the "mag(nifying glass)", which can display additional information about a word or piece of text. In this example it shows details about the greek word that the KJV translates as "born". The main part of the BibleTime window (called "desk") offers space to read works such as Bibles, commentaries, lexicons or other books. The <ulink url="software_gallery.html"
+>gallery</ulink
+> has some nice examples of BibleTime's powerful language handling capabilities. <ulink url="/images//screenshots/1-large.jpg"
+>Large screenshot</ulink
 > </para>
 			</formalpara>
 		</caption>
@@ -56,7 +39,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->Améliorations dans BibleTime 1.3</phrase>
+>The main window</phrase>
 		</textobject>
 	</mediaobject>
 
@@ -64,10 +47,33 @@
 		<caption>
 			<formalpara
 ><title
->Nouvelle boîte de dialogue de recherche</title>
+>The Bookshelf Manager</title>
 				<para
->La boîte de dialogue de recherche n'était pas très fonctionnelle. Voici la nouvelle mouture, avec le selecteur de module sur le droite.<ulink url="/images/screenshots/2-large.jpg"
->Grande capture d'écran</ulink
+>BibleTime offers a dialog to automatically download and manage electronic works. You simply define a library (a remote collection of works, such as <ulink url="http://www.crosswire.org/sword/"
+>Crosswire</ulink
+>), and then you can transfer works from this library to your local bookshelf to use them. Easy, huh? <ulink url="/images//screenshots/3-large.jpg"
+>Large screenshot</ulink
+> </para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/screenshots/3.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>The Bookshelf Manager</phrase>
+		</textobject>
+	</mediaobject>
+
+	
+	<mediaobject>
+		<caption>
+			<formalpara
+><title
+>The search dialog</title>
+				<para
+>BibleTime offers a powerful search dialog. You can choose between different search algorithms (from simple AND to regular expressions), and even limit your search to certain kinds of text, such as footnotes. <ulink url="/images/screenshots/2-large.jpg"
+>Large screenshot</ulink
 > </para>
 			</formalpara>
 		</caption>
@@ -76,7 +82,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->Nouvelle boîte de dialogue de recherche</phrase>
+>The search dialog</phrase>
 		</textobject>
 	</mediaobject>
 

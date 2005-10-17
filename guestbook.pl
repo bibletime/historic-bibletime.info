@@ -9,6 +9,7 @@
 
 use lib 'Perl';
 use CGI;
+use CGI::Carp qw(fatalsToBrowser);
 use SSI::Guestbook;
 
 my $cgi = CGI->new();

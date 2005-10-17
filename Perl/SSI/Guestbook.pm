@@ -6,8 +6,8 @@ package SSI::Guestbook;
 use strict;
 use SSI::Config;
 use CGI;
-use Date::Calc qw(Date_to_Text_Long Today);
-use Mail::Sender;
+use Time::localtime;
+use Mail::Send;
 
 # Constructor
 sub new {
@@ -44,12 +44,11 @@ sub show_addItem() {
 	my $ret = "";
 
 
-	$ret .= $q->start_form({-method=>"GET", -class=>'additem', -action=>"$ENV{'DOCUMENT_URI'}"},);
+	$ret .= $q->start_form({-method=>'GET', -class=>'additem', -action=>"$ENV{'DOCUMENT_URI'}"},);
 	$ret .= $q->hidden({-name=>'mode', -value=>'add_item', -override=>'1'});
 
 	$ret .= $q->start_table({-class=>'additem', -align=>'center'});
 
-#	$ret .= $q->Tr( $q->td({-colspan=>'2'}, $q->h3($self->i18n("Please add your comments to our guestbook!"))));
 	$ret .= $q->Tr( $q->td($self->i18n("Name:")), $q->td($q->textfield({-name=>'name', -override=>'1', -value=>'', -size=>'50'}))  );
 	$ret .= $q->Tr( $q->td($self->i18n("eMail:")), $q->td($q->textfield({-name=>'email',-override=>'1',-value=>'',-size=>'50'}))  );
 	$ret .= $q->Tr( $q->td($self->i18n("Web address:")), $q->td($q->textfield({-name=>'web',-value=>'',-override=>'1' ,-size=>'50'}))  );
@@ -95,8 +94,9 @@ sub list_items() {
 		if ($name && $comments) { #we have a valid entry, each entry is in an own small table
 			$ret .= $q->start_table({-class=>'item'});
 
-			my $dateString = ($date && $date ne '0000-00-00') ? $self->i18n("wrote on") . " " .  Date_to_Text_Long( split('-',$date) ) : $self->i18n("wrote");
-
+			#my $dateString = ($date && $date ne '0000-00-00') ? $self->i18n("wrote on") . " " .  Date_to_Text_Long( split('-',$date) ) : $self->i18n("wrote");
+			my ($year, $month, $day) = split('-',$date);
+			my $dateString = ($date && $date ne '0000-00-00') ? $self->i18n("wrote on") . " $year-$month-$day" : $self->i18n("wrote");
 
 			$ret .= $q->Tr(
 				$q->td({-class=>'header'},
@@ -135,14 +135,15 @@ sub addItem {
 	if (!($name && $comments)) { #we must have these two values!
 		return $q->h3($self->i18n("BibleTime Guestbook")) . $self->i18n("Please enter your name and the comment! The entry was not added to the guestbook!");
 	};
+	
 	my $sth = $dbh->prepare(q(
 		INSERT INTO bibletime_guestbook
 		VALUES (?,?,?,?,?,0,LAST_INSERT_ID())
 	)) || return "Prepare fehleschlagen: " . DBI->errstr;
 
-	my @date = Today();
-	my $today = "$date[0]:$date[1]:$date[2]";
-
+	my ($year, $month, $day) = (localtime->year() + 1900, localtime->mon() +1, localtime->mday());
+	my $today = "$year:$month:$day";
+	
 	$sth->execute (
 		$name,
 		$email,
@@ -151,15 +152,12 @@ sub addItem {
 		$today
 	) || return $q->h3($self->i18n("BibleTime Guestbook")) . $self->i18n("Your comments couldn't be written into the guestbook. The command to write the data to disk failed:") . $q->br() . $q->i(DBI->errstr);
 
-	my $sender = new Mail::Sender {
-		smtp => 'smtp.1und1.com',
-		from => 'info@bibletime.info',
-		charset => 'utf-8',
-	};
-	if (!ref $sender) { #something went wrong!
-		return $q->h3($self->i18n("BibleTime Guestbook")) . $self->i18n("Your comments were be written into the guestbook, but sending eMail to the BibleTime developers failed:") . $q->br() . $q->i($Mail::Sender::Error);
-	};
-
+	
+	my $msg = new Mail::Send;	
+	$msg->to('info@bibletime.info');
+# 	$msg->('info@bibletime.info');
+	$msg->subject('[Guestbook] BibleTime guestbook entry');
+    	
 	my $mail = <<EOF;
 A new guestbook entry was added at now. The item must be confirmed in the admin area to be visible to all.
 	Name:		$name
@@ -168,12 +166,11 @@ A new guestbook entry was added at now. The item must be confirmed in the admin 
 	Comments: 	$comments
 EOF
 
-	$sender->MailMsg({
-		to => 'info@bibletime.info',
-		subject => '[BibleTime Guestbook] Item added',
-		msg => $mail,
-	}) || return  $Mail::Sender::Error;
-	return $q->h3($self->i18n("Thank you for your comments!")) . $self->i18n("Your comments were sucessfully added to the guestbook! The BibleTime developers still have to check your comments if it's ok to post them. The comments will appear the next few days if nothing is wrong with them.");
+  	my $fh = $msg->open('sendmail');
+	print $fh $mail;
+    	$fh->close;
+    	
+	return $q->h3($self->i18n("Thank you for your comments!")) . $self->i18n("Your comments were sucessfully added to the guestbook! The BibleTime developers still have to check your comments if it's ok to post them. The comments will appear the next few days if nothing is wrong with them." . $q->br() . $q->br());
 
 }
 

@@ -33,14 +33,36 @@
 <section
 ><title
 >Neues über BibleTime</title>
+	<formalpara
+><title
+>16.10.2005: BibleTime 1.5.2</title>
+		<para
+>Eine neue Fehlerbereinigungsversion wurde heute veröffentlicht. Version 1.5.2 enthält Korrekturen für die meisten in 1.5.1 gefundenen Fehler. Sie enthält auch einige kleinere Verbesserungen der Benutzeroberfläche. Lesen Sie die Datei Changelog des Quellcode-Paketes für weitere Informationen.</para>
+		<para
+>BibleTime 1.5.2 ist von den bekannten Orten zu beziehen. Wir wären wirklich dankbar, wenn Binärpakete vorbereitet werden könnten, um die Installation zu vereinfachen.</para>
+	</formalpara>
 	
 	<formalpara
 ><title
->2005-07-16: BibleTime 1.5</title>
+>28.09.2005: Neue Foren</title>
 		<para
->BibleTime 1.5 is available now. It contains many new features and improvements. The source code of BibleTime 1.5 and Sword 1.5.8 is available in the download section. We hope to provide binary and translation packages for the most important Linux distributions in the next few weeks. </para>
+>Da es sich herausgestellt hat, dass die alte Forensoftware nicht sicher war, wurde heute eine neue Forensoftware installiert. Wir hoffen, dass Sie auch weiterhin die Foren nutzen.</para>
+	</formalpara>
+	
+	<formalpara
+><title
+>12.09.2005: BibleTime 1.5.1 und Übersetzungen</title>
 		<para
->Please use our new forums to discuss about this new release. Translators are encouraged to update their translations.</para>
+>Die Fehlerkorrektur-Version 1.5.1 ist nun auf unserer Download-Seite verfügbar. Eine erste Version der BibleTime Übersetzungen ist nun ebenfalls verfügbar.</para>
+	</formalpara>
+	
+	<formalpara
+><title
+>16.07.2005: BibleTime 1.5</title>
+		<para
+>BibleTime 1.5 ist jetzt verfügbar. Es enthält viele neue Funktionen und Verbesserungen. Der Quellcode von BibleTime 1.5 und Sword 1.5.8 sind in der Herunterladen-Rubrik zu finden. Wir hoffen bald Binärpakete sowie Übersetzungen für die wichtigsten Linux-Distributionen zur Verfügung stellen zu können. </para>
+		<para
+>Bitte benutzen Sie unser neues Forum, um über diese Veröffentlichung zu diskutieren. Alle Übersetzer sind gebeten, ihre Übersetzungen auf den neusten Stand zu bringen.</para>
 	</formalpara>
 	
 	<formalpara

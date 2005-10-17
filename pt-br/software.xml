@@ -33,14 +33,36 @@
 <section
 ><title
 >Notícias sobre o BibleTime</title>
+	<formalpara
+><title
+>2005-10-16: BibleTime 1.5.2</title>
+		<para
+>A new bugfix release has been released today. Version 1.5.2 contains fixes for most of the bugs found in 1.5.1. It also contains some minor improvements to the user interface. See the file Changelog in the source code package for more details.</para>
+		<para
+>BibleTime 1.5.2 is available from the usual places. We'd be glad if binary packages could be prepared to simplify BibleTime's installation.</para>
+	</formalpara>
+	
+	<formalpara
+><title
+>2005-09-28: New forums</title>
+		<para
+>Porque o antigo software de fórum foi tirado do ar, por ser inseguro, nós instalamos um novo software para fórum hoje. Nós esperamos que você continue a usar os fóruns.</para>
+	</formalpara>
+	
+	<formalpara
+><title
+>2005-09-12: BibleTime 1.5.1 and translations</title>
+		<para
+>A versão 1.5.1 para correção de bugs está disponível em nossa seção de downloads. Uma primeira versão dos arquivos de tradução do  BibleTime também foi liberada.</para>
+	</formalpara>
 	
 	<formalpara
 ><title
 >2005-07-16: BibleTime 1.5</title>
 		<para
->BibleTime 1.5 is available now. It contains many new features and improvements. The source code of BibleTime 1.5 and Sword 1.5.8 is available in the download section. We hope to provide binary and translation packages for the most important Linux distributions in the next few weeks. </para>
+>O BibleTime 1.5 já está disponível. Essa versão contêm muitas características novas e melhorias. O código fonte do BibleTime 1.5 e do Sword 1.5.8 está disponível na seção de download. Nós esperamos prover pacotes binários e de tradução para as distribuições Linux mais importantes nas próximas semanas. </para>
 		<para
->Please use our new forums to discuss about this new release. Translators are encouraged to update their translations.</para>
+>Por favor usem nossos novos fóruns para discutor sobre esta nova versão. Tradutores são encorajados a atualizar suas traduções.</para>
 	</formalpara>
 	
 	<formalpara
