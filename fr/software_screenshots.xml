@@ -18,19 +18,19 @@
 
 <section
 ><title
->Screenshots of BibleTime 1.5</title>
+>Captures d'écrans de BibleTime 1.5</title>
 
 
 	<mediaobject>
 		<caption>
 			<formalpara
 ><title
->The main window</title>
+>La fenêtre principale</title>
 				<para
->Here you can see a typical BibleTime session. On the left pane, you see the "bookshelf" which offers quick access to all installed electronic works as well as facilities to create and manage your own bookmarks. Below is the "mag(nifying glass)", which can display additional information about a word or piece of text. In this example it shows details about the greek word that the KJV translates as "born". The main part of the BibleTime window (called "desk") offers space to read works such as Bibles, commentaries, lexicons or other books. The <ulink url="software_gallery.html"
->gallery</ulink
-> has some nice examples of BibleTime's powerful language handling capabilities. <ulink url="/images//screenshots/1-large.jpg"
->Large screenshot</ulink
+>Voici une session de BibleTime classique. Sur la gauche, le "Bibliothèque" qui permet d'accéder rapidement à tous les modules installés, mais aussi de créer et de mettre à jour vos signets. En dessous, se trouve le "zoom" qui affiche des informations complémentaires sur un mot, ou une partie du texte. Dans cet exemple, le zoom affiche des détails sur le mot grec que la version KJV traduit comme "born" (c'est à dire "Né" - NDT). La partie principale de la fenêtre (appelée "Bureau") permet de consulter les ouvrages tels que les Bibles, les commentaires, les lexiques, et autres livres. Vous verre dans la <ulink url="software_gallery.html"
+>galerie</ulink
+> comment BibleTime gère les langues étrangères. <ulink url="/images//screenshots/1-large.jpg"
+>Grande capture d'écran</ulink
 > </para>
 			</formalpara>
 		</caption>
@@ -39,7 +39,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->The main window</phrase>
+>La fenre principale</phrase>
 		</textobject>
 	</mediaobject>
 
@@ -47,12 +47,12 @@
 		<caption>
 			<formalpara
 ><title
->The Bookshelf Manager</title>
+>Le gestionnaire de Bibliothèque</title>
 				<para
->BibleTime offers a dialog to automatically download and manage electronic works. You simply define a library (a remote collection of works, such as <ulink url="http://www.crosswire.org/sword/"
+>BibleTime permet de télécharger et de gérer automatiquement des ouvrages éléctroniques. Il suffit de définir une source (une selection d'ouvrages situés sur un serveur distant) telle que <ulink url="http://www.crosswire.org/sword/"
 >Crosswire</ulink
->), and then you can transfer works from this library to your local bookshelf to use them. Easy, huh? <ulink url="/images//screenshots/3-large.jpg"
->Large screenshot</ulink
+>), puis vous pouvez transférer des ouvrages de cette source dans votre bibliothèque personnelle afin de les utiliser. Facile, non ? <ulink url="/images//screenshots/3-large.jpg"
+>Grande capture d'écran</ulink
 > </para>
 			</formalpara>
 		</caption>
@@ -61,7 +61,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->The Bookshelf Manager</phrase>
+>Le gestionnaire de bibliothèque</phrase>
 		</textobject>
 	</mediaobject>
 
@@ -70,10 +70,10 @@
 		<caption>
 			<formalpara
 ><title
->The search dialog</title>
+>L'outil de recherche</title>
 				<para
->BibleTime offers a powerful search dialog. You can choose between different search algorithms (from simple AND to regular expressions), and even limit your search to certain kinds of text, such as footnotes. <ulink url="/images/screenshots/2-large.jpg"
->Large screenshot</ulink
+>BibleTime dispose d'un outil de recherche puissant. On peut choisir entre plusieurs algorithmes de recherche (du simple AND juqu'aux expressions régulières), et même restreindre les recherches à certains type de textes, tels que les notes de bas de page. <ulink url="/images/screenshots/2-large.jpg"
+>Grande capture d'écran</ulink
 > </para>
 			</formalpara>
 		</caption>
@@ -82,7 +82,7 @@
 		</imageobject>
 		<textobject>
 			<phrase
->The search dialog</phrase>
+>L'outil de recherche</phrase>
 		</textobject>
 	</mediaobject>
 

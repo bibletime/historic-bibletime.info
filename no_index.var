@@ -6,6 +6,10 @@ URI: de/no_index.html
 Content-type: text/html
 Content-language: de
 
+URI: es/no_index.html
+Content-type: text/html
+Content-language: es
+
 URI: fi/no_index.html
 Content-type: text/html
 Content-language: fi

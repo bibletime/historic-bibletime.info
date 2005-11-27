@@ -1,0 +1,88 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="translation">
+<config param="desc" value="Software page"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
+<head>
+	<title
+>Traducciones</title>
+	<summary
+>BibleTime translation statistics</summary>
+	<keywords
+>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, tramslation, webpage</keywords>
+</head>
+
+<section
+><title
+>Ayuda a traducir BibleTime en tu lenguaje</title>
+<para
+>Esta parte de el desarrollo del sofware es donde la ayuda de muchos individuos es necesaria. Nuestro deseo es ofrecer BibleTime a los usuarios en cuanto mas idiomas sea posible. Las siguientes areas estan abiertas para tu colaboracion: <orderedlist numeration="arabic">
+	<listitem
+><para
+>Traducir el sitio www.bibletime.info.</para
+></listitem>
+	<listitem
+><para
+>Traducir la interfaz de usuario del programa. </para
+></listitem>
+	<listitem
+><para
+>Traducir la ayuda del programa </para
+></listitem>
+</orderedlist>
+</para>
+
+<para
+>En esta pagina puedes encontrar estadisticas acerca de cuan completas se encuentran las traducciones en cada una de ese areas, como tambien los enlaces a las plantillas que puedes usar para iniciar una nueva traduccion en el lenguaje que no existe. Si la traduccion a tu idioma no existe, simplemente descarga las plantillas, traducelas y envialas por email a <email
+>info@bibletime.info</email
+>. Si no estas satisfecho con el estado en tu lenguaje, puedes directamente descargar el archivo correspondiente, mejorar la traduccion y enviarlo. En los dos casos nos aseguraremos de integrar tu trabajo lo mas pronto posible. </para>
+
+<para
+>Para el proceso de traduccion te recomendamos que uses el maduro y exelente programa <ulink url="http://i18n.kde.org/tools/kbabel/"
+>KBabel</ulink
+>. Este tiene muchas capacidades avanzadas y es de gran ayuda. </para>
+<para
+>Una lista de todas las abreviaciones de lenguajes esta disponible en <ulink url="http://www.w3.org/WAI/ER/IG/ert/iso639.htm"
+>www.w3.org/WAI/ER/IG/ert/iso639.htm</ulink
+>.</para>
+</section>
+
+
+<section
+><title
+>Traduccion de el sitio www.bibletime.info.</title>
+<para
+>Si la traduccion de el sitio web de tu lenguaje todavia no existe, puedes descargar y traducir la<ulink url="/en/pot/full.pot"
+>plantilla de la pagina web</ulink
+>. Si deseas mejorar una traduccion existente, puedes utilizar la tabla a continuacion para descargar el archivo correspondiente. </para>
+	<ssi mode="exec" cgi="/postats/website_stats.pl"
+></ssi>
+</section>
+
+<section
+><title
+>Traducir la interfaz de usuario del programa </title>
+<para
+>Si la traducción de la interfase del programa no existe todavia en tu lenguaje, puedes descargar y traducir la <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/messages.pot?rev=HEAD"
+>plantilla de traduccion deinterface</ulink
+>. Si deseas mejorar una traduccion existente, usa los enlaces de la tabla inferior para bajar el correspondiente archivo. </para>
+	<ssi mode="exec" cgi="/postats/messages_stats.pl"
+></ssi>
+</section>
+
+<section
+><title
+>Traducción de la ayuda del programa. </title>
+<para
+>Si la traducción de la ayuda no existe todavia en tu lenguaje, puedes descargar y traducir la <ulink url="http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD"
+>plantilla de traduccion de la ayuda</ulink
+>. Si deseas mejorar una traduccion existente, usa los enlaces de la tabla inferior para bajar el correspondiente archivo. </para>
+	<ssi mode="exec" cgi="/postats/handbook_stats.pl"
+></ssi>
+</section>
+
+</webpage>

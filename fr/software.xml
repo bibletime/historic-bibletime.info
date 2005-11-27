@@ -35,34 +35,43 @@
 >Nouvelles de BibleTime</title>
 	<formalpara
 ><title
->2005-10-16: BibleTime 1.5.2</title>
+>13-11-2005: BibleTime 1.5.3</title>
 		<para
->A new bugfix release has been released today. Version 1.5.2 contains fixes for most of the bugs found in 1.5.1. It also contains some minor improvements to the user interface. See the file Changelog in the source code package for more details.</para>
+>Une nouvelle version corrective est désormais disponible. Cette version 1.5.3 ne contient que quelques modifications, principalement liées au support des modules verrouillés et à la compilation sous KDE 3.0 - 3.3</para>
 		<para
->BibleTime 1.5.2 is available from the usual places. We'd be glad if binary packages could be prepared to simplify BibleTime's installation.</para>
+>Vous pouvez dès maintenant obtenir cette version dans la section téléchargement. Les paquetages binaires devraient être bientôt disponibles.</para>
 	</formalpara>
 	
 	<formalpara
 ><title
->2005-09-28: New forums</title>
+>16-10-2005: BibleTime 1.5.2</title>
 		<para
->Because the old forum software turned out to be insecure we installed a new forum software today. We hope that you will continue to use the forums.</para>
+>Une nouvelle version corrective est sortie aujourd'hui. La version 1.5.2 corrige la plupart des bugs de la version 1.5.1. Elle contient également quelques améliorations concernant l'interface utilisateur. Voir le Changelog dans le paquetage du code source pour se plus amples détails.</para>
+		<para
+>BibleTime 1.5.2 est dispnible aux endroits habituels. Nous serions heureux de voir des paquetages binaires préparés pour simplifier l'installation de BibleTime.</para>
 	</formalpara>
 	
 	<formalpara
 ><title
->2005-09-12: BibleTime 1.5.1 and translations</title>
+>28-09-2005 : Nouveaux forums</title>
 		<para
->The bugfix release 1.5.1 is available now at our download location. A first version of BibleTime's translation files has been released, too.</para>
+>Le logiciel du forum ayant eu des problèmes de sécurité, nous avons installé un nouveau forum aujourd"hui. Nous espérons que vous continuerez à les utiliser.</para>
 	</formalpara>
 	
 	<formalpara
 ><title
->2005-07-16: BibleTime 1.5</title>
+>12-09-2005 : BibleTime 1.5.1 et traductions</title>
 		<para
->BibleTime 1.5 is available now. It contains many new features and improvements. The source code of BibleTime 1.5 and Sword 1.5.8 is available in the download section. We hope to provide binary and translation packages for the most important Linux distributions in the next few weeks. </para>
+>La version corrective 1.5.1 est disponible depuis notre site de téléchargement. Une première versiondes traductions de BibleTime est également disponible.</para>
+	</formalpara>
+	
+	<formalpara
+><title
+>16-07-2005 : BibleTime 1.5</title>
 		<para
->Please use our new forums to discuss about this new release. Translators are encouraged to update their translations.</para>
+>BibleTime 1.5 est maintenant disponible. On y trouve de nouvelles fonctions et des améliorations. Le code source de BibleTime 1.5 et de Sword 1.5.8 est disponible dans la section de téléchargements. Nous espérons pouvoir sortir les paquetages binaires ainsi que les paquetages de traduction pour les distributions Linux les plus importantes dans les prochaines semaines. </para>
+		<para
+>N'hésitez pas à utiliser notre nouveau forum pour discuter de cette nouvelle version. Nous invitons les traducteurs à mettre à jour leur traduction.</para>
 	</formalpara>
 	
 	<formalpara

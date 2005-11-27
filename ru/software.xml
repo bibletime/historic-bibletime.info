@@ -35,6 +35,15 @@
 >Новости о BibleTime</title>
 	<formalpara
 ><title
+>2005-11-13: BibleTime 1.5.3</title>
+		<para
+>A new bugfix release is out now. Version 1.5.3 contains only a few fixes, mainly to fully support locked modules and to compile with KDE 3.0 - 3.3.</para>
+		<para
+>Get the new release in the download section. Binary packages should be available soon.</para>
+	</formalpara>
+	
+	<formalpara
+><title
 >2005-10-16: BibleTime 1.5.2</title>
 		<para
 >A new bugfix release has been released today. Version 1.5.2 contains fixes for most of the bugs found in 1.5.1. It also contains some minor improvements to the user interface. See the file Changelog in the source code package for more details.</para>

@@ -1,0 +1,47 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="development_mailinglists">
+<config param="desc" value="mailinglists us"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
+<head>
+	<title
+>Lista de correo</title>
+	<summary
+>BibleTime's mailinglists</summary>
+	<keywords
+>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, mailing list, help, support, development</keywords>
+</head>
+
+<section
+><title
+>Lista de correo de desarrollo de BibleTime.</title>
+<para
+>Para suscribirte a la lista de correo de desarrollo de BibleTime porfavor visita la  siguiente pagina web e ingresa tu direccion de email alli: <ulink url="http://www.crosswire.org/mailman/listinfo/bt-devel"
+>www.crosswire.org/mailman/listinfo/bt-devel</ulink
+> </para>
+
+<para
+>El archivo de la lista de correo de desarollo de BiblieTime esta disponible en:<ulink url="http://www.crosswire.org/pipermail/bt-devel/"
+>www.crosswire.org/pipermail/bt-devel</ulink
+>. </para>
+</section>
+
+<section
+><title
+>LIsta de correo de Desarrollo Sword</title>
+<para
+>Para suscribirte a la lista de correo de desarrollo de Sword por favor visita la  siguiente pagina web e ingresa tu direccion de email alli: <ulink url="http://www.crosswire.org/mailman/listinfo/sword-devel"
+>www.crosswire.org/mailman/listinfo/sword-devel</ulink
+> </para>
+<para
+>El archivo de la lista de correo de desarollo de Sword esta disponible en:<ulink url="http://www.crosswire.org/pipermail/sword-devel/"
+>www.crosswire.org/pipermail/sword-devel</ulink
+>. </para>
+</section>
+
+</webpage>

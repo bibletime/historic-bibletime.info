@@ -1,0 +1,19 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="index">
+<config param="desc" value="The BibleTime Home Page"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
+<head>
+	<title
+>BibleTime</title>
+	<summary
+>Start page</summary>
+	<keywords
+>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, index</keywords>
+</head>
+
+</webpage>

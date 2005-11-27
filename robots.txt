@@ -1,6 +1,7 @@
 # Robots file for www.bibletime.info. Created by update_translation.pl
 User-agent *
 Allow: /de/
+Allow: /es/
 Allow: /fi/
 Allow: /fr/
 Allow: /ko/

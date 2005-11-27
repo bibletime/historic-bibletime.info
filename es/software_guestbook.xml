@@ -1,0 +1,38 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="software_guestbook">
+<config param="desc" value="News"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
+<head>
+	<title
+>Libro de Visitas</title>
+	<summary
+>BibleTime's guestbook</summary>
+	<keywords
+>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, guestbook</keywords>
+</head>
+
+<section
+><title
+>Libro de Visita de BibleTime.</title>
+	<para
+>This is the place to leave positive or negative comments about the BibleTime project. This is not the place to ask questions, please use <ulink url="http://forum.bibletime.info/"
+>the BibleTime forum</ulink
+> instead. </para>
+	<para
+>Please write in English, if possible. HTML is not allowed and will be removed, but you may use normal line breaks to divide into paragraphs. </para>
+
+<section
+><title
+>Please add your comments here:</title>
+<ssi mode="exec" cgi="/guestbook.pl"
+></ssi>
+</section>
+
+</section>
+
+</webpage>

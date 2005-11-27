@@ -1,0 +1,91 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="software_screenshots">
+<config param="desc" value="News"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
+<head>
+	<title
+>Screenshots</title>
+	<summary
+>Screenshots of BibleTime</summary>
+	<keywords
+>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, screenshots, gallery</keywords>
+</head>
+
+<section
+><title
+>Screenshots of BibleTime 1.5</title>
+
+
+	<mediaobject>
+		<caption>
+			<formalpara
+><title
+>The main window</title>
+				<para
+>Here you can see a typical BibleTime session. On the left pane, you see the "bookshelf" which offers quick access to all installed electronic works as well as facilities to create and manage your own bookmarks. Below is the "mag(nifying glass)", which can display additional information about a word or piece of text. In this example it shows details about the greek word that the KJV translates as "born". The main part of the BibleTime window (called "desk") offers space to read works such as Bibles, commentaries, lexicons or other books. The <ulink url="software_gallery.html"
+>gallery</ulink
+> has some nice examples of BibleTime's powerful language handling capabilities. <ulink url="/images//screenshots/1-large.jpg"
+>Large screenshot</ulink
+> </para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/screenshots/1.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>The main window</phrase>
+		</textobject>
+	</mediaobject>
+
+	<mediaobject>
+		<caption>
+			<formalpara
+><title
+>The Bookshelf Manager</title>
+				<para
+>BibleTime offers a dialog to automatically download and manage electronic works. You simply define a library (a remote collection of works, such as <ulink url="http://www.crosswire.org/sword/"
+>Crosswire</ulink
+>), and then you can transfer works from this library to your local bookshelf to use them. Easy, huh? <ulink url="/images//screenshots/3-large.jpg"
+>Large screenshot</ulink
+> </para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/screenshots/3.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>The Bookshelf Manager</phrase>
+		</textobject>
+	</mediaobject>
+
+	
+	<mediaobject>
+		<caption>
+			<formalpara
+><title
+>The search dialog</title>
+				<para
+>BibleTime offers a powerful search dialog. You can choose between different search algorithms (from simple AND to regular expressions), and even limit your search to certain kinds of text, such as footnotes. <ulink url="/images/screenshots/2-large.jpg"
+>Large screenshot</ulink
+> </para>
+			</formalpara>
+		</caption>
+		<imageobject>
+			<imagedata fileref="/images/screenshots/2.jpg" format="JPG"/>
+		</imageobject>
+		<textobject>
+			<phrase
+>El Dialogo de busqueda</phrase>
+		</textobject>
+	</mediaobject>
+
+</section>
+
+</webpage>

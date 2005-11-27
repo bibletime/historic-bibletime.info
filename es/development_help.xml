@@ -1,0 +1,65 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+<!ENTITY development_join SYSTEM "development_join.xml" NDATA XML>
+<!ENTITY translations SYSTEM "translation.xml" NDATA XML>
+]>
+
+<webpage id="development_help">
+<config param="desc" value="Help us"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
+<head>
+<title
+>Ayudanos</title>
+<summary
+>Direct and indirect support for the development of BibleTime</summary>
+<keywords
+>BibleTime, Help us, Help BibleTime, Software</keywords>
+</head>
+
+<section
+><title
+>Por favor, ayudanos</title>
+<para
+>Our aim is to develop BibleTime into a really mature Bible study application that can by everyone. To ahieve this, we need your help. There are different possibilities for supporting the BibleTime project directly and indirectly: </para>
+
+<section
+><title
+>Deseas orar?</title>
+<para
+>Orar es algo que cualquiera puede hacer. Si estas orando por Sword y BibleTiem estas ayudando tanto como cualquiera de los miembros del proyecto. </para>
+</section>
+
+<section
+><title
+>Sabes como programar software?</title>
+<para
+>Sabes programar en C++? Estas familiarizado con la interfaz de programacion de KDE o motivado a aprender? Si tienes tiempo regulamente para trabajar en el codigo fuente de BibleTime te pedimos que te unas a nuestro equipo. Si asi lo deseas, por favor lee la pagina <olink targetdocent="development_join"
+>Unete a nosotros</olink
+>. </para>
+</section>
+
+<section
+><title
+>Sabes como escribir documentacion?</title>
+<para
+>Si piensas que serias bueno trabajando en la documentacion en ingles de BibleTime? Si asi crees , por favor lee la pagina <olink targetdocent="development_join"
+>Unete a nosotros</olink
+>. </para>
+</section>
+
+<section
+><title
+>Eres bueno en traducir del ingles a otro idioma?</title>
+<para
+>BibleTime tiene que ser usable por todos. Es por eso que necesitamos traducirlo a tu idioma, si todavia no esta disponible. Si decides empezar a trabajar en la traduccion por favor ponte en contacto con nosotros a info@bibletime.info para ver el estado de la traduccion si ya fue iniciada por otro miembro del equipo. Nosotros te proveeremos de los archivo necesarios para que puedas hacerlo. </para>
+<para
+>Podes encontrar mas informacion hacerca de el proceso de traduccion en la pagina <olink targetdocent="translations"
+>Traduccion</olink
+> </para>
+</section>
+</section>
+
+</webpage>

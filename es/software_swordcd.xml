@@ -1,0 +1,200 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="software_swordcd">
+<config param="desc" value="Sword CD"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
+<head>
+<title
+>CD Sword</title>
+<summary
+>Get the Sword CD</summary>
+<keywords
+>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, CD order, Sword CD</keywords>
+</head>
+
+<section>
+<formalpara
+><title
+>El formulario del Cd de Sword no esta disponible</title>
+<para
+>Because it's impossible for the BibleTime team to fullfill all the Sword CD orders with the limited financial ressources the CD order form is currently not available. Please note that the CD still is available as a download from ftp://ftp.crosswire.org/pub/sword/iso/. </para>
+</formalpara>
+</section>
+
+<!-- <section
+><title
+>What is the Sword CD?</title>
+<para>
+The Sword project offers a CD which contains all the software for Windows, Linux and Mac OS X. The CD is freely available like all the other things the Crosswire Bible society is offering for you! See below how to download the CD. If you can't download the CD, for example because you don't have a fast connection, you can order the CD. If you're living in Europe the BibleTime developers send out the CDs to you. In this case please fill out the form below and send it away.
+</para>
+</section>
+
+
+<section
+><title
+>What can I do with the CD?</title>
+<para>
+You can do several important things with the CD:
+<itemizedlist>
+	<listitem>
+		<formalpara
+><title
+>Study the Bible!</title>
+			<para>
+			Use all the bibles, commentaries, lexicons, glossaries and books to study God's word! We hope, that the CD helps you to study the word in a more efficient way!
+			</para>
+		</formalpara>
+	</listitem>
+
+	<listitem>
+		<formalpara
+><title
+>Make copies of the CD!</title>
+			<para>
+			Please copy the CD and share it with many others! If you can, please do this for free. If you can't, please demand only the money to cover your expenses, otherwise it woudn't be possible to distribute some of the texts on the CD.
+			</para>
+		</formalpara>
+	</listitem>
+</itemizedlist>
+</para>
+</section>
+
+<section
+><title
+>I want to download the Sword CD!</title>
+<para>
+No problem! Please download the file with the latest date from <ulink url="ftp://ftp.crosswire.org/pub/sword/iso/"
+>ftp.crosswire.org/pub/sword/iso/</ulink
+>. Don't forget that the file is over 600 MB large and that you should have a fast connection to download it.
+</para>
+</section>
+
+<section
+><title
+>I want to order the Sword CD!</title>
+<para>
+If you're NOT living in Europe please go to the Crosswire's CD order page and order the CD there. If you're living somewhere in Europe the BibleTime developers will send you the CD. Please fill in the required information in the form below and send it. The BibleTime developers will send you the CDs for free.
+</para>
+
+<html:form method="POST" action="software_swordcdsend.php4" enctype="application/x-www-form-urlencoded">
+
+<para
+>Name: 	<html:input type="text" name="name"
+></html:input
+></para>
+<para
+>Street: 	<html:input type="text" name="street"
+></html:input
+></para>
+<para
+>Town: 	<html:input type="text" name="town"
+></html:input
+></para>
+<para
+>eMail: 	<html:input type="text" name="email"
+></html:input
+></para>
+
+<para
+>Country: 
+	<html:select name="country">
+		<html:option value="Austria"
+>Austria</html:option>
+		<html:option value="Belgium"
+>Belgium</html:option>
+		<html:option value="Bulgaria"
+>Bulgaria</html:option>
+		<html:option value="Croatia"
+>Croatia</html:option>
+		<html:option value="Czech Republic"
+>Czech Republic</html:option>
+		<html:option value="Denmark"
+>Denmark</html:option>
+		<html:option value="Finland"
+>Finland</html:option>
+		<html:option value="France"
+>France</html:option>
+		<html:option value="Germany"
+>Germany</html:option>
+		<html:option value="Gibraltar"
+>Gibraltar</html:option>
+		<html:option value="Greece"
+>Greece</html:option>
+		<html:option value="Hungary"
+>Hungary</html:option>
+		<html:option value="Ireland"
+>Ireland</html:option>
+		<html:option value="Italy"
+>Italy</html:option>
+		<html:option value="Netherlands"
+>Netherlands</html:option>
+		<html:option value="Norway"
+>Norway</html:option>
+		<html:option value="Poland"
+>Poland</html:option>
+		<html:option value="Portugal"
+>Portugal</html:option>
+		<html:option value="Romania"
+>Romania</html:option>
+		<html:option value="Russia"
+>Russia</html:option>
+		<html:option value="Slovakia"
+>Slovakia</html:option>
+		<html:option value="Slovenia"
+>Slovenia</html:option>
+		<html:option value="Spain"
+>Spain</html:option>
+		<html:option value="Sweden"
+>Sweden</html:option>
+		<html:option value="Switzerland"
+>Switzerland</html:option>
+		<html:option value="Turkey"
+>Turkey</html:option>
+		<html:option value="Ukraine"
+>Ukraine</html:option>
+		<html:option selected="selected" value="United Kingdom"
+>United Kingdom</html:option>
+		<html:option value="Yugoslavia"
+>Yugoslavia</html:option>
+	</html:select>
+</para>
+
+<para
+>Amount of CDs: 
+	<html:select name="cds">
+		<html:option selected="selected"
+>1</html:option>
+		<html:option
+>2</html:option>
+		<html:option
+>3</html:option>
+		<html:option
+>4</html:option>
+		<html:option
+>5</html:option>
+	</html:select>
+</para>
+
+<para>
+	Comments: <html:textarea name="comments" rows="10" cols="35"
+></html:textarea>
+</para>
+
+<para>
+	<html:input name="Check order" type="submit" value="Send order"
+></html:input>
+	&nbsp;
+	<html:input name="Reset order" type="reset" value="Reset order"
+></html:input>
+</para>
+</html:form>
+
+</section>
+-->`
+
+</webpage>

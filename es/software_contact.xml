@@ -1,0 +1,63 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="contact">
+<config param="desc" value="Contact"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
+<head>
+	<title
+>Contacto</title>
+	<summary
+>How to contact us</summary>
+	<keywords
+>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, contact</keywords>
+</head>
+
+<section
+><title
+>Como contactarse con nosotros</title>
+	<formalpara
+><title
+><ulink url="http://forum.bibletime.info/"
+>The BibleTime user forum.</ulink
+></title>
+	<para
+>This is the place to ask questions about BibleTime. If you have trouble with installing and/or using BibleTime post a message in the forum, and hopefully you'll have an answer in time. </para>
+	<para
+>If you are an experienced BibleTime user and can spare some time, please regularly check out the forum and answer questions of people who have less experience than you. Thereby you would also help the developers to concentrate on the work of development instead of user support. </para>
+	</formalpara>
+	
+	<formalpara
+><title
+><ulink url="http://sourceforge.net/tracker/?group_id=954&amp;atid=100954"
+>Envia un informe de fallo</ulink
+></title>
+	<para
+>If you find a bug in BibleTime use this link to report it so it can be fixed in later versions. Please include detailed descriptions of your setup and how the developers can reproduce the bug. </para>
+	</formalpara>
+	
+	<formalpara
+><title
+><ulink url="http://sourceforge.net/tracker/?atid=350954&amp;group_id=954&amp;func=browse"
+>Envia una sugerencia</ulink
+></title>
+	<para
+>If you have an idea how to improve BibleTime please use this link to tell the developers about it. </para>
+	</formalpara>
+
+	<formalpara
+><title
+><ulink url="http://sourceforge.net/tracker/?atid=511478&amp;group_id=954&amp;func=browse"
+>Reporta un problema en el sitio</ulink
+></title>
+	<para
+>If you found a problem with the website or have a suggestion how it could be improved, please use this link to tell the webmaster about it. </para>
+	</formalpara>
+
+</section>
+
+</webpage>

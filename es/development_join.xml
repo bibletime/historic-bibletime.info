@@ -1,0 +1,113 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY translation SYSTEM "translation.xml" NDATA XML>
+]>
+
+<webpage id="development_join">
+<config param="desc" value="Join us"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
+<head>
+	<title
+>Unete a nosotros</title>
+	<summary
+>BibleTime's development</summary>
+	<keywords
+>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, development team, join</keywords>
+</head>
+
+<section
+><title
+>Unete al equipo de BibleTime</title>
+<para
+>Estamos alegres para todos que nos ayuda que mejoran el software de BibleTime, su documentacion y traducciones. </para>
+
+<section
+><title
+>Los pasos basicos...</title>
+<para
+>Lo siguiente es necesario para cada tipo de miembro de grupo. Por favor sigalos! </para>
+<para>
+	<orderedlist>
+		<listitem>
+			<para
+>Si no tienes una cuenta en SourceForge, por favor cree una. Es gratis. Nosotros necesitamos tu nombre de usuario para agregarte como miembro de grupo, para asignarte tareas, etc. </para>
+		</listitem>
+
+		<listitem>
+			<para
+>Subscribite a la lista de correo de desarrollo. Todos los desarrolladores leen esta lista, asi todos saben lo que esta pasando. </para>
+		</listitem>
+
+		<listitem>
+			<para
+>Obten la version de desarrollo de BibleTime e instalala. Si necesitas ayuda con esto pregunta en la lista de correo o mira dentro de la seccion de documentacion. </para>
+		</listitem>
+	</orderedlist>
+</para>
+</section>
+
+<section
+><title
+>Los siguientes pasos son para desarrolladores de software...</title>
+<para>
+	<orderedlist>
+		<listitem>
+			<para
+>Trabaja con algunos tutoriales de de Qt 3 y KDE 3 para acostumbrarte a programar con lo que BibleTime usa. </para>
+		</listitem>
+		<listitem>
+			<para
+>Si no sabes que hacer, por favor pregunta en la lista de correo por alguna tarea. No olvides de agregar que tan dificil debe ser. </para>
+		</listitem>
+	</orderedlist>
+</para>
+</section>
+
+<section
+><title
+>Los siguientes pasos son para autores de documentacion...</title>
+<para>
+	<orderedlist>
+		<listitem>
+			<para
+>Lee la documentacion existente en ingles. Esta localizada en el directorio docs/ en el directorio CVS de BibleTime. </para>
+		</listitem>
+		<listitem>
+			<para
+>La documentacion esta guardad en archivos docbook en subdirectorios unicode para cada parte de la documentacion( Manual, BibleTime HowTo,Instalacion, Dialogos de ayuda). Por favor no edites los archivos html directamente portque estos son generados desde los archivos docbool. Los archivo de traduccion tambien son generados desde los datos dookboc. </para>
+		</listitem>
+	</orderedlist>
+</para>
+</section>
+
+
+<section
+><title
+>Los siguientes pasos son para los traductores...</title>
+<para>
+	<orderedlist>
+		<listitem>
+			<para
+>Hechale una mirada a las paginas de internacionalizacion del proyecto KDE. Estan ubicadas en <ulink url="http://i18n.kde.org/"
+>i18n.kde.org</ulink
+>. </para>
+		</listitem>
+		<listitem>
+			<para
+>Instala el programa KBabel, si es que no esta instalado ya en tu sistema. Este te ayudara un monton en el proceso de traduccion. </para>
+		</listitem>
+		<listitem>
+			<para
+>Lee la pagina  <olink targetdocent="translation"
+>traduciendo BibleTime</olink
+>. </para>
+		</listitem>
+	</orderedlist>
+</para>
+</section>
+
+</section>
+
+</webpage>

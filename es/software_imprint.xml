@@ -1,0 +1,43 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+<!ENTITY software_intro_page SYSTEM "software_intro.xml" NDATA XML>
+]>
+
+<webpage id="software_imprint">
+<config param="desc" value="Imprint"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
+<head>
+<title
+>Impresiones</title>
+<summary
+>BibleTime imprint</summary>
+<keywords
+>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, press, in the media, pree coverage</keywords>
+</head>
+
+<section
+><title
+>Responsibility</title>
+<para
+>This imprint is required in Germany for all webpages.</para>
+<para
+>The person who responsible for these webpages is: </para>
+<address
+>Joachim Ansorg <street
+>Alter Krofdorfer Weg 6</street
+> <postcode
+>35398</postcode
+> <city
+>Gie&szlig;en</city
+> <country
+>Germany</country
+> <phone
+>49.641.3605122</phone
+> <otheraddr
+>email: info at bibletime dot info</otheraddr
+> </address>
+</section>
+
+</webpage>

@@ -1,0 +1,40 @@
+<!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
+<!NOTATION XML SYSTEM "xml">
+]>
+
+<webpage id="error404">
+<config param="desc" value="404: Not found"
+></config>
+<config param="rcsdate" value="$Date$"
+></config>
+<head>
+	<title
+>Error 404: Archivo no encontrado</title>
+	<summary
+>Error 404: File not found</summary>
+	<keywords
+>BibleTime, Linux, Software, biblestudy, bible study, KDE, God, Religion, Bible, devotional, crosswire, sword, file not found, error</keywords>
+</head>
+
+<section
+><title
+>El documento no esta disponible</title>
+<para
+>El documento que buscas no esta disponible en <ulink url="http://www.bibletime.info/"
+>www.bibleinfo.info</ulink
+>. Por favor usa el arbol de navegacion de la izquierda para ver si el documento ha sido movido. </para>
+
+<para
+>Si no puedes resolver el problema, por favor reporta el URL que falla a <email
+>info@bibletime.info</email
+>. Muchisimas Gracias! </para>
+
+</section>
+
+</webpage>
+
+<!--
+Local variables:
+mode: docbook
+End:
+-->
