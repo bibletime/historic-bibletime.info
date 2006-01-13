@@ -64,7 +64,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: full\n"
 "POT-Creation-Date: 2001-02-09 01:25+0100\n"
-"PO-Revision-Date: 2006-01-13 10:09+0100\n"
+"PO-Revision-Date: 2006-01-13 10:27+0100\n"
 "Last-Translator: Martin Gruner <mg.pub@gmx.net>\n"
 "Language-Team: Deutsch\n"
 "MIME-Version: 1.0\n"
@@ -245,7 +245,7 @@ msgstr "<firstname>Bob</firstname> <surname>Harman</surname>"
 #: biblehowto.docbook:34
 #, no-c-format
 msgid "ROLES_OF_TRANSLATORS"
-msgstr "<firstname>Joachim</firstname> <surname>Ansorg</surname>"
+msgstr ""
 
 #. Tag: holder
 #: biblehowto.docbook:38
@@ -800,7 +800,7 @@ msgstr "Lasst uns Matthäus 6,1-18 zusammen studieren. Lesen Sie den Text durch.
 #: how2-basics.docbook:115
 #, no-c-format
 msgid "Beware of practicing your righteousness before men to be noticed"
-msgstr ""
+msgstr "Hütet euch, eure Gerechtigkeit vor den Menschen zur Schau zu stellen"
 
 #. Tag: para
 #: how2-basics.docbook:118
@@ -836,7 +836,7 @@ msgstr "Füllen Sie jetzt die Übersicht mit spezifischen Anweisungen, wie man f
 #: how2-basics.docbook:133
 #, no-c-format
 msgid "don't sound a trumpet. (how might someone <quote>sound a trumpet</quote> today?)"
-msgstr ""
+msgstr "lass es nicht vor dir herposaunen. (Wie könnte heute jemand das <quote>vor sich herposaunen lassen</quote>?)"
 
 #. Tag: listitem
 #: how2-basics.docbook:134
@@ -890,13 +890,13 @@ msgstr "Finden Sie diese Verse:"
 #: how2-basics.docbook:152
 #, no-c-format
 msgid "Faithful are the wounds of a friend"
-msgstr ""
+msgstr "Treu gemeint sind die Schläge eines Freundes"
 
 #. Tag: quote
 #: how2-basics.docbook:153
 #, no-c-format
 msgid "We are ambassadors of Christ."
-msgstr ""
+msgstr "Wir sind also Gesandte an Christi Statt..."
 
 #. Tag: listitem
 #: how2-basics.docbook:154
@@ -1222,6 +1222,8 @@ msgstr "Es existieren zehn Kopien von Cäsars <emphasis>Gallischem Krieg</emphas
 #, no-c-format
 msgid "Textual critic F. J. A. Hort, \"The New Testament in the Original Greek\", vol. 1 p561, Macmillan Co., quoted in <emphasis>Questions of Life</emphasis> p. 25-26"
 msgstr ""
+"Textkritiker F. J. A. Hort, \"The New Testament in the Original Greek\", Bd. "
+"1, S. 561, zitiert in <emphasis>Questions of Life</emphasis> S. 25-26"
 
 #. Tag: para
 #: how2-importance.docbook:75
@@ -1689,31 +1691,33 @@ msgstr "Querverweise für aleipho:"
 #: how2-interpretation.docbook:64
 #, no-c-format
 msgid "Mt.6:17 But you, when you fast, anoint your head"
-msgstr ""
+msgstr "Mt 6,17 Du aber salbe dein Haar, wenn du fastest"
 
 #. Tag: listitem
 #: how2-interpretation.docbook:65
 #, no-c-format
 msgid "Mk.16:1 [the women] brought spices that they might come and anoint Him."
 msgstr ""
+"Mk 16,1 [die Frauen] kauften wohlriechende Öle, um damit zum Grab zu gehen "
+"und Jesus zu salben."
 
 #. Tag: listitem
 #: how2-interpretation.docbook:66
 #, no-c-format
 msgid "Mk.6:13 And they were...anointing with oil many sick people and healing them."
-msgstr ""
+msgstr "Mk 6,13 ... und [sie] salbten viele Kranke mit Öl und heilten sie."
 
 #. Tag: listitem
 #: how2-interpretation.docbook:67
 #, no-c-format
 msgid "Lk.7:38 [...] kissing His feet and anointing them with the perfume"
-msgstr ""
+msgstr "Lk 7,38 Sie trocknete seine Füße mit ihrem Haar, küsste sie und salbte sie mit dem Öl."
 
 #. Tag: listitem
 #: how2-interpretation.docbook:68
 #, no-c-format
 msgid "Jn.12:3 Mary [...] anointed the feet of Jesus, and wiped them with her hair"
-msgstr ""
+msgstr "Joh 12,3 [Sie] salbte Jesus die Füße und trocknete sie mit ihrem Haar."
 
 #. Tag: listitem
 #: how2-interpretation.docbook:71
@@ -1726,24 +1730,27 @@ msgstr "Querverweise für chrio:"
 #, no-c-format
 msgid "Lk.4:18 <quote>The Spirit of the Lord is upon me, because He has anointed me to preach [...]</quote>"
 msgstr ""
+"Lk 4,18 <quote>Der Geist des Herrn ruht auf mir; denn der Herr hat mich "
+"gesalbt. Er hat mich gesandt, damit ich den Armen eine gute Nachricht "
+"bringe...</quote>"
 
 #. Tag: listitem
 #: how2-interpretation.docbook:74
 #, no-c-format
 msgid "Acts 4:27 Jesus, whom Thou hast anointed"
-msgstr ""
+msgstr "Apg 4,27 Jesus, den du gesalbt hast"
 
 #. Tag: listitem
 #: how2-interpretation.docbook:75
 #, no-c-format
 msgid "Acts 10:38 God anointed Jesus with the Holy Ghost and power"
-msgstr ""
+msgstr "Apg 10,38 ...wie Gott Jesus von Nazaret gesalbt hat mit dem Heiligen Geist und mit Kraft"
 
 #. Tag: listitem
 #: how2-interpretation.docbook:76
 #, no-c-format
 msgid "2 Cor.1:21 Now He who...anointed us is God"
-msgstr ""
+msgstr "2Kor 1,21 Gott aber, ... der uns alle gesalbt hat, ..."
 
 #. Tag: para
 #: how2-interpretation.docbook:81
