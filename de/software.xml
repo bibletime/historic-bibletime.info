@@ -35,11 +35,22 @@
 >Neues über BibleTime</title>
 	<formalpara
 ><title
+>2005-12-18: Translations, packages, FAQ</title>
+		<para
+>A new release of our translations package is now available at our download location. It includes many updates of the user interface translations. We hope to provide binary packages soon.</para>
+		<para
+>Perhaps you noticed all the package updates in the last few months. Jeremy Erickson is working on it and is a great blessing for our team.</para>
+		<para
+>The FAQ received some minor updates.</para>
+	</formalpara>
+	
+	<formalpara
+><title
 >2005-11-13: BibleTime 1.5.3</title>
 		<para
->A new bugfix release is out now. Version 1.5.3 contains only a few fixes, mainly to fully support locked modules and to compile with KDE 3.0 - 3.3.</para>
+>Ein neues Bugfix-Release ist erhältlich. Version 1.5.3 enthält nur einige Fehlerkorrekturen, hauptsächlich um verschlüsselte Module besser zu unterstützen und mit KDE 3.0-3.3 zu kompiliern.</para>
 		<para
->Get the new release in the download section. Binary packages should be available soon.</para>
+>Das Release findet sich im Downloadbereich. Binärpakete sollten auch bald erhältlich sein.</para>
 	</formalpara>
 	
 	<formalpara

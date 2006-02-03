@@ -35,6 +35,17 @@
 >Nouvelles de BibleTime</title>
 	<formalpara
 ><title
+>2005-12-18: Translations, packages, FAQ</title>
+		<para
+>A new release of our translations package is now available at our download location. It includes many updates of the user interface translations. We hope to provide binary packages soon.</para>
+		<para
+>Perhaps you noticed all the package updates in the last few months. Jeremy Erickson is working on it and is a great blessing for our team.</para>
+		<para
+>The FAQ received some minor updates.</para>
+	</formalpara>
+	
+	<formalpara
+><title
 >13-11-2005: BibleTime 1.5.3</title>
 		<para
 >Une nouvelle version corrective est désormais disponible. Cette version 1.5.3 ne contient que quelques modifications, principalement liées au support des modules verrouillés et à la compilation sous KDE 3.0 - 3.3</para>

@@ -20,6 +20,8 @@
 >2004</year>
 	<year
 >2005</year>
+	<year
+>2006</year>
     	<holder role="http://www.bibletime.info/"
 >Разработчики BibleTime</holder>
   </copyright>
@@ -70,7 +72,7 @@
 	
 	<tocentry id="forum.bibletime.info" href="http://forum.bibletime.info/">
 		<title
->User forum</title>
+>Форум</title>
 	</tocentry>
     
 	<tocentry page="development.xml" filename="development.html">

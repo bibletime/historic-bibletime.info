@@ -22,6 +22,10 @@ URI: ko/error404.html
 Content-type: text/html
 Content-language: ko
 
+URI: nn/error404.html
+Content-type: text/html
+Content-language: nn
+
 URI: pt-br/error404.html
 Content-type: text/html
 Content-language: pt-br

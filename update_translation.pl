@@ -190,9 +190,10 @@ sub create_apache_files() {
 	close(OUT);
 	
 	#Create the .var files
-	opendir(DIR, $source);
+	opendir(DIR, "$source");
 	while (my $file = readdir(DIR)) {
 		next unless ($file =~ /\.html|\.shtml|\.phtml|\.php4|\.php$/);
+		#print "$file\n";
 		
 		my $htmlfile = $file;
 		$file =~ s/\.html|\.shtml|\.phtml|.php4|.php$/.var/;
@@ -204,6 +205,7 @@ sub create_apache_files() {
 		print OUT "Content-language: en\n";
 		
 		foreach my $lang (@langs) {
+			#print "$lang\n";
 			print OUT "\nURI: $lang/$htmlfile\n";
 			print OUT "Content-type: text/html\n";
 			print OUT "Content-language: $lang\n";

@@ -1,22 +1,24 @@
-# translation of full.po to russain
-# translation of full_ru.po to russain
-# Copyright (C) 2003,2004 Free Software Foundation, Inc.
-# Vlad Savitsky <vlad_savitsky@mail.ru>, 2003,2004
+# translation of full.po to
+# Copyright (C) 2003,2004, 2006 Free Software Foundation, Inc.
 #
+# Vlad Savitsky <vlad_savitsky@mail.ru>, 2003,2004.
+# Santa Claus <santa@northpole.com>, 2006.
+# Joachim Ansorg <mail@joachim-ansorg.de>, 2006.
 msgid ""
 msgstr ""
 "Project-Id-Version: full\n"
-"POT-Creation-Date: 2001-02-09 01:25+0100\n"
-"PO-Revision-Date: 2004-05-20 10:58+0300\n"
-"Last-Translator: Vlad Savitsky <vlad_savitsky@mail.ru>\n"
-"Language-Team: russain <ru@li.org>\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2006-02-02 20:40+0000\n"
+"PO-Revision-Date: 2006-01-23 21:44+0100\n"
+"Last-Translator: Joachim Ansorg <mail@joachim-ansorg.de>\n"
+"Language-Team:  <de@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-xml2pot; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0.1\n"
+"X-Generator: KBabel 1.11\n"
 
 #. Tag: holder
-#: autolayout.xml:4 layout.xml:15
+#: autolayout.xml:4 layout.xml:16
 #, no-c-format
 msgid "The BibleTime developers"
 msgstr "Разработчики BibleTime"
@@ -82,7 +84,7 @@ msgid "Download"
 msgstr "Загрузить"
 
 #. Tag: title
-#: autolayout.xml:43 software_faq.xml:9
+#: autolayout.xml:43 software_faq.xml:11
 #, no-c-format
 msgid "<title>FAQ</title>"
 msgstr "<title>ЧаВо</title>"
@@ -127,13 +129,13 @@ msgstr "Лицензия"
 #: autolayout.xml:71 software_imprint.xml:10
 #, no-c-format
 msgid "Imprint"
-msgstr ""
+msgstr "Отпечатка"
 
 #. Tag: title
-#: autolayout.xml:76 layout.xml:45
+#: autolayout.xml:76 layout.xml:46
 #, no-c-format
 msgid "User forum"
-msgstr ""
+msgstr "Форум"
 
 #. Tag: title
 #: autolayout.xml:79 development.xml:10
@@ -274,7 +276,7 @@ msgstr "Нужна помощь ..."
 #: development_help.xml:18
 #, no-c-format
 msgid "Our aim is to develop BibleTime into a really mature Bible study application that can by everyone. To ahieve this, we need your help. There are different possibilities for supporting the BibleTime project directly and indirectly:"
-msgstr ""
+msgstr "Наша цель в разработке BibleTime - сделать ее программой,необходимой каждому изучающему Библию. Для этого нам нужна Ваша помощь. Поддержать проэкт BibleTime можно различными путями:"
 
 #. Tag: title
 #: development_help.xml:24
@@ -489,14 +491,20 @@ msgstr "Внимательно прочтите эти страницы с те�
 #. Tag: title
 #: devotional.xml:14
 #, no-c-format
-msgid "Wait a minute"
-msgstr "Подождите минутку"
+msgid "Did you know..."
+msgstr ""
 
 #. Tag: para
 #: devotional.xml:15
 #, no-c-format
-msgid "Did you see &quot;The Passion&quot;? Whether you found the film inspiring or not, or you didn't see it at all -- If you want to find out more about the passion of Jesus Christ, you can visit the &quot;<ulink url=\"http://www.the-good-news.org/\">the good news</ulink>&quot; webpages. It has more information ready for you, maybe even in your local language."
-msgstr "Вы видели &quot;Страсти Христовы&quot;? Считаете ли вы фильм вдохновляющим или нет или вы вообще его не видели, но если вы хотите узнать больше о страданиях Иисуса Христа, то вы можете посетить сайт &quot;<ulink url=\"http://www.the-good-news.org/\">the good news (Благая весть)</ulink>&quot;. Там приготовлено множество информации для вас, возможно даже на вашем родном языке."
+msgid "Did you know hat today, 2006, more than 200,000,000 Christians are being disadvantaged, persecuted and even killed because of their faith? <ulink url=\"http://www.opendoors-de.org/downloads/persecde.pdf\">This map</ulink> (German) shows the countries where people have to &quot;pay&quot; for their faith, and <ulink url=\"http://www.opendoorsusa.org/Display.asp?Page=Map\">here is an English one</ulink> that has some information about the main regions worldwide. These pages are from Open Doors, an independent organization trat tries to help persecuted Christians."
+msgstr ""
+
+#. Tag: para
+#: devotional.xml:17
+#, no-c-format
+msgid "1Cor 12:26.27: &quot;If one part of the body suffers, all the other parts share its suffering... You are Christ's body and each of you is an individual part of it.&quot;"
+msgstr ""
 
 #. Tag: title
 #: error404.xml:14
@@ -530,15 +538,15 @@ msgstr "Цель, с которой мы приступаем к изучени�
 
 #. Tag: para
 #: how2-basics.docbook:5
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Jn.5:39-40<quote>You search the Scriptures, because you think that in them you have eternal life; and it is these that bear witness of Me; and you are unwilling to come to Me, that you may have life.</quote>"
-msgstr "Ин.5:39-40 <emphasis>\"Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне. Но вы не хотите придти ко Мне, чтобы иметь жизнь.\"</emphasis>"
+msgstr "Ин.5:39-40 <emphasis><quote>Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне. Но вы не хотите придти ко Мне, чтобы иметь жизнь.</quote></emphasis>"
 
 #. Tag: para
 #: how2-basics.docbook:11
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "The chief purpose of the book is to bring us to the Person. Martin Luther said <quote>we go to the cradle only for the sake of the baby</quote>; just so in Bible study, we do it not for its own sake but for fellowship with God."
-msgstr "Основная цель книги - привести нас к Личности. Мартин Лютер сказал: \"мы идём к колыбели только ради ребёнка\"; так же и с изучением Библии - мы делаем это не ради самого изучения, но, чтобы иметь общение с Богом."
+msgstr "Основная цель книги - привести нас к Личности. Мартин Лютер сказал: <quote>мы идём к колыбели только ради ребёнка</quote>; так же и с изучением Библии - мы делаем это не ради самого изучения, но, чтобы иметь общение с Богом."
 
 #. Tag: attribution
 #: how2-basics.docbook:15
@@ -548,9 +556,9 @@ msgstr "Джон Р. В. Скотт (John R.W. Stott), <emphasis>Христос 
 
 #. Tag: para
 #: how2-basics.docbook:17
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "The Jews to whom Jesus spoke [...] imagined that to possess Scripture was tantamount to possessing life. Hillel used to say, &quot;He who has gotten to himself words of Torah has gotten to himself the life of the world to come.&quot; Their study was an end in itself. In this they were grievously deceived. [...]"
-msgstr "Иудеи, с которыми Иисус говорил... считали, что обладать Писанием было равноценно обладанию жизнью. Гиллель говорил: \"Тот, кто приобрёл для себя слова Торы, приобрёл себе жизнь мира, грядущего.\" Их изучение было замкнуто на самом изучении. В этом они тяжко заблуждались..."
+msgstr "Иудеи, с которыми Иисус говорил... считали, что обладать Писанием было равноценно обладанию жизнью. Гиллель говорил: <quote>Тот, кто приобрёл для себя слова Торы, приобрёл себе жизнь мира, грядущего.</quote> Их изучение было замкнуто на самом изучении. В этом они тяжко заблуждались..."
 
 #. Tag: para
 #: how2-basics.docbook:22
@@ -578,9 +586,9 @@ msgstr "Слышать"
 
 #. Tag: para
 #: how2-basics.docbook:36
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Lk.11:28 <quote>blessed are those who hear the word of God, and observe it.</quote>"
-msgstr "Луки.11:28 <emphasis>\"... блаженны слышащие слово Божие и соблюдающие его.\"</emphasis>"
+msgstr "Луки.11:28 <quote>... блаженны слышащие слово Божие и соблюдающие его.</quote>"
 
 #. Tag: title
 #: how2-basics.docbook:40
@@ -590,27 +598,27 @@ msgstr "Читать"
 
 #. Tag: para
 #: how2-basics.docbook:41
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Rev.1:3 <quote>Blessed is he who reads and those who hear the words of this prophecy [...]</quote>"
-msgstr "Откр.1:3 <emphasis>\"Блажен читающий и слушающие слова пророчества сего...\"</emphasis>"
+msgstr "Откр.1:3 <quote>Блажен читающий и слушающие слова пророчества сего...</quote>"
 
 #. Tag: para
 #: how2-basics.docbook:43
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "1 Tim.4:13 <quote>give attention to the public reading of Scripture [...]</quote>"
-msgstr "1 Тим.4:13 <emphasis>\"Доколе не приду, занимайся чтением...\"</emphasis>"
+msgstr "1 Тим.4:13 <quote>Доколе не приду, занимайся чтением...</quote>"
 
 #. Tag: para
 #: how2-basics.docbook:48
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Acts 17:11 <quote>Now these were more noble-minded than those in Thessalonica, for they received the word with great eagerness, examining the Scriptures daily, to see whether these things were so.</quote>"
-msgstr "Деян.17:11 <emphasis>\" Здешние были благомысленнее Фессалоникских: они приняли слово со всем усердием, ежедневно разбирая Писания, точно ли это так.\"</emphasis>"
+msgstr "Деян.17:11 <quote> Здешние были благомысленнее Фессалоникских: они приняли слово со всем усердием, ежедневно разбирая Писания, точно ли это так.</quote>"
 
 #. Tag: para
 #: how2-basics.docbook:52
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "2 Tim.2:15 <quote>Be diligent [KJV `Study'] to present yourself approved to God as a workman who does not need to be ashamed, handling accurately the word of truth.</quote>"
-msgstr "2 Тим.2:15 <emphasis>\"Старайся [в переводе Библии короля Иакова (KJV) - `Изучай, чтобы'] представить себя Богу достойным, делателем неукоризненным, верно преподающим слово истины.\"</emphasis>"
+msgstr "2 Тим.2:15 <quote>Старайся [в переводе Библии короля Иакова (KJV) - `Изучай, чтобы'] представить себя Богу достойным, делателем неукоризненным, верно преподающим слово истины.</quote>"
 
 #. Tag: title
 #: how2-basics.docbook:57
@@ -620,9 +628,9 @@ msgstr "Запоминать"
 
 #. Tag: para
 #: how2-basics.docbook:58
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Ps.119:11 <quote>Thy word I have hid in my heart, that I may not sin against Thee.</quote>"
-msgstr "Пс.119:11 <emphasis>\"В сердце моем сокрыл я слово Твое, чтобы не грешить пред Тобою.\"</emphasis>"
+msgstr "Пс.119:11 <quote>В сердце моем сокрыл я слово Твое, чтобы не грешить пред Тобою.</quote>"
 
 #. Tag: title
 #: how2-basics.docbook:62
@@ -632,9 +640,9 @@ msgstr "Размышлять"
 
 #. Tag: para
 #: how2-basics.docbook:63
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Ps.1:2-3 <quote>But his delight is in the law of the Lord, And in His law he meditates day and night. And he will be like a tree firmly planted by streams of water, Which yields its fruit in its season, And its leaf does not wither; And in whatever he does, he prospers.</quote>"
-msgstr "Пс.1:2-3 <emphasis>\"но в законе Господа воля его, и о законе Его размышляет он день и ночь! И будет он как дерево, посаженное при потоках вод, которое приносит плод свой во время свое, и лист которого не вянет; и во всем, что он ни делает, успеет.\"</emphasis>"
+msgstr "Пс.1:2-3 <emphasis>&quot;но в законе Господа воля его, и о законе Его размышляет он день и ночь! И будет он как дерево, посаженное при потоках вод, которое приносит плод свой во время свое, и лист которого не вянет; и во всем, что он ни делает, успеет.&quot;</emphasis>"
 
 #. Tag: para
 #: how2-basics.docbook:69
@@ -710,9 +718,9 @@ msgstr "Контекст"
 
 #. Tag: para
 #: how2-basics.docbook:99
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "What do the verses around it say? &quot;Context is king&quot; is the rule -- the passage must make sense within the structure of the entire passage and book."
-msgstr "Что говорится в ближайших стихах? Есть правило - \"Главное - контекст\", отрывок должен иметь смысл в структуре большего отрывка и всей книги."
+msgstr "Что говорится в ближайших стихах? Есть правило - &quot;Главное - контекст&quot;, отрывок должен иметь смысл в структуре большего отрывка и всей книги."
 
 #. Tag: title
 #: how2-basics.docbook:103 how2-interpretation.docbook:26
@@ -742,31 +750,31 @@ msgstr "Давайте изучим вместе Мтф.6:1-18. Сначала �
 #: how2-basics.docbook:115
 #, no-c-format
 msgid "Beware of practicing your righteousness before men to be noticed"
-msgstr ""
+msgstr "Смотрите, не творите милостыни вашей пред людьми"
 
 #. Tag: para
 #: how2-basics.docbook:118
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "What does <quote>practicing your righteousness</quote> mean? Does the passage give any examples? What area of our lives is being addressed? <emphasis>Our motives!</emphasis> What sub-headings develop this thought?"
-msgstr "Что значит \"выставлять свою праведность\"? Есть ли в этом отрывке какие-либо примеры? Какой сферы нашей жизни это касается? Наших мотивов! Какие подзаголовки развивают эту мысль?"
+msgstr "Что значит <quote>выставлять свою праведность</quote>? Есть ли в этом отрывке какие-либо примеры? Какой сферы нашей жизни это касается? <emphasis>Наших мотивов!</emphasis> Какие подзаголовки развивают эту мысль?"
 
 #. Tag: listitem
 #: how2-basics.docbook:122 how2-basics.docbook:131
 #, no-c-format
 msgid "When you give"
-msgstr ""
+msgstr "Когда даете"
 
 #. Tag: listitem
 #: how2-basics.docbook:123
 #, no-c-format
 msgid "When you fast"
-msgstr ""
+msgstr "Когда поститесь"
 
 #. Tag: listitem
 #: how2-basics.docbook:124
 #, no-c-format
 msgid "When you pray"
-msgstr ""
+msgstr "Когда молитесь"
 
 #. Tag: para
 #: how2-basics.docbook:127
@@ -778,19 +786,19 @@ msgstr "Теперь заполните конспект особыми инст
 #: how2-basics.docbook:133
 #, no-c-format
 msgid "don't sound a trumpet. (how might someone <quote>sound a trumpet</quote> today?)"
-msgstr ""
+msgstr "не труби (как можно <quote>трубить</quote> в наше время?"
 
 #. Tag: listitem
 #: how2-basics.docbook:134
 #, no-c-format
 msgid "do it secretly."
-msgstr ""
+msgstr "делай это незаметно"
 
 #. Tag: listitem
 #: how2-basics.docbook:135
 #, no-c-format
 msgid "etc."
-msgstr ""
+msgstr "т.п."
 
 #. Tag: title
 #: how2-basics.docbook:141
@@ -824,27 +832,27 @@ msgstr "Просмотрите колонку списка и найдите н�
 
 #. Tag: para
 #: how2-basics.docbook:150
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Find these verses:"
-msgstr "Пресса о нас"
+msgstr "Найдите следующие стихи:"
 
 #. Tag: quote
 #: how2-basics.docbook:152
 #, no-c-format
 msgid "Faithful are the wounds of a friend"
-msgstr ""
+msgstr "Искренни укоризны от любящего"
 
 #. Tag: quote
 #: how2-basics.docbook:153
 #, no-c-format
 msgid "We are ambassadors of Christ."
-msgstr ""
+msgstr "Мы - посланники от имени Христова"
 
 #. Tag: listitem
 #: how2-basics.docbook:154
 #, no-c-format
 msgid "The story of the rich man and Lazarus."
-msgstr ""
+msgstr "Историю о богаче и Лазаре"
 
 #. Tag: title
 #: how2-basics.docbook:160
@@ -854,9 +862,9 @@ msgstr "Чтобы сделать тематическое исследован�
 
 #. Tag: para
 #: how2-basics.docbook:161
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Let's say you wanted to do a study of the word &quot;redemption.&quot; First you would look up that word in the concordance and look up references listed for it. Then you could look up related words and references listed for them, e.g. &quot;redeem, redeemed, ransom,&quot; even &quot;buy&quot; or &quot;bought.&quot;"
-msgstr "Предположим, вы хотите исследовать слово \"искупление\". Сначала вам нужно найти слово в симфонии и просмотреть ссылки, приведённые для него. Затем вы можете проверить слова, которые как-то связаны с искомым, и ссылки для них, напр. \"искупать\", \"искупленный\", \"выкуп\", и даже \"покупать\" или \"купил\"."
+msgstr "Предположим, вы хотите исследовать слово &quot;искупление&quot;. Сначала вам нужно найти слово в симфонии и просмотреть ссылки, приведённые для него. Затем вы можете проверить слова, которые как-то связаны с искомым, и ссылки для них, напр. &quot;искупать&quot;, &quot;искупленный&quot;, &quot;выкуп&quot;, и даже &quot;покупать&quot; или &quot;купил&quot;."
 
 #. Tag: title
 #: how2-basics.docbook:167
@@ -866,15 +874,15 @@ msgstr "Чтобы выяснить значение слова в гречес�
 
 #. Tag: para
 #: how2-basics.docbook:168
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "What if you noticed a contradiction in the KJV between Mt.7:1 <quote>Judge not lest you be judged</quote> and 1 Cor.2:15 <quote>He that is spiritual judgeth all things.</quote> Maybe there are two different Greek words here, both being translated &quot;judge&quot; in English? (We're using Strong's from here out.)"
-msgstr "Что, если вы заметили противоречие в Мтф.7:1 \"Не судите, да не судимы будете\" и 1 Кор.2:15 \"Но духовный судит о всем...\"? Возможно, что два различных греческих слова были переведены на русский одним словом \"судить\"? (Мы используем Словари Стронга здесь и далее)."
+msgstr "Что, если вы заметили противоречие в Мтф.7:1 <quote>Не судите, да не судимы будете</quote> и 1 Кор.2:15 <quote>Но духовный судит о всем..</quote>? Возможно, что два различных греческих слова были переведены на русский одним словом &quot;судить&quot;? (Мы используем Словари Стронга здесь и далее)."
 
 #. Tag: para
 #: how2-basics.docbook:172
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Look up &quot;judge&quot;."
-msgstr "Найдите \"судить\"."
+msgstr "Найдите &quot;судить&quot;."
 
 #. Tag: para
 #: how2-basics.docbook:173
@@ -884,9 +892,9 @@ msgstr "Просмотрите колонку записей и найдите �
 
 #. Tag: para
 #: how2-basics.docbook:175
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Now look up &quot;judgeth&quot;."
-msgstr "Теперь найдите \"судимы\"."
+msgstr "Теперь найдите &quot;судимы&quot;."
 
 #. Tag: para
 #: how2-basics.docbook:176
@@ -1427,7 +1435,7 @@ msgstr "Какое?"
 #: how2-importance.docbook:238
 #, no-c-format
 msgid "the word - <foreignphrase>rhema</foreignphrase>"
-msgstr "слово - <foreignphrase>рхема (rhema)</foreignphrase>"
+msgstr "слово - <foreignphrase>рема (rhema)</foreignphrase>"
 
 #. Tag: title
 #: how2-importance.docbook:241
@@ -1631,31 +1639,31 @@ msgstr "Перекрёстные ссылки"
 #: how2-interpretation.docbook:64
 #, no-c-format
 msgid "Mt.6:17 But you, when you fast, anoint your head"
-msgstr ""
+msgstr "Мф.6:17 А ты, когда постишься, помажь голову твою"
 
 #. Tag: listitem
 #: how2-interpretation.docbook:65
 #, no-c-format
 msgid "Mk.16:1 [the women] brought spices that they might come and anoint Him."
-msgstr ""
+msgstr "Мк.16:1 [женщины] купили ароматы, чтобы идти помазать Его."
 
 #. Tag: listitem
 #: how2-interpretation.docbook:66
 #, no-c-format
 msgid "Mk.6:13 And they were...anointing with oil many sick people and healing them."
-msgstr ""
+msgstr "Мк.6:13 ...и многих больных мазали маслом и исцеляли."
 
 #. Tag: listitem
 #: how2-interpretation.docbook:67
 #, no-c-format
 msgid "Lk.7:38 [...] kissing His feet and anointing them with the perfume"
-msgstr ""
+msgstr "Лк.7:38 [...] и целовала ноги Его, и мазала миром."
 
 #. Tag: listitem
 #: how2-interpretation.docbook:68
 #, no-c-format
 msgid "Jn.12:3 Mary [...] anointed the feet of Jesus, and wiped them with her hair"
-msgstr ""
+msgstr "Ин.12:3 Мария же,[...] помазала ноги Иисуса и отерла волосами своими ноги Его"
 
 #. Tag: listitem
 #: how2-interpretation.docbook:71
@@ -1667,25 +1675,25 @@ msgstr "Перекрёстные ссылки"
 #: how2-interpretation.docbook:73
 #, no-c-format
 msgid "Lk.4:18 <quote>The Spirit of the Lord is upon me, because He has anointed me to preach [...]</quote>"
-msgstr ""
+msgstr "Лк.4:18 <quote>Дух Господень на Мне; ибо Он помазал Меня ...</quote>"
 
 #. Tag: listitem
 #: how2-interpretation.docbook:74
 #, no-c-format
 msgid "Acts 4:27 Jesus, whom Thou hast anointed"
-msgstr ""
+msgstr "Деян. 4:27 Иисуса, помазанного Тобою"
 
 #. Tag: listitem
 #: how2-interpretation.docbook:75
 #, no-c-format
 msgid "Acts 10:38 God anointed Jesus with the Holy Ghost and power"
-msgstr ""
+msgstr "Деян. 10:38 как Бог Духом Святым и силою помазал Иисуса"
 
 #. Tag: listitem
 #: how2-interpretation.docbook:76
 #, no-c-format
 msgid "2 Cor.1:21 Now He who...anointed us is God"
-msgstr ""
+msgstr "2 Кор. 1:21Утверждающий ... и помазавший нас"
 
 #. Tag: para
 #: how2-interpretation.docbook:81
@@ -1761,9 +1769,9 @@ msgstr "Пример 2В"
 
 #. Tag: para
 #: how2-interpretation.docbook:121
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "Acts 2:38 <quote>And Peter said to them, &quot;Repent, and let each of you be baptized in the name of Jesus Christ for the forgiveness of your sins [...]&quot;</quote>. Is this teaching baptismal regeneration? If this was the only verse of scripture we had, we would have to conclude that. But in the light of the clear teaching elsewhere that regeneration happens by faith in Christ, we have to interpret it otherwise. Peter is urging baptism as a way for his hearers to respond to the gospel. If baptism were the pathway to being born again, how could Paul write 1 Cor.1:17 <emphasis>\"For Christ did not send me to baptize, but to preach the gospel\"</emphasis>?"
-msgstr "Деяния 2:38 \"<emphasis>Петр же сказал им: покайтесь, и да крестится каждый из вас во имя Иисуса Христа для прощения грехов...</emphasis>\" Говорит ли это о том, что рождение свыше мы получаем при крещении? Если бы у нас был только этот один стих Писания, мы вынуждены были бы сделать такое заключение. Но в свете ясного учения в других местах о том, что возрождение происходит по вере во Христа, мы должны толковать это место иначе. Пётр предлагал крещение как способ для своих слушателей ответить на призыв Евангелия. Если бы крещение было путём получения возрождения, то как бы мог Павел написать в 1 Кор.1:17 \"<emphasis>Ибо Христос послал меня не крестить, а благовествовать</emphasis>\"? "
+msgstr "Деяния 2:38 <quote>Петр же сказал им: &quot;покайтесь, и да крестится каждый из вас во имя Иисуса Христа для прощения грехов...&quot;</quote> Говорит ли это о том, что рождение свыше мы получаем при крещении? Если бы у нас был только этот один стих Писания, мы вынуждены были бы сделать такое заключение. Но в свете ясного учения в других местах о том, что возрождение происходит по вере во Христа, мы должны толковать это место иначе. Пётр предлагал крещение как способ для своих слушателей ответить на призыв Евангелия. Если бы крещение было путём получения возрождения, то как бы мог Павел написать в 1 Кор.1:17 <emphasis>\"Ибо Христос послал меня не крестить, а благовествовать\"</emphasis>? "
 
 #. Tag: title
 #: how2-interpretation.docbook:133
@@ -1882,7 +1890,7 @@ msgstr "Правило 5 - Нужно понять цель притч и раз
 #: how2-interpretation.docbook:189
 #, no-c-format
 msgid "An allegory is: <emphasis>A story where each element has a meaning.</emphasis>"
-msgstr ""
+msgstr "Аллегория это <emphasis>История, где каждый элемент имеет значение</emphasis>[прим. переводчика -с грехеского -  иносказание]"
 
 #. Tag: para
 #: how2-interpretation.docbook:190
@@ -1933,7 +1941,7 @@ msgid "The steward is commended for only one thing, his shrewdness in using what
 msgstr "Управитель получил похвалу только за одно - его догадливость в том, что он использовал то, что имел, чтобы приготовиться к тому дню, когда он не будет распоряжаться имением. Но его не похвалили за его безнравственное поведение и обкрадывание своего господина. "
 
 #. Tag: title
-#: sidebar_tips.xml:16
+#: sidebar_tips.xml:16 software_faq.xml:138
 #, no-c-format
 msgid "Translations"
 msgstr "Переводы"
@@ -2002,7 +2010,7 @@ msgstr "За тем последовали версии 1.1 и 1.2. Первой
 #: software_about.xml:49
 #, no-c-format
 msgid "BibleTime version 1.5 has been released in july 2005 after a long time of development."
-msgstr ""
+msgstr "После длительного периода времени  в июле 2005 г. была выпущена версия 1.5 BibleTime "
 
 #. Tag: title
 #: software_contact.xml:15
@@ -2065,136 +2073,172 @@ msgid "If you found a problem with the website or have a suggestion how it could
 msgstr "Если вы столкнулись с проблемой в использовании сайта или имеете предложения о том, как он может быть улучшен, пожалуйста, используйте эту ссылку, чтобы рассказать об этому веб-мастеру."
 
 #. Tag: title
-#: software_faq.xml:14
+#: software_faq.xml:16
 #, no-c-format
 msgid "Frequently Asked Questions"
 msgstr "ЧАсто задаваемые ВОпросы"
 
 #. Tag: title
-#: software_faq.xml:17
+#: software_faq.xml:19
 #, no-c-format
 msgid "Installation problems"
 msgstr "Проблемы установки"
 
 #. Tag: para
-#: software_faq.xml:20
+#: software_faq.xml:22
 #, no-c-format
 msgid "Why is the toolbar missing?"
 msgstr "Куда девалась панель инструментов?"
 
 #. Tag: para
-#: software_faq.xml:23
+#: software_faq.xml:25
 #, no-c-format
 msgid "Please run configure with the parameter --prefix=&lt;your KDE directory&gt;. Then run make and make install as usual. The KDE directories for the widely used Linux distributions are: <orderedlist> <listitem>RedHat: /usr</listitem> <listitem>SuSE: /opt/kde3</listitem> <listitem>Mandrake: /usr</listitem> </orderedlist> Alternatively you can run the command \"kde-config --prefix\" to get your KDE directory. The commands are:"
 msgstr "Пожалуйста запустите configure с параметром --prefix=&lt;ваш каталог KDE&gt;. Затем запустите make и make install как обычно. Каталог KDE для широко используемых дистрибутивов: <orderedlist> <listitem>RedHat: /usr</listitem> <listitem>SuSE: /opt/kde3</listitem> <listitem>Mandrake: /usr</listitem> </orderedlist> Кроме того, вы можете запустить команду \"kde-config --prefix\", чтобы узнать ваш каталог KDE. Команды:"
 
 #. Tag: listitem
-#: software_faq.xml:36
+#: software_faq.xml:38
 #, no-c-format
 msgid "./configure --prefix=&lt;your KDE directory&gt;"
 msgstr "./configure --prefix=&lt;ваш каталог KDE&gt;"
 
 #. Tag: listitem
-#: software_faq.xml:37
+#: software_faq.xml:39
 #, no-c-format
 msgid "make"
 msgstr "make"
 
 #. Tag: listitem
-#: software_faq.xml:38
+#: software_faq.xml:40
 #, no-c-format
 msgid "make install"
 msgstr "make install"
 
 #. Tag: para
-#: software_faq.xml:46
+#: software_faq.xml:48
 #, no-c-format
 msgid "The translations are missing!"
 msgstr "Куда девались переводы?!"
 
 #. Tag: para
-#: software_faq.xml:49
+#: software_faq.xml:51
 #, no-c-format
 msgid "Please install the package bibletime-i18n which contains the translations of the daily tips, the handbook, the installation instructions and the Bible study howto."
 msgstr "Пожалуйста, установите пакет bibletime-i18n который содержит переводы советов на каждый день, руководства, инструкции по установке и \"Как изучать Библию\". "
 
 #. Tag: title
-#: software_faq.xml:57
+#: software_faq.xml:59
 #, no-c-format
 msgid "Usage problems"
 msgstr "Проблемы использования"
 
 #. Tag: para
-#: software_faq.xml:60
+#: software_faq.xml:62
 #, no-c-format
 msgid "Is it possible to search for a specific Strong number?"
 msgstr "А можно произвести поиск по определённому номеру Стронга?"
 
+#. Tag: title
+#: software_faq.xml:68
+#, fuzzy, no-c-format
+msgid "Using BibleTime 1.1 - 1.4.x"
+msgstr "Улучшения в BibleTime 1.4"
+
 #. Tag: para
-#: software_faq.xml:66
+#: software_faq.xml:69
 #, no-c-format
 msgid "You need at least BibleTime 1.1 for this. Turn on the default usage of Strong's numbers in the optionsdialog (Sword-&gt;Filter settings). Then open the seachdialog and search for &lt;0120&gt; or any other Strong code."
 msgstr "Для этого вам понадобится BibleTime 1.1 и выше. Включите использование номеров Стронга в окне \"Опции\" (Sword->Установки фильтра). Затем откройте окно поиска и введите номер &lt;0120&gt; или любой другой номер Стронга. (В английском языке существует так называемый конкорданс Стронга (Strong's), в котором каждое слово Библии имеет свой номер для поиска всех его употреблений в оригинале и всех его вариантов перевода на английский язык - примечание переводчика)."
 
+#. Tag: title
+#: software_faq.xml:73
+#, no-c-format
+msgid "Using BibleTime 1.5 or later"
+msgstr "Использование BibleTime 1.5 и выше"
+
 #. Tag: para
 #: software_faq.xml:74
+#, no-c-format
+msgid "The search interface now offers to set the type of your search. You can choose between headings, footnotes, Strongs numbers and morphological numbers."
+msgstr "Теперь Вы можете выбрать где искать: в заголовках, сносках,  номерах Стронга или морфологических номерах"
+
+#. Tag: para
+#: software_faq.xml:82
 #, no-c-format
 msgid "Why do I see only question marks instead of Unicode text?"
 msgstr "Почему вместо текста в кодировке Unicode только знаки вопроса?"
 
 #. Tag: para
-#: software_faq.xml:80
+#: software_faq.xml:88
 #, fuzzy, no-c-format
 msgid "First make sure you have the latest version of the module which has the problems! Check <ulink url=\"http://www.crosswire.org/sword\">www.crosswire.org/sword</ulink> for this."
 msgstr "Сначала убедитесь, что у вас самая последняя версия модуля, с которым возникли проблемы! Для этого проверьте <ulink url=\"www.crosswire.org/sword\">www.crosswire.org/sword</ulink>."
 
 #. Tag: para
-#: software_faq.xml:83
+#: software_faq.xml:91
 #, no-c-format
 msgid "You have to install an unicode font like Code2000, Arial Unicode MS or Bitstream Cyberbit to display the special unicode characters. Check the section \"Configuring BibleTime->Options Dialog->Fonts\" in the handbook of BibleTime how to setup Unicode fonts under Linux."
 msgstr "Вам нужно установить Unicode-шрифт, например, Code2000, Arial Unicode MS или Bitstream Cyberbit, чтобы отображать особые символы Unicode. В разделе руководстве BibleTime \"Настройка BibleTime->Диалог настройки->Шрифты\" написано как настроить шрифты Unicode под Линукс. "
 
 #. Tag: title
-#: software_faq.xml:90
+#: software_faq.xml:98
 #, no-c-format
 msgid "Modules"
 msgstr "Модули"
 
 #. Tag: para
-#: software_faq.xml:93
-#, no-c-format
-msgid "The KJV shows no Strongs numbers in the NT!"
+#: software_faq.xml:101
+#, fuzzy, no-c-format
+msgid "The KJV shows no Strong numbers in the NT"
 msgstr "Модуль KJV не показывает номера Стронга в Новом Завете!"
 
 #. Tag: para
-#: software_faq.xml:97
+#: software_faq.xml:105
 #, no-c-format
-msgid "Due to copyright problems the old KJV module which contained all Strongs numbers had to be removed. The project KJV2003 was started to create a public domain text with all Strong numbers in it. At this time it's not yet finished so the numbers are not available in all verses of the NT. The status of the project is available at Crosswire."
-msgstr "В связи с проблемами с авторскими правами старый модуль KJV, который содержал все номера Стронга должен был быть удалён. Проект KJV2003 был начат, чтобы создать общедоступный текст со всеми номерами Стронга. На данный момент он ещё не завершён, поэтому номера есть не во всех стихах Нового Завета. Состояние проекта можно проверить на Crosswire. "
+msgid "You're probably using an outdated version of the KJV module. Please update the module."
+msgstr "Скорее всего Ваша версия KJV модуля устарела. Пожалуйста обновите модуль."
 
 #. Tag: para
-#: software_faq.xml:105
+#: software_faq.xml:113
 #, no-c-format
 msgid "Where can I write down my personal notes?"
 msgstr "Где я могу вести свои личные заметки?"
 
 #. Tag: para
-#: software_faq.xml:109
-#, no-c-format
-msgid "You have to install the module \"Personal\", which is available as a commentary on <ulink url=\"http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Personal\">Crosswire</ulink>. See our commentary page for more information: Commentaries."
+#: software_faq.xml:117
+#, fuzzy, no-c-format
+msgid "You have to install the module \"Personal\", which is available as a commentary on <ulink url=\"http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Personal\">Crosswire</ulink>. Please refer to BibleTime's handbook for more information about the personal commentary."
 msgstr "Вам нужно установить модуль \"Personal\" (Личное), который можно найти в разделе комментариев (commentaries)на <ulink url=\"http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Personal\">Crosswire</ulink>. Для получения дополнительной информации прочтите нашу страницу о комментариях: Комментарии. "
 
 #. Tag: para
-#: software_faq.xml:118
+#: software_faq.xml:126
 #, no-c-format
 msgid "Why is one of the two testaments of a Bible module empty?"
 msgstr "Почему один из Заветов модуля Библии пуст?"
 
 #. Tag: para
-#: software_faq.xml:122
-#, no-c-format
-msgid "Some modules only contain the text of the old or new testament. Recent versions of BibleTime should only offer the testament which has some text in it."
+#: software_faq.xml:130
+#, fuzzy, no-c-format
+msgid "Some modules only contain the text of the old or new testament. Recent versions of BibleTime should only offer the testament which has some content in it."
 msgstr "Некоторые модули содержат текст только Нового, или только Ветхого Завета. Новые версии BibleTime не должны показывать названия книг завета, текст которого отсутствует. "
+
+#. Tag: para
+#: software_faq.xml:141
+#, no-c-format
+msgid "Is BibleTime available in my native language?"
+msgstr "А что насчет BibleTime на моем родном языке?"
+
+#. Tag: para
+#: software_faq.xml:145
+#, no-c-format
+msgid "BibleTime is available in several languages, which are all listed on our <olink targetdocent=\"translation\">translations page</olink>. The translations are available in the package bibletime-i18n."
+msgstr "BibleTime переведена на несколько языков, которые перечислены на нашей <olink targetdocent=\"translation\">странице переводов</olink>. Переводы находятся в пакете bibletime-i18n"
+
+#. Tag: para
+#: software_faq.xml:148
+#, no-c-format
+msgid "If a translation into your language is not available, please consider to help to make it available. More information is available on out <olink targetdocent=\"translation\">translations page.</olink>."
+msgstr "Если перевода на Ваш язык еще нет, пожалуйста помогите нам в этом. Больше информации об этом на нашей странице <olink targetdocent=\"translation\">переводов</olink>."
 
 #. Tag: para
 #: software_gallery.xml:15
@@ -2410,24 +2454,24 @@ msgstr "Пожалуйста, добавьте ваш комментарий:"
 #: software_imprint.xml:15
 #, no-c-format
 msgid "Responsibility"
-msgstr ""
+msgstr "Ответственность"
 
 #. Tag: para
 #: software_imprint.xml:16
 #, no-c-format
 msgid "This imprint is required in Germany for all webpages."
-msgstr ""
+msgstr "Данная распечатка требуется в Германии для всех вебстраниц."
 
 #. Tag: para
 #: software_imprint.xml:17
 #, no-c-format
 msgid "The person who responsible for these webpages is:"
-msgstr ""
+msgstr "Ответственным за данную страницу является:"
 
 #. Tag: address
 #: software_imprint.xml:20
 #, no-c-format
-msgid "Joachim Ansorg <street>Alter Krofdorfer Weg 6</street> <postcode>35398</postcode> <city>Gie&szlig;en</city> <country>Germany</country> <phone>49.641.3605122</phone> <otheraddr>email: info at bibletime dot info</otheraddr>"
+msgid "Joachim Ansorg <street>Alter Krofdorfer Weg 6</street> <postcode>35398</postcode> <city>Gie&szlig;en</city> <country>Germany</country> <phone>49.641.3605633</phone> <otheraddr>email: info at bibletime dot info</otheraddr>"
 msgstr ""
 
 #. Tag: title
@@ -3544,7 +3588,7 @@ msgstr "\"Volksbibel 2000.2\" - это немецкая программа дл�
 #: software_links.xml:93
 #, no-c-format
 msgid "Biblesoftware for Mac"
-msgstr "Библейский программы для Mac"
+msgstr "Библейские программы для Mac"
 
 #. Tag: title
 #: software_links.xml:94
@@ -3680,306 +3724,330 @@ msgstr "Новости о BibleTime"
 
 #. Tag: title
 #: software.xml:26
-#, fuzzy, no-c-format
-msgid "2005-11-13: BibleTime 1.5.3"
-msgstr "2003-08-23: BibleTime 1.3"
+#, no-c-format
+msgid "2005-12-18: Translations, packages, FAQ"
+msgstr "2005-12-18 Переводы, пакеты, ЧаВО"
 
 #. Tag: para
 #: software.xml:27
 #, no-c-format
-msgid "A new bugfix release is out now. Version 1.5.3 contains only a few fixes, mainly to fully support locked modules and to compile with KDE 3.0 - 3.3."
+msgid "A new release of our translations package is now available at our download location. It includes many updates of the user interface translations. We hope to provide binary packages soon."
 msgstr ""
 
 #. Tag: para
 #: software.xml:28
 #, no-c-format
+msgid "Perhaps you noticed all the package updates in the last few months. Jeremy Erickson is working on it and is a great blessing for our team."
+msgstr ""
+
+#. Tag: para
+#: software.xml:29
+#, no-c-format
+msgid "The FAQ received some minor updates."
+msgstr "Обновлены ЧаВО"
+
+#. Tag: title
+#: software.xml:32
+#, fuzzy, no-c-format
+msgid "2005-11-13: BibleTime 1.5.3"
+msgstr "2003-08-23: BibleTime 1.3"
+
+#. Tag: para
+#: software.xml:33
+#, no-c-format
+msgid "A new bugfix release is out now. Version 1.5.3 contains only a few fixes, mainly to fully support locked modules and to compile with KDE 3.0 - 3.3."
+msgstr ""
+
+#. Tag: para
+#: software.xml:34
+#, no-c-format
 msgid "Get the new release in the download section. Binary packages should be available soon."
 msgstr ""
 
 #. Tag: title
-#: software.xml:31
+#: software.xml:37
 #, fuzzy, no-c-format
 msgid "2005-10-16: BibleTime 1.5.2"
 msgstr "2003-08-23: BibleTime 1.3"
 
 #. Tag: para
-#: software.xml:32
+#: software.xml:38
 #, no-c-format
 msgid "A new bugfix release has been released today. Version 1.5.2 contains fixes for most of the bugs found in 1.5.1. It also contains some minor improvements to the user interface. See the file Changelog in the source code package for more details."
 msgstr ""
 
 #. Tag: para
-#: software.xml:33
+#: software.xml:39
 #, no-c-format
 msgid "BibleTime 1.5.2 is available from the usual places. We'd be glad if binary packages could be prepared to simplify BibleTime's installation."
 msgstr ""
 
 #. Tag: title
-#: software.xml:36
+#: software.xml:42
 #, fuzzy, no-c-format
 msgid "2005-09-28: New forums"
 msgstr "2004-01-26: Online форум пользователей"
 
 #. Tag: para
-#: software.xml:37
+#: software.xml:43
 #, no-c-format
 msgid "Because the old forum software turned out to be insecure we installed a new forum software today. We hope that you will continue to use the forums."
 msgstr ""
 
 #. Tag: title
-#: software.xml:40
+#: software.xml:46
 #, fuzzy, no-c-format
 msgid "2005-09-12: BibleTime 1.5.1 and translations"
 msgstr "2004-01-29: BibleTime 1.4.1"
 
 #. Tag: para
-#: software.xml:41
+#: software.xml:47
 #, no-c-format
 msgid "The bugfix release 1.5.1 is available now at our download location. A first version of BibleTime's translation files has been released, too."
 msgstr ""
 
 #. Tag: title
-#: software.xml:44
+#: software.xml:50
 #, fuzzy, no-c-format
 msgid "2005-07-16: BibleTime 1.5"
 msgstr "2003-08-23: BibleTime 1.3"
 
 #. Tag: para
-#: software.xml:45
+#: software.xml:51
 #, no-c-format
 msgid "BibleTime 1.5 is available now. It contains many new features and improvements. The source code of BibleTime 1.5 and Sword 1.5.8 is available in the download section. We hope to provide binary and translation packages for the most important Linux distributions in the next few weeks."
 msgstr ""
 
 #. Tag: para
-#: software.xml:48
+#: software.xml:54
 #, no-c-format
 msgid "Please use our new forums to discuss about this new release. Translators are encouraged to update their translations."
 msgstr ""
 
 #. Tag: title
-#: software.xml:51
+#: software.xml:57
 #, fuzzy, no-c-format
 msgid "2005-06-17: BibleTime 1.5 release candidate 2"
 msgstr "2004-01-29: BibleTime 1.4.1"
 
 #. Tag: para
-#: software.xml:52
+#: software.xml:58
 #, no-c-format
 msgid "The second release candidate of BibleTime version 1.5 was released today. It contains fixes for most of the problems found in 1.5rc1 and some more additional improvements. Please report all problems and bugs you encounter <ulink url=\"http://sourceforge.net/tracker/?atid=521207&amp;group_id=954&amp;func=browse\">here</ulink>. The source code of BibleTime 1.5rc2 and Sword 1.5.8 is available in the download section."
 msgstr ""
 
 #. Tag: title
-#: software.xml:58
+#: software.xml:64
 #, fuzzy, no-c-format
 msgid "2005-06-15: BibleTime forums online"
 msgstr "2004-01-26: Online форум пользователей"
 
 #. Tag: para
-#: software.xml:59
+#: software.xml:65
 #, no-c-format
 msgid "In the ongoing effort to build a BibleTime user community the BibleTime forums are now available for everybody at <ulink url=\"http://forum.bibletime.info/\">forum.bibletime.info</ulink>. All users of BibleTime are encouraged to use these forums to discuss everything related to BibleTime."
 msgstr ""
 
 #. Tag: title
-#: software.xml:64
+#: software.xml:70
 #, fuzzy, no-c-format
 msgid "2005-05-29: BibleTime 1.5 release candidate 1"
 msgstr "2004-01-29: BibleTime 1.4.1"
 
 #. Tag: para
-#: software.xml:65
+#: software.xml:71
 #, no-c-format
 msgid "The first release candidate of BibleTime version 1.5 was released today. It contains a ton of fixes, improvements and new features. Everybody who is capable to install software using the source code is encouraged to test this release. Please report all problems and bugs you encounter <ulink url=\"http://sourceforge.net/tracker/?atid=521207&amp;group_id=954&amp;func=browse\">here</ulink>. The source code of BibleTime 1.5rc1 and Sword 1.5.8 is available in the download section."
 msgstr ""
 
 #. Tag: title
-#: software.xml:70
+#: software.xml:76
 #, no-c-format
 msgid "2005-01-24: Bible software Survey"
 msgstr ""
 
 #. Tag: para
-#: software.xml:71
+#: software.xml:77
 #, no-c-format
 msgid "Bible Software vendors from around the globe are jointly sponsoring a cooperative User Survey to glean from Bible Software Users worldwide their needs, requests, and dreams. We'd be glad if you could take the survey here: <ulink url=\"http://www.surveymonkey.com/s.asp?u=91866814127\">Bible software survey</ulink>"
 msgstr ""
 
 #. Tag: title
-#: software.xml:78
+#: software.xml:84
 #, no-c-format
 msgid "2004-12-23: Status update"
 msgstr ""
 
 #. Tag: para
-#: software.xml:79
+#: software.xml:85
 #, no-c-format
 msgid "The BibleTime project is still alive and development is almost finished for the next version, BibleTime 1.5. This version will contain major user interface improvements which will make it simpler to use than any other version before. We hope to release version 1.5 in the first three months of the next year."
 msgstr ""
 
 #. Tag: title
-#: software.xml:84
+#: software.xml:90
 #, no-c-format
 msgid "2004-05-25: Documentation author(s) needed"
 msgstr ""
 
 #. Tag: para
-#: software.xml:85
+#: software.xml:91
 #, no-c-format
 msgid "The BibleTime team is in urgent need of one or more volunteers who want to work on the documentation. The handbook is outdated and needs a major update before the next version of BibleTime can be released. If you have some free time and know how to work with docbook files (or are ready to learn it), plase contact us at <email>info@bibletime.info</email>."
 msgstr ""
 
 #. Tag: title
-#: software.xml:90
+#: software.xml:96
 #, no-c-format
 msgid "2004-02-09: BibleTime 1.4.1 for Mac OS X"
 msgstr "2004-02-09: BibleTime 1.4.1 для Mac OS X"
 
 #. Tag: para
-#: software.xml:91
+#: software.xml:97
 #, no-c-format
 msgid "On the BibleTime development list <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\">Daniel Glassey writes</ulink> that BibleTime is now available for Mac OSX. To get BibleTime running on Mac please follow the instructions in <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005163.html\">this eMail</ulink> and <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\">this eMail</ulink>. Please report problems or success to <email>info@bibletime.info</email>."
 msgstr "В списке разработки BibleTime <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\"> Даниель Гласси (Daniel Glassey) написал</ulink>, что теперь есть BibleTime для Mac OSX. Чтобы запустить BibleTime на Маке, пожалуйста, придерживайтесь инструкций из <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005163.html\">this eMail</ulink> and <ulink url=\"http://www.crosswire.org/pipermail/bt-devel/2004-February/005181.html\">этого eMail</ulink>. Пожалуйста, сообщайте о проблемах или успехах на <email>info@bibletime.info</email>."
 
 #. Tag: title
-#: software.xml:96
+#: software.xml:102
 #, no-c-format
 msgid "2004-01-29: BibleTime 1.4.1"
 msgstr "2004-01-29: BibleTime 1.4.1"
 
 #. Tag: para
-#: software.xml:97
+#: software.xml:103
 #, no-c-format
 msgid "BibleTime 1.4.1 was released today. The most important changes in version 1.4.1 are updated translations and bugfixes, especially in the Sword setup dialog."
 msgstr "Сегодня выпущен релиз BibleTime 1.4.1. Самым важным изменением в версии1.4.1 является обновленный перевод и исправление ошибок, особенно в диалоге установки Sword."
 
 #. Tag: title
-#: software.xml:102
+#: software.xml:108
 #, no-c-format
 msgid "2004-01-26: User forums online"
 msgstr "2004-01-26: Online форум пользователей"
 
 #. Tag: para
-#: software.xml:103
+#: software.xml:109
 #, no-c-format
 msgid "We're happy to announce a forum for BibleTime users. Please ask all your questions there if you need help. We'd appreciate all feedback and suggestions in the forum, too. The address is <ulink url=\"http://www.crosswire.org/forums\">http://www.crosswire.org/forums</ulink>."
 msgstr "Мы рады представить форум для пользователей BibleTime. Если вам нужна помощь - задвайте, пожалуйста, все ваши вопросы там.Мы также очень ценим все предложения и отзывы в форуме.Адрес такой: <ulink url=\"http://www.crosswire.org/forums\">http://www.crosswire.org/forums</ulink>."
 
 #. Tag: title
-#: software.xml:108
+#: software.xml:114
 #, no-c-format
 msgid "2004-01-16: Debian packages available"
 msgstr "2004-01-16: Готовы пакеты для Debian"
 
 #. Tag: para
-#: software.xml:109
+#: software.xml:115
 #, no-c-format
 msgid "<ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">Debian packages of BibleTime 1.4</ulink> are available now in Debian Unstable. Be sure to get the <ulink url=\"http://packages.debian.org/unstable/kde/bibletime-i18n\">bibletime-i18n package</ulink>, too. Kudos to our Debian packager Daniel Glassey for his work!"
 msgstr "<ulink url=\"http://packages.debian.org/unstable/kde/bibletime\">Debian-пакеты BibleTime 1.4</ulink> находятся сейчас в Debian Unstable (нестабильный). Также проверьте, чтобы у вас был <ulink url=\"http://packages.debian.org/unstable/kde/bibletime-i18n\">пакет bibletime-i18n</ulink>. Kudos нашему Debian-упаковщику Даниэлю Гласси (Daniel Glassey) за эту работу!"
 
 #. Tag: title
-#: software.xml:114
+#: software.xml:120
 #, no-c-format
 msgid "2004-01-11: New translation effort"
 msgstr "2004-01-11: Новые усилия в области переводов"
 
 #. Tag: para
-#: software.xml:115
+#: software.xml:121
 #, no-c-format
 msgid "First of all we want to wish all of you a truly happy and blessed new year."
 msgstr "Прежде всего мы хотим пожелать всем вам действительно счастливого и благословенного нового года. "
 
 #. Tag: para
-#: software.xml:118
+#: software.xml:124
 #, no-c-format
 msgid "As you probably already noticed, there is a new page online called <ulink url=\"translation.shtml\">&quot;Translation&quot;</ulink>. This page gives an introduction into how you can help with the translation of the different areas of the BibleTime project, and offers detailed statistics on the completeness of the existing languages. Be sure to check it out."
 msgstr "Как вы уже вероятно заметили, появилась новая страница, которая называется <ulink url=\"translation.shtml\">&quot;Переводы&quot;</ulink>. Эта страница рассказывает о том, как вы можете помочь с переводом разных областей проекта BibleTime, и предлагает подробную статистику завершённости существующих переводов. Обязательно загляните туда. "
 
 #. Tag: title
-#: software.xml:125
+#: software.xml:131
 #, no-c-format
 msgid "2003-12-29: BibleTime 1.4"
 msgstr "2003-12-29: BibleTime 1.4"
 
 #. Tag: para
-#: software.xml:126
+#: software.xml:132
 #, no-c-format
 msgid "The new version 1.4 of BibleTime is now available for download. 1.4 in comparision with version 1.3 contains a new SwordSetup dialog to setup Sword and to install modules from local sources or from the internet. With the SwordSetup part it's also possible to remove modules from disk. 1.4 also contains many new bugfixes. BibleTime 1.4 is available on our download page."
 msgstr "Новая версия BibleTime 1.4 уже доступна для загрузки. 1.4 в сравнении с версией 1.3 содержит новый мастер SwordSetup для настройки Sword и установки модулей с локальных дисков или из интернет. С помощью SwordSetup можно также удалять модули с диска. 1.4 также содержит множество исправлений. BibleTime 1.4 уже доступна на нашей странице загрузки."
 
 #. Tag: para
-#: software.xml:129
+#: software.xml:135
 #, no-c-format
 msgid "You need Sword 1.5.7 with enabled curl support to make use of the remote installation features. The binary packages we provide for some of the major linux distributions should work out of the box."
 msgstr "Вам нужен Sword 1.5.7 с поддержкой curl, чтобы использовать функции удалённой установки. Бинарные пакеты для самых распространённых дистрибутивов Линукс, которые мы предлагаем должны сразу работать."
 
 #. Tag: para
-#: software.xml:132
+#: software.xml:138
 #, no-c-format
 msgid "If you run into troubles installing BibleTime or you have problems using it please submit a bugreport. We need your support to improve BibleTime."
 msgstr "Если у вы столкнётесь с трудностями при установке BibleTime или у вас возникнут проблемы при использовании - пожалуйста, заполните отчёт об ошибке. Нам нужен ваш отчёт, чтобы улучшить BibleTime. "
 
 #. Tag: title
-#: software.xml:137
+#: software.xml:143
 #, no-c-format
 msgid "2003-12-03: BibleTime 1.4beta1"
 msgstr "2003-12-03: BibleTime 1.4beta1"
 
 #. Tag: para
-#: software.xml:138
+#: software.xml:144
 #, no-c-format
 msgid "The first testing version of the upcoming BibleTime 1.4 was released today. The new feature in comparision with 1.3 is the new SwordSetup dialog which makes the Sword and module configuration more userfriendly. Using the dialog you can now setup Sword's configuration files, install modules from the internet or from local sources (e.g. a CD) and also uninstall modules from your system. This beta release also contains some important bugfixes."
 msgstr "Первая тестовая версия ожидаемого BibleTime 1.4 была сегодня представлена. Новое по сравнению с 1.3 то, что появился новый мастер SwordSetup, который делает Sword и настойку модулей более дружелюбной. Используя этот мастер вы теперь можете настроить файлы конфигурации Sword, установить модули из интернета или с локальных дисков (например CD), а также удалить модули из своей системы. Этот бета-релиз также содержит некоторые важные исправления. "
 
 #. Tag: para
-#: software.xml:146
+#: software.xml:152
 #, no-c-format
 msgid "This 1.4beta1 release is only meant for testing, so we do not provide binary packages. If you know how to compile programs from source code we encourage you to try this beta1 release. You need Sword 1.5.6 with enabled curl support to make use of the remote installation features."
 msgstr "Этот релиз 1.4beta1 release предназначен только для тестирования, поэтому мы не предлагаем бинарные пакеты. Если вы знаете как компилировать программы из исходных кодов If you know how to compile programs from source code we мы хотим подбодрить вас попробовать этот бета1-релиз. Вам понадобится Sword 1.5.6 с поддержкой curl, чтобы использовать функцию удалённой установки. "
 
 #. Tag: title
-#: software.xml:153
+#: software.xml:159
 #, no-c-format
 msgid "2003-10-19: SuSE 9.0 packages"
 msgstr "2003-10-19: пакеты для SuSE 9.0"
 
 #. Tag: para
-#: software.xml:154
+#: software.xml:160
 #, no-c-format
 msgid "RPM packages are now available for SuSE 9.0. Report any problems to info@bibletime.info. Thank you!"
 msgstr "Теперь доступны RPM-пакеты для SuSE 9.0. Сообщайте о любых проблемах на info@bibletime.info. Спасибо! "
 
 #. Tag: title
-#: software.xml:159
+#: software.xml:165
 #, no-c-format
 msgid "2003-10-16: New webpages"
 msgstr "2003-10-16: Новые веб-страницы"
 
 #. Tag: para
-#: software.xml:160
+#: software.xml:166
 #, no-c-format
 msgid "BibleTime has now new webpages which offer better navigation, better design and faster page download time."
 msgstr "У BibleTime теперь новые страницы с улучшенной навигацией, улучшенным дизайном и ускоренной загрузкой страниц. "
 
 #. Tag: para
-#: software.xml:164
+#: software.xml:170
 #, no-c-format
 msgid "If you experience any problems with the new pages please let us know!"
 msgstr "Если вы столкнётесь с любыми проблемами с новыми страницами, пожалуйста, дайте нам знать! "
 
 #. Tag: title
-#: software.xml:169
+#: software.xml:175
 #, no-c-format
 msgid "2003-08-23: BibleTime 1.3"
 msgstr "2003-08-23: BibleTime 1.3"
 
 #. Tag: para
-#: software.xml:170
+#: software.xml:176
 #, no-c-format
 msgid "Version 1.3 of BibleTime is finally available. BibleTime 1.3 contains a lot of new features, usability improvements and bug fixes. Upgrading to version 1.3 is strongly recommended for all our users. You can get the Software here: <ulink url=\"http://www.bibletime.info/software/download/\">Download</ulink>. Binary packages will be released in the next few days."
 msgstr "Наконец-то вышла версия BibleTime 1.3. BibleTime 1.3 содержит множество новых возможностей, улучшения пользовательского интерфейса и исправления ошибок. Обновление до версии 1.3 настоятельно рекомендуется для всех пользователей. Вы можете получить программу здесь:  <ulink url=\"http://www.bibletime.info/software/download/\">Загрузить</ulink>. Бинарные пакеты будут доступны через пару дней. "
 
 #. Tag: para
-#: software.xml:175
+#: software.xml:181
 #, no-c-format
 msgid "Get the bibletime and the bibletime-i18n packages for full functionality. We're very sorry for the long release time, we hope to shorten it with the next releases."
 msgstr "Возьмите пакеты bibletime и bibletime-i18n для полной функциональности. Приносим извинения за столь долгое ожидание выхода релиза, мы надеемся сократить время выхода следующего релиза."
@@ -4042,7 +4110,7 @@ msgstr "<title>Арабская Библия</title>"
 #: software_screenshots.xml:20
 #, no-c-format
 msgid "Here you can see a typical BibleTime session. On the left pane, you see the \"bookshelf\" which offers quick access to all installed electronic works as well as facilities to create and manage your own bookmarks. Below is the \"mag(nifying glass)\", which can display additional information about a word or piece of text. In this example it shows details about the greek word that the KJV translates as \"born\". The main part of the BibleTime window (called \"desk\") offers space to read works such as Bibles, commentaries, lexicons or other books. The <ulink url=\"software_gallery.html\">gallery</ulink> has some nice examples of BibleTime's powerful language handling capabilities. <ulink url=\"/images//screenshots/1-large.jpg\">Large screenshot</ulink>"
-msgstr ""
+msgstr "Здесь Вы можете посмотреть снимки BibleTime. В левой панели Вы можете видеть \"книги\", для быстрого доступа к модулям, а также можете создать и управлять Вашими закладками. Ниже расположена \"лупа\", которая может дать дополнительную информацию о слове или части текста. На образце лупа показывает детали греческого слова \"рожден\". Основная часть окна (называемая \"стол\") является местом для чтения Библии, коментарев, словарей и др. книг. В <ulink url=\"software_gallery.html\">галерее </ulink> Вы можете найти образцы скриншотов BibleTime на других языках.<ulink url=\"/images//screenshots/1-large.jpg\">Увеличить</ulink>"
 
 #. Tag: phrase
 #: software_screenshots.xml:29
@@ -4052,15 +4120,15 @@ msgstr "<phrase>Арабская Библия</phrase>"
 
 #. Tag: title
 #: software_screenshots.xml:35
-#, fuzzy, no-c-format
+#, no-c-format
 msgid "<title>The Bookshelf Manager</title>"
-msgstr "<title>Отображение китайского языка</title>"
+msgstr "<title>Менеджер книг</title>"
 
 #. Tag: para
 #: software_screenshots.xml:36
 #, no-c-format
 msgid "BibleTime offers a dialog to automatically download and manage electronic works. You simply define a library (a remote collection of works, such as <ulink url=\"http://www.crosswire.org/sword/\">Crosswire</ulink>), and then you can transfer works from this library to your local bookshelf to use them. Easy, huh? <ulink url=\"/images//screenshots/3-large.jpg\">Large screenshot</ulink>"
-msgstr ""
+msgstr "В BibleTime Вы можете автоматически загружать и управлять модулями. Для этого укажите библиотеку (удаленная коллекция модулей)в Менеджере книг, такую как <ulink url=\"http://www.crosswire.org/sword/\">Crosswire</ulink>, и выбранный модуль будет скопирован на Ваш компьютер. Просто, да?<ulink url=\"/images//screenshots/3-large.jpg\">Увеличить</ulink>"
 
 #. Tag: phrase
 #: software_screenshots.xml:46
@@ -4078,7 +4146,7 @@ msgstr "<title>Новый поисковый диалог</title>"
 #: software_screenshots.xml:54
 #, no-c-format
 msgid "BibleTime offers a powerful search dialog. You can choose between different search algorithms (from simple AND to regular expressions), and even limit your search to certain kinds of text, such as footnotes. <ulink url=\"/images/screenshots/2-large.jpg\">Large screenshot</ulink>"
-msgstr ""
+msgstr "BibleTime предлагает мощный поиск. Вы можете выбрать различные поисковые алгоритмы (от простого И до регулярных выражений), и даже ограничить Ваш поиск определенным текстом, например сносками. <ulink url=\"/images//screenshots/3-large.jpg\">Увеличить</ulink>"
 
 #. Tag: phrase
 #: software_screenshots.xml:64
@@ -4090,13 +4158,13 @@ msgstr "<phrase>Новый поисковый диалог</phrase>"
 #: software_swordcd.xml:16
 #, no-c-format
 msgid "Sword CD order form not available"
-msgstr ""
+msgstr "Форма заказа Sword СД временно не доступна."
 
 #. Tag: para
 #: software_swordcd.xml:17
 #, no-c-format
 msgid "Because it's impossible for the BibleTime team to fullfill all the Sword CD orders with the limited financial ressources the CD order form is currently not available. Please note that the CD still is available as a download from ftp://ftp.crosswire.org/pub/sword/iso/."
-msgstr ""
+msgstr "Из-за ограниченных финансов форма заказов Sword СД удалена. Но Вы можете загрузить СД по данной ссылке: ftp://ftp.crosswirw.org/pub/sword/iso/."
 
 #. Tag: title
 #: software_swordcdsend.xml:10
@@ -4194,437 +4262,8 @@ msgstr "<title>Перевести руководство к программе.<
 msgid "If a translation of the handbook to your language does not yet exist, you can download and translate the <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> handbook translation template</ulink>. If you want to update an existing translation, use the links in the table below to download the corresponding file."
 msgstr "Если перевод Руководства на ваш язык ещё не существует, то вы можете загрузить и перевести <ulink url=\"http://cvs.sourceforge.net/viewcvs.py/*checkout*/bibletime/bibletime/pot/handbook.pot?rev=HEAD\"> Шаблон для перевода руководства</ulink>. Если вы хотите обновить существующий перевод, то используйте ссылки в таблице снизу, чтобы загрузить соответствующий файл. "
 
-#, fuzzy
-#~ msgid "The team"
-#~ msgstr "Станьте участником команды BibleTime"
-
-#, fuzzy
-#~ msgid "BibleTime involvement:"
-#~ msgstr "Разработка BibleTime"
-
-#~ msgid "New Sword setup dialog"
-#~ msgstr "Новый диалог установки Sword"
-
-#~ msgid "Since version 1.4 BibleTime offers a new dialog to manage Sword modules. It is now possible to setup Sword's configuration, install modules and uninstall modules using a userfriendly interface. <ulink url=\"/images//screenshots/3-large.jpg\">Large screenshot</ulink>"
-#~ msgstr "Начиная с версии 1.4 BibleTime предлагает новый диалог для управления модулями Sword. Теперь можно настроить конфигурацию Sword, установить и удалить модули, используя дружелюбный интерфейс. <ulink url=\"/images//screenshots/3-large.jpg\">Большой скриншот</ulink>"
-
-#~ msgid "Improvements in BibleTime 1.4"
-#~ msgstr "Улучшения в BibleTime 1.4"
-
-#~ msgid "Improvements in 1.3"
-#~ msgstr "Улучшения в 1.3"
-
-#~ msgid "Here you can see some improvements of BibleTime 1.3. The tree on the left is now set up by module type and language. The greek text in the right display window is now displayed better because BibleTime supports now own font settings for each language. <ulink url=\"/images//screenshots/1-large.jpg\">Large screenshot</ulink>"
-#~ msgstr "Здесь вы можете увидеть некоторые улучшения BibleTime 1.3. Навигация слева теперь разбита по типам модулей и языку. Греческий текст в правом окне теперь отображается лучше, потому что BibleTime теперь поддерживает особые настройки шрифтов для каждого языка. <ulink url=\"/images//screenshots/1-large.jpg\">Большой скриншот</ulink>"
-
-#~ msgid "Improvements in BibleTime 1.3"
-#~ msgstr "Улучшения в BibleTime 1.3"
-
-#~ msgid "The search dialog of previous versions wasn't easy to use. This is the new search dialog together with the new module chooser window on the right. <ulink url=\"/images/screenshots/2-large.jpg\">Large screenshot</ulink>"
-#~ msgstr "Диалог поиска в предыдущих версиях было не так-то просто использовать. Это новый диалог поиска вместе с новым окном для выбора модулей справа. <ulink url=\"/images/screenshots/2-large.jpg\">Большой скриншот</ulink>"
-
-#~ msgid "<ulink url=\"http://curl.sourceforge.net/\">Curl >= 7.9</ulink>."
-#~ msgstr "<ulink url=\"http://curl.sourceforge.net/\">Curl >= 7.9</ulink>."
-
-#~ msgid "This is necessary for the remote installation features of the new Sword Setup Dialog. Curl has to be installed before Sword."
-#~ msgstr "Это необходимо для того, чтобы использовать новую возможность удалённой установки в новом мастере Sword Setup. Curl нужно установить перед установкой Sword. "
-
-#~ msgid "This page refers to BibleTime 1.2 and needs to be updated soon, as display quality has improved a lot in the meantime."
-#~ msgstr "Эта страница ссылается на BibleTime 1.2 и нуждается в обновлении в ближайшее время, так как качество отображения было немного улучшено за это время."
-
-#~ msgid "<phrase>BHS - hebrew rendering</phrase>"
-#~ msgstr "<phrase>BHS - отображение еврейского</phrase>"
-
-#~ msgid "Our aim is to make BibleTime into a really mature Bible study application which should be used by christians to grow in their relationship with Him! To make this possible we need your help! It is possible to help us in many ways. Please read this page to whether you can help us improving the BibleTime software."
-#~ msgstr "Наша цель в том, чтобы сделать BibleTime действительно зрелым приложением для изучения Библии, которое бы использовалось христианами для возрастании в их отношениях с Богом! Что это стало возможным нам нужна ваша помощь! Есть масса возможностей помочь нам. Прочтите эту страницу, чтобы узнать как вы можете помочь нам улучшить программу BibleTime. "
-
-#~ msgid "Please use the KDE program called \"KBabel\" to translate the files! It's a good tool which simplifies the translation process"
-#~ msgstr "Пожалуйста, используйте KDE-программу, которая называется \"KBabel\" для перевода этих файлов. Это хороший инструмент, который очень упрощает процесс перевода. "
-
-#~ msgid "What is the Sword CD?"
-#~ msgstr "Что такое Sword CD?"
-
-#~ msgid "The Sword project offers a CD which contains all the software for Windows, Linux and Mac OS X. The CD is freely available like all the other things the Crosswire Bible society is offering for you! See below how to download the CD. If you can't download the CD, for example because you don't have a fast connection, you can order the CD. If you're living in Europe the BibleTime developers send out the CDs to you. In this case please fill out the form below and send it away."
-#~ msgstr "Проект Sword предлагает компакт-диск, который содержит всё программное обеспечение для Windows, Linux и Mac OS X. Компакт-диск вы можете получить свободно как многое другое из того, что общество Crosswire Bible предлагает вам! Читайте ниже как загрузить CD. Если вы не можете загрузить CD, например потому что ваше соединение недостаточно быстрое, вы можете заказать доставку CD. Если вы живёте в Европе, разработчики BibleTime вышлют вам CD. Для этого, пожалуйста, заполните и отошлите форму, которая находится ниже. "
-
-#~ msgid "What can I do with the CD?"
-#~ msgstr "Что я могу делать с CD?"
-
-#~ msgid "You can do several important things with the CD:"
-#~ msgstr "С помощью CD вы сможете делать некоторые важные вещи:"
-
-#~ msgid "Study the Bible!"
-#~ msgstr "Изучать Библию!"
-
-#~ msgid "Use all the bibles, commentaries, lexicons, glossaries and books to study God's word! We hope, that the CD helps you to study the word in a more efficient way!"
-#~ msgstr "Использовать все Библии, комментарии, словари, глоссарии и книги для изучения Божьего слова! Мы надеемся, что этот CD поможет вам изучать Слово наиболее эффективно!"
-
-#~ msgid "Make copies of the CD!"
-#~ msgstr "Делать копии CD!"
-
-#~ msgid "Please copy the CD and share it with many others! If you can, please do this for free. If you can't, please demand only the money to cover your expenses, otherwise it woudn't be possible to distribute some of the texts on the CD."
-#~ msgstr "Пожалуйста, копируйте CD и раздавайте его другим! Если вы можете, делайте это бесплатно. Если у вас нет такой возможности, пожалуйста берите столько денег, чтобы только покрыть ваши расходы, в противном случае станет невозможным распространять некоторые тексты на CD. "
-
-#~ msgid "I want to download the Sword CD!"
-#~ msgstr "Я хочу загрузить Sword CD!"
-
-#~ msgid "No problem! Please download the file with the latest date from <ulink url=\"ftp://ftp.crosswire.org/pub/sword/iso/\">ftp.crosswire.org/pub/sword/iso/</ulink>. Don't forget that the file is over 600 MB large and that you should have a fast connection to download it."
-#~ msgstr "Без проблем! Пожалуйста, загрузите файл с самой последней датой с <ulink url=\"ftp://ftp.crosswire.org/pub/sword/iso/\">ftp.crosswire.org/pub/sword/iso/</ulink>. Не забудьте, что файл имеет размер более 600 Мб, и, что вам понадобится быстрое соединение для его загрузки. "
-
-#~ msgid "I want to order the Sword CD!"
-#~ msgstr "Я хочу заказать доставку Sword CD!"
-
-#~ msgid "If you're NOT living in Europe please go to the Crosswire's CD order page and order the CD there. If you're living somewhere in Europe the BibleTime developers will send you the CD. Please fill in the required information in the form below and send it. The BibleTime developers will send you the CDs for free."
-#~ msgstr "Если вы НЕ живёте в Европе, пожалуйста, обратитесь к странице заказа Crosswire CD и закажите CD там. Если же вы живёте где-то в Европе разработчики BibleTime вышлют вам CD. Пожалуйста, внесите необходимую информацию в форму, которая расположена ниже и отошлите её. Разработчики BibleTime вышлют вам CD бесплатно. "
-
-#~ msgid "Name: <html:input type=\"text\" name=\"name\"></html:input>"
-#~ msgstr "Имя: <html:input type=\"text\" name=\"name\"></html:input>"
-
-#~ msgid "Street: <html:input type=\"text\" name=\"street\"></html:input>"
-#~ msgstr "Улица: <html:input type=\"text\" name=\"street\"></html:input>"
-
-#~ msgid "Town: <html:input type=\"text\" name=\"town\"></html:input>"
-#~ msgstr "Город: <html:input type=\"text\" name=\"town\"></html:input>"
-
-#, fuzzy
-#~ msgid "eMail: <html:input type=\"text\" name=\"email\"></html:input>"
-#~ msgstr "Имя: <html:input type=\"text\" name=\"name\"></html:input>"
-
-#, fuzzy
-#~ msgid "Country: <html:select name=\"country\"> <html:option value=\"Austria\">Austria</html:option> <html:option value=\"Belgium\">Belgium</html:option> <html:option value=\"Bulgaria\">Bulgaria</html:option> <html:option value=\"Croatia\">Croatia</html:option> <html:option value=\"Czech Republic\">Czech Republic</html:option> <html:option value=\"Denmark\">Denmark</html:option> <html:option value=\"Finland\">Finland</html:option> <html:option value=\"France\">France</html:option> <html:option value=\"Germany\">Germany</html:option> <html:option value=\"Gibraltar\">Gibraltar</html:option> <html:option value=\"Greece\">Greece</html:option> <html:option value=\"Hungary\">Hungary</html:option> <html:option value=\"Ireland\">Ireland</html:option> <html:option value=\"Italy\">Italy</html:option> <html:option value=\"Netherlands\">Netherlands</html:option> <html:option value=\"Norway\">Norway</html:option> <html:option value=\"Poland\">Poland</html:option> <html:option value=\"Portugal\">Portugal</html:option> <html:option value=\"Romania\">Romania</html:option> <html:option value=\"Russia\">Russia</html:option> <html:option value=\"Slovakia\">Slovakia</html:option> <html:option value=\"Slovenia\">Slovenia</html:option> <html:option value=\"Spain\">Spain</html:option> <html:option value=\"Sweden\">Sweden</html:option> <html:option value=\"Switzerland\">Switzerland</html:option> <html:option value=\"Turkey\">Turkey</html:option> <html:option value=\"Ukraine\">Ukraine</html:option> <html:option selected=\"selected\" value=\"United Kingdom\">United Kingdom</html:option> <html:option value=\"Yugoslavia\">Yugoslavia</html:option> </html:select>"
-#~ msgstr "Страна: <html:select name=\"country\"> <html:option value=\"Austria\">Австрия</html:option> <html:option value=\"Belgium\">Бельгия</html:option> <html:option value=\"Croatia\">Хорватия</html:option> <html:option value=\"Czech Republic\">Чешская республика</html:option> <html:option value=\"Denmark\">Denmark</html:option> <html:option value=\"Finland\">Финлянция</html:option> <html:option value=\"France\">Франция</html:option> <html:option value=\"Germany\">Германия</html:option> <html:option value=\"Gibraltar\">Гибралтар</html:option> <html:option value=\"Greece\">Греция</html:option> <html:option value=\"Hungary\">Венгрия</html:option> <html:option value=\"Ireland\">Ирландия</html:option> <html:option value=\"Italy\">Италия</html:option> <html:option value=\"Netherlands\">Нидерланды</html:option> <html:option value=\"Norway\">Норвегия</html:option> <html:option value=\"Poland\">Польша</html:option> <html:option value=\"Portugal\">Португалия</html:option> <html:option value=\"Romania\">Румыния</html:option> <html:option value=\"Russia\">Россия</html:option> <html:option value=\"Slovakia\">Словакия</html:option> <html:option value=\"Slovenia\">Словения</html:option> <html:option value=\"Spain\">Испания</html:option> <html:option value=\"Sweden\">Швеция</html:option> <html:option value=\"Switzerland\">Швейцария</html:option> <html:option value=\"Turkey\">Турция</html:option> <html:option value=\"Ukraine\">Украина</html:option> <html:option selected=\"selected\" value=\"United Kingdom\">Великобритания</html:option> <html:option value=\"Yugoslavia\">Югославия</html:option> </html:select>"
-
-#~ msgid "Amount of CDs: <html:select name=\"cds\"> <html:option selected=\"selected\">1</html:option> <html:option>2</html:option> <html:option>3</html:option> <html:option>4</html:option> <html:option>5</html:option> </html:select>"
-#~ msgstr "Количество CD: <html:select name=\"cds\"> <html:option selected=\"selected\">1</html:option> <html:option>2</html:option> <html:option>3</html:option> <html:option>4</html:option> <html:option>5</html:option> </html:select>"
-
-#~ msgid "Comments: <html:textarea name=\"comments\" rows=\"10\" cols=\"35\"></html:textarea>"
-#~ msgstr "Комментарии: <html:textarea name=\"comments\" rows=\"10\" cols=\"35\"></html:textarea>"
-
-#, fuzzy
-#~ msgid "<html:input name=\"Check order\" type=\"submit\" value=\"Send order\"></html:input> &nbsp; <html:input name=\"Reset order\" type=\"reset\" value=\"Reset order\"></html:input>"
-#~ msgstr "<html:input name=\"Check order\" type=\"submit\" value=\"Проверить заказ\"></html:input> &nbsp; <html:input name=\"Reset order\" type=\"reset\" value=\"Очистить заказ\"></html:input>"
-
-#~ msgid "I. BEWARE OF PRACTICING YOUR RIGHTEOUSNESS BEFORE MEN TO BE NOTICED"
-#~ msgstr "I. ОСТЕРЕГАЙСЯ ВЫСТАВЛЯТЬ СВОЮ ПРАВЕДНОСТЬ НАПОКАЗ"
-
-#~ msgid ""
-#~ "A. WHEN YOU GIVE\n"
-#~ "  B. WHEN YOU FAST\n"
-#~ "  C. WHEN YOU PRAY"
-#~ msgstr ""
-#~ "A. КОГДА ДАЁШЬ\n"
-#~ "  Б. КОГДА ПОСТИШЬСЯ\n"
-#~ "  В. КОГДА МОЛИШЬСЯ"
-
-#~ msgid ""
-#~ "A. When you give\n"
-#~ "     1. DON'T SOUND A TRUMPET.  (HOW MIGHT SOMEONE \"SOUND A TRUMPET\" TODAY?)\n"
-#~ "     2. DO IT SECRETLY.        ETC."
-#~ msgstr ""
-#~ "A. Когда даёшь пожертвование\n"
-#~ "     1. НЕ ТРУБИ ПЕРЕД СОБОЙ.  (КАК МОЖЕТ КТО-ЛИБО \"ТРУБИТЬ ПЕРЕД СОБОЙ\" СЕГОДНЯ?)\n"
-#~ "     2. ДЕЛАЙ ЭТО В ТАЙНЕ.        И Т.Д."
-
-#~ msgid ""
-#~ "Find these verses:\n"
-#~ "                \"Faithful are the wounds of a friend.\"\n"
-#~ "                \"We are ambassadors of Christ.\"\n"
-#~ "                The story of the rich man and Lazarus."
-#~ msgstr ""
-#~ "Найдите следующие стихи:\n"
-#~ "                \"Искренни укоризны от любящего\",\n"
-#~ "                \"мы - посланники от имени Христова\",\"\n"
-#~ "                Историю о богаче и Лазаре."
-
-#~ msgid "Step 2) Cross-reference"
-#~ msgstr "Шаг 2) Перекрёстные ссылки"
-
-#~ msgid "MARY IS ALREADY CLINGING TO JESUS, AND HE IS SAYING TO STOP HOLDING HIM!"
-#~ msgstr "МАРИЯ УЖЕ УХВАТИЛАСЬ ЗА ИИСУСА, И ОН ГОВОРИТ, ЧТОБЫ ОНА ПРЕКРАТИЛА УДЕРЖИВАТЬ ЕГО!"
-
-#~ msgid "Ex. 1B"
-#~ msgstr "Пример 1Б"
-
-#~ msgid ""
-#~ "Cross-references for aleipho:\n"
-#~ "  Mt.6:17 But you, when you fast, anoint your head\n"
-#~ "  Mk.16:1 [the women] brought spices that they might come and anoint Him.\n"
-#~ "  Mk.6:13 And they were...anointing with oil many sick people and healing them.\n"
-#~ "  Lk.7:38 ...kissing His feet and anointing them with the perfume\n"
-#~ "  Jn.12:3 Mary...anointed the feet of Jesus, and wiped them with her hair\n"
-#~ "Cross-references of chrio:\n"
-#~ "  Lk.4:18 The Spirit of the Lord is upon me, because He has anointed me to preach...\"\n"
-#~ "  Acts 4:27 Jesus, whom Thou hast anointed\n"
-#~ "  Acts 10:38 God anointed Jesus with the Holy Ghost and power\n"
-#~ "  2 Cor.1:21 Now He who...anointed us is God"
-#~ msgstr ""
-#~ "Перекрёстные ссылки для алеифо (aleipho):\n"
-#~ "  Мтф.6:17 А ты, когда постишься, помажь голову твою\n"
-#~ "  Марк 16:1 [женщины] купили ароматы, чтобы идти помазать Его.\n"
-#~ "  Марк 6:13 и многих больных мазали маслом и исцеляли.\n"
-#~ "  Луки 7:38 ... целовала ноги Его, и мазала миром.\n"
-#~ "  Ин.12:3 Мария ... помазала ноги Иисуса и отерла волосами своими ноги Его\n"
-#~ "Перекрёстные ссылки для чрио (chrio):\n"
-#~ "  Луки 4:18 Дух Господень на Мне; ибо Он помазал Меня благовествовать...\"\n"
-#~ "  Деяния 4:27 Иисуса, помазанного Тобою\n"
-#~ "  Деяния 10:38 Бог Духом Святым и силою помазал Иисуса\n"
-#~ "  2 Кор.1:21 помазавший нас есть Бог"
-
-#~ msgid "An allegory is: A STORY WHERE EACH ELEMENT HAS A MEANING"
-#~ msgstr "Аллегория: ИСТОРИЯ, В КОТОРОЙ КАЖДЫЙ ЭЛЕМЕНТ ИМЕЕТ ЗНАЧЕНИЕ"
-
-#~ msgid "BibleTime is a Bible study program for Linux and is based on the K Desktop Environment (KDE)."
-#~ msgstr "BibleTime - это программа по изучению Библии для Linux, которая основана на K Desktop Environment (KDE)."
-
-#~ msgid "The future of BibleTime"
-#~ msgstr "Будущее BibleTime"
-
-#~ msgid "We're grateful that God supports us and that He blesses our work with new team members. God is good!"
-#~ msgstr "Мы благодарны Богу за Его помощь в этом проекте и за то, что Он посылает нам новых членов команды. Бог благ!"
-
-#~ msgid "We will continue our work, and as BibleTime improves we'll hopefully reach a point where BibleTime lacks only few things which are useful for a normal Bible study application."
-#~ msgstr "Мы будем продолжать нашу работу. Так как BibleTime всё время улучшается, то мы надеемся достигнуть состояния, когда BibleTime будет не самой малости из тех вещей, которые могут быть нужны и полезны для хорошей программы для изучения Библии. "
-
-#~ msgid "How to get BibleTime"
-#~ msgstr "Как получить BibleTime"
-
-#~ msgid "There are several RPM packages available of BibleTime. To see whether they were made for your system, have a look at the file name of the package. They contain the abbreviated name and version of the Linux distribution they were made for. For example the package \"bibletime-1.2.2-1suse8.1.i586.rpm\" was made for SuSE 8.1 systems running on a i586 or higher."
-#~ msgstr "Существует несколько RPM-пакетов для BibleTime. Чтобы узнать есть ли пакет для вашей системы, посмотрите на название файла пакета. Название файла включает краткое название и версию дистрибутива Linux, для которого этот файл предназначен. Например, пакет \"bibletime-1.4-1.suse9.0.i586.rpm\" предназначен для систем SuSE 9.0, которые работают на процессорах i586 или выше. (Файлы, которые оканчиваются на \"*.src.rpm\" содержат исходный код, который можно компилировать на любой системе с любым процессором, а те, что заканчиваются на \"*.athlon.rpm\" предназначены для работы с процессором Athlon. - прим. переводчика) "
-
-#~ msgid "The \"bibletime\" package contains the software and documentation in English. Translation files for both are to be found in the \"bibletime-i18n\" package."
-#~ msgstr "Пакет \"bibletime\" содержит программу и документацию на английском языке. Файлы переводов и для того, и для другого находятся в пакете \"bibletime-i18n\". "
-
-#~ msgid "You can download BibleTime at <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">our sourceforge project pages</ulink>."
-#~ msgstr "Вы можете загрузить BibleTime с <ulink url=\"http://sourceforge.net/project/showfiles.php?group_id=954\">нашей страницы на сервере проекта sourceforge</ulink> (sourceforge значит \"кузница исходных кодов\" - прим. переводчика)."
-
-#~ msgid "Installation"
-#~ msgstr "Установка"
-
-#~ msgid "Please read the <olink targetdocent=\"documentation_installation_bibletime\">installation instructions</olink>."
-#~ msgstr "Пожалуйста прочтите <olink targetdocent=\"documentation_installation_bibletime\">инструкцию по установке</olink>."
-
-#~ msgid "Get support"
-#~ msgstr "Техническая поддержка"
-
-#~ msgid "If you have problems with BibleTime use this link to get support how to solve them."
-#~ msgstr "Если у вас возникли проблемы с BibleTime, используйте эту ссылку, чтобы получить консультацию о том, как эту проблему решить."
-
-#~ msgid "If you have problem with the webpages or if you have some ideas how to improve them please write it down using the link!"
-#~ msgstr "Если у вас возникли проблемы со страницами этого сайта или если у вас есть идеи о том, как их улучшить, пожалуйста напишите об этом, используя эту ссылку! "
-
-#, fuzzy
-#~ msgid "Number of CDs ordered:"
-#~ msgstr "Число копий"
-
-#~ msgid "Error"
-#~ msgstr "Ошибка"
-
-#~ msgid "The Sword CD"
-#~ msgstr "Sword CD"
-
-#~ msgid "The BibleTime developers - www.bibletime.info"
-#~ msgstr "Разработчики BibleTime - www.bibletime.info"
-
-#~ msgid "Welcome to BibleTime!"
-#~ msgstr "Проект BibleTime приветствует вас!"
-
-#~ msgid "Documentation"
-#~ msgstr "Документация"
-
-#~ msgid "Requirements"
-#~ msgstr "Требования к системе"
-
-#~ msgid "Sword"
-#~ msgstr "Sword"
-
-#~ msgid "Request the files for the translation on the bt-devel mailinglist. Normally the software doordinator will create a new CVS module, which will contain the files you'll translate."
-#~ msgstr "Запросите файлы для перевода в списке рассылки bt-devel. Обычно, координатор программы создаёт новый модуль CVS, который содержит файлы, которые нужно перевести. "
-
-#~ msgid "Archives of the BibleTime development mailing list are available at:"
-#~ msgstr "Архивы рассылки для разработчиков BibleTime можно найти здесь:"
-
-#~ msgid "www.crosswire.org/pipermail/bt-devel"
-#~ msgstr "www.crosswire.org/pipermail/bt-devel"
-
-#~ msgid "Archives of the Sword development mailing list are available at:"
-#~ msgstr "Архивы рассылки для разработчиков Sword можно найти здесь:"
-
-#~ msgid "www.crosswire.org/pipermail/sword-devel"
-#~ msgstr "www.crosswire.org/pipermail/sword-devel"
-
-#~ msgid "This page explains how BibleTime should be installed. Please follow these steps to get a working installation of BibleTime quickly."
-#~ msgstr "Эта страница объясняет, как установить программу BibleTime. Пожалуйста, выполните эти шаги, чтобы без лишних хлопот получить работающую программу BibleTime. "
-
-#~ msgid "There are two possibilities to install BibleTime on your system:"
-#~ msgstr "Есть два возможных пути установить BibleTime на компьютер:"
-
-#~ msgid "Install using prebuilt binary packages, like RPM or DEB"
-#~ msgstr "Установить с использованием, предварительно собранных бинарных пакетов,  таких как RPM или DEB"
-
-#~ msgid "Compile BibleTime from sources on your own system"
-#~ msgstr "Компилировать BibleTime из исходного кода на вашем собственном компьютере"
-
-#~ msgid "We recommend the installation using the binary packages. It's the simplest way."
-#~ msgstr "Мы рекомендуем установку с использованием бинарных пакетов. Это самый простой способ. "
-
-#~ msgid "As you can see each package name contains the Linux distribution and version is was built for. Please don't try to install a package on another system as it was built for."
-#~ msgstr "Как видите, каждое имя пакета содержит название и номер версии дистрибутива Линукс, для которого этот пакет был собран. Пожалуйста, не пытайтесь установить пакет на системе, отличной от той для которой он создавался."
-
-#~ msgid "You can download BibleTime here: <olink targetdocent=\"software_download\">Download BibleTime</olink>. Don't forget to install some text modules after you installed BibleTime: <olink targetdocent=\"documentation_installation_modules\">How to install the text modules</olink>."
-#~ msgstr "Вы можете загрузить BibleTime отсюда: <olink targetdocent=\"software_download\">Загрузить BibleTime</olink>. Не забудьте установить несколько текстовых модулей после того, как установите BibleTime: <olink targetdocent=\"documentation_installation_modules\">Как установить текстовые модули</olink>. "
-
-#~ msgid ""
-#~ "Installation using BibleTime's source code is more difficult than using binary packages. Please follow the steps below if you decided to install BibleTime from sources: <orderedlist> <listitem> Install the required software: <olink targetdocent=\"documentation_requirements\">BibleTime's requirements</olink> </listitem> <listitem> Get the source code package of BibeTime: <olink targetdocent=\"software_download\">Download</olink> </listitem> <listitem> Compile and install BibleTime: <programlisting>\n"
-#~ "<![CDATA[\n"
-#~ "\t./configure --prefix=<your KDE directory>\n"
-#~ "\tmake\n"
-#~ " \tmake install\n"
-#~ "]]>\n"
-#~ "\t\t\t</programlisting> You can get your KDE directory by running the command <command>kde-config --prefix</command>. If you get problems please read the <olink targetdocent=\"documentation_faq\">FAQ</olink>. If there's no solution of your problem, please contact us at <email>info@bibletime.info</email> </listitem> </orderedlist> Don't forget to install some text modules after you installed BibleTime: <olink targetdocent=\"documentation_installation_modules\">How to install the text modules</olink>."
-#~ msgstr ""
-#~ "Установка с использованием исходных кодов BibleTime более трудная, чем установка бинарных пакетов. Пожалуйста, следуйте инструкции снизу, если вы решили устанавливать BibleTime из исходных кодов: <orderedlist> <listitem> Установить требуемые программы: <olink targetdocent=\"documentation_requirements\">Что нужно для BibleTime</olink> </listitem> <listitem> Получить пакет с исходными кодами BibeTime: <olink targetdocent=\"software_download\">Загрузить</olink> </listitem> <listitem> Компилировать и установить BibleTime: <programlisting>\n"
-#~ "<![CDATA[\n"
-#~ "\t./configure --prefix=<ваш каталог KDE>\n"
-#~ "\tmake\n"
-#~ " \tmake install\n"
-#~ "]]>\n"
-#~ "\t\t\t</programlisting> Вы можете узнать ваш каталог KDE выполнив команду <command>kde-config --prefix</command>. Если возникли проблемы, пожалуйста, прочтите <olink targetdocent=\"documentation_faq\">ЧаВо</olink>. Если там нет решения вашей проблемы, пожалуйста, пишите нам на <email>info@bibletime.info</email> </listitem> </orderedlist> Не забудьте установить несколько текстовых модулей после установки BibleTime: <olink targetdocent=\"documentation_installation_modules\">Как установить текстовые модули</olink>."
-
-#~ msgid "This page explains how to add the text modules, which are available from Crosswire, to the BibleTime software to make it really useful."
-#~ msgstr "На этой странице вы узнаете как установить текстовые модули, которые Общество Crosswire предоставляет BibleTime, чтобы сделать её действительно полезной программой."
-
-#~ msgid "The modules are available as ZIP files from the Crosswire Bible society. Have a look into the \"Modules\" section of the BibleTime web pages to get an overview of the available modules."
-#~ msgstr "Модули доступны в формате ZIP на сайте Библейского Общества Crosswire. Загляните в раздел \"Модули\" веб-сайта BibleTime, чтобы ознакомиться с доступными модулями. "
-
-#~ msgid "Before you start installing modules please make sure BibleTime is installed!"
-#~ msgstr "Перед тем, как устанавливать модули, пожалуйста убедитесь, что программа BibleTime уже установлена!"
-
-#~ msgid "First you have to find the directory, which we'll call now \"Sword directory\", on your system. The Sword directory contains all Sword data, i.e. it contains at least the sub-directories \"modules/\" and \"mods.d/\"."
-#~ msgstr "Во-первых, вам нужно найти в вашей системе каталог, который мы сейчас называем \"Sword directory\". Каталог Sword directory содержит все данные Sword, то есть, она содержит по крайней мере подкаталоги \"modules/\" и \"mods.d/\". "
-
-#~ msgid "Then you have to unzip the downloaded ZIP file(s) into the Sword directory to populate the two subdirectories we mentioned."
-#~ msgstr "Затем нужно разархивировать (unzip) загруженные ZIP-файлы, в каталог Sword, чтобы заполнить ранее упомянутые подкаталоги."
-
-#~ msgid "After restarting BibleTime the modules should appear in the main index on the left side of the main window."
-#~ msgstr "После перезапуска BibleTime модули должны появиться в списке модулей с левой стороны основного окна."
-
-#~ msgid "The installation instructions made by the Sword team are available here:"
-#~ msgstr "Инструкции по установке, подготовленные командой Sword, можно прочитать здесь:"
-
-#~ msgid "If you get into troubles please read the answers to the frequently asked questions. The FAQ is available on the left side of this page."
-#~ msgstr "Если у вас возникли трудности, пожалуйста, прочитайте ответы на ЧАсто задаваемые ВОпросы, так называемый ЧаВо, ссылку на который можно найти слева."
-
-#~ msgid "Installation of Sword"
-#~ msgstr "Установка Sword"
-
-#~ msgid "This page explains how to install the Sword library, which is required by BibleTime."
-#~ msgstr "Эта страница объясняет как установить библиотеки Sword, которые необходимы для работы BibleTime."
-
-#~ msgid "The installation of the Sword library is only required if you compile BibleTime from sources yourself! If you install using prebuilt binary packages please don't install Sword from source code. It's included in each BibleTime binary package!"
-#~ msgstr "Установка библиотеки Sword необходима только в том случае, если вы сами компилируете BibleTime из исходного кода. Если вы установили BibleTime посредством пакетов исполняемого кода вам не стоит отдельно устанавливать Sword из исходного кода, так как Sword уже входит в пакет исполняемого кода BibleTime."
-
-#~ msgid "Installation process"
-#~ msgstr "Процесс установки"
-
-#~ msgid "The basic installation is described on the pages of the Crosswire Bible Society:"
-#~ msgstr "Основные шаги установки описаны на страницах Библейского Общества Crosswire:"
-
-#~ msgid "http://www.crosswire.org/sword/software/index.jsp"
-#~ msgstr "http://www.crosswire.org/sword/software/index.jsp"
-
-#~ msgid "BibleTime's documemtation"
-#~ msgstr "Документация BibleTime"
-
-#~ msgid "Since you have to know how to install and use BibleTime we provide here some useful documentation pages and links. Since many users have the same problems with BibleTime please be sure to check the answers in the FAQ if you have problem."
-#~ msgstr "Так как вам нужно знать как установить и использовать BibleTime, мы представляем здесь несколько страниц полезной документации и ссылки. Так как многие пользователи сталкиваются с одинаковыми проблемами, пожалуйста, проверьте ответы в ЧаВо, если у вас возникли проблемы. "
-
-#~ msgid "Requirements for BibleTime 1.1"
-#~ msgstr "Требования для BibleTime 1.1"
-
-#~ msgid "<ulink url=\"http://www.kde.org/\">KDE 2</ulink>: At least the libraries and the base package. KDE 2 is shipped with many (older) Linux distributions. Very often it's installed by default."
-#~ msgstr "<ulink url=\"http://www.kde.org/\">KDE 2</ulink>: Как минимум библиотеки и базовый пакет. KDE 2 поставляется со многими (старыми) дистрибутивами Линукс. И очень часто устанавливается по умолчанию."
-
-#~ msgid "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.3</ulink>. Only required if do not install a precompiled binary package. Installation instructions for Sword are available here: <olink targetdocent=\"documentation_installation_sword\">Sword's installation</olink>"
-#~ msgstr "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.3</ulink>. При установке из предварительно собранных бинарных пакетов НЕ требуется. Инструкции по установке для Sword можно прочесть здесь: <olink targetdocent=\"documentation_installation_sword\">Установка Sword</olink>"
-
-#~ msgid "Requirements for BibleTime 1.4"
-#~ msgstr "Требования для BibleTime 1.4"
-
-#~ msgid "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.7</ulink>. Installation instructions for Sword are available here: <olink targetdocent=\"documentation_installation_sword\">Sword's installation</olink>"
-#~ msgstr "<ulink url=\"http://www.crosswire.org/sword/software/swordapi.jsp\">Sword 1.5.7</ulink>. Инструкции по установке для Sword можно прочесть здесь: <olink targetdocent=\"documentation_installation_sword\">Установка Sword</olink>"
-
-#~ msgid "Module addons for BibleTime"
-#~ msgstr "Дополнительные модули для BibleTime"
-
-#~ msgid "A module is a text which can be read within the BibleTime application. There are different module types: Bibles, commentaries, lexicons, daily devotionals and books."
-#~ msgstr "Модуль - это текст, который можно читать с помощью программы BibleTime. Существуют следующие типы модулей: Библии, комментарии, словари, ежедневные размышления и книги. "
-
-#~ msgid "Please read the following page to see how to install the downloaded modules:"
-#~ msgstr "Пожалуйста, прочтите эту страницу, чтобы узнать как установить загруженныйтекстовый модуль:"
-
-#~ msgid "Installation of text modules"
-#~ msgstr "Установка текстовых модулей"
-
-#~ msgid "We collected a list of pages which are important in our opinion."
-#~ msgstr "Мы собрали список страниц, которые как нам кажется важны. "
-
-#~ msgid "As you may have noticed BibleTime's webpage is available in different languages. We want to support users by offering them our webpages in their language. If you are interested to help us please read this page."
-#~ msgstr "Как вы уже могли заметить, страницы BibleTime доступны на разных языках. Мы хотим поддержать пользователей, предлагая им наши веб-страницы на их языке. Если вы заинтересованы в том, чтобы помочь нам, пожалуйста, прочтите эту страницу."
-
-#~ msgid "Translation in a new language"
-#~ msgstr "Перевод на новый язык"
-
-#~ msgid "If the translation in your language doesn't exist yet, it's easy to do a translation into your language. All you need is to download a text file and translate it. You can download the file here: <ulink url=\"/en/pot/full.pot\">Webpage translation template</ulink>. We recommend to use the program <ulink url=\"http://i18n.kde.org/tools/kbabel/\">KBabel</ulink> to translate the file. If you've finished translating it, please send it to <email>info@bibletime.info</email>."
-#~ msgstr "Если перевод на ваш язык ещё не существует, то его можно легко сделать. Всё что вам нужно - это загрузить текстовый файл и перевести его. Вы можете загрузить файл отсюда: <ulink url=\"/en/pot/full.pot\">Шаблон перевода веб-страниц</ulink>. Мы рекомендуем использовать программу <ulink url=\"http://i18n.kde.org/tools/kbabel/\">KBabel</ulink> для перевода файла. Когда вы уже закончите переводить файл, пожалуйста, вышлите его нам <email>info@bibletime.info</email>."
-
-#~ msgid "Existing translations"
-#~ msgstr "Существующие переводы"
-
-#~ msgid "The following charts show the current translations and how much translations work they still need. If you speak one of those languages and want to update a translation just click on the download link and start working on the update. Don't hesitate to ask us <email>info@bibletime.info</email> if you have questions about the translation."
-#~ msgstr "Следующие диаграммы показывают текущие переводы и сколько ещё нужно переводить. Если вы говорите на одном из этих языков и хотите обновить перевод просто щёлкните на ссылке загрузки и начинайте работать над обновлением. Без колебаний спрашивайте нас <email>info@bibletime.info</email> если у вас есть вопросы о переводе. "
-
-#, fuzzy
-#~ msgid "Requirements for BibleTime 1.3"
-#~ msgstr "Требования для BibleTime 1.1 и последующих версий"
-
-#, fuzzy
-#~ msgid "Bible modules"
-#~ msgstr "О BibleTime"
-
-#, fuzzy
-#~ msgid "Book modules"
-#~ msgstr "Модули"
-
-#, fuzzy
-#~ msgid "Lexicons"
-#~ msgstr "Лицензия"
-
-#~ msgid "News"
-#~ msgstr "Новости"
-
-#~ msgid "We try to offer a recommended list of modules which are in your language. Please click on the module types links to get the list of recommended modules. If there's not yet such a list for your language you'll get the recommended english modules."
-#~ msgstr "Мы стараемся предложить список рекомендованых модулей на вашем языке.  Нажмите курсором на типы модулей, чтобы просмотреть такой список.  Если такого списка на вашем языке еще не существует, то вы увидите список наших рекомендаций для английского языка."
-
-#~ msgid "What BibleTime is ..."
-#~ msgstr "Что такое BibleTime..."
-
-#~ msgid "We think that BibleTime is an easy to use but powerful study tool for christians all over the world."
-#~ msgstr "По нашему мнению, BibleTime - это легкое в использовании, однако мощное средство изучения для христиан по всему миру."
-
-#~ msgid "If you have questions, ideas for new functions or comments to something please use the links on this page to send them to the right place!"
-#~ msgstr "Если у вас появились вопросы, идеи для новых функций или просто замечания, пожалуйста, выберите правельный адрес для вашей корреспонденции на этой странице."
-
-#, fuzzy
-#~ msgid "For example the package \"bibletime-1.2.2-1suse8.1.i586.rpm\" was made for SuSE 8.1 systems running on a i586 or higher."
-#~ msgstr "Так, на пример, файл \"bibletime-1.2.2-1suse8.1.i586.rpm\" был сделан для дистрибутива SuSE 8.1, установленного на компьютере i586 и выше."
-
-#~ msgid "Please download BibleTime at the Sourceforge project pages of BibleTime:"
-#~ msgstr "Загрузить BibleTime вы сможете на страницах проекта BibleTime на сайте Sourceforge."
-
-#, fuzzy
-#~ msgid "Please download the packages \"bibletime\" and \"bibletime-i18n\"! Without the \"bibletime-i18n\" package you would have no handbook, daily tips or installation instructions."
-#~ msgstr "Загрузите пакеты \"bibletime\" и \"bibletime-doc\"! Без пакета \"bibletime-doc\" у вас не будет справочника пользователя, советов на каждый день и инструкции по установке."
-
-#, fuzzy
-#~ msgid "BibleTime 1.3 was released today!"
-#~ msgstr "Вышла версия 1.3beta4 BibleTime"
+#~ msgid "Wait a minute"
+#~ msgstr "Подождите минутку"
+
+#~ msgid "Did you see &quot;The Passion&quot;? Whether you found the film inspiring or not, or you didn't see it at all -- If you want to find out more about the passion of Jesus Christ, you can visit the &quot;<ulink url=\"http://www.the-good-news.org/\">the good news</ulink>&quot; webpages. It has more information ready for you, maybe even in your local language."
+#~ msgstr "Вы видели &quot;Страсти Христовы&quot;? Считаете ли вы фильм вдохновляющим или нет или вы вообще его не видели, но если вы хотите узнать больше о страданиях Иисуса Христа, то вы можете посетить сайт &quot;<ulink url=\"http://www.the-good-news.org/\">the good news (Благая весть)</ulink>&quot;. Там приготовлено множество информации для вас, возможно даже на вашем родном языке."

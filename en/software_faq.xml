@@ -1,6 +1,8 @@
 <!DOCTYPE webpage SYSTEM "../schema/dtd/website.dtd" [
 <!NOTATION XML SYSTEM "xml">
+<!ENTITY translation SYSTEM "translation.xml" NDATA XML>
 ]>
+
 
 <webpage id="documentation_ifaq">
 <config param="desc" value="FAQ"/>
@@ -63,9 +65,15 @@
 				</question>
 
 				<answer>
-					<para>
-					You need at least BibleTime 1.1 for this. Turn on the default usage of Strong's numbers in the optionsdialog (Sword-&gt;Filter settings). Then open the seachdialog and search for &lt;0120&gt; or any other Strong code.
-					</para>
+					<formalpara><title>Using BibleTime 1.1 - 1.4.x</title>
+						<para>You need at least BibleTime 1.1 for this. Turn on the default usage of Strong's numbers in the optionsdialog (Sword-&gt;Filter settings). Then open the seachdialog and search for &lt;0120&gt; or any other Strong code.
+						</para>
+					</formalpara>
+					
+					<formalpara><title>Using BibleTime 1.5 or later</title>
+						<para>The search interface now offers to set the type of your search. You can choose between headings, footnotes, Strongs numbers and morphological numbers.
+						</para>
+					</formalpara>
 				</answer>
 			</qandaentry>
 
@@ -90,12 +98,12 @@
 		<qandadiv><title>Modules</title>
 			<qandaentry>
 				<question>
-					<para>The KJV shows no Strongs numbers in the NT!</para>
+					<para>The KJV shows no Strong numbers in the NT</para>
 				</question>
 
 				<answer>
 					<para>
-					Due to copyright problems the old KJV module which contained all Strongs numbers had to be removed. The project KJV2003 was started to create a public domain text with all Strong numbers in it. At this time it's not yet finished so the numbers are not available in all verses of the NT. The status of the project is available at Crosswire.
+					You're probably using an outdated version of the KJV module. Please update the module.
 					</para>
 				</answer>
 			</qandaentry>
@@ -107,7 +115,7 @@
 
 				<answer>
 					<para>
-					You have to install the module "Personal", which is available as a commentary on <ulink url="http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Personal">Crosswire</ulink>. See our commentary page for more information: Commentaries.
+					You have to install the module "Personal", which is available as a commentary on <ulink url="http://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Personal">Crosswire</ulink>. Please refer to BibleTime's handbook for more information about the personal commentary.
 					</para>
 				</answer>
 			</qandaentry>
@@ -120,12 +128,30 @@
 
 				<answer>
 					<para>
-					Some modules only contain the text of the old or new testament. Recent versions of BibleTime should only offer the testament which has some text in it.
+					Some modules only contain the text of the old or new testament. Recent versions of BibleTime should only offer the testament which has some content in it.
 					</para>
 				</answer>
 			</qandaentry>
 
 		</qandadiv>
+		
+		<qandadiv><title>Translations</title>
+			<qandaentry>
+				<question>
+					<para>Is BibleTime available in my native language?</para>
+				</question>
+				
+				<answer>
+					<para>
+						BibleTime is available in several languages, which are all listed on our <olink targetdocent="translation">translations page</olink>. The translations are available in the package bibletime-i18n.
+					</para>
+					<para>
+						If a translation into your language is not available, please consider to help to make it available. More information is available on out <olink targetdocent="translation">translations page.</olink>.
+					</para>
+				</answer>
+			</qandaentry>
+		</qandadiv>
+		
 	</qandaset>
 </section>
 

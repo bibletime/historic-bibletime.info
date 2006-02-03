@@ -6,21 +6,25 @@
 <title
 >Цель, с которой мы приступаем к изучению Библии </title>
 <para
->Jn.5:39-40<quote
->You search the Scriptures, because you think that in them you have eternal life; and it is these that bear witness of Me; and you are unwilling to come to Me, that you may have life.</quote
+>Ин.5:39-40 <emphasis
+><quote
+>Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне. Но вы не хотите придти ко Мне, чтобы иметь жизнь.</quote
+></emphasis
 > </para>
 
 <para
->The chief purpose of the book is to bring us to the Person. Martin Luther said <quote
->we go to the cradle only for the sake of the baby</quote
->; just so in Bible study, we do it not for its own sake but for fellowship with God. </para>
+>Основная цель книги - привести нас к Личности. Мартин Лютер сказал: <quote
+>мы идём к колыбели только ради ребёнка</quote
+>; так же и с изучением Библии - мы делаем это не ради самого изучения, но, чтобы иметь общение с Богом. </para>
 <blockquote
 ><attribution
 >Джон Р. В. Скотт (John R.W. Stott), <emphasis
 >Христос - Спорщик (Christ the Controversialist)</emphasis
 >, InterVarsity Press 1978, стр.97, 104.</attribution>
 <para
->The Jews to whom Jesus spoke [...] imagined that to possess Scripture was tantamount to possessing life. Hillel used to say, &quot;He who has gotten to himself words of Torah has gotten to himself the life of the world to come.&quot; Their study was an end in itself. In this they were grievously deceived. [...]</para>
+>Иудеи, с которыми Иисус говорил... считали, что обладать Писанием было равноценно обладанию жизнью. Гиллель говорил: <quote
+>Тот, кто приобрёл для себя слова Торы, приобрёл себе жизнь мира, грядущего.</quote
+> Их изучение было замкнуто на самом изучении. В этом они тяжко заблуждались...</para>
 <para
 >Нет ни заслуги, ни пользы в чтении Писания ради самого чтения, а только в том случае, если это действительно сближает нас с Иисусом Христом. Всякий раз при чтении Библии, необходимо усердное ожидание того, чтобы через чтение встретиться со Христом.</para>
 </blockquote>
@@ -36,8 +40,8 @@
 ><title
 >Слышать</title>
 <para
->Lk.11:28 <quote
->blessed are those who hear the word of God, and observe it.</quote
+>Луки.11:28 <quote
+>... блаженны слышащие слово Божие и соблюдающие его.</quote
 ></para>
 </section>
 
@@ -45,12 +49,12 @@
 ><title
 >Читать</title>
 <para
->Rev.1:3 <quote
->Blessed is he who reads and those who hear the words of this prophecy [...]</quote
+>Откр.1:3 <quote
+>Блажен читающий и слушающие слова пророчества сего...</quote
 ></para>
 <para
->1 Tim.4:13 <quote
->give attention to the public reading of Scripture [...]</quote
+>1 Тим.4:13 <quote
+>Доколе не приду, занимайся чтением...</quote
 > </para>
 </section>
 
@@ -58,12 +62,12 @@
 ><title
 >Изучать</title>
 <para
->Acts 17:11 <quote
->Now these were more noble-minded than those in Thessalonica, for they received the word with great eagerness, examining the Scriptures daily, to see whether these things were so.</quote
+>Деян.17:11 <quote
+> Здешние были благомысленнее Фессалоникских: они приняли слово со всем усердием, ежедневно разбирая Писания, точно ли это так.</quote
 > </para>
 <para
->2 Tim.2:15 <quote
->Be diligent [KJV `Study'] to present yourself approved to God as a workman who does not need to be ashamed, handling accurately the word of truth.</quote
+>2 Тим.2:15 <quote
+>Старайся [в переводе Библии короля Иакова (KJV) - `Изучай, чтобы'] представить себя Богу достойным, делателем неукоризненным, верно преподающим слово истины.</quote
 ></para>
 </section>
 
@@ -71,8 +75,8 @@
 ><title
 >Запоминать</title>
 <para
->Ps.119:11 <quote
->Thy word I have hid in my heart, that I may not sin against Thee.</quote
+>Пс.119:11 <quote
+>В сердце моем сокрыл я слово Твое, чтобы не грешить пред Тобою.</quote
 ></para>
 </section>
 
@@ -80,8 +84,8 @@
 ><title
 >Размышлять</title>
 <para
->Ps.1:2-3 <quote
->But his delight is in the law of the Lord, And in His law he meditates day and night. And he will be like a tree firmly planted by streams of water, Which yields its fruit in its season, And its leaf does not wither; And in whatever he does, he prospers.</quote
+>Пс.1:2-3 <emphasis
+>&quot;но в законе Господа воля его, и о законе Его размышляет он день и ночь! И будет он как дерево, посаженное при потоках вод, которое приносит плод свой во время свое, и лист которого не вянет; и во всем, что он ни делает, успеет.&quot;</emphasis
 > </para>
 
 <para
@@ -128,7 +132,7 @@
 ><title
 >Контекст</title>
 <para
->What do the verses around it say? &quot;Context is king&quot; is the rule -- the passage must make sense within the structure of the entire passage and book.</para>
+>Что говорится в ближайших стихах? Есть правило - &quot;Главное - контекст&quot;, отрывок должен иметь смысл в структуре большего отрывка и всей книги.</para>
 </section>
 
 <section id="h2-basics-interpretation-cross"
@@ -147,23 +151,23 @@
 
 <orderedlist numeration="upperroman">
 	<listitem
->Beware of practicing your righteousness before men to be noticed</listitem>
+>Смотрите, не творите милостыни вашей пред людьми</listitem>
 </orderedlist>
 
 <para
->What does <quote
->practicing your righteousness</quote
-> mean? Does the passage give any examples? What area of our lives is being addressed? <emphasis
->Our motives!</emphasis
-> What sub-headings develop this thought?</para>
+>Что значит <quote
+>выставлять свою праведность</quote
+>? Есть ли в этом отрывке какие-либо примеры? Какой сферы нашей жизни это касается? <emphasis
+>Наших мотивов!</emphasis
+> Какие подзаголовки развивают эту мысль?</para>
 
 <orderedlist numeration="upperalpha">
 	<listitem
->When you give</listitem>
+>Когда даете</listitem>
  	<listitem
->When you fast</listitem>
+>Когда поститесь</listitem>
  	<listitem
->When you pray</listitem>
+>Когда молитесь</listitem>
 </orderedlist>
 
 <para
@@ -171,15 +175,15 @@
 
 <orderedlist numeration="upperalpha">
   <listitem
->When you give <orderedlist numeration="loweralpha">
+>Когда даете <orderedlist numeration="loweralpha">
 	     <listitem
->don't sound a trumpet. (how might someone <quote
->sound a trumpet</quote
-> today?)</listitem>
+>не труби (как можно <quote
+>трубить</quote
+> в наше время?</listitem>
      	<listitem
->do it secretly.</listitem>
+>делай это незаметно</listitem>
 		<listitem
->etc.</listitem>
+>т.п.</listitem>
 	</orderedlist>
   </listitem>
 </orderedlist>
@@ -202,17 +206,17 @@
 </orderedlist>
 	
 <para
->Find these verses: <orderedlist numeration="arabic">
+>Найдите следующие стихи: <orderedlist numeration="arabic">
 	<listitem
 ><quote
->Faithful are the wounds of a friend</quote
+>Искренни укоризны от любящего</quote
 ></listitem>
 	<listitem
 ><quote
->We are ambassadors of Christ.</quote
+>Мы - посланники от имени Христова</quote
 ></listitem>
 	<listitem
->The story of the rich man and Lazarus.</listitem>
+>Историю о богаче и Лазаре</listitem>
 </orderedlist>
 </para>
 
@@ -222,7 +226,7 @@
 ><title
 >Чтобы сделать тематическое исследование </title>
 <para
->Let's say you wanted to do a study of the word &quot;redemption.&quot; First you would look up that word in the concordance and look up references listed for it. Then you could look up related words and references listed for them, e.g. &quot;redeem, redeemed, ransom,&quot; even &quot;buy&quot; or &quot;bought.&quot; </para>
+>Предположим, вы хотите исследовать слово &quot;искупление&quot;. Сначала вам нужно найти слово в симфонии и просмотреть ссылки, приведённые для него. Затем вы можете проверить слова, которые как-то связаны с искомым, и ссылки для них, напр. &quot;искупать&quot;, &quot;искупленный&quot;, &quot;выкуп&quot;, и даже &quot;покупать&quot; или &quot;купил&quot;. </para>
 </section>
 
 
@@ -230,15 +234,15 @@
 ><title
 >Чтобы выяснить значение слова в греческом или еврейском языке</title>
 <para
->What if you noticed a contradiction in the KJV between Mt.7:1 <quote
->Judge not lest you be judged</quote
-> and 1 Cor.2:15 <quote
->He that is spiritual judgeth all things.</quote
-> Maybe there are two different Greek words here, both being translated &quot;judge&quot; in English? (We're using Strong's from here out.) </para>
+>Что, если вы заметили противоречие в Мтф.7:1 <quote
+>Не судите, да не судимы будете</quote
+> и 1 Кор.2:15 <quote
+>Но духовный судит о всем..</quote
+>? Возможно, что два различных греческих слова были переведены на русский одним словом &quot;судить&quot;? (Мы используем Словари Стронга здесь и далее). </para>
 <orderedlist numeration="arabic">
 	<listitem
 ><para
->Look up &quot;judge&quot;.</para
+>Найдите &quot;судить&quot;.</para
 ></listitem>
 	<listitem
 ><para
@@ -246,7 +250,7 @@
 ></listitem>
 	<listitem
 ><para
->Now look up &quot;judgeth&quot;.</para
+>Теперь найдите &quot;судимы&quot;.</para
 ></listitem>
 	<listitem
 ><para

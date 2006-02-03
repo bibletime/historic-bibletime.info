@@ -27,10 +27,10 @@
 ><title
 >The main window</title>
 				<para
->Here you can see a typical BibleTime session. On the left pane, you see the "bookshelf" which offers quick access to all installed electronic works as well as facilities to create and manage your own bookmarks. Below is the "mag(nifying glass)", which can display additional information about a word or piece of text. In this example it shows details about the greek word that the KJV translates as "born". The main part of the BibleTime window (called "desk") offers space to read works such as Bibles, commentaries, lexicons or other books. The <ulink url="software_gallery.html"
->gallery</ulink
-> has some nice examples of BibleTime's powerful language handling capabilities. <ulink url="/images//screenshots/1-large.jpg"
->Large screenshot</ulink
+>Здесь Вы можете посмотреть снимки BibleTime. В левой панели Вы можете видеть "книги", для быстрого доступа к модулям, а также можете создать и управлять Вашими закладками. Ниже расположена "лупа", которая может дать дополнительную информацию о слове или части текста. На образце лупа показывает детали греческого слова "рожден". Основная часть окна (называемая "стол") является местом для чтения Библии, коментарев, словарей и др. книг. В <ulink url="software_gallery.html"
+>галерее </ulink
+> Вы можете найти образцы скриншотов BibleTime на других языках.<ulink url="/images//screenshots/1-large.jpg"
+>Увеличить</ulink
 > </para>
 			</formalpara>
 		</caption>
@@ -47,12 +47,12 @@
 		<caption>
 			<formalpara
 ><title
->The Bookshelf Manager</title>
+>Менеджер книг</title>
 				<para
->BibleTime offers a dialog to automatically download and manage electronic works. You simply define a library (a remote collection of works, such as <ulink url="http://www.crosswire.org/sword/"
+>В BibleTime Вы можете автоматически загружать и управлять модулями. Для этого укажите библиотеку (удаленная коллекция модулей)в Менеджере книг, такую как <ulink url="http://www.crosswire.org/sword/"
 >Crosswire</ulink
->), and then you can transfer works from this library to your local bookshelf to use them. Easy, huh? <ulink url="/images//screenshots/3-large.jpg"
->Large screenshot</ulink
+>, и выбранный модуль будет скопирован на Ваш компьютер. Просто, да?<ulink url="/images//screenshots/3-large.jpg"
+>Увеличить</ulink
 > </para>
 			</formalpara>
 		</caption>
@@ -72,8 +72,8 @@
 ><title
 >The search dialog</title>
 				<para
->BibleTime offers a powerful search dialog. You can choose between different search algorithms (from simple AND to regular expressions), and even limit your search to certain kinds of text, such as footnotes. <ulink url="/images/screenshots/2-large.jpg"
->Large screenshot</ulink
+>BibleTime предлагает мощный поиск. Вы можете выбрать различные поисковые алгоритмы (от простого И до регулярных выражений), и даже ограничить Ваш поиск определенным текстом, например сносками. <ulink url="/images//screenshots/3-large.jpg"
+>Увеличить</ulink
 > </para>
 			</formalpara>
 		</caption>
