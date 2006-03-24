@@ -27,10 +27,19 @@ Praying is something everybody can do. If you are praying for the Sword and Bibl
 </para>
 </section>
 
+<section><title>Do you want to report a bug or suggest a new feature?</title>
+<para>
+	You can use <ulink url="https://sourceforge.net/tracker/?group_id=954&atid=100954">BibleTime's bug tracker</ulink> to report problems with BibleTime that you are experiencing. Please be sure to include the version of BibleTime you are using, your Sword version, information about QT/KDE and your operating system, and everything else that is neccessary to reproduce the bug. Before you submit the bug, please query the database to see if a similar bug has already been handled (and is therefore alredy in status "closed").
+</para>
+<para>
+	There is also <ulink url="http://sourceforge.net/tracker/?group_id=954&atid=350954">a place</ulink> where you can make suggestions for features you'd like to see in BibleTime. We ask for your understanding that due to our limited time and to our own plans for BibleTime we cannot always comply with all wishes.
+</para>
+</section>
+
 <section><title>Do you know how to program software?</title>
 <para>
 Do you know how to program in C++? Are you familiar with the KDE programming 
-interface or are motivate to learn it? If you have time to regularly work 
+interface or are motivated to learn it? If you have time to regularly work 
 on the BibleTime source code we ask you to join our team.
 If you want to do so, please read the page <olink targetdocent="development_join">
 Join us</olink>.

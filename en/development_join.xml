@@ -24,12 +24,12 @@ The following are necessary for each type of team member. Please follow them!
 <para>
 	<orderedlist>
 		<listitem>
-			<para>If you don't have an account on SourceForge, please sign up for one. It's free. We need your username to add you to the team members, to assign tasks to you, etc.
+			<para>If you don't have an account on <ulink url="https://sf.net">SourceForge</ulink>, please sign up for one. It's free. We need your username to add you to the team members, to assign tasks to you, etc.
 			</para>
 		</listitem>
 
 		<listitem>
-			<para>Subscribe to the BibleTime development mailing list. All developers read this mailing list, so everybody knows what's hapenning.
+			<para>Subscribe to the <ulink url="http://www.crosswire.org/mailman/listinfo/bt-devel">BibleTime development mailing list</ulink>. All developers read this mailing list, so everybody knows what's hapenning. There is also a mailing list for the <ulink url="https://lists.sourceforge.net/lists/listinfo/bibletime-cvs">commit messages</ulink> of the ongoing development process.
 			</para>
 		</listitem>
 
