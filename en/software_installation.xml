@@ -105,6 +105,26 @@ This section explains how to install BibleTime on your system. Basically there a
 
 				<para>You can get your KDE directory by running the command <command>kde-config --prefix</command>. If you get problems please read our <olink targetdocent="software_faq">FAQ</olink>. If there's no solution of your problem, please contact us at <email>info@bibletime.info</email>.
 				</para>
+				
+				<para>Debian (and possibly derived distros as well) use a non-standard path to
+				store the documentation of KDE programs. Therefore the ./configure line above in
+				this case needs to be changed to:
+					<screen>
+						<command>kde_htmldir=/usr/share/doc/kde/HTML ./configure --prefix=/usr</command>
+					</screen>
+				If you forget this, you'll likely not be able to access the handbook and the BibleStudy HowTo.
+				</para>
+			</listitem>
+			
+			<listitem>
+				<para>Compile and install the translations of BibleTime's user interface (bibletime-i18n):
+					<screen>
+						<command>./configure --prefix=&lt;your KDE directory&gt;</command>
+						<command>make</command>
+						<command>make install</command>
+					</screen>
+				Please see the warning regarding nonstandard paths in the previous paragraph.
+				</para>
 			</listitem>
 
 		</orderedlist>
@@ -113,17 +133,17 @@ This section explains how to install BibleTime on your system. Basically there a
 	</section>
 </section>
 
-<section><title>Install Sword modules</title>
+<section><title>Install works</title>
 	<para>
-	You need Sword modules to work with BibleTime. Since version 1.4 BibleTime offers a userfriendly dialog to manage Sword modules. We strongly recommend this way to install modules on your computer.
+	You need Sword modules to work with BibleTime. Since version 1.4 BibleTime offers a userfriendly dialog (the Bookshelf Manager) to install/update/remove works. We strongly recommend this way to install works on your computer.
 	</para>
 
 	<para>
-	Instructions for manual module installation is available on <ulink url="http://www.crosswire.org/sword/modules/moduleinstall.jsp">www.crosswire.org/sword/modules</ulink>.
+	Instructions for manual installation is available on <ulink url="http://www.crosswire.org/sword/modules/moduleinstall.jsp">www.crosswire.org/sword/modules</ulink>.
 	</para>
 
-	<section><title>Available types of modules</title>
-		<para>Here is a list of available module types and where to get more information about the available module types:
+	<section><title>Available types of works</title>
+		<para>Here is a list of available types of works and where to get more information:
 		</para>
 		<para>
 			<orderedlist>
